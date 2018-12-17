@@ -1,2 +1,2 @@
 # hello-world2
-Practice Space
+Just another grad student trying to learn how to use GitHub
