@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Михаил</first-name>
+			<middle-name>Евграфович</middle-name>
+			<last-name>Салтыков-Щедрин</last-name>
+		</author>
+		<book-title>Рассказы из записок старинного письмоводителя Александра Высоты</book-title>
+<annotation></annotation>		<date value="2015-03-12">12/03/2015</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 07:18:09</date>
+		<src-url>http://az.lib.ru/s/saltykow_m_e/text_1864_rasskazy_iz_zapisok.shtml</src-url>
+		<id>samlib58f4eac1d442b0.68598991</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Салтыков-Щедрин Михаил Евграфович</p>
+	<empty-line/>
+	<p>Рассказы из записок старинного письмоводителя Александра Высоты</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong><emphasis>РАССКАЗЫ ИЗ ЗАПИСОК СТАРИННОГО ПИСЬМОВОДИТЕЛЯ</emphasis></strong><strong>. Александра Высоты. С.-Петербург. 1864 г.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>М. Е. Салтыков-Щедрин. Собрание сочинений в 20 т. М.: Художественная литература, 1966. Т. 5</p>
+<empty-line/>
+<p>К этой книге может быть отнесено все, что было сказано в одном из предыдущих нумеров "Современника" о рассказах г. Горского. Но у г. Высоты еще меньше таланта, нежели у г. Горского, меньше даже, нежели у г. Ильи Селиванова. Эти писатели все-таки хоть хныканья кой-какого в свои сочинения напустят, а у г. Высоты и этого нет: просто какая-то голь перекатная.</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>ПРИМЕЧАНИЯ</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>"Совр.", 1864, No 4, отд. II, стр. 261.</p>
+<p>В резко отрицательном отзыве "Современника" (1864, No 1) на "Сатирические очерки и рассказы" П. Н. Горского говорилось, что автор их обладает ничтожными литературными способностями, вовсе лишен наблюдательности и т. д. Автором этого отзыва, который Салтыков переадресовывает А. Высоте, был А. Ф. Головачев ("Литературное наследство", т. 53--54, М. 1949, стр. 269).</p>
+<empty-line/>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

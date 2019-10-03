@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>prose_contemporary</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Александрович</middle-name>
+			<last-name>Блок</last-name>
+		</author>
+		<book-title>Может ли интеллигенция работать с большевиками?</book-title>
+<annotation></annotation>		<date value="2015-04-08">08/04/2015</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 01:47:45</date>
+		<src-url>http://az.lib.ru/b/blok_a_a/text_1918_mozhet_li_intelligentzia.shtml</src-url>
+		<id>samlib58f49d512d1370.12840041</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Блок Александр Александрович</p>
+	<empty-line/>
+	<p>Может ли интеллигенция работать с большевиками?</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>А. А. Блок</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Может ли интеллигенция работать с большевиками?</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Может ли интеллигенция работать с большевиками? -- Может и обязана.</p>
+<p>Этой теме я посвящу на днях ряд фельетонов под заглавием "Россия и интеллигенция".</p>
+<p>Я политически безграмотен и не берусь судить о тактике соглашения между интеллигенцией и большевиками. Но по внутреннему побуждению это будет соглашение музыкальное.</p>
+<p>Вне зависимости от личности, у интеллигенции звучит та же музыка, что и у большевиков.</p>
+<p>Интеллигенция всегда была революционна. Декреты большевиков -- это символы интеллигенции. Брошенные лозунги, требующие разработки. Земля Божия... разве это не символ передовой интеллигенции? Правда, большевики не произносят слова "Божья", они больше чертыхаются, но ведь из песни слова не выкинешь.</p>
+<p>Озлобление интеллигенции против большевиков на поверхности. Оно, кажется, уже проходит. Человек думает иначе, чем высказывается. Наступает примиренность, примиренность музыкальная...</p>
+<empty-line/>
+<p><emphasis>14 января 1918</emphasis></p>
+<empty-line/>
+<p>-------------------------------------------------------------------------------------</p>
+<empty-line/>
+<empty-line/>
+<p><emphasis>Впервые опубликовано: "Петроградское эхо" (веч. вып.), 1918, 18 января. </emphasis></p>
+<p><emphasis>Оригинал здесь: </emphasis><emphasis>http://dugward.ru/library/blok/blok_mojet_li.html</emphasis><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

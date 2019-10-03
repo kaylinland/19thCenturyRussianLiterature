@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>prose_contemporary</genre>
+		<author>
+			<first-name>Валерий</first-name>
+			<middle-name>Яковлевич</middle-name>
+			<last-name>Брюсов</last-name>
+		</author>
+		<book-title>Сасунци Давид</book-title>
+<annotation><p>Перевод героического эпоса армянского народа "Давид Сасунский" был осуществлен В. Брюсовым соместно с М. Л. Лозинским.</p></annotation>		<date value="2005-10-02">02/10/2005</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 01:53:19</date>
+		<src-url>http://az.lib.ru/b/brjusow_w_j/text_0290.shtml</src-url>
+		<id>samlib58f49e9f8b5fd2.60239051</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Брюсов Валерий Яковлевич</p>
+	<empty-line/>
+	<p>Сасунци Давид</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

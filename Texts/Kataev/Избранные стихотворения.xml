@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Иван</first-name>
+			<middle-name>Иванович</middle-name>
+			<last-name>Катаев</last-name>
+		</author>
+		<book-title>Избранные стихотворения</book-title>
+<annotation><p>Ночной марш ("Густые зябкие тучи...")</p>
+<p>Покинутое ("Как медные чаши с горячим вином...")</p></annotation>		<date value="2009-02-13">13/02/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 04:24:04</date>
+		<src-url>http://az.lib.ru/k/kataew_i_i/text_0100.shtml</src-url>
+		<id>samlib58f4c1f47dbb50.24437939</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Катаев Иван Иванович</p>
+	<empty-line/>
+	<p>Избранные стихотворения</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Иван Катаев</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Оригинал здесь: SovLit - СовЛит: http://www.ruthenia.ru/sovlit/</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>НОЧНОЙ МАРШ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Густые зябкие тучи</p>
+<empty-line/>
+<p>Тянут черные бороды.</p>
+<empty-line/>
+<p>Ночь бесцветно пучит</p>
+<empty-line/>
+<p>Глаза над мертвым городом.</p>
+<empty-line/>
+<p>Звякают тихие хрусты</p>
+<empty-line/>
+<p>Тонко замерзших луж.</p>
+<empty-line/>
+<p>Пусто, пусто.</p>
+<empty-line/>
+<p>В переулках глушь...</p>
+<empty-line/>
+<p>Что это?.. Что там?..</p>
+<empty-line/>
+<p>Тишь прорвала</p>
+<empty-line/>
+<p>Далекая, звонкая нота.</p>
+<empty-line/>
+<p>Ночь приподняла забрало,</p>
+<empty-line/>
+<p>Слушает.</p>
+<empty-line/>
+<p>Звук глухо потух.</p>
+<empty-line/>
+<p>Ветер относит и душит.</p>
+<empty-line/>
+<p>То - предрассветный петух.</p>
+<empty-line/>
+<p>Нет. Снова, ближе.</p>
+<empty-line/>
+<p>Медные песни растут,</p>
+<empty-line/>
+<p>Черное небо лижут.</p>
+<empty-line/>
+<p>Вот уж идут</p>
+<empty-line/>
+<p>Тут.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Гордо фанфары</p>
+<empty-line/>
+<p>Рокочут впереди,</p>
+<empty-line/>
+<p>Под мерзлыми ударами</p>
+<empty-line/>
+<p>Земля гудит, гудит.</p>
+<empty-line/>
+<p>Пьяные трубы</p>
+<empty-line/>
+<p>Бросают бодрый крик.</p>
+<empty-line/>
+<p>Голос четко-грубый:</p>
+<empty-line/>
+<p>Ать, два, три...</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Марш - золотой клинок</p>
+<empty-line/>
+<p>Дали улиц режет.</p>
+<empty-line/>
+<p>Топот тысяч ног -</p>
+<empty-line/>
+<p>Дальше, тише, реже.</p>
+<empty-line/>
+<p>Кто-то в пудовых, чугунных калошах</p>
+<empty-line/>
+<p>Шагает вперед по гробам,</p>
+<empty-line/>
+<p>Сгибаясь под бременем ноши -</p>
+<empty-line/>
+<p>Мрак рвет барабан.</p>
+<empty-line/>
+<p>Тише, глуше</p>
+<empty-line/>
+<p>Отзвук уличных плит.</p>
+<empty-line/>
+<p>Ветер эхо сушит.</p>
+<empty-line/>
+<p>Ушли.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ПОКИНУТОЕ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Как медные чаши с горячим вином,</p>
+<empty-line/>
+<p>Налитые благостным солнечным светом,</p>
+<empty-line/>
+<p>Упившись медлительным - тягостным летом,</p>
+<empty-line/>
+<p>Забылись долины осенним сном.</p>
+<empty-line/>
+<p>Буреет кустарник по склонам высот.</p>
+<empty-line/>
+<p>Приходит минута... проходит минута -</p>
+<empty-line/>
+<p>Все спит в заколдованном царстве мазута. -</p>
+<empty-line/>
+<p>Когда-то Земля тут открыла свой рот,</p>
+<empty-line/>
+<p>И в небо вонзила кирпичные трубы,</p>
+<empty-line/>
+<p>Ощерила вышек чернеющий строй</p>
+<empty-line/>
+<p>И снова заснула. Все тихо. Покой.</p>
+<empty-line/>
+<p>Уже загнивают ажурные зубы.</p>
+<empty-line/>
+<p>Уж падают стены, свалился забор...</p>
+<empty-line/>
+<p>Нет прежнего лязга, нет звонкой тревоги.</p>
+<empty-line/>
+<p>Высокой травой заростают дороги,</p>
+<empty-line/>
+<p>Запутанной нитью бегущие с гор.</p>
+<empty-line/>
+<p>Все замерло в сонной безрадостной лени.</p>
+<empty-line/>
+<p>Раскиданы цепи, колеса, чаны...</p>
+<empty-line/>
+<p>Осенние горы... Сентябрьские сны...</p>
+<empty-line/>
+<p>И солнце так слабо ласкает колени...</p>
+<empty-line/>
+<p>Но близок месяц - Октябрь герой.</p>
+<empty-line/>
+<p>Он буйной тучей сметет лазурь,</p>
+<empty-line/>
+<p>Он кинет наземь вихри бурь</p>
+<empty-line/>
+<p>И революций кипящий рой...</p>
+<empty-line/>
+<p>Земля исторгнет кровавый пар</p>
+<empty-line/>
+<p>И снова лязгнет стальной удар...</p>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

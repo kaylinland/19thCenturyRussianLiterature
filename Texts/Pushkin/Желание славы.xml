@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Сергеевич</middle-name>
+			<last-name>Пушкин</last-name>
+		</author>
+		<book-title>Желание славы</book-title>
+<annotation></annotation>		<date value="2009-04-03">03/04/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-01-07">2018-01-07 05:39:21</date>
+		<src-url>http://az.lib.ru/p/pushkin_a_s/text_0260.shtml</src-url>
+		<id>samlib5a5231193ca150.71323833</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Пушкин Александр Сергеевич</p>
+	<empty-line/>
+	<p>Желание славы</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_09_zhelanie_slavy.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<p>            <strong>ЖЕЛАНИЕ СЛАВЫ</strong></p>
+<empty-line/>
+<p></p>
+<p id="lvox"></p>
+<p>Когда, любовию и негой упоенный,</p>
+<p>Безмолвно пред тобой коленопреклоненный,</p>
+<p>Я на тебя глядел и думал: ты моя, -</p>
+<p>Ты знаешь, милая, желал ли славы я;</p>
+<p>Ты знаешь: удален от ветреного света,</p>
+<p>Скучая суетным прозванием поэта,</p>
+<p>Устав от долгих бурь, я вовсе не внимал</p>
+<p>Жужжанью дальному упреков и похвал.</p>
+<p>Могли ль меня молвы тревожить приговоры,</p>
+<p>Когда, склонив ко мне томительные взоры</p>
+<p>И руку на главу мне тихо наложив,</p>
+<p>Шептала ты: скажи, ты любишь, ты счастлив?</p>
+<p>Другую, как меня, скажи, любить не будешь?</p>
+<p>Ты никогда, мой друг, меня не позабудешь?</p>
+<p>А я стесненное молчание хранил,</p>
+<p>Я наслаждением весь полон был, я мнил,</p>
+<p>Что нет грядущего, что грозный день разлуки</p>
+<p>Не придет никогда... И что же? Слезы, муки,</p>
+<p>Измены, клевета, всё на главу мою</p>
+<p>Обрушилося вдруг... Что я, где я? Стою,</p>
+<p>Как путник, молнией постигнутый в пустыне,</p>
+<p>И все передо мной затмилося! И ныне</p>
+<p>Я новым для меня желанием томим:</p>
+<p>Желаю славы я, чтоб именем моим</p>
+<p>Твой слух был поражен всечасно, чтоб ты мною</p>
+<p>Окружена была, чтоб громкою молвою</p>
+<p>Все, все вокруг тебя звучало обо мне,</p>
+<p>Чтоб, гласу верному внимая в тишине,</p>
+<p>Ты помнила мои последние моленья</p>
+<p>В саду, во тьме ночной, в минуту разлученья.</p>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_09_zhelanie_slavy.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<p>            <strong>Примечание</strong></p>
+<empty-line/>
+<p>* Стихотворение обращено к Е. К. Воронцовой.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

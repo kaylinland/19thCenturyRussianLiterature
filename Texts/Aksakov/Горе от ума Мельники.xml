@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Сергей</first-name>
+			<middle-name>Тимофеевич</middle-name>
+			<last-name>Аксаков</last-name>
+		</author>
+		<book-title>&quot;Горе от ума&quot;. &quot;Мельники&quot;</book-title>
+<annotation></annotation>		<date value="2016-11-28">28/11/2016</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 12:53:09</date>
+		<src-url>http://az.lib.ru/a/aksakow_s_t/text_1832_gore_ot_uma.shtml</src-url>
+		<id>samlib58f49085a0a247.39449694</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Аксаков Сергей Тимофеевич</p>
+	<empty-line/>
+	<p>&quot;Горе от ума&quot;. &quot;Мельники&quot;</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Аксаков С. Т.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>"Горе от ума". "Мельники"</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>   **************************************</p>
+<p>   Аксаков С. Т. Собрание сочинений в 5 т.</p>
+<p>   М., Правда, 1966; (библиотека "Огонек")</p>
+<p>   Том 4. -- 480 с. -- с. 3-222.</p>
+<p>   OCR: sad369 (15.08.2006).</p>
+<p>   **************************************</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>"ГОРЕ ОТ УМА"</strong></p>
+<p><emphasis>Комедия</emphasis><emphasis></emphasis></p><emphasis></emphasis>
+<p><strong>"МЕЛЬНИКИ"</strong><strong></strong></p><strong></strong>
+<p><emphasis>Комический балет в одном действии.</emphasis><emphasis></emphasis></p><emphasis></emphasis>
+<p><emphasis>Среда, 27 апреля, на Большом театре</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Нечего говорить об этой пиесе: все знают ее наизусть, и все по нескольку раз видели на сцене; множество стихов из нее сделались народными пословицами. Щепкин, Кавалерова, Орлов играли отлично хорошо; но в роли Софьи Павловны видеть г-жу Панову -- нестерпимо!.. Г-н Мочалов держал себя как будто поприличнее, зато менее было огня; несколько слов в разных местах сказаны им прекрасно; но поговорим о своих артистах когда-нибудь после. С нетерпением желали мы видеть г. Сосницкого и с сожалением должны сказать, что он не совсем удовлетворил нашему ожиданию, то есть ожиданию отличного исполнения роли Репетилова, в которой одним явлением так мастерски нарисован портрет и характер! Мы судим строго нашего дорогого гостя, судим его как образованного художника: зачем он шатался на ногах? Репетилов ужинал, выпил лишний стакан шампанского, но отнюдь не пьян. Как мог Репетилов, описывая от чистого сердца друзей своих, насмехаться над ними? По крайней мере смех и тон г. Сосницкого выражал насмешку, а не глупую веселость; но, несмотря на это, мы слушали Репетилова с удовольствием.</p>
+<p>Для г. Флери (которого афиши величают первым комиком берлинского театра) смотрели мы несносный балет "Мельники". Конечно, г. Флери отличный гротеск (русского, пожалуй, назвали бы и паяцом); но со всем тем таких искусников даже неприятно видеть на сцене, посвященной высокому драматическому искусству.</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>"ГОРЕ ОТ УМА". "МЕЛЬНИКИ"</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Впервые: "Молва", 1832, No 35, стр. 139-140, за подписью: <emphasis>С. А</emphasis>.</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

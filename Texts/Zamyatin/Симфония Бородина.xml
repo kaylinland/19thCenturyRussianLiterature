@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sf</genre>
+		<author>
+			<first-name>Евгений</first-name>
+			<middle-name>Иванович</middle-name>
+			<last-name>Замятин</last-name>
+		</author>
+		<book-title>Симфония Бородина</book-title>
+<annotation></annotation>		<date value="2013-09-12">12/09/2013</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 09:42:09</date>
+		<src-url>http://az.lib.ru/z/zamjatin_e_i/text_1933_simfony.shtml</src-url>
+		<id>samlib58f50c81b22b72.30676562</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Замятин Евгений Иванович</p>
+	<empty-line/>
+	<p>Симфония Бородина</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Е. И. Замятин</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Симфония Бородина</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Замятин Е. И. Собрание сочинений: В 5 т. Т. 4. Беседы еретика</p>
+<p>М., "Дмитрий Сечин", "Республика", 2010.</p>
+<empty-line/>
+<p>1. Марш. Шум толпы и волнение (может быть скачка). Нарастающее движение с остановками, запинками (схватка?). Очень нежная женская ария. Заканчивается появлением басовых, мужских нот.</p>
+<p>2. Скерцо. Одна повторяющаяся нота в дисканте (как в "Erlkönig" {"Лесной царь" <emphasis>(нем.).</emphasis>}).</p>
+<p>Трио -- контрастное, жалобная, женская, лирическая ария. И лирический танец девушек (одевание невесты к свадьбе с нелюбимым?). Переходит в басовые ноты, сопровождающиеся той же повторной нотой в дисканте. Возврат к начальной теме -- тревога. Кода...</p>
+<p>3. Andante. (Новая тема -- виолончель.) Два голоса -- мужской, бас -- и женская ария, очень лирическая, все время сопровождаемая trémolo. Какое-то беспокойство, эхо, перекличка. Кончается фразой женского голоса.</p>
+<p>4. Безумное кружение и прыжки (3+2, 3+2) -- все как с горы. Выделяется женский голос -- соло. К нему присоединяется хор. Что-то сначала веселое, потом -- слегка грустное. Вдруг -- бас, соло (или с хором). Общий хор с женщинами. Прыжки как будто каких-то козлов. Волнение. Финал. Очень широко взятая первая тема andante -- утверждающая, торжествующая -- массовое движение. Когда уже как будто все кончено -- кода, торжественная, во время которой кто-то исчезает, убегает...</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>&lt;1932-1933&gt;</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>КОММЕНТАРИИ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Публикуется впервые по рукописи, хранящейся в Бахметевском архиве Колумбийского университета.</p>
+<p>Данное либретто балета, как и предыдущее, было написано в 1932-1933 гг. для Л. Ф. Мясина, который в 1933 г. обратился к постановке хореографических симфоний.</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

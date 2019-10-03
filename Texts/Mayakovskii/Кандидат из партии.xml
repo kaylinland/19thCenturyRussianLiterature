@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Владимир</first-name>
+			<middle-name>Владимирович</middle-name>
+			<last-name>Маяковский</last-name>
+		</author>
+		<book-title>Кандидат из партии</book-title>
+<annotation></annotation>		<date value="2009-05-15">15/05/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-12-27">2018-12-27 07:52:03</date>
+		<src-url>http://az.lib.ru/m/majakowskij_w_w/text_0960.shtml</src-url>
+		<id>samlib5c2484a392e2a0.49694572</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Маяковский Владимир Владимирович</p>
+	<empty-line/>
+	<p>Кандидат из партии</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<p>                  <strong>Владимир Маяковский</strong></p><strong></strong>
+<p><strong>          КАНДИДАТ ИЗ ПАРТИИ</strong></p>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_1929_kandidat_iz_partii.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<p>Сколько их?</p>
+<p>         Числа им нету.</p>
+<p>Пяля блузы,</p>
+<p>            пяля френчи,</p>
+<p>завели по кабинету</p>
+<p>и несут</p>
+<p>         повинность эту</p>
+<p>сквозь заученные речи.</p>
+<p>Весь</p>
+<p>         в партийных причиндалах,</p>
+<p>ноздри вздернул --</p>
+<p>         крыши выше...</p>
+<p>Есть бумажки --</p>
+<p>          прочитал их,</p>
+<p>нет бумажек --</p>
+<p>          сам напишет.</p>
+<p>Все</p>
+<p>          у этаких</p>
+<p>                    в порядке,</p>
+<p>не язык,</p>
+<p>          а маслобой...</p>
+<p>Служит</p>
+<p>          и играет в прятки</p>
+<p>с партией,</p>
+<p>          с самим собой.</p>
+<p>С классом связь?</p>
+<p>                  Какой уж класс там!</p>
+<p>Классу он --</p>
+<p>                  одна помеха,</p>
+<p>Стал</p>
+<p>         стотысячным баластом.</p>
+<p>Ни пройти с ним,</p>
+<p>                  ни проехать.</p>
+<p>Вышел</p>
+<p>          из бойцов</p>
+<p>                  с годами</p>
+<p>в лакированные душки...</p>
+<p>День пройдет --</p>
+<p>                  знакомой даме</p>
+<p>хвост</p>
+<p>         накрутит по вертушке.</p>
+<empty-line/>
+<p>Освободиться бы</p>
+<p>                   от ихней братии,</p>
+<p>удобней будет</p>
+<p>         и им</p>
+<p>                   и партии.</p>
+<empty-line/>
+<p>[<emphasis>1929</emphasis>]</p>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_1929_kandidat_iz_partii.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

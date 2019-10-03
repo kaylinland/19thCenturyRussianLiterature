@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Сергеевич</middle-name>
+			<last-name>Пушкин</last-name>
+		</author>
+		<book-title>&quot;Ромео и Джюльета&quot; Шекспира</book-title>
+<annotation></annotation>		<date value="2009-07-09">09/07/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 06:53:37</date>
+		<src-url>http://az.lib.ru/p/pushkin_a_s/text_0410.shtml</src-url>
+		<id>samlib58f4e501da23b9.78691133</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Пушкин Александр Сергеевич</p>
+	<empty-line/>
+	<p>&quot;Ромео и Джюльета&quot; Шекспира</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+ 
+ 
+
+
+</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>А.С.Пушкин</p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>"Ромео</strong><strong> </strong><strong>и</strong><strong> </strong><strong>Джюльета"</strong><strong> </strong><strong>Шекспира</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Оригинал здесь -- <a xlink:href="http://www.rvb.ru/pushkin/01text/07criticism/01criticism/0124_30/0917.htm">http://www.rvb.ru/pushkin/01text/07criticism/01criticism/0124_30/0917.htm</a></p>
+<empty-line/>
+<empty-line/>
+<p>Многие из трагедий, приписываемых Шекспиру, ему не принадлежат, а только им поправлены. Трагедия "Ромео и Джюльета", хотя слогом своим и совершенно отделяется от известных его приемов, но она так явно входит в его драматическую систему и носит на себе так много следов вольной и широкой его кисти, что ее должно почесть сочинением Шекспира. В ней отразилась Италия, современная поэту, с ее климатом, страстями, праздниками, негой, сонетами, с ее роскошным языком, исполненным блеска и concetti1. Так понял Шекспир драматическую местность. После Джюльеты, после Ромео, сих двух очаровательных созданий шекспировской грации, Меркутио, образец молодого кавалера того времени, изысканный, привязчивый, благородный Меркутио есть замечательнейшее лицо изо всей трагедии. Поэт избрал его в представители итальянцев, бывших модным народом Европы, французами XVI века.</p>
+<empty-line/>
+<empty-line/>
+<p>ПРИМЕЧАНИЯ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>"Ромео и Джюльета" Шекспира (стр. 30). Опубликовано в "Северных цветах на 1830 год" с отметкою: "Извлечено из рукописного сочинения А. С. Пушкина". Однако, как свидетельствует черновой автограф, заметка эта имеет совершенно самостоятельный характер и ни с какими другими статьями Пушкина непосредственно не связана. О трагедиях Шекспира Пушкин писал в одном из проектов предисловия к "Борису Годунову" в 1829 г. (см. стр. 292) и в "Table-talk" (1834--1835) (см. т. 7).</p>
+<p>1) блестящих оборотов мысли <emphasis>(</emphasis><emphasis>итал</emphasis><emphasis>.) </emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

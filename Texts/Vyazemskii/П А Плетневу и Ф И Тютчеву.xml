@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Петр</first-name>
+			<middle-name>Андреевич</middle-name>
+			<last-name>Вяземский</last-name>
+		</author>
+		<book-title>П. А. Плетневу и Ф. И. Тютчеву</book-title>
+<annotation></annotation>		<date value="2006-10-30">30/10/2006</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 09:28:53</date>
+		<src-url>http://az.lib.ru/w/wjazemskij_p_a/text_120.shtml</src-url>
+		<id>samlib58f50965102dc0.07723300</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Вяземский Петр Андреевич</p>
+	<empty-line/>
+	<p>П. А. Плетневу и Ф. И. Тютчеву</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>Петр Вяземский</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>&gt;П. А. ПЛЕТНЕВУ И Ф. И. ТЮТЧЕВУ</p>
+</title>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Вам двум, вам, спутникам той счастливой плеяды,</p>
+<p>Которой некогда и я принадлежал,</p>
+<p>Вам, сохранившим вкус, сочувствия и взгляды,</p>
+<p>В которых наш кружок возрос и возмужал,</p>
+<p>Вам я без робости, но и не самохвально</p>
+<p>Доверчиво несу тетрадь моих стихов.</p>
+<p>. . . . . . . . . . . . . . . . . . . . .</p>
+<p>Писал не для молвы, писал я на безлюдьи,</p>
+<p>Читателей моих круг страшно поредел:</p>
+<p>Жуковский с Пушкиным мои бывали судьи;</p>
+<p>Я старых потерял, а новых не обрел.</p>
+<p>Но вы остались мне, в вас память их живая,</p>
+<p>Вы публика моя, вы мой Ареопаг:</p>
+<p>В вас слабо теплится еще любовь родная,</p>
+<p>Которою светлел домашний наш очаг.</p>
+<p>. . . . . . . . . . . . . . . . . . . . .</p>
+<p>Кого ж, когда не вас, дней лучших старожилы,</p>
+<p>На скромный праздник мой мне в гости пригласить?</p>
+<p>Других любезных нам не вызвать из могилы:</p>
+<p>Что время разнесло, того не воротить.</p>
+<p>Доволен буду тем, когда своей хандрою</p>
+<p>Я вас разжалоблю иль шуткой рассмешу.</p>
+<p>Примите вы мой дар с радушной простотою,</p>
+<p>С любовью, как и я его вам подношу.</p>
+<empty-line/>
+<p>Июль, 1864 г.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>&gt;ФЕДОРУ ИВАНОВИЧУ ТЮТЧЕВУ</p>
+</title>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Твоя подстреленная птица</p>
+<p>Так звучно-жалобно поет,</p>
+<p>Нам так сочувственно певица</p>
+<p>Свою тоску передает,</p>
+<empty-line/>
+<p>Что вчуже нас печаль волнует,</p>
+<p>Что песню скорби возлюбя,</p>
+<p>В нас сердце, вторя ей, тоскует</p>
+<p>И плачет, словно за себя.</p>
+<empty-line/>
+<p>Поэт, на язвы злополучья</p>
+<p>Ты льешь свой внутренний елей,</p>
+<p>И слезы перлами созвучья</p>
+<p>Струятся из души моей.</p>
+<empty-line/>
+<p>1864</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

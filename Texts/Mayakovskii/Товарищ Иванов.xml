@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Владимир</first-name>
+			<middle-name>Владимирович</middle-name>
+			<last-name>Маяковский</last-name>
+		</author>
+		<book-title>Товарищ Иванов</book-title>
+<annotation></annotation>		<date value="2009-05-15">15/05/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-12-27">2018-12-27 07:54:25</date>
+		<src-url>http://az.lib.ru/m/majakowskij_w_w/text_0930.shtml</src-url>
+		<id>samlib5c2485319c8a98.34997554</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Маяковский Владимир Владимирович</p>
+	<empty-line/>
+	<p>Товарищ Иванов</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<p>          <strong>Владимир Маяковский</strong></p><strong></strong>
+<p><strong>      </strong></p>
+<p><strong>              Товарищ Иванов</strong></p>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_1927_tovarish_ivanov.shtml">аудио-файла</a>.</strong></p>
+<p>      </p>
+<empty-line/>
+<p>Товарищ Иванов -</p>
+<p>          мужчина крепкий,</p>
+<p>в штаты врос</p>
+<p>          покрепше репки.</p>
+<p>Сидит</p>
+<p>   бессменно</p>
+<p>          у стула в оправе,</p>
+<p>придерживаясь</p>
+<p>          на службе</p>
+<p>                  следующих правил.</p>
+<p>Подходит к телефону -</p>
+<p>                  достоинство</p>
+<p>                        складкой.</p>
+<p>- Кто спрашивает?</p>
+<p>          - Товарищ тот -</p>
+<p>И сразу</p>
+<p>     рот</p>
+<p>       в улыбке сладкой -</p>
+<p>как будто</p>
+<p>        у него не рот, а торт.</p>
+<p>Когда</p>
+<p>    начальство</p>
+<p>            рассказывает анекдот,</p>
+<p>такой,</p>
+<p>    от которого</p>
+<p>            покраснел бы и дуб,-</p>
+<p>Иванов смеется,</p>
+<p>          смеется, как никто,</p>
+<p>хотя</p>
+<p>   от флюса</p>
+<p>          ноет зуб.</p>
+<p>Спросишь мнение -</p>
+<p>              придет в смятеньице,</p>
+<p>деликатно</p>
+<p>        отложит</p>
+<p>            до дня</p>
+<p>                 до следующего,</p>
+<p>а к следующему</p>
+<p>          узнаете</p>
+<p>                мненьице -</p>
+<p>уважаемого</p>
+<p>         товарища заведующего.</p>
+<p>Начальство</p>
+<p>        одно</p>
+<p>          смахнут, как пыльцу...</p>
+<p>Какое</p>
+<p>    ему,</p>
+<p>      Иванову,</p>
+<p>            дело?</p>
+<p>Он служит</p>
+<p>       так же</p>
+<p>            другому лицу,</p>
+<p>его печенке,</p>
+<p>          улыбке,</p>
+<p>              телу.</p>
+<p>Напялит</p>
+<p>     на себя</p>
+<p>          начальственную маску,</p>
+<p>начальственные привычки,</p>
+<p>                    начальственный</p>
+<p>                                 вид.</p>
+<p>Начальство ласковое -</p>
+<p>                    и он</p>
+<p>                       ласков.</p>
+<p>Начальство грубое -</p>
+<p>                  и он грубит.</p>
+<p>Увидя безобразие,</p>
+<p>             не протестует впустую.</p>
+<p>Протест</p>
+<p>      замирает</p>
+<p>             в зубах тугих.</p>
+<p>- Пускай, мол,</p>
+<p>           первыми</p>
+<p>                 другие протестуют.</p>
+<p>Что я, в самом деле,</p>
+<p>            лучше других?-</p>
+<p>Тот -</p>
+<p>    уволен.</p>
+<p>        Этот -</p>
+<p>            сокращен.</p>
+<p>Бессменно</p>
+<p>        одно</p>
+<p>           Ивановье рыльце.</p>
+<p>Везде</p>
+<p>    и всюду</p>
+<p>          пролезет он,</p>
+<p>подмыленный</p>
+<p>        скользким</p>
+<p>                подхалимским</p>
+<p>                        мыльцем.</p>
+<p>Впрочем,</p>
+<p>     написанное</p>
+<p>          ни для кого не ново</p>
+<p>разве нет</p>
+<p>        у вас</p>
+<p>            такого Иванова?</p>
+<p>Кричу</p>
+<p>   благим</p>
+<p>        (а не просто) матом,</p>
+<p>глядя</p>
+<p>    на подобные истории:</p>
+<p>- Где я?</p>
+<p>     В лонах красных наркоматов</p>
+<p>или</p>
+<p>  в дооктябрьской консистории?!</p>
+<empty-line/>
+<p><emphasis>1927</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_1927_tovarish_ivanov.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

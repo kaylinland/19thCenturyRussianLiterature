@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Алексей</first-name>
+			<middle-name>Константинович</middle-name>
+			<last-name>Толстой</last-name>
+		</author>
+		<book-title>&quot;О, не пытайся дух унять тревожный...&quot;</book-title>
+<annotation></annotation>		<date value="2012-06-19">19/06/2012</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 08:49:58</date>
+		<src-url>http://az.lib.ru/t/tolstoj_a_k/text_0290-1.shtml</src-url>
+		<id>samlib58f5004671d1e7.97750899</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Толстой Алексей Константинович</p>
+	<empty-line/>
+	<p>&quot;О, не пытайся дух унять тревожный...&quot;</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Алексей Константинович Толстой</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>О, не пытайся дух унять тревожный... (1856)</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>О, не пытайся дух унять тревожный,</p>
+<empty-line/>
+<p>Твою тоску я знаю с давних пор,</p>
+<empty-line/>
+<p>Твоей душе покорность невозможна,</p>
+<empty-line/>
+<p>Она болит и рвется на простор.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Но все ее невидимые муки,</p>
+<empty-line/>
+<p>Нестройный гул сомнений и забот,</p>
+<empty-line/>
+<p>Все меж собой враждующие звуки</p>
+<empty-line/>
+<p>Последний час в созвучие сольет,</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>В один порыв смешает в сердце гордом</p>
+<empty-line/>
+<p>Все чувства, врозь которые звучат,</p>
+<empty-line/>
+<p>И разрешит торжественным аккордом</p>
+<empty-line/>
+<p>Их голосов мучительный разлад.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Владимир</first-name>
+			<middle-name>Владимирович</middle-name>
+			<last-name>Маяковский</last-name>
+		</author>
+		<book-title>Что такое?</book-title>
+<annotation></annotation>		<date value="2009-05-15">15/05/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-12-27">2018-12-27 07:52:15</date>
+		<src-url>http://az.lib.ru/m/majakowskij_w_w/text_0950.shtml</src-url>
+		<id>samlib5c2484af120ee3.09643141</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Маяковский Владимир Владимирович</p>
+	<empty-line/>
+	<p>Что такое?</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<p>                          <strong>Владимир Маяковский</strong></p><strong></strong>
+<p><strong></strong></p>
+<p><strong>                                 ЧТО ТАКОЕ?</strong></p>
+<empty-line/>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_1929_chto_takoe.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<p></p>
+<p id="lvox"></p>
+<empty-line/>
+<p>                           Петр Иваныч,</p>
+<p>                                        что такое?</p>
+<p>                           Он,</p>
+<p>                               с которым</p>
+<p>                                         не ужиться,</p>
+<p>                           стал</p>
+<p>                                нежнее, чем левкои,</p>
+<p>                           к подчиненным,</p>
+<p>                                          к сослуживцам.</p>
+<p>                        10 Целый день</p>
+<p>                                      сидит на месте.</p>
+<p>                           Надо вам</p>
+<p>                                    или не надо,</p>
+<p>                           проходите,</p>
+<p>                                     прите,</p>
+<p>                                            лезьте</p>
+<p>                           сколько влезет -</p>
+<p>                                            без доклада.</p>
+<p>                           Весь</p>
+<p>                        20      бумажками окидан,</p>
+<p>                           мыслит,</p>
+<p>                                   выгнувшись дугой.</p>
+<p>                           Скрылась</p>
+<p>                                    к черту</p>
+<p>                                            волокита</p>
+<p>                           от энергии</p>
+<p>                                      такой.</p>
+<p>                           Рвет</p>
+<p>                                бумажки,</p>
+<p>                        30               мигом вызнав.</p>
+<p>                           Тают,</p>
+<p>                                 как от солнца иней.</p>
+<p>                           Этих</p>
+<p>                                всех</p>
+<p>                                     бюрократизмов</p>
+<p>                           просто</p>
+<p>                                  нету и в помине.</p>
+<p>                           Свет</p>
+<p>                                в лице</p>
+<p>                        40             играет с тенью...</p>
+<p>                           Где вы,</p>
+<p>                                   кисть</p>
+<p>                                         или резец?!</p>
+<p>                           Нет</p>
+<p>                               названий</p>
+<p>                                        поведенью,</p>
+<p>                           поведенье -</p>
+<p>                                       образец.</p>
+<p>                           Целомудрен,</p>
+<p>                        50             - смейтесь, куры! -</p>
+<p>                           Нету</p>
+<p>                                силы</p>
+<p>                                     надивиться:</p>
+<p>                           не плюет,</p>
+<p>                                     не пьет,</p>
+<p>                                             не курит</p>
+<p>                           и</p>
+<p>                             не смотрит на девиц он.</p>
+<p>                           Петр Иваныч,</p>
+<p>                        60              что такое?</p>
+<p>                           Кто</p>
+<p>                               подумать это мог!</p>
+<p>                           Поведенье</p>
+<p>                                     таковое</p>
+<p>                           нам,</p>
+<p>                                простите,</p>
+<p>                                          невдомек.</p>
+<p>                           Что случилось</p>
+<p>                                         с вами,</p>
+<p>                        70                       милый?</p>
+<p>                           Расцвели вы</p>
+<p>                                       и взялись</p>
+<p>                           с разутроенною силой</p>
+<p>                           строить</p>
+<p>                                   нам</p>
+<p>                                       социализм.</p>
+<p>                           Эти</p>
+<p>                               возгласы</p>
+<p>                                        не в тон,</p>
+<p>                        80 лоб</p>
+<p>                               в сомнении</p>
+<p>                                         не тискай...</p>
+<p>                           Что такое?</p>
+<p>                                      Это -</p>
+<p>                                            он</p>
+<p>                           подтянулся</p>
+<p>                                      перед чисткой.</p>
+<empty-line/>
+<p>                           [1929]</p>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_1929_chto_takoe.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

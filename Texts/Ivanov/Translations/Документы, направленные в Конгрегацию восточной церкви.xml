@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>children</genre>
+		<author>
+			<first-name>Вячеслав</first-name>
+			<middle-name>Иванович</middle-name>
+			<last-name>Иванов</last-name>
+		</author>
+		<book-title>Документы, направленные в Конгрегацию восточной церкви.</book-title>
+<annotation></annotation>		<date value="2009-04-02">02/04/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-04-13">2018-04-13 10:44:29</date>
+		<src-url>http://az.lib.ru/i/iwanow_w_i/text_0310.shtml</src-url>
+		<id>samlib5ad05fdd43abc8.96370271</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Иванов Вячеслав Иванович</p>
+	<empty-line/>
+	<p>Документы, направленные в Конгрегацию восточной церкви.</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Документы, направленные в Конгрегацию восточной церкви.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Русско-итальянский архив</p>
+<p>Составители Даниэла Рицци и Андрей Шишкин</p>
+<p>Dipartimento di Scienze Filologiche e Storiche Trento 1997</p>
+<p><a xlink:href="http://imwerden.de/">Scan ImWerden</a></p>
+<p>OCR Ловецкая Т. Ю.</p>
+<empty-line/>
+<p>Alia Sacra Congregazione pro IJcclesia Orientali</p>
+<p>Il sottoscritto, Ivanov Venceslao, figlio di fu Giovanni e di fu Alessandra, di religione Greco-ortodossa, di nazionalita russa, nato a Mosca il 16 Febbraio (vecchio stile) 1866, domiciliato a Roma, via delle Quattro Fontane 172, dottore delle lettere, ex-professore di Universita in filologia classica, vedovo, catechizzato dal Rev.mo P. Vladimiro Abrikossov,1 -- desidera unirsi alia Chiesa cattolica secondo il rito bizantino-russo, e chiede codesta S. Congregazione di voler autorizzare il sacerdote Rev.mo P. Vladimiro Abrikossov di ricevere la sua professione di fede e di ascoltare le sue confessioni.</p>
+<p>Inoltre il sottoscritto, chi aveva goduto personalmente la direzione spirituale di Vladimiro Soloviev, richiede l'autorizzazione della S. Congregazione di fare la sua professione di fede, dopo aver recitato il Credo due volte, cioe in greco о paleo-slavonico ed in latino, secondo l'allegata formola proposta dal Soloviev e solennemente recitata nella Basilica Vaticana alia festa di commemorazione del Primo Concilio Ecumenico di Nicea.</p>
+<p>Roma, add! 14 Marzo 19262</p>
+<empty-line/>
+<p>1 О католическом священнике восточного обряда Абрикосове (1880--1966) см. в публикации А. Юдина <emphasis>Униональное движение в России и русской эмиграции в 1917--24 гг.</emphasis>, "Логос" 48 (1993), Брюссель--Москва.</p>
+<p>2 <emphasis>Перевод: </emphasis>"В св. конгрегацию Восточной церкви. Я, Вячеслав Иванов, сын покойных Ивана и Александры, греко-православного вероисповедания, русской национальности, родившийся в Москве 16 февраля (ст. стиля) 1866 г., проживающий в Риме, улица Четырех Фонтанов, д. 172, доктор филологии, бывший университетский профессор по классической филологии, вдовый, катехизированный его преподобием о. Владимиром Абрикосовым, -- хочет соединиться с католической Церковью следуя визаитийско-русскому обряду, и просит означенную Св. Конгрегацию разрешить священнослужителю Владимиру Абрикосову принять его исповедание веры и принять его исповедь.</p>
+<p>Кроме того нижеподписавшийся, поскольку он испытал радость личного духовного руководства со стороны Владимира Соловьева, просит разрешения Св. Конгрегации совершить свое исповедание веры, после того, как он дважды произнесет "Верую" -- по-гречески или церковнославянски и по-латыни -- в соответствии с прилагаемой формулой присоединения, составленной Соловьевым и торжественно провозглашенной в Ватиканской Базилике в праздник поминовения Первого Никейского Вселенского Собора. Рим, 14 марта 1926 г.".</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p><strong>&lt;Формула присоединения к католической церкви&gt;</strong></p>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p><strong>Come membro della vera e venerabile Chiesa ortodossa orientale о greco russa, che non parla per la voce di sinodo anticanonico, nê per mezzo d'impiegati del potere secolare, ma per la voce dei suoi grandi Padri e Dottori, riconosco per giudice supremo in materia di religione colui, che è stato riconosciuto per tale da Sant'Ireneo, S. Dionigio il Grande, S. Atanasio il Grande, S. Giovanni Crisostomo, S. Cirillo, S. Flaviano, Il Beato Teodoreto, S. Massimo Confessore, S. Teodoro Studita, S. Ignazio, [S. Venceslao Martire] (sic!), ecc..., cioè l'Apostolo Pietro, che vive nei suoi successori e che non ha inteso invano le parole: "Tu sei Pietro, e sopra questa pietra edificherò la mia Chiesa. -- Conferma i tuoi fratelli. Pasci le mie pecorelle, pasci i miei agnellk -- Amen.1</strong></p>
+<p><strong>Io riconosco tutti i dogmi e tutte le definizioni della Chiesa Romana, ed in questa vera fede, che professo liberamente, voglio con aiuto di Dio rimanere fino all'ultimo attimo della mia vita. E cosi sia.2</strong></p>
+<p><strong></strong></p>
+<p><strong>1 Следующий абзац в автографе написан несколько иным почерком, видимо, он был приписан отдельно.</strong></p>
+<p><strong>2 <emphasis>Перевод: </emphasis>"Как член истинной и досточтимой православной восточной или греко-российской Церкви, говорящей не устами антиканонического синода и не чрез посредство чиновников светской власти, но голосом великих Отцов и Учителей, я признаю верховным судьей в деле религии того, кого признавали таковым Св. Ириней, Св. Дионисий Великий, Св. Афанасий Великий, Св. Иоанн Златоуст, Св. Кирилл, Св. Флавиан, блаж. Феодорит, Св. Максим Исповедник, Св. Феодор Студит, Св. Игнатий, [Св. мученик Вячеслав] и т. д., а именно апостола Петра, живущего в своих преемниках и не напрасно слышавшего слова: "Ты Петр, и на этом камне Я создам Церковь мою. -- Утверди братьев твоих. -- Паси овец моих, паси агнцев моих." -- Аминь. Признаю все догматы и все определения Римской Церкви, и в этой истинной вере, которую свободно исповедаю, с помощью Божией останусь до конца своей жизни. Да будет так".</strong></p>
+<p><strong></strong></p>
+<p><strong>&lt;Автограф чернилами в архиве Конгрегации Восточной церкви (Congregazione Chiesa Orientale), Comissione per la Russia, n. 378/28&gt;.</strong></p>
+<p><strong>На следующем листе запись:</strong></p>
+<p><strong>Die 18 martii 1926. Negative. Vada al S. Uffizio.</strong></p>
+<p><strong>Die 20 martii 1926. P. Abrikossoff awerte che il S. Uffizio ha concesso la facolta di ricevere l'abiura dal Signor Iwanow colla formula insolita. Mergotti.</strong></p>
+<p><strong>Ad acta.</strong></p>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p><strong></strong></p>
+</section>
+
+</body>
+</FictionBook>

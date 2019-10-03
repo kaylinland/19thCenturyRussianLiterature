@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Владимир</first-name>
+			<middle-name>Галактионович</middle-name>
+			<last-name>Короленко</last-name>
+		</author>
+		<book-title>Отчет конторы редакции журнала &quot;Русское Богатство&quot;</book-title>
+<annotation></annotation>		<date value="2016-05-31">31/05/2016</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-02-19">2018-02-19 11:14:39</date>
+		<src-url>http://az.lib.ru/k/korolenko_w_g/text_1902_12_otchet_kontory_oldorfo.shtml</src-url>
+		<id>samlib5a8a876f42b0f8.38922932</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Короленко Владимир Галактионович</p>
+	<empty-line/>
+	<p>Отчет конторы редакции журнала &quot;Русское Богатство&quot;</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<p> </p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>ОТЧЕТЪ</strong></p><strong></strong>
+<p><strong>Конторы редакціи журнала "Русское Богатство".</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p> На устройство школы имени Гл. И. Успенскаго въ с. Сябринцахъ, Новгородской губ., поступило: отъ А. Ѳ. Саликовскаго изъ Каменецъ-Подольска 10 р.</p>
+<p> " Общества попеченія о начальномъ образованіи въ г. Томскѣ 30 р.</p>
+<p> Итого 40 р.</p>
+<p> А всего съ прежде поступившими 451 р. 25 к.</p>
+<empty-line/>
+<p><emphasis>"Русское Богатство", No 6, 1902</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p> </p>
+<p> </p>
+<empty-line/>
+<p>ОТЧЕТЪ</p>
+<p><strong>Конторы редакціи журнала "Русское Богатство".</strong></p>
+<empty-line/>
+<empty-line/>
+<p> На устройство школы имени <strong>Гл. И. Успенскаго</strong> въ д. Сябринцахъ, Новгородской губ., поступило:</p>
+<p> отъ Н. Ю. Татарова -- 10 р.-- к.</p>
+<p> " А. Н. Мойсеенко -- 3 " -- "</p>
+<p> " массажистки -- 5 " -- "</p>
+<p> " женщины-врача Р. Л. Маргулисъ -- 5 " -- "</p>
+<p> Итого -- 23 р. -- к.</p>
+<p> А всего съ прежде поступившими 891 р. 15 к.</p>
+<p> </p>
+<p> На пріобрѣтеніе въ общественную собственность части усадьбы Некрасовыхъ въ Грешневѣ, Ярославскаго уѣзда, для устройства тамъ школы и библіотеки въ память 25-лѣтія со дни смерти <strong>Н. А. Некрасова:</strong></p>
+<p> Отъ вологодской интеллигенціи 25 р.-- к.</p>
+<p> " сотрудниковъ "Нижегородскаго Листка" 5 " -- "</p>
+<p> Итого -- 30 р. -- к.</p>
+<empty-line/>
+<p><emphasis>"Русское Богатство", No 12, 1902</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p> </p>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

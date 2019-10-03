@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Валерий</first-name>
+			<middle-name>Яковлевич</middle-name>
+			<last-name>Брюсов</last-name>
+		</author>
+		<book-title>Избранные стихотворения</book-title>
+<annotation><p>Собрание 290 стихотворений, представляющих все поэтические сборники В. Брюсова, а также избранные стихотворения из не включавшихся в сборники.</p></annotation>		<date value="2005-01-14">14/01/2005</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-12-25">2018-12-25 05:54:34</date>
+		<src-url>http://az.lib.ru/b/brjusow_w_j/text_0040.shtml</src-url>
+		<id>samlib5c21c61a4df205.22078093</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Брюсов Валерий Яковлевич</p>
+	<empty-line/>
+	<p>Избранные стихотворения</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

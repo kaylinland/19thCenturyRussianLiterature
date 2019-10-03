@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Алексей</first-name>
+			<middle-name>Константинович</middle-name>
+			<last-name>Толстой</last-name>
+		</author>
+		<book-title>Песня стрелков и императорской фамилии</book-title>
+<annotation></annotation>		<date value="2019-02-13">13/02/2019</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2019-02-13">2019-02-13 07:40:22</date>
+		<src-url>http://az.lib.ru/t/tolstoj_a_k/text_1855_poe_oldorfo.shtml</src-url>
+		<id>samlib5c63c9e690d257.58225387</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Толстой Алексей Константинович</p>
+	<empty-line/>
+	<p>Песня стрелков и императорской фамилии</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<p> </p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>ПѢСНЯ СТРѢЛКОВЪ И ИМПЕРАТОРСКОЙ ФАМИЛІИ</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>           Слава на небѣ солнцу высокому,</p>
+<p>                                         Слава!</p>
+<p>           На землѣ Государю Великому</p>
+<p>                                         Слава!</p>
+<p>           Слава на небѣ свѣтлымъ звѣздамъ,</p>
+<p>                                         Слава!</p>
+<p>           На землѣ Государевымъ стрѣлкамъ</p>
+<p>                                         Слава!</p>
+<p>           Чтобъ рука ихъ была всегда тверда,</p>
+<p>                                         Слава!</p>
+<p>           Око быстрѣе, свѣтлѣй соколинаго,</p>
+<p>                                         Слава!</p>
+<p>           Чтобы привелъ Богъ за Русь постоять,</p>
+<p>                                         Слава!</p>
+<p>           Нашихъ враговъ за рубежъ провожать,</p>
+<p>                                         Слава!</p>
+<p>           Чтобъ намъ дума была лишь о родинѣ,</p>
+<p>                                         Слава!</p>
+<p>           Ину жь печаль мы закинемъ за синюю даль,</p>
+<p>                                         Слава!</p>
+<p>           А эту пѣсню мы святой Руси поемъ,</p>
+<p>                                         Слава!</p>
+<p>           Чтобы ее, православную, Богъ берегъ,</p>
+<p>                                         Слава!</p>
+<p>           Чтобъ стрѣлокъ послужилъ ей одинъ за трехъ,</p>
+<p>                                         Слава!</p>
+<p>           Чтобъ не было на свѣтѣ царства сильнѣй,</p>
+<p>                                         Слава!</p>
+<p>           Нашего ласкова Государя добрѣй,</p>
+<p>                                         Слава!</p>
+<p>           Чтобъ не было русскаго слова крѣпчей,</p>
+<p>                                         Слава!</p>
+<p>           Чтобъ не было русской славы громчей,</p>
+<p>                                         Слава!</p>
+<p>           Чтобъ не было русской пѣсни звучнѣй,</p>
+<p>                                         Слава!</p>
+<p>           Да чтобъ не было царскихъ стрѣлковъ удалѣй,</p>
+<p>                                         Слава!</p>
+<p>                                                                                 <strong>ГРАФЪ А. ТОЛСТОЙ.</strong></p>
+<empty-line/>
+<p><emphasis>"Отечественныя Записки", </emphasis><emphasis>No 8</emphasis><emphasis>, 1855</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

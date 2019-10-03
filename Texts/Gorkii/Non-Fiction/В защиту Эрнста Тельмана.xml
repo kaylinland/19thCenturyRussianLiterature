@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Максим</first-name>
+			<last-name>Горький</last-name>
+		</author>
+		<book-title>В защиту Эрнста Тельмана</book-title>
+<annotation></annotation>		<date value="2011-12-30">30/12/2011</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 03:45:32</date>
+		<src-url>http://az.lib.ru/g/gorxkij_m/text_1934_v_zaschitu_telmana.shtml</src-url>
+		<id>samlib58f4b8ecd0b3d7.98867442</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Горький Максим</p>
+	<empty-line/>
+	<p>В защиту Эрнста Тельмана</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>М. Горький</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>В защиту Эрнста Тельмана</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>М. Горький. Собрание сочинений в тридцати томах</p>
+<p>М., ГИХЛ, 1953</p>
+<p>Том 27. Статьи, доклады, речи, приветствия (1933--1936)</p>
+<empty-line/>
+<p>Я считаю позором Германии годичное пребывание в тюрьме вождя германских рабочих Эрнста Тельмана. Я надеюсь, что деятели культуры, науки и искусства всего мира подымут голос протеста против бесчеловечного пленения Тельмана и готовящейся над ним расправы.</p>
+<empty-line/>
+<p><emphasis>М. Горький</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ПРИМЕЧАНИЯ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>В двадцать седьмой том вошли статьи, доклады, речи, приветствия, написанные и произнесенные М. Горьким в 1933--1936 годах. Некоторые из них входили в авторизованные сборники публицистических и литературно-критических произведений ("Публицистические статьи", издание 2-е -- 1933; "О литературе", издание 1-е -- 1933, издание 2-е -- 1935, а также в издание 3-е -- 1937, подготавливавшееся к печати при жизни автора) и неоднократно редактировались М. Горьким. Большинство же включенных в том статей, докладов, речей, приветствий были опубликованы в периодический печати и в авторизованные сборники не входили. В собрание сочинений статьи, доклады, речи, приветствия М. Горького включаются впервые.</p>
+<empty-line/>
+<empty-line/>
+<p>В ЗАЩИТУ ЭРНСТА ТЕЛЬМАНА</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Впервые напечатано после смерти автора в журнале "За рубежом", 1936, No 18, 25 июня.</p>
+<p>Под обращением авторская пометка: "4.III.1934". В авторизованные сборники не включалось. Печатается по тексту журнала "За рубежом".</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

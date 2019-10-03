@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Николаевич</middle-name>
+			<last-name>Островский</last-name>
+		</author>
+		<book-title>Речь на праздновании юбилея А. Н. Островского в Артистическом кружке</book-title>
+<annotation></annotation>		<date value="2018-06-09">09/06/2018</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-06-09">2018-06-09 12:27:10</date>
+		<src-url>http://az.lib.ru/o/ostrowskij_a_n/text_1871_rech_na_prazdnovanii.shtml</src-url>
+		<id>samlib5b1b9d6eb62917.94124848</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Островский Александр Николаевич</p>
+	<empty-line/>
+	<p>Речь на праздновании юбилея А. Н. Островского в Артистическом кружке</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<p> </p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>А. Н. Островский</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Речь на праздновании юбилея А. Н. Островского в Артистическом кружке</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p> Речи 1859-1886</p>
+<p> ГИХЛ, М., 1952</p>
+<p> Составитель тома Г. И. Владыкин</p>
+<p> Подготовка текста и комментарии К. Д. Муратовой</p>
+<p> </p>
+<empty-line/>
+<p><emphasis>14 марта 1872 г.</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p> Милостивые государи! Приношу вам искреннюю и глубокую благодарность за честь, которой вы меня удостаиваете. Общество, в котором я в настоящую минуту имею удовольствие присутствовать, давно мне близко. Позвольте мне, милостивые государи, пожелать вашему Обществу успеха в достижении тех целей, с которыми оно было основано, и в осуществлении тех намерений, которые одушевляли нас, его учредителей, а глазное, позвольте пожелать, чтобы ваше Общество в дальнейшем своем существовании не встречало более препятствий и помех в достижении своих возвышенных целей и в исполнении своих благородных намерений. Concordia res parvae creseunt!.. Viribus unitis! {При согласии и малое растет!.. В единении -- сила!}</p>
+<p> Государства брали эти изречения своими девизами и чеканили эти девизы на своем золоте, на своих червонцах. И надо сказать, что эти девизы стоили того золота, на котором они были чеканены.</p>
+<p> </p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>КОММЕНТАРИИ</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p> Печатается по тексту газеты "Русские ведомости", 1872, No 60, 17 марта.</p>
+<p> </p>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

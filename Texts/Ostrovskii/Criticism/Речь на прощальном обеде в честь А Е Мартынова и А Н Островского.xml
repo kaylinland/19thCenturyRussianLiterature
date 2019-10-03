@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Николаевич</middle-name>
+			<last-name>Островский</last-name>
+		</author>
+		<book-title>Речь на прощальном обеде в честь А. Е. Мартынова и А. Н. Островского</book-title>
+<annotation></annotation>		<date value="2018-05-17">17/05/2018</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-05-17">2018-05-17 02:02:11</date>
+		<src-url>http://az.lib.ru/o/ostrowskij_a_n/text_1860_rech_na_prosch_obede.shtml</src-url>
+		<id>samlib5afd61330abe62.75803690</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Островский Александр Николаевич</p>
+	<empty-line/>
+	<p>Речь на прощальном обеде в честь А. Е. Мартынова и А. Н. Островского</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<p> </p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>А. Н. Островский</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Речь на прощальном обеде в честь А. Е. Мартынова и А. Н. Островского</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p> Речи 1859-1886</p>
+<p> ГИХЛ, М., 1952</p>
+<p> Составитель тома Г. И. Владыкин</p>
+<p> Подготовка текста и комментарии К. Д. Муратовой</p>
+<p> </p>
+<empty-line/>
+<p><emphasis>2 июля 1860 г.</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p> Благодарю вас, господа, за честь, которой вы меня удостаиваете. Я еще так мало сделал для литературы, что никак не могу отнести эту честь лично к себе. В слишком лестной для меня внимательности передовых людей одесской публики ко мне и к моим трудам я должен видеть горячее сочувствие вообще к родной литературе, а мне, благодаря случаю, который привел меня в Одессу, выпало на долю только принять от вас выражение этого сочувствия. Так я и принимаю эту честь и с своей стороны предлагаю тост за процветание русской литературы и за всех ее деятелей.</p>
+<p> </p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>КОММЕНТАРИИ</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p> Печатается по тексту газеты "Одесский вестник", 1860, No 72, 7 июля.</p>
+<p> Гастроли Мартынова в Одессе сопровождались большим успехом. 2 июля 1860 г. местная интеллигенция устроила прощальный обед, на котором были произнесены приветственные речи в честь "великого представителя драматического искусства" -- А. Е. Мартынова и "истинного таланта" -- А. Н. Островского.</p>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

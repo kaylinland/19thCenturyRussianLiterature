@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Антон</first-name>
+			<middle-name>Павлович</middle-name>
+			<last-name>Чехов</last-name>
+		</author>
+		<book-title>Бенефис П. М. Свободина</book-title>
+<annotation></annotation>		<date value="2014-07-17">17/07/2014</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 02:27:10</date>
+		<src-url>http://az.lib.ru/c/chehow_a_p/text_1888_svobodin.shtml</src-url>
+		<id>samlib58f4a68ed0c7b2.66190088</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Чехов Антон Павлович</p>
+	
+	<p>Бенефис П. М. Свободина</p>
+</title>
+
+<section>
+
+<p>
+
+</p>
+
+
+<p>А. П. Чехов</p>
+
+
+
+<p>&lt;Бенефис П. М. Свободина&gt;</p>
+
+
+<p>Полное собрание сочинений и писем в тридцати томах</p>
+<p>Сочинения в восемнадцати томах. Том шестнадцатый</p>
+
+
+<p>Сегодня бенефис П. М. Свободина, одного из наиболее талантливых представителей труппы нашего Александринского театра. Служит он в Петербурге недавно, играет не часто, но тем не менее все-таки он уже достаточно популярен и справедливо пользуется репутацией добросовестного и самостоятельного актера. Ставит он тургеневского "Холостяка", комедию "Maman" С. Н. Терпигорева и драматический этюд "Лебединая песня" А. П. Чехова.</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

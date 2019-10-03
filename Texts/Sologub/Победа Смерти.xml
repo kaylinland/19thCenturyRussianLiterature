@@ -1,0 +1,1162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>love_short</genre>
+		<author>
+			<first-name>Федор</first-name>
+			<last-name>Сологуб</last-name>
+		</author>
+		<book-title>Победа Смерти</book-title>
+<annotation></annotation>		<date value="2005-08-20">20/08/2005</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 08:07:29</date>
+		<src-url>http://az.lib.ru/s/sologub_f/text_0210.shtml</src-url>
+		<id>samlib58f4f652ebe702.26164537</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Сологуб Федор</p>
+	<empty-line/>
+	<p>Победа Смерти</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ФЁДОР СОЛОГУБ</strong></p>
+<p><strong></strong></p>
+<p><strong>ПОБЕДА СМЕРТИ</strong></p>
+<p><strong></strong></p>
+<p><strong>1907</strong></p>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>Оригинал находится здесь: <a xlink:href="http://sologub.narod.ru/texts/plays_pobeda.htm">Сайт "Федор Сологуб"</a></p>
+</title>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p><emphasis></emphasis>
+<p><emphasis>Посвящаю моей сестре</emphasis></p>
+<p><emphasis></emphasis></p>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<p> </p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПРЕДИСЛОВИЕ</strong></p>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p>Автор трагедии заменил маску полумаскою, но всё ещё не открывает своего лица. Он хочет, чтобы его узнали по улыбке, змеящейся в углах его губ. Если же не узнают... Всеми словами, какие находит, он говорит об одном и том же. К одному и тому же зовёт он неутомимо. Если же не слышат... Разве стихи его не прекрасны? Разве проза его не благоуханна? Разве не обладает он чарами послушного ему слова? Улыбается, и проходит, закутавшись в тёмный плащ. И Она с ним, Змеиноокая.</p>
+<empty-line/>
+<empty-line/>
+<p><emphasis>1907. Ноябрь</emphasis></p>
+<p><emphasis></emphasis></p>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>СОДЕРЖАНИЕ</strong></p>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p><strong></strong><a xlink:href="#l1"><strong>Пролог трагедии "Победа смерти"</strong></a><strong></strong></p>
+<empty-line/>
+<p><a xlink:href="#l2"><strong>Первое действие</strong></a><strong></strong></p><strong></strong>
+<empty-line/>
+<p><a xlink:href="#l3"><strong>Второе действие</strong></a><strong></strong></p><strong></strong>
+<empty-line/>
+<p><a xlink:href="#l4"><strong>Третье действие</strong></a><strong></strong></p><strong></strong>
+<empty-line/>
+<p><a xlink:href="#l5"><strong>Примечание</strong></a><strong> </strong></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Трагедия в трёх действиях "Победа смерти" впервые была опубликована в отдельном издании в начале 1908 года (СПб., изд-во "Факелы"). Затем была воспроизведена в составе двух Собраний Сочинений (1910 и 1913).</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p> </p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p id="l1"><strong></strong></p>
+<p><strong></strong></p>
+<p><strong>ЗМЕИНООКАЯ В НАДМЕННОМ ЧЕРТОГЕ</strong></p>
+<p><strong></strong></p>
+<p><strong><emphasis>Пролог трагедии "Победа смерти"</emphasis></strong><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><strong>Действующие лица:</strong></p><strong></strong>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p>КОРОЛЬ.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>АЛЬДОНСА, именуемая королевою Ортрудою.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ДУЛЬЦИНЕЯ, именуемая Альдонсою.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ДАГОБЕРТ, паж.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ПОЭТ, в сюртуке.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ДАМА, в шёлковом платье.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Сени королевского замка. Стены сложены из громадных, грубо стесанных камней. В передней стене - огромная арка входа, через которую и видно зрителям сени. Спереди широкая и пологая лестница до партера, который соответствует внутреннему двору замка; по середине вышины лестницы - неширокая площадка, и от неё отделяются направо и налево две лестницы поуже, - они ведут под боковые стены к наружным дворам замка. В глубине и по бокам сеней массивные колонны. От сеней подымаются вверх три короткие лестницы: средняя широкая - в зал пиров и торжественных приемов, две боковые - узкие, из них правая ведёт в королевскую почивальню. Часть лестницы освещена луною. На ступеньках сидит Король. Всматривается в темноту неосвещенного двора и говорит тихо, словно разговаривая с каким-то незримым собеседником.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Кто зовёт меня, - не знаю, и к чему зовет, - не могу понять. Темный призрак, чего ты от меня хочешь? Невнятен твой голос и темно лицо твое, словно туманною закрытое личиною. И не знаю, зачем я пришел сюда, в это темное н полное полуночных страхов пространство. Вещая, ширококрылая птица разбудила меня, и я ушел из моей опочивальни, оставив на моем ложе мою милую супругу, сладкому отдавшуюся сну. И вот я здесь, и мнится мне, что передо мною множество неведомых лиц. Словно весь двор моего наследственного чертога наполнился, и изо всех окон, и с галерей, и с балконов смотрят на меня бледные тени давно почивших. Слушают, - и молчат. Смотрят на меня, - и ничего мне не скажут. Страшное равнодушие, томительное безучастие пришедших!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>По боковой лестнице поднимается Дульцинея. Она имеет облик крестьянской бедной девушки, и все здесь зовут её Альдонсою. На ней бедная, в лохмотьях, одежда; волосы её полуразвиты; руки у неё обнажены и ноги босы. На плече несёт она коромысло с двумя ведрами.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДУЛЬЦИНЕЯ.</strong> Как я устала! Боже мой, как я устала! Они заставляют меня ходить к источникам мертвой и живой воды, и когда я приношу наполненные ведра, они говорят, что эта вода моя не годится для питья. Они заставляют меня мыть ею полы, а меня бьют за то, что я приношу им воду горькую и терпкую. И не знают, что полные ведра сладкой воды я приношу им. И я устала.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ставит ведра на нижнюю ступень. Садится на лестницу близ короля, долго смотрит на него молча и наконец говорит ему тихо:</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДУЛЬЦИНЕЯ.</strong> Не ты ли король, обитающий в этом надменном чертоге и владеющий этою темною страною?</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Да, змеиноокая, я - король этой страны, но страна моя светлая.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Всматривается в неё и говорит:</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Я узнаю тебя. Ты - крестьянская девка Альдонса, та самая, над которой смеются мальчишки за то, что безумец называл тебя сладким именем Дульцинеи, милой очаровательницы, прекраснейшей из дев на земле. Ты научилась колдовать и ворожить, змеиноокая, но не нашла себе жениха.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДУЛЬЦИНЕЯ.</strong> Я жду короля и поэта, которые увенчают меня. Увенчают красоту и низвергнут безобразие. Отринут обычное и к невозможному устремятся.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Ведра твои стоят пусты, пославшие тебя ждут воды и будут бить тебя, если ты замедлишь на дороге. Возьми свои ведра, положив коромысло на молодое, смуглое плечо, иди за водою, служи усердно тому, кто тебя нанял за малую плату.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДУЛЬЦИНЕЯ.</strong> За малую плату!</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Полновесного и звонкого золота не стоит твой рабский труд. Грубые объятия хозяйского сына в темных сенях, где пахнет козлом и co6aкой, - вот достойная тебя награда. Научилась ты ворожить, - но что же пользы в твоих волхвованиях!</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДУЛЬЦИНЕЯ.</strong> Сюда идёт поэт, - и вместе с ним ты должен увенчать меня, Дульцинею.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Иди за водою.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДУЛЬЦИНЕЯ.</strong> Вот твоя милость, король! Усталую, посылаешь ты меня снова. Исполню твою волю, принесу воды живой и принесу воды мертвой. А теперь, король, возьми от меня этот малый дар.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Даёт ему амулет. Уходит с вёдрами на коромысле.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Что дала она мне, волшебница? Злые чары в этом амулете? Или благое нечто? Но надену его на шею.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Надевает амулет на шею.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Все легко и все свободно становится вокруг меня. Легкая, такая легкая жизнь! Легкая, такая легкая смерть! И сладким сном становится все предстоящее. Золотым сном.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Склоняется на ступени. Входит паж Даго6ерт.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДАГОБЕРТ.</strong> Король очарован змеиным взором Альдонсы и спит на ступенях. Королева Ортруда одна. Судьба благоприятствует мне.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Тихо уходитъ в королевскую опочивальню. Входят поэт и дама.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПОЭТ.</strong> Нам попался очень хороший извозчик.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДАМА.</strong> Да,он ехал очень быстро. Ветер шумел в ушах, и замирало сердце. Но он странный. Точно мертвый сидел. Господин поэт, куда он нас завез? Здесь тихо, темно и неподвижно.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПОЭТ.</strong> Это - кабачок. Но извозчик мне нравится. В стихотворении, которое я напишу об этой поездке, я назову его тройкой.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДАМА.</strong> На вашем месте, господин поэт, я назвала бы его автомобилем.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПОЭТ.</strong> Нет, моя госпожа, лучше тройка. И я нашел к этому слову хорошие рифмы.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДАМА.</strong> Какие, господин поэт?</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПОЭТ.</strong> Чародейка и водка.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДАМА.</strong> Это хорошие рифмы, господин</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПОЭТ.</strong> Но мне нравится только первая.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПОЭТ.</strong> А к слову автомобиль нет таких хороших рифм.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДАМА.</strong> А может быть и есть.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПОЭТ.</strong> Какая рифма?</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Слышен бесстрастный голос:</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>- Смерть.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДАМА.</strong> Вы слышали?</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПОЭТ.</strong> Слышал. Кто-то спрятался и шутит.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДАМА.</strong> Кто-то сидит на ступеньках.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПОЭТ.</strong> Это швейцар.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДАМА.</strong> Господин поэт, вы близоруки. Посмотрите хорошенько, это - король.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПОЭТ.</strong> Моя госпожа, вы ошибаетесь: короли не сидят на ступеньках.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДАМА.</strong> Может быть, вы правы, господин поэт. Но здесь скучно и страшно.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПОЭТ.</strong> Мы выпьем вина и поужинаем.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Обращаясь в пространство, к партеру, зовет:</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПОЭТ.</strong> Человек!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ждут. Всматриваются в темноту.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДАМА.</strong> Как здесь темно!</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПОЭТ.</strong> Так надо. Сейчас зажгут электричество. Человек!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Выходит Дульцинея, сгибаясь под тяжестью коромысла.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПОЭТ.</strong> Милая девушка, вы здесь подаете на стол? Дайте нам карточку.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДУЛЬЦИНЕЯ.</strong> Я принесла полные ведра живой и мертвой воды.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПОЭТ.</strong> В этом кабачке свой язык. Это - красное и белое вино. Моя госпожа, вы какого хотите?</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДАМА.</strong> Я хочу белого.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПОЭТ.</strong> Это здесь называется, очевидно, мертвою водою. Милая девушка, налейте нам мертвой воды.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Дульцинея подходит. Черпает ковшом, подаёт поэту. Тот слегка отстраняется.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПОЭТ.</strong> Неужели вино подается здесь в ведрах? Неужели его надо пить только из ковша?</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДАМА.</strong> Мне кажется, это оригинально.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПОЭТ.</strong> Мне кажется, это противно.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДАМА.</strong> Вы правы, господин</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПОЭТ.</strong> Оригинально, но противно. Мы не будем пить этой грязной воды из этих неопрятных ведер, из этого ржавого ковша.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДУЛЬЦИНЕЯ.</strong> Вы ошибаетесь, моя милая. Это живая и мертвая вода, и вам следовало бы её выпить. Вы бы увидели себя в волшебном зеркале.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДАМА</strong> капризно. Не хочу.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДУЛЬЦИНЕЯ.</strong> Господин поэт, я ждала вас долго. Вы пришли сюда в глубину времен...</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПОЭТ (ДАМЕ).</strong> Этот кабачок называется "В глубине времен".</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Дульцинея продолжает:</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>- ... для того, чтобы воспеть меня, прекраснейшую из земных дев, очаровательницу Дульцинею, которую здесь, в этой темной стране, неправо называют Альдонсою.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПОЭТ.</strong> Я пришел сюда не для этого.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДУЛЬЦИНЕЯ.</strong> Воспойте меня, господин поэт, и тогда король меня увенчает. Воспойте меня, милый поэт, и тогда юноша меня полюбит. Воспойте меня, милый и прекрасный поэт, и тогда для всех откроется мое настоящее имя.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПОЭТ.</strong> Вы самозванка. Настоящая Дульцинея живёт в надменном чертоге. Она не таскает тяжелых ведер. На её ногах - атласные башмаки, шитые жемчугом.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДУЛЬЦИНЕЯ.</strong> Господин поэт, смотрите в мои глаза и слагайте мне стихи.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПОЭТ.</strong> Я боюсь твоих глаз, змеиноокая. Я уже напечатал все мои стихи, и у меня нет новых.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДУЛЬЦИНЕЯ.</strong> Господин поэт, вы, однако, не уйдете от моих чар. И эта чужая вам не поможет. Сядьте на ступени и смотрите на то, что здесь произойдет.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПОЭТ.</strong> Я чувствую странную усталость. Сядемте здесь, моя госпожа: эта странная девица обещает нам зрелище.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДУЛЬЦИНЕЯ.</strong> От вас самих зависит, чтобы это было только зрелище, или чтобы это стало мистериею.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ПОЭТ.</strong> Она говорит об интимном театре. Посмотрим.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Король продолжает дремать посреди лестницы. Поэт и его дама садятся у колонны справа, прижимаясь друг к другу, и смотрят на зрелище, как на золотой сон.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДУЛЬЦИНЕЯ.</strong> Тяжко дремлет король, - и не хочет меня увенчать. Усталый склонился поэт на ступени чертога, прижимаясь плечом к плечу своей случайной спутницы, - и не хочет воспеть меня, и не узнает Дульцинеи. Призову юных и прекрасных, сладкие тайны любви вознесу к высокому блаженству.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Дульцинея обращается лицом к королевской опочивальне, и зовет.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДУЛЬЦИНЕЯ.</strong> Альдонса, именуемая королевою Ортрудою! И ты, юный паж Дагоберт! Идите ко мне.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>На верху лестницы показываются королева Ортруда и паж Дагоберт.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДАГОБЕРТ.</strong> Милая госпожа моя Ортруда, зачем ты вышла сюда? Король, очарованный змеиными очами безумной Альдонсы, дремал бы долго и не помешал бы нам насладиться сладкою нашею любовью.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ОРТРУДА.</strong> Кто-то звал меня, и так повелителен был зов.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДАГОБЕРТ.</strong> И она здесь, змеиноокая!</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДУЛЬЦИНЕЯ.</strong> Милый Дагоберт, разве ты не знаешь, кого ты любишь?</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДАГОБЕРТ.</strong> Я люблю королеву Ортруду. И она меня любит.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДУЛЬЦИНЕЯ.</strong> Разве ты не видишь, что это Альдонса? Глаза её тусклы, и голос её чрезмерно звонок. Люби меня, милый отрок, меня, прекрасную Дульцинею. Отвергни королеву, отдай её супругу.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ОРТРУДА.</strong> Она безумная. Не слушай ее, Дагоберт.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДУЛЬЦИНЕЯ.</strong> Молчи!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Королева молча склоняется рядом с королем на ступени, и зачарованным смотрит взором на зрелище.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДУЛЬЦИНЕЯ.</strong> Люби меня, милый Дагоберт.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДАГОБЕРТ.</strong> Ты красавица, милая Альдонса. И ты умеешь очаровать. Вот сидят на ступенях они, зачарованные тобою. Ты и меня зачаруешь, хитрая Альдонса?</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДУЛЬЦИНЕЯ.</strong> Не зови меня Альдонсою. Я Дульцинея.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДАГОБЕРТ.</strong> Все знают, что ты - Альдонса. Но мне все равно. Я буду звать тебя, как ты хочешь. Меня от этого не убудет.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Обнимает Дульцинею и хочет её поцеловать. Дульцинея отстраняется. Говорит тихо:</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДУЛЬЦИНЕЯ.</strong> И ты мне не веришь. И самая страшная насмешка надо мною в том, что ты назовешь меня именем, которое принадлежит мне, но которому ты не веришь. Такой любви мне не надо. Вернись к своей милой.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Дагоберт садится рядом с Ортрудою, обнимает её, и дремлет на её плече.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ДУЛЬЦИНЕЯ.</strong> Опять зрелище остается зрелищем, и не становится мистериею. Опять не увенчана, не воспета, не полюблена истинная красота этого мира, очаровательница Дульцинея, во образе змеиноокой Альдонсы. И великая во мне усталость, и великая тоска. Но не могу и не хочу оставить моего замысла. Неутомимая, буду стремиться к тому, чтобы увенчана была красота и низвергнуто безобразие. Неустанно в разных образах явлюсь поэту, любовнику и королю. Воспой меня, - скажу, - полюби меня, увенчай меня. Иди ко мне, иди за мною. Только я жива в жизни и в смерти, только во мне жизнь, только мне последняя победа. Вот, приму образ рабыни и Альгисту пошлю на великий подвиг, на исполнение моего вечного замысла. С её девственной свежестью сочетаю мои вечные чары, - победа ли жизни, победа ли смерти, но победа будет моя.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p> </p>
+<empty-line/>
+<empty-line/>
+<p> </p>
+<empty-line/>
+<empty-line/>
+<p> </p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p id="l2"><strong></strong></p>
+<p><strong></strong></p>
+<p><strong>ДЕЙСТВИЕ ВТОРОЕ</strong></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Те же сени. День. Из средних дверей стремительно выходит Альгиста. На ней торжественный наряд королевы. Она беспокойно мечется по сеням. Мальгиста выходит за нею. Слышен конец песни.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Баллада Этельберта</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И вот король поверил</p>
+<empty-line/>
+<p>Седому колдуну,</p>
+<empty-line/>
+<p>И выгнал он за двери</p>
+<empty-line/>
+<p>Любезную жену.</p>
+<empty-line/>
+<p>Обманутые славят</p>
+<empty-line/>
+<p>Отродье колдуна,</p>
+<empty-line/>
+<p>И королевством правят</p>
+<empty-line/>
+<p>Волшебник и она.</p>
+<empty-line/>
+<p>А где же королева?</p>
+<empty-line/>
+<p>Она в лесу глухом.</p>
+<empty-line/>
+<p>Вернется ль королева?</p>
+<empty-line/>
+<p>О том спою потом.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Король заметил?</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>МАЛЬГИСТА.</strong> Нет, госпожа, - все заслушались песен захожего певца.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Ты узнала его?</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Мальгиста молчит.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Что же нам делать?</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>МАЛЬГИСТА.</strong> Он ничего не посмеет сказать. Не станет же он говорить, что король Коломан, отец Берты и его отец, - обманщик.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Мне страшно!</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>МАЛЬГИСТА.</strong> Не бойся, милая дочь моя.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Нет, даже не страшно, я устала. Я думала не то. Я верила, что люди хотят свободы и света. Как настойчиво, как хитро, ночью и днем, повторяла я королю одно и то же всеми словами, какие находила! Он мне верил, он наконец научился думать по-моему. Но он ничего не может сделать, кроме того, что делали его предки: воевать, судить, награждать. Ничего дерзкого. Господа хотят властвовать, - это я понимаю. Но народ, - все эти простые люди, земледельцы и ремесленники, о, как они хотят быть рабами! Только рабами.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>МАЛЬГИСТА.</strong> Все говорят, что при тебе король стал милостив к народу, щедр к своим слугам, справедлив для всех, прибегающих к его суду. Народ благословляет имя твое, милая королева наша Берта.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Прославляют имя Берты! Но откроется правда, узнает король мое имя, - прославит ли он сладкое имя Альгисты?</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>МАЛЬГИСТА.</strong> Король не узнает.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Узнает.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>МАЛЬГИСТА.</strong> И узнает, да не поверит.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Идут.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Мальгиста отходит от неё и становится за колонною. Альгиста становится впереди сеней, в полуоборот к средним дверям, так что её лицо в тени. Из залы выходит король, принц Этельберт в одежде захожего певца, рыцари, дамы и пажи.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Милая Берта, свет моих очей, зачем ты ушла от нас? Он спел нам еще две песни, одну лучше другой.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Велико искусство захожего певца. Кто бы из людей мог петь так сладко и так коварно? Не силою ли нечистого беса внушены ему его хитрые напевы?</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> По всему видно, что он человек благочестивый.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Враг человека и в рясе приходит. У меня от его злых песен закружилась голова.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Прости, милая Берта, я думал, что тебе приятно. Певец, возьми это золото и иди отдыхать. Хороши твои песни, велико твое искусство, и боюсь, - не чародейная ли в нем сила.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ЭТЕЛЬБЕРТ.</strong> Моя сестра поёт лучше, и если от моих песен ушла милостивая госпожа Берта с королевского светлого пира, то пение сестры моей утешит королеву.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Где же твоя сестра?</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ЭТЕЛЬБЕРТ.</strong> Здесь, ждёт на дворе. Если позволишь, король, я приведу ее.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Приведи.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ЭТЕЛЬБЕРТ</strong><emphasis>, проходя мимо Альгисты</emphasis>. И девка Альгиста в королевах.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Сын обманщика идёт с обманом на обман.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ЭТЕЛЬБЕРТ.</strong> Бичу и розгам предадут прекрасное тело, и позорной смерти.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Уходит.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Что бормотал тебе захожий певец?</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Непонятные слова. Он одержим нечистым духом, и ум его охвачен злыми, жестокими видениями. Мерещатся ему измены, обманы, кровь, муки и смерть. Напрасно велел ты ему позвать его сестру. Если и она такая же, наведут они на тебя, милый мой господин, и на меня, 6едную, злые чары.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Так пусть скажут им, чтобы они не входили.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Но едва король начал говорить, по средней лестнице уже стремительно поднималась Берта с мальчиком, а за ними ЭТЕЛЬБЕРТ.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Милый певец, усладили наш слух твои песни. Верю, что еще искуснее и приятнее пение и голос твоей сестры, - но королева устала и не может слушать песен. А ты, искусница, не досадуй, что напрасно ожидала своей очереди петь. Возьми это золото и удались, может быть, мы с королевою призовем тебя завтра.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>БЕРТА.</strong> Устала и я, королева Берта. Изгнанная тобою, милый супруг, потому что обманщице Альгисте поверил ты больше, чем мне, скиталась я долго по дремучим лесам, по крутым горам, по широким долам. Рыскучие ветры меня обвевали, частые дожди меня мочили, красное солнце меня палило, колючие кустарники рвали мою одежду и царапали мое тело, о песок и о камни изранила я мои ноги. В поле под стогом родила я тебе, король, сына. Повила его нищая старуха, окрестила я его в 6едной деревенской церкви, назвала его Карлом, и будет он королем великим. Возьми его, милый король, и меня не гони с твоего ложа.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Спела ты, певица, свою песню, хоть и не хотели тебя слушать. Ну что же, пой ce6е дальше, - о себе спела, обо мне пой.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>БЕРТА.</strong> Ты - моя служанка Альгиста. Вон там, за столом, прячется, бледная от злобы и от страха, твоя мать Мальгиста.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ЭТЕЛЬБЕРТ.</strong> Милая Берта, не унижай себя спором с рабынею. Король, узнай, что я - Этельберт, сын короля Коломана, брат твоей несчастной супруги Берты, которую ты изгнал, обманутый злою Альгистою.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Он - безумный, и сестра его такая же.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ЭТЕЛЬБЕРТ.</strong> Со мною рыцари, привезшие десять лет назад Берту. Ты их узнаешь, и они скажут тебе правду.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Трубит в золотой рог. По средней лестнице всходят двенадцать рыцарей.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ЭТЕЛЬБЕРТ.</strong> И вот, король, грамота от короля Коломана.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Подаёт королю грамоту. Король берёт её.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Канцлер, распечатай эту грамоту, и мы прочтём её, как надлежит читать королевские послания, стоя на королевском нашем месте. А теперь ты, захожий певец, называющий себя принцем Этельбертом., скажи нам еще раз, утверждаешь ли ты, что вот эта женщина, пришедшая с тобою, - она то и есть прекрасная Берта, дочь короля Коломана.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ЭТЕЛЬБЕРТ.</strong> Да, это - королева Берта, твоя жена и дочь моего отца, короля Коломана.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong><emphasis>, смеётся</emphasis>. Прекрасная Берта! Красавица! Смотри, король, какой у неё большой рот! Какая она рябая! И одна нога у неё длиннее другой.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>БЕРТА.</strong> Ты все это хорошо помнишь, Альгиста, - да и тебе ли не помнить! Ты одевала и обувала меня.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ЭТЕЛЬБЕРТ.</strong> Сестра моя была прекрасна, но злыми чарами по дороге сюда испортила её</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Смотри, король, как сестра моя похожа на меня.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Такой же рыжий урод, как и она.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ЭТЕЛЬБЕРТ.</strong> Однако девушки моей родины, да и в других странах, засматривались на меня, и любая из них...</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Золотом брякнешь, - распутная девка виснет на шею.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>ЭТЕЛЬБЕРТ.</strong> Король, допроси моих спутников. Может быть, ты припомнишь их лица.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Вернемся в наш королевский чертог, прочтем эту грамоту, рассмотрим дело и решим его по совести. И грозен будет суд наш для замысливших обман.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Уходит в среднюю дверь. За ним все, кроме Альгисты и Мальгисты.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>МАЛЬГИСТА.</strong><emphasis>, подходя к дочери</emphasis>. Милая госпожа, иди на свое место рядом с королем. Ничего не бойся. Не сознавайся. Король тебя любит и только тебе поверит.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Останусь здесь. Я устала. И не хочу быть Бертою.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>МАЛЬГИСТА.</strong> Что ты говоришь, безумная! И себя, и меня погубишь.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Разве я не прекрасна? Разве я не была ему верна? Разве у меня нет ему сына? Видела ты? Притащили сюда чахлого выродка, а мой сын, мой сын, - сильный, прекрасный, мой сын, о Хильперик!</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>МАЛЬГИСТА.</strong> Видишь, все за тебя, милая дочь моя. Так не бойся, иди смело, займи свое место, король только тебе поверит.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Настал час последнего испытания. Если он меня любит, если долгие дни и сладкие ночи нас навеки сковали, то он меня не отвергнет и увенчает Альгисту. Иду, открою мое имя.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>МАЛЬГИСТА.</strong> Безумная, невозможное ты замыслила.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Иду.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Идёт к дверям в зал. Мальгиста её удерживает. Краткая борьба.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА</strong><emphasis>, кричит</emphasis>. Король, я - Альгиста!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Быстро входит в зал. Мальгиста 6ежит за нею.</p>
+<empty-line/>
+<empty-line/>
+<p>За сценой.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Альгиста?</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Шум. Отдельные возгласы.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Я - АЛЬГИСТА. Вот, Хлодовег, я перед тобою, суди меня, как хочешь, казни или милуй, - но вспомни, вспомни, король, как была я тебе...</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Молчи! Обманщица и рабыня опозорила мое ложе!</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>Рыцари и дамы.</strong> Обманщица! Рабыня! Смерть ей!</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Милый король мой Хлодовег, я была тебе верною женою.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Молчи! Позорной смерти...</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Хлодовег, милый супруг мой Хлодовег...</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Женщины, заставьте её молчать.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Альгиста глухо вскрикивает. Шум, восклицания. Выделяется один голос:</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>- Замолчите! Король произносит свой грозный приговор.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Снять с обманщицы венец, ожерелье и одежду королевы. Ты, любезная королева Берта, займи свое место. Обманщицу позорной и лютой казнить смертию перед народом, - бичу и розгам предать, обнажив её тело... и сечь до смерти, и тело бросить в ров на съедение собакам. И мальчишку бить и повесить. А мы с тобою, королева, пойдем и с высокого будем смотреть балкона на её муки и слушать её вопли.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Заглушенные возгласы Альгисты. Вопли Мальгисты. Смех. Шум. Крики. Шум постепенно возрастает. Слышен грубый хохот. Рыцари, дамы, пажи, слуги и служанки начинают выходить из зала. В их толпе крики.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>Рыцари, дамы, пажи, слуги и служанки:</strong></p>
+<empty-line/>
+<empty-line/>
+<p>- Обманщица уличена!</p>
+<empty-line/>
+<p>- Эта простая девка Альгиста.</p>
+<empty-line/>
+<p>- С неё сорвали все уборы, и возложили на настоящую королеву.</p>
+<empty-line/>
+<p>- Где её будут наказывать?</p>
+<empty-line/>
+<p>- Здесь, на дворе, среди этого народа, который пришел смотреть на зрелище.</p>
+<empty-line/>
+<p>- Смотрите, её уже раздевают.</p>
+<empty-line/>
+<p>- Обманщицу казнят сегодня же.</p>
+<empty-line/>
+<p>- Лютою и позорною смертью.</p>
+<empty-line/>
+<p>- Её высекут до смерти розгами и бичами из воловьей кожи.</p>
+<empty-line/>
+<p>- И её мальчишку повесят.</p>
+<empty-line/>
+<p>- Я плюнул ей прямо в глаза!</p>
+<empty-line/>
+<p>- Я надавал ей пощечин!</p>
+<empty-line/>
+<p>- На ней одна рубашка, но мы её сейчас сорвём.</p>
+<empty-line/>
+<p>- Ведут, ведут!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Из дверей зала выводят Альгисту. Все толпятся вокруг нее, хохочут, кричат, издеваются. Её ведут по широкой лестнице вниз в партер, где двор замка. Сени окутываются мраком. Слышен вопль Мальгисты.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>МАЛЬГИСТА.</strong> Добрые люди, добрые люди, спасите дочь мою Альгисту!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p> </p>
+<empty-line/>
+<empty-line/>
+<p> </p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p id="l4"><strong></strong></p>
+<p><strong></strong></p>
+<p><strong>ДЕЙСТВИЕ ТРЕТЬЕ</strong></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Те же сени. Ночь. Слышен вой собак. Полная луна бросает ясную полосу света на верхние ступени и на край площадки, оставляя остальное место в тени.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Сени сначала пусты. Потом по боковой лестнице медленно поднимается МАЛЬГИСТА. Несёт на плечах тело Альгисты, полунагое, едва прикрытое окровавленною и изорванною одеждою. Положила Альгисту на место, озаренное луною, села над нею, плачет, тихо причитает:</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>МАЛЬГИСТА.</strong> Дочь моя, дочь моя! Забили, замучили. Долго хлестали беспощадные бичи, и хохотали слуги и мальчишки. И умерла моя Альтиста. И бросили её в ров замка на съедение собакам, - но псы не тронули ее, и выли над её телом, выли в тоске над телом ласковой госпожи. И поднималась луна, и выли псы, и тоска моя восходила к небу.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Плачет, точно воет. Слышен вой собак. Мальгиста поднимается тихо и уходит, причитая.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>МАЛЬГИСТА.</strong> К холодной луне и к ясному небу восходит моя тоска. Воют псы, нюхая кровь ласковой госпожи, - и я завою на месте, где в землю впиталась её обильно пролитая кровь.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ушла. Альгиста поднимается, зовет.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Спящие, встаньте!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Все тихо. Альгиста падает. Мальгиста возвращается. Несёт ребенка. Положила его рядом с Альгистою. Села над ними и плачет, причитает.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>МАЛЬГИСТА.</strong> И невинного не пощадили отрока. Избили, измучили, убили, бросили с матерью рядом. О, Альгиста, Альгиста, дочь моя!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Альгиста приподнимается и вскрикивает.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Спящие, встаньте!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Мальгиста склоняется над нею, спрашивает её тихо.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>МАЛЬГИСТА.</strong> Дочь моя, милая, ты жива?</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> В этот страшный час только мертвые живы.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>За окном слышна перекличка часовых. Кто-то поднимается по лестнице сбоку и заглядывает в сени. Замок мало по малу наполняется тихими, все возрастающими, шорохами, шумами.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>МАЛЬГИСТА.</strong> Дочь моя, скажи мне, ты не умерла? Ты жива?</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Близок час последнего испытания.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>МАЛЬГИСТА.</strong> Или из мертвых встала ты, разбуженная силами ворожащей в тихом небе или таинственным шепотом блуждающей около ночных распутий?</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Смотри, - вот два пути, - он изберет один из них. Жива ли я, мертва ли я...</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Медленно поднимается и зовет.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Жив ли ты, мертв ли ты, сын мой Хильперик, встань!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Мальчик поднимается. В свете луны видны бледные лица Альгисты и мальчика и окровавленные их одежды. Альгиста обращается лицом к дверям, ведущим в королевскую опочивальню, и кричит голосом громким и диким, наполняющим всю громаду здания:</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Спящие, встаньте!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>В замке слышен шум, смятение, крики, звон оружия. Через сени про6егают слуги, пажи, рыцари, женщины. Сени наполняются смятенным народом. Слышны восклицания:</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>- Кто здесь так громко кричал?</p>
+<empty-line/>
+<p>- Что случилось?</p>
+<empty-line/>
+<p>- Враги напали?</p>
+<empty-line/>
+<p>- Не мертвые ли встали?</p>
+<empty-line/>
+<p>- Не трубу ли архангела мы слышали, зовущую на страшный суд?</p>
+<empty-line/>
+<p>- Страшно!</p>
+<empty-line/>
+<p>- Дивные дела здесь творятся!</p>
+<empty-line/>
+<p>- Пролитая кровь вопиет к небу.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Темно.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>- Где факелы?</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Кто-то вносит факел, потом другой, еще и еще. Люди с факелами беспорядочно мечутся по сеням.. Иные факелы вставлены в кольца. Люди кричат:</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>- Смотрите, здесь Альгиста!</p>
+<empty-line/>
+<p>- Замученная королева встала!</p>
+<empty-line/>
+<p>- И её сын!</p>
+<empty-line/>
+<p>- Горе нам, не злое ли совершили мы здесь дело?</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>МАЛЬГИСТА.</strong> Горе вам, - злое вы совершили здесь дело, прекрасный вы разбили сосуд и многоценное пролили вино!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Возрастающим светом факелов все более освещаются сени. Альгиста и её сын у края лестницы, остальные теснятся к стенам и колоннам. Выходит король, Берта и Этельберт. Хлодовег и Берта едва одеты, но на головах их короны. В руке короля обнаженный меч. Шум затихает. Все, кроме короля, останавливаются неподвижно и смотрят на Альгисту.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>МАЛЬГИСТА.</strong> Милая дочь моя Альгиста, скажи ему сладкие слова любви.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Король, злое ты совершил дело, но моя любовь тебя прощает. Оставь эту чужую, иди за мною, иди к жизни светлой и свободной.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Кто ты? И зачем ты здесь? Если ты жива, сокройся от нашего праведного гнева. Если ты от мертвых встала, вернись к своему покою, и живущих на земле не тревожь ночными явлениями.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>МАЛЬГИСТА.</strong> Милая дочь моя Альгиста, зови его, чтобы он шел за тобою.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Милый господин и супруг мой Хлодовег, я - твоя</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Я люблю тебя, я пришла к тебе призвать тебя ко мне. Иди ко мне, иди за мною.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Ты меня обманула.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Я была верна тебе, я останусь верна тебе до конца.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>БЕРТА.</strong> Король, убей волшебницу.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Хлодовег, скажи мне, любил ли ты меня?</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Любил.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Скажи мне, любишь ли ты меня?</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Люблю.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Иди же за мною.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Муки ли заслуженной тобою кары помрачили твой разум? Или воздвигнутая злыми чарами пришла ты к нам? Скажи нам, кто же ты? Полночный призрак или живая Альгиста?</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>БЕРТА.</strong> Король, зачем же в руке твоей меч? Вонзи его железо в злое сердце обманщицы.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>МАЛЬГИСТА.</strong> Милая дочь моя Альгиста, очаруй его сладкими словами любви, таинственные скажи ему заклинания.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Господин мой, к Te6е пришла я, - возьми меня так, как ты сам хочешь, живою или мертвою. Властью моей безмерной любви, силою моих нестерпимых мучений, над жизнью и над смертью торжествующею моею волею купила я у земли, и у неба, и у темного подземного мира твое тело, и твою душу, и твою полночную тень. Вот, я перед тобою, едва жива, едва мертва, дыханием едва дышу, тлением едва тлею, на страшном колеблюсь перекрестке, кровь моя в сырой земле, и голос мой в луне ворожащей, - и я зову тебя: иди ко мне, избери наш путь к жизни или к смерти по своей воле, иди со мною живою, люби меня, - или останься здесь, но и здесь со мною, с мертвою мною. Люби меня, господин мой и супруг, навеки мой, люби меня.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Обманом ты взошла на мое ложе, ты похитила имя и честь королевы.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>БЕРТА.</strong> Она - чаровница. Скорее пронзи её мечом.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Когда ты меня любил, когда ты меня ласкал, когда ты нежные шептал мне слова, что нам были и блеск твоей короны и твоя верховная власть! Не напоила ли я тебя всеми сладостями любви? Не всякую ли твою радость я прославила светлым моим веселием? Не всякую ли твою печаль я растворила в моих слезах? Не была ли я тебе ясным небом, и прохладною тенью, и птицей-щебетуньей, и звонко-лепечущим ручьем? Мои белые, мои голые руки легче королевского ложились ожерелья на твои утомленные плечи. Слаще фалернского вина были тебе знойные поцелуи моих алых губ. Ярче многоцветных алмазов и рубинов твоей короны сияли тебе мои очи. Не была ли я прекраснее всех королев? И не ты ли говорил, что я - мудрейшая из жен, что слова мои падают, как золото, на легкий пепел речей старейших твоих вельмож?</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Ты была прекрасна и мудра, и я тебя любил. Но минувшее невозвратно. Удались.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>БЕРТА.</strong> Пронзи мечом.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Я не уйду от тебя. Мы соединены навеки тайною силою моей любви.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Вот жена моя, королева Берта, - под охраною верных в своей светлице почивает сын наш и наследник Карл, - тебе и твоему сыну нет места между нами.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> А ты меня любишь?</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Люблю.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Так пусть останутся здесь королева Берта и юный Карл. Отдай ему свою корону, иди за мною. Я открою тебе счастливый и вольный мир, я уведу тебя в долину меж дальних гор, где нет владык и рабов, где легок и сладок воздух свободы.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Безумны твои речи. Я - король.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>БЕРТА.</strong> Убей.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Хлодовег, твоя судьба в твоих руках. Смотри, гаснут факелы. Слушай, - за окном воют чуткие псы, обнюхивая на тонкой дорожной пыли неведомый след. Смотри, король, как все тихо, темно и неподвижно вокруг тебя. Слышишь, они молчат, и только мои слова падают во тьму перед тобою.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Безумная, уйди. Пажи, уведите ее.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Все вокруг короля неподвижны и смотрят на Альгисту.</p>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Здесь только я, вся жизнь и вся смерть во мне, - а выбор твой, Хлодовег, мой милый господин и супруг. Приближается последний миг. Судьба не ждет. В последний раз говорю тебе: иди за мною, со мною иди к жизни, только со мною жизнь, - а там, где цепенеешь ты, король, в безумии своей короны, в своей кровавой мантии, - там смерть. Иди за мною, сними свой венец.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Я не пойду за тобою. Я король. Удались, безумная. Из-за окон слышны удары церковного колокола.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Час настал. Хлодовег, твой выбор сделан. Ты не уйдешь? Нет?</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>КОРОЛЬ.</strong> Нет.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>МАЛЬГИСТА.</strong> Холодным камнем среди камней стоит он перед тобою,</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Альгиста, змеиноокая дочь моя, страшными очаруй его словами, вечной обреки его неподвижности.</p>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong>АЛЬГИСТА.</strong> Холодным камнем среди камней стоишь ты передо мною! Каменей, король, холодным камнем стой, пока не изгложет и тебя время.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Альгиста падает у ног короля. Её сын падает на её труп. Король и остальные стоят неподвижно. Слышен бесстрастный голос:</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>- Смотрите, - умерла Альгиста, умер Хильперик. Неутешная навеки над ними мать. Смотрите, - окаменел Хлодовег и бывшие с ним. Смотрите, - они стоят, уподобясь иссеченному из камня изваянию. Смотрите, - плоскою картиною становится зрелище окаменелой жизни, и меркнет луна, и всякий свет бежит от этого места, и черным облаком смерти закрывается громада надменного чертога. И верьте, - Смертию побеждает Любовь, Любовь и Смерть - одно.</p>
+<empty-line/>
+<empty-line/>
+<p>_____________________</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p> </p>
+<empty-line/>
+<empty-line/>
+<p> </p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><strong></strong></p><strong></strong>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p id="l5"><strong></strong></p>
+<p><strong></strong></p>
+<p><strong>ПРИМЕЧАНИЕ</strong></p>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p>Содержание этой трагедии заимствовано в общих чертах из предания о королеве Берте Длинноногой, матери Карла Великого. Имя короля изменено с намерением, чтобы оторвать эту трагедию от истории и даже от легенды, которая завязывается несколько иначе и кончается не совсем так, как у меня. Вот как изложена эта легенда в книге Г. Н. Потанина "Восточные мотивы", стр. 5-7:</p>
+<empty-line/>
+<empty-line/>
+<p>"Французский король Пепин хочет жениться; пэры едут в Венгрию в город Буду, и просят у венгерского короля его дочь. Король очень польщен этим сватовством, но боится, что Пепин отвергнет невесту, потому что она уродлива: у вся одна нога больше другой. Однако пэры, хотя лично убедились в этом, остались при прежнем решении. Родители отпускают дочь с двумя служанками, старой и молодой; старая - Маргиста, молодая - её дочь АЛЬГИСТА. Невеста принята в Париже с почетом; наступает ночь, Берта должна идти на брачную постель. Маргиста высказывает опасение, как бы Пепин не убил ее; Берта смущена, Маргиста согласна послать вместо неё Альгисту, чтобы спасти принцессу. Берта проводит ночь в комнате Маргисты, а утром крадется в королевскую спальню, чтобы незаметно для короля сменить Альгисту. При её входе Альгиста наносит себе рану ножом и обвиняет Берту в желании убить ее. Король, принимающий Альгисту за Берту, возмущен и велит казнить мнимую Альгисту".</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

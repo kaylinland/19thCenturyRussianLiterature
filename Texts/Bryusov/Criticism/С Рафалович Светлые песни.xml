@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Валерий</first-name>
+			<middle-name>Яковлевич</middle-name>
+			<last-name>Брюсов</last-name>
+		</author>
+		<book-title>С. Рафалович. Светлые песни</book-title>
+<annotation></annotation>		<date value="2014-05-08">08/05/2014</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 01:53:41</date>
+		<src-url>http://az.lib.ru/b/brjusow_w_j/text_1912_rafalovich.shtml</src-url>
+		<id>samlib58f49eb5dd9ab3.68536032</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Брюсов Валерий Яковлевич</p>
+	<empty-line/>
+	<p>С. Рафалович. Светлые песни</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>В. Брюсов. С. Рафалович. Светлые песни</strong><strong> </strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<empty-line/>
+<p>В одном стихотворении автор говорит о себе: "Я жажду бесконечного... страданий необъемлемых, страстей неизживаемых"... Эти модные желания не очень к лицу его музе, трезвой, умеренной и рассудительной. О поэзии г. Рафаловича можно сказать его собственным стихом: "Там разум входы стережет". В ней нет порыва, нет прозрений, к ней всего менее подходили бы слова Фета о "даре безумных песен". Объективное творчество везде более удается автору, чем чистая лирика. Лучшие вещи в книге те, где сам поэт исчезает за образами, заставляет говорить за себя свои создания: такова баллада о "Лигее", сонеты о Еве и о Терезии, стильная пьеса "XVIII век", "Два друга" и т. п. В философских раздумьях, объединенных в лирическую поэму "Душа и мир", есть интересные мысли, но они остались бы ровно столь же интересными, будь изложены прозой. С внешней стороны стихи г. Рафаловича, за редкими исключениями, незвучны и однообразны; один и тот же размер (чуть ли не половина всех стихотворений написаны хореическими четверостишиями), одни и те же приемы, сходные образы -- повторяются на многих страницах. Есть погрешности языка, если только это не licentia poetica, в таком случае неудачные.</p>
+<empty-line/>
+<p>Валерий БРЮСОВ. "Весы". 1905, No 12.</p>
+<empty-line/>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

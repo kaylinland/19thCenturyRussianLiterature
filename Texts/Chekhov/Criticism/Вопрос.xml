@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Антон</first-name>
+			<middle-name>Павлович</middle-name>
+			<last-name>Чехов</last-name>
+		</author>
+		<book-title>Вопрос</book-title>
+<annotation></annotation>		<date value="2014-08-13">13/08/2014</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 02:27:11</date>
+		<src-url>http://az.lib.ru/c/chehow_a_p/text_1891_vopros.shtml</src-url>
+		<id>samlib58f4a68f196d21.54386470</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Чехов Антон Павлович</p>
+	
+	<p>Вопрос</p>
+</title>
+
+<section>
+
+<p>
+
+</p>
+
+
+<p>А. П. Чехов</p>
+
+
+
+<p>Вопрос</p>
+
+
+<p>Полное собрание сочинений и писем в тридцати томах</p>
+<p>Сочинения в восемнадцати томах. Том шестнадцатый</p>
+
+<p>Ввиду того, что лебеда примешивается к муке и хлеб с примесью лебеды употребляется крестьянами давным-давно, может быть столетия, нас просят спросить гг. ученых, исследованы ли семена лебеды и определены ли те питательные составные части, которые, вероятно, заставляют крестьян прибегать к этому растению, или же никто из гг. ученых этим растением не занимался и дело ограничивалось только тем, что все они разводили руками, когда слышали о лебеде как суррогате хлеба?</p>
+
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

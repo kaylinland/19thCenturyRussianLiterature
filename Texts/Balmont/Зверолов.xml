@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Константин</first-name>
+			<middle-name>Дмитриевич</middle-name>
+			<last-name>Бальмонт</last-name>
+		</author>
+		<book-title>Зверолов</book-title>
+<annotation></annotation>		<date value="2017-05-22">22/05/2017</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-05-22">2017-05-22 10:58:34</date>
+		<src-url>http://az.lib.ru/b/balxmont_k_d/text_1916_poe.shtml</src-url>
+		<id>samlib59229a2a77f864.65513440</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Бальмонт Константин Дмитриевич</p>
+	<empty-line/>
+	<p>Зверолов</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Константин Бальмонт</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p> </p>
+<p> <strong>                    ЗВЕРОЛОВ</strong></p>
+<p> </p>
+<p> </p>
+<p>           Когда царил тот сильный зверолов,</p>
+<p>           Что миру явлен именем Немврода,</p>
+<p>           Чуть зачинала сны времен природа,</p>
+<p>           И раем был любой лесистый ров.</p>
+<p> </p>
+<p>           Не кроликов и не перепелов</p>
+<p>           Он в сети уловлял. Иного рода</p>
+<p>           Ловить зверей была ему угода.</p>
+<p>           Взлюбил он коготь, клык, и рог, и рев.</p>
+<p> </p>
+<p>           Когда громадой в любострастном миге</p>
+<p>           Шел мастодонт мохнатый, разъярен,</p>
+<p>           Навстречу шел и улыбался он.</p>
+<p> </p>
+<p>           На зверя сбоку вдруг бросал вериги,</p>
+<p>           И записали в слове Древней Книги: -</p>
+<p>           "Сей начал быть могучим в сне времен".</p>
+<p> </p>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

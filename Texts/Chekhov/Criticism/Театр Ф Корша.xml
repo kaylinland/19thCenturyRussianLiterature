@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Антон</first-name>
+			<middle-name>Павлович</middle-name>
+			<last-name>Чехов</last-name>
+		</author>
+		<book-title>Театр Ф. Корша</book-title>
+<annotation></annotation>		<date value="2014-07-14">14/07/2014</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 02:27:10</date>
+		<src-url>http://az.lib.ru/c/chehow_a_p/text_1888_korsh.shtml</src-url>
+		<id>samlib58f4a68eafda42.17068636</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Чехов Антон Павлович</p>
+	
+	<p>Театр Ф. Корша</p>
+</title>
+
+<section>
+
+<p>
+
+</p>
+
+
+<p>А. П. Чехов</p>
+
+
+
+<p>&lt;Театр Ф. Корша&gt;</p>
+
+
+<p>Полное собрание сочинений и писем в тридцати томах</p>
+<p>Сочинения в восемнадцати томах. Том шестнадцатый</p>
+
+<p>Нам пишут из Москвы, что 13-го января в театре Корша, в бенефис режиссера Н. Н. Соловцова, будет поставлена пьеса А. Дюма "Кин", с г. Соловцовым в заглавной роли. Вскоре затем пойдет и "Ревизор". По-видимому, заправилы театра поняли наконец, что на одной смешливости московской публики далеко не уедешь, и решили приняться за серьезный репертуар. И слава богу. Не надо быть упрямым и продолжать показывать публике язык, когда это уже никому не смешно. Конечно, жаль, что коршевская труппа занялась настоящим делом не в начале сезона, а только в конце, но лучше поздно, чем никогда.</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

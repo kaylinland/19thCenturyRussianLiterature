@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Алексей</first-name>
+			<middle-name>Васильевич</middle-name>
+			<last-name>Кольцов</last-name>
+		</author>
+		<book-title>Песня пахаря</book-title>
+<annotation></annotation>		<date value="2009-04-06">06/04/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-08-31">2017-08-31 01:06:10</date>
+		<src-url>http://az.lib.ru/k/kolxcow_a_w/text_0060.shtml</src-url>
+		<id>samlib59a7df9289a836.22114941</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Кольцов Алексей Васильевич</p>
+	<empty-line/>
+	<p>Песня пахаря</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>А. В. Кольцов</p>
+<empty-line/>
+<p>Песня пахаря</p>
+<empty-line/>
+<p>Ну! тащися, сивка,</p>
+<p>Пашней, десятиной,</p>
+<p>Выбелим железо</p>
+<p>О сырую землю.</p>
+<empty-line/>
+<p>Красавица зорька</p>
+<p>В небе загорелась,</p>
+<p>Из большого леса</p>
+<p>Солнышко выходит.</p>
+<empty-line/>
+<p>Весело на пашне;</p>
+<p>Ну! тащися, сивка!</p>
+<p>Я сам-друг с тобою,</p>
+<p>Слуга и хозяин.</p>
+<empty-line/>
+<p>Весело я лажу</p>
+<p>Борону и соху,</p>
+<p>Телегу готовлю,</p>
+<p>Зерна насыпаю.</p>
+<empty-line/>
+<p>Весело гляжу я</p>
+<p>На гумно, на скирды,</p>
+<p>Молочу и вею...</p>
+<p>Ну! тащися, сивка!</p>
+<empty-line/>
+<p>Пашенку мы рано</p>
+<p>С сивкою распашем,</p>
+<p>Зернышку сготовим</p>
+<p>Колыбель святую.</p>
+<empty-line/>
+<p>Его вспоит, вскормит</p>
+<p>Мать земля сырая;</p>
+<p>Выйдет в поле травка -</p>
+<p>Ну! тащися, сивка!</p>
+<empty-line/>
+<p>Выйдет в поле травка -</p>
+<p>Вырастет и колос,</p>
+<p>Станет спеть, рядиться</p>
+<p>В золотые ткани.</p>
+<empty-line/>
+<p>Заблестит наш серп здесь,</p>
+<p>Зазвенят здесь косы;</p>
+<p>Сладок будет отдых</p>
+<p>На снопах тяжелых!</p>
+<empty-line/>
+<p>Ну! тащися, сивка!</p>
+<p>Накормлю досыта,</p>
+<p>Напою водою,</p>
+<p>Водой ключевою.</p>
+<empty-line/>
+<p>С тихою молитвой</p>
+<p>Я вспашу, посею:</p>
+<p>Уроди мне, боже,</p>
+<p>Хлеб - мое богатство!</p>
+<empty-line/>
+<p>26 ноября 1831</p>
+</section>
+
+</body>
+</FictionBook>

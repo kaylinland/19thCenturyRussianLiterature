@@ -1,0 +1,2095 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Евгений</first-name>
+			<middle-name>Абрамович</middle-name>
+			<last-name>Баратынский</last-name>
+		</author>
+		<book-title>Сумерки</book-title>
+<annotation><p>Авторский сборник 1842 года в составе 27 стихотворений. По мнению некоторых, лучший поэтический сборник в истории русской поэзии.</p></annotation>		<date value="2004-12-17">17/12/2004</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 01:29:41</date>
+		<src-url>http://az.lib.ru/b/baratynskij_e_a/text_0030.shtml</src-url>
+		<id>samlib58f49916ebeef4.18443162</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Баратынский Евгений Абрамович</p>
+	<empty-line/>
+	<p>Сумерки</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>СУМЕРКИ</p>
+<empty-line/>
+<p>Москва, 1842 г.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>СОДЕРЖАНИЕ:</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>01. Князю Петру Андреевичу Вяземскому</p>
+<empty-line/>
+<p>02. Последний поэт</p>
+<empty-line/>
+<p>03. "Предрассудок! он обломок..."</p>
+<empty-line/>
+<p>04. Новинское</p>
+<empty-line/>
+<p>05. Приметы</p>
+<empty-line/>
+<p>06. "Всегда и в пурпуре и в злате... "</p>
+<empty-line/>
+<p>07. "Увы! Творец непервых сил!.. "</p>
+<empty-line/>
+<p>08. Недоносок</p>
+<empty-line/>
+<p>09. Алкивиад</p>
+<empty-line/>
+<p>10. Ропот</p>
+<empty-line/>
+<p>11. Мудрецу</p>
+<empty-line/>
+<p>12. "Филида с каждою зимою... "</p>
+<empty-line/>
+<p>13. Бокал</p>
+<empty-line/>
+<p>14. "Были бури, непогоды..."</p>
+<empty-line/>
+<p>15. "На что вы, дни! Юдольный мир явленья..."</p>
+<empty-line/>
+<p>16. Коттерие</p>
+<empty-line/>
+<p>17. Ахилл</p>
+<empty-line/>
+<p>18. "Сначала мысль, воплощена... "</p>
+<empty-line/>
+<p>19. "Ещё как патриарх, не древен я; моей..."</p>
+<empty-line/>
+<p>20. "Толпе тревожный день приветен, но страшна..."</p>
+<empty-line/>
+<p>21. "Здравствуй, отрок сладкогласный!.."</p>
+<empty-line/>
+<p>22. "Что за звуки? Мимоходом..."</p>
+<empty-line/>
+<p>23. "Всё мысль да мысль! Художник бедный слова!.."</p>
+<empty-line/>
+<p>24. Скульптор</p>
+<empty-line/>
+<p>25. Осень</p>
+<empty-line/>
+<p>26. "Благословен святое возвестивший!.."</p>
+<empty-line/>
+<p>27. Рифма</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>01. КНЯЗЮ ПЕТРУ АНДРЕЕВИЧУ ВЯЗЕМСКОМУ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Как жизни общие призывы,</p>
+<empty-line/>
+<p>Как увлеченья суеты,</p>
+<empty-line/>
+<p>Понятны вам страстей порывы</p>
+<empty-line/>
+<p>И обания мечты;</p>
+<empty-line/>
+<p>Понятны вам все дуновенья,</p>
+<empty-line/>
+<p>Которым в море бытия</p>
+<empty-line/>
+<p>Послушна наша ладия.</p>
+<empty-line/>
+<p>Вам приношу я песнопенья,</p>
+<empty-line/>
+<p>Где отразилась жизнь моя:</p>
+<empty-line/>
+<p>Исполнена тоски глубокой,</p>
+<empty-line/>
+<p>Противоречий, слепоты</p>
+<empty-line/>
+<p>И между тем любви высокой,</p>
+<empty-line/>
+<p>Любви, добра и красоты.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Счастливый сын уединенья,</p>
+<empty-line/>
+<p>Где сердца ветреные сны</p>
+<empty-line/>
+<p>И мысли праздные стремленья</p>
+<empty-line/>
+<p>Разумно мной усыплены;</p>
+<empty-line/>
+<p>Где, другу мира и свободы,</p>
+<empty-line/>
+<p>Ни до фортуны, ни до моды,</p>
+<empty-line/>
+<p>Ни до молвы мне нужды нет;</p>
+<empty-line/>
+<p>Где я простил безумству, злобе</p>
+<empty-line/>
+<p>И позабыл, как бы во гробе,</p>
+<empty-line/>
+<p>Но добровольно, шумный свет, -</p>
+<empty-line/>
+<p>Ещё порою покидаю</p>
+<empty-line/>
+<p>Я Лету, созданную мной,</p>
+<empty-line/>
+<p>И степи мира облетаю</p>
+<empty-line/>
+<p>С тоскою жаркой и живой.</p>
+<empty-line/>
+<p>Ищу я вас, гляжу: что с вами?</p>
+<empty-line/>
+<p>Куда вы брошены судьбами,</p>
+<empty-line/>
+<p>Вы, озарявшие меня</p>
+<empty-line/>
+<p>И дружбы кроткими лучами,</p>
+<empty-line/>
+<p>И светом высшего огня?</p>
+<empty-line/>
+<p>Что вам дарует провиденье?</p>
+<empty-line/>
+<p>Чем испытует небо вас?</p>
+<empty-line/>
+<p>И возношу молящий глас:</p>
+<empty-line/>
+<p>Да длится ваше упоенье,</p>
+<empty-line/>
+<p>Да скоро минет скорбный час!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Звезда разрозненной плеяды!</p>
+<empty-line/>
+<p>Так из глуши моей стремлю</p>
+<empty-line/>
+<p>Я к вам заботливые взгляды,</p>
+<empty-line/>
+<p>Вам высшей благости молю.</p>
+<empty-line/>
+<p>От вас отвлечь судьбы суровой</p>
+<empty-line/>
+<p>Удары грозные хочу,</p>
+<empty-line/>
+<p>Хотя вам прозою почтовой</p>
+<empty-line/>
+<p>Лениво дань мою плачу.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1834</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>02. ПОСЛЕДНИЙ ПОЭТ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Век шествует путём своим железным;</p>
+<empty-line/>
+<p>В сердцах корысть, и общая мечта</p>
+<empty-line/>
+<p>Час от часу насущным и полезным</p>
+<empty-line/>
+<p>Отчетливей, бесстыдней занята.</p>
+<empty-line/>
+<p>Исчезнули при свете просвещенья</p>
+<empty-line/>
+<p>Поэзии ребяческие сны,</p>
+<empty-line/>
+<p>И не о ней хлопочут поколенья,</p>
+<empty-line/>
+<p>Промышленным заботам преданы.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Для ликующей свободы</p>
+<empty-line/>
+<p>Вновь Эллада ожила,</p>
+<empty-line/>
+<p>Собрала свои народы</p>
+<empty-line/>
+<p>И столицы подняла;</p>
+<empty-line/>
+<p>В ней опять цветут науки,</p>
+<empty-line/>
+<p>Носит понт торговли груз</p>
+<empty-line/>
+<p>И не слышны лиры звуки</p>
+<empty-line/>
+<p>В первобытном рае муз!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Блестит зима дряхлеющего мира,</p>
+<empty-line/>
+<p>Блестит! Суров и бледен человек;</p>
+<empty-line/>
+<p>Но зелены в отечестве Омира</p>
+<empty-line/>
+<p>Холмы, леса, брега лазурных рек.</p>
+<empty-line/>
+<p>Цветёт Парнас! Пред ним, как в оны годы,</p>
+<empty-line/>
+<p>Кастальский ключ живой струёю бьет;</p>
+<empty-line/>
+<p>Нежданный сын последних сил природы,</p>
+<empty-line/>
+<p>Возник поэт: идет он и поет.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Воспевает, простодушный,</p>
+<empty-line/>
+<p>Он любовь и красоту,</p>
+<empty-line/>
+<p>И науки, им ослушной,</p>
+<empty-line/>
+<p>Пустоту и суету:</p>
+<empty-line/>
+<p>Мимолетные страданья</p>
+<empty-line/>
+<p>Легкомыслием целя,</p>
+<empty-line/>
+<p>Лучше, смертный, в дни незнанья</p>
+<empty-line/>
+<p>Радость чувствует земля.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Поклонникам Урании холодной</p>
+<empty-line/>
+<p>Поёт, увы! он благодать страстей;</p>
+<empty-line/>
+<p>Как пажити Эол бурнопогодный,</p>
+<empty-line/>
+<p>Плодотворят они сердца людей;</p>
+<empty-line/>
+<p>Живительным дыханием развита,</p>
+<empty-line/>
+<p>Фантазия подъемлется от них,</p>
+<empty-line/>
+<p>Как некогда возникла Афродита</p>
+<empty-line/>
+<p>Из пенистой пучины вод морских.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И зачем не предадимся</p>
+<empty-line/>
+<p>Снам улыбчивым своим?</p>
+<empty-line/>
+<p>Бодрым сердцем покоримся</p>
+<empty-line/>
+<p>Думам робким, а не им!</p>
+<empty-line/>
+<p>Верьте сладким убежденьям</p>
+<empty-line/>
+<p>Вас ласкающих очес</p>
+<empty-line/>
+<p>И отрадным откровеньям</p>
+<empty-line/>
+<p>Сострадательных небес!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Суровый смех ему ответом; персты</p>
+<empty-line/>
+<p>Он на струнах своих остановил,</p>
+<empty-line/>
+<p>Сомкнул уста вещать полуотверсты,</p>
+<empty-line/>
+<p>Но гордыя главы не преклонил:</p>
+<empty-line/>
+<p>Стопы свои он в мыслях направляет</p>
+<empty-line/>
+<p>В немую глушь, в безлюдный край, но свет</p>
+<empty-line/>
+<p>Уж праздного вертепа не являет,</p>
+<empty-line/>
+<p>И на земле уединенья нет!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Человеку непокорно</p>
+<empty-line/>
+<p>Море синее одно:</p>
+<empty-line/>
+<p>И свободно, и просторно,</p>
+<empty-line/>
+<p>И приветливо оно;</p>
+<empty-line/>
+<p>И лица не изменило</p>
+<empty-line/>
+<p>С дня, в который Аполлон</p>
+<empty-line/>
+<p>Поднял вечное светило</p>
+<empty-line/>
+<p>В первый раз на небосклон.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Оно шумит перед скалой Левкада.</p>
+<empty-line/>
+<p>На ней певец, мятежной думы полн,</p>
+<empty-line/>
+<p>Стоит... в очах блеснула вдруг отрада:</p>
+<empty-line/>
+<p>Сия скала... тень Сафо!.. песни волн...</p>
+<empty-line/>
+<p>Где погребла любовница Фаона</p>
+<empty-line/>
+<p>Отверженной любви несчастный жар,</p>
+<empty-line/>
+<p>Там погребёт питомец Аполлона</p>
+<empty-line/>
+<p>Свои мечты, свой бесполезный дар!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И по-прежнему блистает</p>
+<empty-line/>
+<p>Хладной роскошию свет:</p>
+<empty-line/>
+<p>Серебрит и позлащает</p>
+<empty-line/>
+<p>Свой безжизненный скелет;</p>
+<empty-line/>
+<p>Но в смущение приводит</p>
+<empty-line/>
+<p>Человека вал морской,</p>
+<empty-line/>
+<p>И от шумных вод отходит</p>
+<empty-line/>
+<p>Он с тоскующей душой!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1835</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>03.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Предрассудок! он обломок</p>
+<empty-line/>
+<p>Давней правды. Храм упал;</p>
+<empty-line/>
+<p>А руин его потомок</p>
+<empty-line/>
+<p>Языка не разгадал.</p>
+<empty-line/>
+<p>Гонит в нём наш век надменный,</p>
+<empty-line/>
+<p>Не узнав его лица,</p>
+<empty-line/>
+<p>Нашей правды современной</p>
+<empty-line/>
+<p>Дряхлолетнего отца.</p>
+<empty-line/>
+<p>Воздержи младую силу!</p>
+<empty-line/>
+<p>Дней его не возмущай,</p>
+<empty-line/>
+<p>Но пристойную могилу,</p>
+<empty-line/>
+<p>Как уснёт он, предку дай.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1841</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>04. НОВИНСКОЕ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>А. С. Пушкину</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Она улыбкою своей</p>
+<empty-line/>
+<p>Поэта в жертвы пригласила,</p>
+<empty-line/>
+<p>Но не любовь ответом ей,</p>
+<empty-line/>
+<p>Взор ясный думой осенила.</p>
+<empty-line/>
+<p>Нет, это был сей лёгкий сон,</p>
+<empty-line/>
+<p>Сей тонкий сон воображенья,</p>
+<empty-line/>
+<p>Что посылает Аполлон</p>
+<empty-line/>
+<p>Не для любви - для вдохновенья.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1826, 1841</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>05. ПРИМЕТЫ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Пока человек естества не пытал</p>
+<empty-line/>
+<p>Горнилом, весами и мерой,</p>
+<empty-line/>
+<p>Но детски вещаньям природы внимал,</p>
+<empty-line/>
+<p>Ловил её знаменья с верой;</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Покуда природу любил он, она</p>
+<empty-line/>
+<p>Любовью ему отвечала:</p>
+<empty-line/>
+<p>О нём дружелюбной заботы полна,</p>
+<empty-line/>
+<p>Язык для него обретала.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Почуя беду над его головой,</p>
+<empty-line/>
+<p>Вран каркал ему в спасенье,</p>
+<empty-line/>
+<p>И замысла, в пору смирясь пред судьбой,</p>
+<empty-line/>
+<p>Воздерживал он дерзновенье.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>На путь ему выбежав из лесу волк,</p>
+<empty-line/>
+<p>Крутясь и подъемля щетину,</p>
+<empty-line/>
+<p>Победу пророчил, и смело свой полк</p>
+<empty-line/>
+<p>Бросал он на вражью дружину.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Чета голубиная, вея над ним,</p>
+<empty-line/>
+<p>Блаженство любви прорицала.</p>
+<empty-line/>
+<p>В пустыне безлюдной он не был одним:</p>
+<empty-line/>
+<p>Нечуждая жизнь в ней дышала.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Но, чувство презрев, он доверил уму;</p>
+<empty-line/>
+<p>Вдался в суету изысканий...</p>
+<empty-line/>
+<p>И сердце природы закрылось ему,</p>
+<empty-line/>
+<p>И нет на земле прорицаний.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1840</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>06.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Всегда и в пурпуре и в злате,</p>
+<empty-line/>
+<p>В красе негаснущих страстей,</p>
+<empty-line/>
+<p>Ты не вздыхаешь об утрате</p>
+<empty-line/>
+<p>Какой-то младости твоей.</p>
+<empty-line/>
+<p>И юных граций ты прелестней!</p>
+<empty-line/>
+<p>И твой закат пышней, чем день!</p>
+<empty-line/>
+<p>Ты сладострастней, ты телесней</p>
+<empty-line/>
+<p>Живых, блистательная тень!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1840</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>07.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Увы! Творец непервых сил!</p>
+<empty-line/>
+<p>На двух статейках утомил</p>
+<empty-line/>
+<p>Ты кой-какое дарованье!</p>
+<empty-line/>
+<p>Лишённый творческой мечты,</p>
+<empty-line/>
+<p>Уже, в жару нездравом, ты</p>
+<empty-line/>
+<p>Коверкать стал правописанье!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Неаполь возмутил рыбарь,</p>
+<empty-line/>
+<p>И, власть прияв, как мудрый царь,</p>
+<empty-line/>
+<p>Двенадцать дней он градом правил;</p>
+<empty-line/>
+<p>Но что же? - непривычный ум,</p>
+<empty-line/>
+<p>Устав от венценосных дум,</p>
+<empty-line/>
+<p>Его в тринадцатый оставил.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1838</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>08. НЕДОНОСОК</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Я из племени духов,</p>
+<empty-line/>
+<p>Но не житель Эмпирея,</p>
+<empty-line/>
+<p>И, едва до облаков</p>
+<empty-line/>
+<p>Возлетев, паду, слабея.</p>
+<empty-line/>
+<p>Как мне быть? Я мал и плох;</p>
+<empty-line/>
+<p>Знаю: рай за их волнами,</p>
+<empty-line/>
+<p>И ношусь, крылатый вздох,</p>
+<empty-line/>
+<p>Меж землёй и небесами.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Блещет солнце - радость мне!</p>
+<empty-line/>
+<p>С животворными лучами</p>
+<empty-line/>
+<p>Я играю в вышине</p>
+<empty-line/>
+<p>И весёлыми крылами</p>
+<empty-line/>
+<p>Ластюсь к ним, как облачко;</p>
+<empty-line/>
+<p>Пью счастливо воздух тонкой,</p>
+<empty-line/>
+<p>Мне свободно, мне легко,</p>
+<empty-line/>
+<p>И пою я птицей звонкой.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Но ненастье заревёт</p>
+<empty-line/>
+<p>И до облак, свод небесный</p>
+<empty-line/>
+<p>Омрачившись, вознесёт</p>
+<empty-line/>
+<p>Прах земной и лист древесный.</p>
+<empty-line/>
+<p>Бедный дух! Ничтожный дух!</p>
+<empty-line/>
+<p>Дуновенье роковое</p>
+<empty-line/>
+<p>Вьет, крутит меня, как пух,</p>
+<empty-line/>
+<p>Мчит под небо громовое.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Бури грохот, бури свист!</p>
+<empty-line/>
+<p>Вихорь хладный! Вихорь жгучий!</p>
+<empty-line/>
+<p>Бьет меня древесный лист,</p>
+<empty-line/>
+<p>Удушает прах летучий!</p>
+<empty-line/>
+<p>Обращусь ли к небесам,</p>
+<empty-line/>
+<p>Оглянуся ли на землю -</p>
+<empty-line/>
+<p>Грозно, чёрно тут и там;</p>
+<empty-line/>
+<p>Вопль уныло я подъемлю.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Смутно слышу я порой</p>
+<empty-line/>
+<p>Клик враждующих народов,</p>
+<empty-line/>
+<p>Поселян беспечных вой</p>
+<empty-line/>
+<p>Под грозой их переходов,</p>
+<empty-line/>
+<p>Гром войны и крик страстей,</p>
+<empty-line/>
+<p>Плач недужного младенца...</p>
+<empty-line/>
+<p>Слезы льются из очей:</p>
+<empty-line/>
+<p>Жаль земного поселенца!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Изнывающий тоской,</p>
+<empty-line/>
+<p>Я мечусь в полях небесных,</p>
+<empty-line/>
+<p>Надо мной и подо мной</p>
+<empty-line/>
+<p>Беспредельных - скорби тесных!</p>
+<empty-line/>
+<p>В тучу прячусь я и в ней</p>
+<empty-line/>
+<p>Мчуся, чужд земного края,</p>
+<empty-line/>
+<p>Страшный глас людских скорбей</p>
+<empty-line/>
+<p>Гласом бури заглушая.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Мир я вижу как во мгле;</p>
+<empty-line/>
+<p>Арф небесных отголосок</p>
+<empty-line/>
+<p>Слабо слышу... На земле</p>
+<empty-line/>
+<p>Оживил я недоносок.</p>
+<empty-line/>
+<p>Отбыл он без бытия:</p>
+<empty-line/>
+<p>Роковая скоротечность!</p>
+<empty-line/>
+<p>В тягость роскошь мне твоя,</p>
+<empty-line/>
+<p>О бессмысленная вечность!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1835</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>09. АЛКИВИАД</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Облокотясь перед медью, образ его отражавшей,</p>
+<empty-line/>
+<p>Дланью слегка приподняв кудри златые чела,</p>
+<empty-line/>
+<p>Юный красавец сидел, горделиво-задумчив, и, смехом</p>
+<empty-line/>
+<p>Горьким смеясь, на него мужи казали перстом;</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Девы, тайно любуясь челом благородно-открытым,</p>
+<empty-line/>
+<p>Нехотя взор отводя, хмурили брови свои.</p>
+<empty-line/>
+<p>Он же глух был и слеп; он, не в меди глядясь, а в грядущем,</p>
+<empty-line/>
+<p>Думал: к лицу ли ему будет лавровый венок?</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1835</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>10. РОПОТ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Красного лета отрава, муха досадная, что ты</p>
+<empty-line/>
+<p>Вьёшься, терзая меня, льнешь то к лицу, то к перстам?</p>
+<empty-line/>
+<p>Кто одарил тебя жалом, властным прервать самовольно</p>
+<empty-line/>
+<p>Мощно-крылатую мысль, жаркой любви поцелуй?</p>
+<empty-line/>
+<p>Ты из мечтателя мирного, нег европейских питомца,</p>
+<empty-line/>
+<p>Дикого скифа творишь, жадного смерти врага.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1841</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>11. МУДРЕЦУ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Тщетно меж бурною жизнью и хладною смертью, философ,</p>
+<empty-line/>
+<p>Хочешь ты пристань найти, имя даёшь ей: покой.</p>
+<empty-line/>
+<p>Нам, из ничтожества вызванным творчества словом тревожным,</p>
+<empty-line/>
+<p>Жизнь для волненья дана: жизнь и волненье - одно.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Тот, кого миновали общие смуты, заботу</p>
+<empty-line/>
+<p>Сам вымышляет себе: лиру, палитру, резец;</p>
+<empty-line/>
+<p>Мира невежда, младенец, как будто закон его чуя,</p>
+<empty-line/>
+<p>Первым стенаньем качать нудит свою колыбель!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1840</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>12.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Филида с каждою зимою,</p>
+<empty-line/>
+<p>Зимою новою своей,</p>
+<empty-line/>
+<p>Пугает большей наготою</p>
+<empty-line/>
+<p>Своих старушечьих плечей.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И, Афродита гробовая,</p>
+<empty-line/>
+<p>Подходит, словно к ложу сна,</p>
+<empty-line/>
+<p>За ризой ризу опуская,</p>
+<empty-line/>
+<p>К одру последнему она.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>До 1839 г.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>13.     БОКАЛ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Полный влагой искромётной,</p>
+<empty-line/>
+<p>Зашипел ты, мой бокал!</p>
+<empty-line/>
+<p>И покрыл туман приветный</p>
+<empty-line/>
+<p>Твой озябнувший кристалл...</p>
+<empty-line/>
+<p>Ты не встречен братьей шумной,</p>
+<empty-line/>
+<p>Буйных оргий властелин, -</p>
+<empty-line/>
+<p>Сластолюбец вольнодумный,</p>
+<empty-line/>
+<p>Я сегодня пью один.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Чем душа моя богата,</p>
+<empty-line/>
+<p>Всё твоё, о друг Аи!</p>
+<empty-line/>
+<p>Ныне мысль моя не сжата</p>
+<empty-line/>
+<p>И свободны сны мои;</p>
+<empty-line/>
+<p>За струёю вдохновенной</p>
+<empty-line/>
+<p>Не рассеян данник твой</p>
+<empty-line/>
+<p>Бестолково оживлённой</p>
+<empty-line/>
+<p>Разногласою толпой.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Мой восторг неосторожный</p>
+<empty-line/>
+<p>Не обидит никого,</p>
+<empty-line/>
+<p>Не откроет дружбе ложной</p>
+<empty-line/>
+<p>Таин счастья моего,</p>
+<empty-line/>
+<p>Не смутит глупцов ревнивых</p>
+<empty-line/>
+<p>И торжественных невежд</p>
+<empty-line/>
+<p>Излиньяем горделивых</p>
+<empty-line/>
+<p>Иль святых моих надежд!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Вот теперь со мной беседуй,</p>
+<empty-line/>
+<p>Своенравная струя!</p>
+<empty-line/>
+<p>Упоенья проповедуй</p>
+<empty-line/>
+<p>Иль отравы бытия;</p>
+<empty-line/>
+<p>Сердцу милые преданья</p>
+<empty-line/>
+<p>Благодатно оживи</p>
+<empty-line/>
+<p>Или прошлые страданья</p>
+<empty-line/>
+<p>Мне на память призови!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>О бокал уединенья!</p>
+<empty-line/>
+<p>Не усилены тобой</p>
+<empty-line/>
+<p>Пошлой жизни впечатленья,</p>
+<empty-line/>
+<p>Словно чашей круговой;</p>
+<empty-line/>
+<p>Плодородней, благородней,</p>
+<empty-line/>
+<p>Дивной силой будишь ты</p>
+<empty-line/>
+<p>Откровенья преисподней</p>
+<empty-line/>
+<p>Иль небесные мечты.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И один я пью отныне!</p>
+<empty-line/>
+<p>Не в людском шуму пророк -</p>
+<empty-line/>
+<p>В немотствующей пустыне</p>
+<empty-line/>
+<p>Обретает свет высок!</p>
+<empty-line/>
+<p>Не в бесплодном развлеченье</p>
+<empty-line/>
+<p>Общежительных страстей -</p>
+<empty-line/>
+<p>В одиноком упоенье</p>
+<empty-line/>
+<p>Мгла падёт с его очей!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1835</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>14.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Были бури, непогоды,</p>
+<empty-line/>
+<p>Да младые были годы!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>В день ненастный, час гнетучий</p>
+<empty-line/>
+<p>Грудь подымет вздох могучий,</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Вольной песнью разольётся,</p>
+<empty-line/>
+<p>Скорбь-невзгода распоётся!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>А как век-то, век-то старой</p>
+<empty-line/>
+<p>Обручится с лютой карой,</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Груз двойной с груди усталой</p>
+<empty-line/>
+<p>Уж не сбросит вздох удалой,</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Не положишь ты на голос</p>
+<empty-line/>
+<p>С чёрной мыслью белый волос!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1839</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>15.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>На что вы, дни! Юдольный мир явленья</p>
+<empty-line/>
+<p>Свои не изменит!</p>
+<empty-line/>
+<p>Все ведомы, и только повторенья</p>
+<empty-line/>
+<p>Грядущее сулит.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Недаром ты металась и кипела,</p>
+<empty-line/>
+<p>Развитием спеша,</p>
+<empty-line/>
+<p>Свой подвиг ты свершила прежде тела,</p>
+<empty-line/>
+<p>Безумная душа!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И, тесный круг подлунных впечатлений</p>
+<empty-line/>
+<p>Сомкнувшая давно,</p>
+<empty-line/>
+<p>Под веяньем возвратных сновидений</p>
+<empty-line/>
+<p>Ты дремлешь, а оно</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Бессмысленно глядит, как утро встанет,</p>
+<empty-line/>
+<p>Без нужды ночь сменя,</p>
+<empty-line/>
+<p>Как в мрак ночной бесплодный вечер канет,</p>
+<empty-line/>
+<p>Венец пустого дня!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1840</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>16.      КОТТЕРИЕ*</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Братайтеся, к взаимной обороне</p>
+<empty-line/>
+<p>Ничтожностей своих вы рождены;</p>
+<empty-line/>
+<p>Но дар прямой не брат у вас в притоне,</p>
+<empty-line/>
+<p>Бездарные писцы-хлопотуны!</p>
+<empty-line/>
+<p>Наоборот, союзным на благое,</p>
+<empty-line/>
+<p>Речённого достойные друзья,</p>
+<empty-line/>
+<p>"Аминь, аминь, - вещал он вам, - где трое</p>
+<empty-line/>
+<p>Вы будете - не буду с вами я".</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1841</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* - Опубликовано только в 1890 г.</p>
+<empty-line/>
+<p>Не вошло в сборник из-за цензурного запрета.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>17.      АХИЛЛ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Влага Стикса закалила</p>
+<empty-line/>
+<p>Дикой силы полноту</p>
+<empty-line/>
+<p>И кипящего Ахилла</p>
+<empty-line/>
+<p>Бою древнему явила</p>
+<empty-line/>
+<p>Уязвимым лишь в пяту.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Обречён борьбе верховной,</p>
+<empty-line/>
+<p>Ты ли долею своей</p>
+<empty-line/>
+<p>Равен с ним, боец духовный,</p>
+<empty-line/>
+<p>Сын купели новых дней?</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Омовён её водою,</p>
+<empty-line/>
+<p>Знай, страданью над собою</p>
+<empty-line/>
+<p>Волю полную ты дал,</p>
+<empty-line/>
+<p>И одной пятой своею</p>
+<empty-line/>
+<p>Невредим ты, если ею</p>
+<empty-line/>
+<p>На живую веру стал!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1841</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>18.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Сначала мысль, воплощена</p>
+<empty-line/>
+<p>В поэму сжатую поэта,</p>
+<empty-line/>
+<p>Как дева юная, темна</p>
+<empty-line/>
+<p>Для невнимательного света;</p>
+<empty-line/>
+<p>Потом, осмелившись, она</p>
+<empty-line/>
+<p>Уже увёртлива, речиста.</p>
+<empty-line/>
+<p>Со всех сторон своих видна,</p>
+<empty-line/>
+<p>Как искушённая жена</p>
+<empty-line/>
+<p>В свободной прозе романиста;</p>
+<empty-line/>
+<p>Болтунья старая, затем</p>
+<empty-line/>
+<p>Она, подъемля крик нахальный,</p>
+<empty-line/>
+<p>Плодит в полемике журнальной</p>
+<empty-line/>
+<p>Давно уж ведомое всем.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1838</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>19.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ещё, как патриарх, не древен я; моей</p>
+<empty-line/>
+<p>Главы не умастил таинственный елей:</p>
+<empty-line/>
+<p>Непосвящённых рук бездарно возложенье!</p>
+<empty-line/>
+<p>И я даю тебе мое благословенье</p>
+<empty-line/>
+<p>Во знаменье ином, о дева красоты!</p>
+<empty-line/>
+<p>Под этой розою главой склонись, о ты,</p>
+<empty-line/>
+<p>Подобие цветов царицы ароматной,</p>
+<empty-line/>
+<p>В залог румяных дней и доли благодатной.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1839</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>20.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Толпе тревожный день приветен, но страшна</p>
+<empty-line/>
+<p>Ей ночь безмолвная. Боится в ней она</p>
+<empty-line/>
+<p>Раскованной мечты видений своевольных.</p>
+<empty-line/>
+<p>Не лёгкокрылых грёз, детей волшебной тьмы,</p>
+<empty-line/>
+<p>Видений дня боимся мы,</p>
+<empty-line/>
+<p>Людских сует, забот юдольных.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ощупай возмущённый мрак -</p>
+<empty-line/>
+<p>Исчезнет, с пустотой сольётся</p>
+<empty-line/>
+<p>Тебя пугающий призрак,</p>
+<empty-line/>
+<p>И заблужденью чувств твой ужас улыбнётся.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>О сын фантазии! Ты благодатных фей</p>
+<empty-line/>
+<p>Счастливый баловень, и там, в заочном мире,</p>
+<empty-line/>
+<p>Весёлый семьянин, привычный гость на пире</p>
+<empty-line/>
+<p>Неосязаемых властей!</p>
+<empty-line/>
+<p>Мужайся, не слабей душою</p>
+<empty-line/>
+<p>Перед заботою земною:</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ей исполинский вид даёт твоя мечта;</p>
+<empty-line/>
+<p>Коснися облака нетрепетной рукою -</p>
+<empty-line/>
+<p>Исчезнет, а за ним опять перед тобою</p>
+<empty-line/>
+<p>Обители духов откроются врата.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1839</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>21.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Здравствуй, отрок сладкогласный!</p>
+<empty-line/>
+<p>Твой рассвет зарёй прекрасной</p>
+<empty-line/>
+<p>Озаряет Аполлон!</p>
+<empty-line/>
+<p>Честь возникшему пииту!</p>
+<empty-line/>
+<p>Малолетнюю хариту</p>
+<empty-line/>
+<p>Ранней лирой тронул он.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>С утра дней счастлив и славен,</p>
+<empty-line/>
+<p>Кто тебе, мой мальчик, равен?</p>
+<empty-line/>
+<p>Только жавронок живой</p>
+<empty-line/>
+<p>Чуткой грудию своею,</p>
+<empty-line/>
+<p>С первым солнцем, полный всею</p>
+<empty-line/>
+<p>Наступающей весной!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1842</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>22.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Что за звуки? Мимоходом</p>
+<empty-line/>
+<p>Ты поёшь перед народом,</p>
+<empty-line/>
+<p>Старец нищий и слепой!</p>
+<empty-line/>
+<p>И, как псов враждебных стая,</p>
+<empty-line/>
+<p>Чернь тебя обстала злая,</p>
+<empty-line/>
+<p>Издеваясь над тобой.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>А с тобой издавна тесен</p>
+<empty-line/>
+<p>Был союз камены песен,</p>
+<empty-line/>
+<p>И беседовал ты с ней,</p>
+<empty-line/>
+<p>Безымянной, роковою,</p>
+<empty-line/>
+<p>С дня, как в первый раз тобою</p>
+<empty-line/>
+<p>Был услышан соловей.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Бедный старец! Слышу чувство</p>
+<empty-line/>
+<p>В сильной песне... Но искусство...</p>
+<empty-line/>
+<p>Старцев старее оно;</p>
+<empty-line/>
+<p>Эти радости, печали -</p>
+<empty-line/>
+<p>Музыкальные скрижали</p>
+<empty-line/>
+<p>Выражают их давно!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Опрокинь же свой треножник!</p>
+<empty-line/>
+<p>Ты избранник, не художник!</p>
+<empty-line/>
+<p>Попеченья гений злой</p>
+<empty-line/>
+<p>Да отложит в здешнем мире:</p>
+<empty-line/>
+<p>Там, быть может, в горнем клире,</p>
+<empty-line/>
+<p>Звучен будет голос твой!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1841</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>23.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Всё мысль да мысль! Художник бедный слова!</p>
+<empty-line/>
+<p>О жрец её! Тебе забвенья нет;</p>
+<empty-line/>
+<p>Всё тут, да тут и человек, и свет,</p>
+<empty-line/>
+<p>И смерть, и жизнь, и правда без покрова.</p>
+<empty-line/>
+<p>Резец, орган, кисть! счастлив, кто влеком</p>
+<empty-line/>
+<p>К ним чувственным, за грань их не ступая!</p>
+<empty-line/>
+<p>Есть хмель ему на празднике мирском!</p>
+<empty-line/>
+<p>Но пред тобой, как пред нагим мечом,</p>
+<empty-line/>
+<p>Мысль, острый луч, бледнеет жизнь земная!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1840</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>24.        СКУЛЬПТОР</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Глубокий взор вперив на камень,</p>
+<empty-line/>
+<p>Художник нимфу в нём прозрел,</p>
+<empty-line/>
+<p>И пробежал по жилам пламень,</p>
+<empty-line/>
+<p>И к ней он сердцем полетел.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Но, бесконечно вожделенный,</p>
+<empty-line/>
+<p>Уже не властвует собой:</p>
+<empty-line/>
+<p>Неторопливый, постепенный</p>
+<empty-line/>
+<p>Резец с богини сокровенной</p>
+<empty-line/>
+<p>Кору снимает за корой.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>В заботе сладостно-туманной</p>
+<empty-line/>
+<p>Не час, не день, не год уйдёт,</p>
+<empty-line/>
+<p>А с предугаданной, с желанной</p>
+<empty-line/>
+<p>Покров последний не падёт,</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Покуда, страсть уразумея</p>
+<empty-line/>
+<p>Под лаской вкрадчивой резца,</p>
+<empty-line/>
+<p>Ответным взором Галатея</p>
+<empty-line/>
+<p>Не увлечёт, желаньем рдея,</p>
+<empty-line/>
+<p>К победе неги мудреца.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1841</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>25.        ОСЕНЬ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И вот сентябрь! Замедля свой восход,</p>
+<empty-line/>
+<p>Сияньем хладным солнце блещет,</p>
+<empty-line/>
+<p>И луч его в зерцале зыбком вод</p>
+<empty-line/>
+<p>Неверным золотом трепещет.</p>
+<empty-line/>
+<p>Седая мгла виётся вкруг холмов;</p>
+<empty-line/>
+<p>Росой затоплены равнины;</p>
+<empty-line/>
+<p>Желтеет сень кудрявая дубов,</p>
+<empty-line/>
+<p>И красен круглый лист осины;</p>
+<empty-line/>
+<p>Умолкли птиц живые голоса,</p>
+<empty-line/>
+<p>Безмолвен лес, беззвучны небеса!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>2</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И вот сентябрь! И вечер года к нам</p>
+<empty-line/>
+<p>Подходит. На поля и горы</p>
+<empty-line/>
+<p>Уже мороз бросает по утрам</p>
+<empty-line/>
+<p>Свои сребристые узоры.</p>
+<empty-line/>
+<p>Пробудится ненастливый Эол,</p>
+<empty-line/>
+<p>Пред ним помчится прах летучий;</p>
+<empty-line/>
+<p>Качаяся, завоет роща, дол</p>
+<empty-line/>
+<p>Покроет лист её падучий,</p>
+<empty-line/>
+<p>И набегут на небо облака,</p>
+<empty-line/>
+<p>И, потемнев, запенится река.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>3</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Прощай, прощай, сияние небес!</p>
+<empty-line/>
+<p>Прощай, прощай, краса природы!</p>
+<empty-line/>
+<p>Волшебного шептанья полный лес,</p>
+<empty-line/>
+<p>Златочешуйчатые воды!</p>
+<empty-line/>
+<p>Весёлый сон минутных летних нег!</p>
+<empty-line/>
+<p>Вот эхо в рощах обнажённых</p>
+<empty-line/>
+<p>Секирою тревожит дровосек,</p>
+<empty-line/>
+<p>И скоро, снегом убелённых,</p>
+<empty-line/>
+<p>Своих дубров и холмов зимний вид</p>
+<empty-line/>
+<p>Застылый ток туманно отразит.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>4</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>А между тем досужий селянин</p>
+<empty-line/>
+<p>Плод годовых трудов сбирает;</p>
+<empty-line/>
+<p>Сметав в стога скошённый злак долин,</p>
+<empty-line/>
+<p>С серпом он в поле поспешает.</p>
+<empty-line/>
+<p>Гуляет серп. На сжатых бороздах</p>
+<empty-line/>
+<p>Снопы стоят в копнах блестящих</p>
+<empty-line/>
+<p>Иль тянутся вдоль жнивы, на возах,</p>
+<empty-line/>
+<p>Под тяжкой ношею скрыпящих,</p>
+<empty-line/>
+<p>И хлебных скирд золотоверхий град</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Подъемлется кругом крестьянских хат.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>5</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Дни сельского, святого торжества!</p>
+<empty-line/>
+<p>Овины весело дымятся,</p>
+<empty-line/>
+<p>И цеп стучит, и с шумом жернова</p>
+<empty-line/>
+<p>Ожившей мельницы крутятся.</p>
+<empty-line/>
+<p>Иди, зима! На строги дни себе</p>
+<empty-line/>
+<p>Припас оратай много блага:</p>
+<empty-line/>
+<p>Отрадное тепло в его избе,</p>
+<empty-line/>
+<p>Хлеб-соль и пенистая брага;</p>
+<empty-line/>
+<p>С семьёй своей вкусит он без забот</p>
+<empty-line/>
+<p>Своих трудов благословенный плод!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>6</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>А ты, когда вступаешь в осень дней,</p>
+<empty-line/>
+<p>Оратай жизненного поля,</p>
+<empty-line/>
+<p>И пред тобой во благостыне всей</p>
+<empty-line/>
+<p>Является земная доля;</p>
+<empty-line/>
+<p>Когда тебе житейские бразды,</p>
+<empty-line/>
+<p>Труд бытия вознаграждая,</p>
+<empty-line/>
+<p>Готовятся подать свои плоды.</p>
+<empty-line/>
+<p>И спеет жатва дорогая,</p>
+<empty-line/>
+<p>И в зёрнах дум её сбираешь ты,</p>
+<empty-line/>
+<p>Судеб людских достигнув полноты,-</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>7</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ты так же ли, как земледел, богат?</p>
+<empty-line/>
+<p>И ты, как он, с надеждой сеял;</p>
+<empty-line/>
+<p>И ты, как он, о дальнем дне наград</p>
+<empty-line/>
+<p>Сны позлащённые лелеял...</p>
+<empty-line/>
+<p>Любуйся же, гордись восставшим им!</p>
+<empty-line/>
+<p>Считай свои приобретенья!..</p>
+<empty-line/>
+<p>Увы! к мечтам, страстям, трудам мирским</p>
+<empty-line/>
+<p>Тобой скоплённые презренья,</p>
+<empty-line/>
+<p>Язвительный, неотразимый стыд</p>
+<empty-line/>
+<p>Души твоей обманов и обид!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>8</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Твой день взошёл, и для тебя ясна</p>
+<empty-line/>
+<p>Вся дерзость юных легковерии;</p>
+<empty-line/>
+<p>Испытана тобою глубина</p>
+<empty-line/>
+<p>Людских безумств и лицемерии.</p>
+<empty-line/>
+<p>Ты, некогда всех увлечений друг,</p>
+<empty-line/>
+<p>Сочувствии пламенный искатель,</p>
+<empty-line/>
+<p>Блистательных туманов царь-и вдруг</p>
+<empty-line/>
+<p>Бесплодных дебрей созерцатель,</p>
+<empty-line/>
+<p>Один с тоской, которой смертный стон</p>
+<empty-line/>
+<p>Едва твоей гордыней задушен.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>9</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Но если бы негодованья крик,</p>
+<empty-line/>
+<p>Но если б вопль тоски великой</p>
+<empty-line/>
+<p>Из глубины сердечныя возник,</p>
+<empty-line/>
+<p>Вполне торжественной и дикой,-</p>
+<empty-line/>
+<p>Костями бы среди твоих забав</p>
+<empty-line/>
+<p>Содроглась ветреная младость,</p>
+<empty-line/>
+<p>Играющий младенец, зарыдав,</p>
+<empty-line/>
+<p>Игрушку б выронил, и радость</p>
+<empty-line/>
+<p>Покинула б чело его навек,</p>
+<empty-line/>
+<p>И заживо б в нём умер человек!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>10</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Зови ж теперь на праздник честный мир!</p>
+<empty-line/>
+<p>Спеши, хозяин тороватый!</p>
+<empty-line/>
+<p>Проси, сажай гостей своих за пир</p>
+<empty-line/>
+<p>Затейливый, замысловатый!</p>
+<empty-line/>
+<p>Что лакомству пророчит он утех!</p>
+<empty-line/>
+<p>Каким разнообразьем брашен</p>
+<empty-line/>
+<p>Блистает он!.. Но вкус один во всех</p>
+<empty-line/>
+<p>И, как могила, людям страшен;</p>
+<empty-line/>
+<p>Садись один и тризну соверши</p>
+<empty-line/>
+<p>По радостям земным своей души!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>11</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Какое же потом в груди твоей</p>
+<empty-line/>
+<p>Ни водворится озаренье,</p>
+<empty-line/>
+<p>Чем дум и чувств ни разрешится в ней</p>
+<empty-line/>
+<p>Последнее вихревращенье -</p>
+<empty-line/>
+<p>Пусть в торжестве насмешливом своём</p>
+<empty-line/>
+<p>Ум бесполезный сердца трепет</p>
+<empty-line/>
+<p>Угомонит и тщетных жалоб в нём</p>
+<empty-line/>
+<p>Удушит запоздалый лепет,</p>
+<empty-line/>
+<p>И примешь ты, как лучший жизни клад</p>
+<empty-line/>
+<p>Дар опыта, мертвящий душу хлад.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>12</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Иль, отряхнув видения земли</p>
+<empty-line/>
+<p>Порывом скорби животворной,</p>
+<empty-line/>
+<p>Её предел завидя издали,</p>
+<empty-line/>
+<p>Цветущий брег за мглою чёрной,</p>
+<empty-line/>
+<p>Возмездий край, благовестящим снам</p>
+<empty-line/>
+<p>Доверясь чувством обновлённым,</p>
+<empty-line/>
+<p>И бытия мятежным голосам,</p>
+<empty-line/>
+<p>В великом гимне примирённым,</p>
+<empty-line/>
+<p>Внимающий, как арфам, коих строй</p>
+<empty-line/>
+<p>Превыспренний не понят был тобой, -</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>13</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Пред промыслом оправданным ты ниц</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Падёшь с признательным смиреньем,</p>
+<empty-line/>
+<p>С надеждою, не видящей границ,</p>
+<empty-line/>
+<p>И утолённым разуменьем, -</p>
+<empty-line/>
+<p>Знай, внутренней своей вовеки ты</p>
+<empty-line/>
+<p>Не передашь земному звуку</p>
+<empty-line/>
+<p>И лёгких чад житейской суеты</p>
+<empty-line/>
+<p>Не посвятишь в свою науку;</p>
+<empty-line/>
+<p>Знай, горняя иль дольная, она</p>
+<empty-line/>
+<p>Нам на земле не для земли дана.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>14</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Вот буйственно несётся ураган,</p>
+<empty-line/>
+<p>И лес подъемлет говор шумный,</p>
+<empty-line/>
+<p>И пенится, и ходит океан,</p>
+<empty-line/>
+<p>И в берег бьет волной безумной;</p>
+<empty-line/>
+<p>Так иногда толпы ленивый ум</p>
+<empty-line/>
+<p>Из усыпления выводит</p>
+<empty-line/>
+<p>Глас, пошлый глас, вещатель общих дум,</p>
+<empty-line/>
+<p>И звучный отзыв в ней находит,</p>
+<empty-line/>
+<p>Но не найдёт отзыва тот глагол,</p>
+<empty-line/>
+<p>Что страстное земное перешёл.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>15</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Пускай, приняв неправильный полёт</p>
+<empty-line/>
+<p>И вспять стези не обретая,</p>
+<empty-line/>
+<p>Звезда небес в бездонность утечёт;</p>
+<empty-line/>
+<p>Пусть заменит её другая;</p>
+<empty-line/>
+<p>Не явствует земле ущерб одной,</p>
+<empty-line/>
+<p>Не поражает ухо мира</p>
+<empty-line/>
+<p>Падения её далекий вой,</p>
+<empty-line/>
+<p>Равно как в высотах эфира</p>
+<empty-line/>
+<p>Её сестры новорождённый свет</p>
+<empty-line/>
+<p>И небесам восторженный привет!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>16</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Зима идет, и тощая земля</p>
+<empty-line/>
+<p>В широких лысинах бессилья,</p>
+<empty-line/>
+<p>И радостно блиставшие поля</p>
+<empty-line/>
+<p>Златыми класами обилья,</p>
+<empty-line/>
+<p>Со смертью жизнь, богатство с нищетой -</p>
+<empty-line/>
+<p>Все образы годины бывшей</p>
+<empty-line/>
+<p>Сравняются под снежной пеленой,</p>
+<empty-line/>
+<p>Однообразно их покрывшей, -</p>
+<empty-line/>
+<p>Перед тобой таков отныне свет,</p>
+<empty-line/>
+<p>Но в нём тебе грядущей жатвы нет!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1837</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>26.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Благословен святое возвестивший!</p>
+<empty-line/>
+<p>Но в глубине разврата не погиб</p>
+<empty-line/>
+<p>Какой-нибудь неправедный изгиб</p>
+<empty-line/>
+<p>Сердец людских пред нами обнаживший.</p>
+<empty-line/>
+<p>Две области: сияния и тьмы</p>
+<empty-line/>
+<p>Исследовать равно стремимся мы.</p>
+<empty-line/>
+<p>Плод яблони со древа упадает:</p>
+<empty-line/>
+<p>Закон небес постигнул человек!</p>
+<empty-line/>
+<p>Так в дикий смысл порока посвящает</p>
+<empty-line/>
+<p>Нас иногда один его намёк.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1839</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>27.        РИФМА</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Когда на играх Олимпийских,</p>
+<empty-line/>
+<p>На стогнах греческих недавних городов,</p>
+<empty-line/>
+<p>Он пел, питомец муз, он пел среди валов</p>
+<empty-line/>
+<p>Народа жадного восторгов мусикийских,</p>
+<empty-line/>
+<p>В нём вера полная в сочувствие жила.</p>
+<empty-line/>
+<p>Свободным и широким метром,</p>
+<empty-line/>
+<p>Как жатва, зыблемая ветром,</p>
+<empty-line/>
+<p>Его гармония текла.</p>
+<empty-line/>
+<p>Толпа вниманием окована была,</p>
+<empty-line/>
+<p>Пока, могучим сотрясеньем</p>
+<empty-line/>
+<p>Вдруг побеждённая, плескала без конца</p>
+<empty-line/>
+<p>И струны звучные певца</p>
+<empty-line/>
+<p>Дарила новым вдохновеньем.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Когда на греческой амвон,</p>
+<empty-line/>
+<p>Когда на римскую трибуну</p>
+<empty-line/>
+<p>Оратор восходил и славословил он</p>
+<empty-line/>
+<p>Или оплакивал народную фортуну</p>
+<empty-line/>
+<p>И устремлялися все взоры на него</p>
+<empty-line/>
+<p>И силой слова своего</p>
+<empty-line/>
+<p>Вития властвовал народным произволом, -</p>
+<empty-line/>
+<p>Он знал, кто он; он ведать мог,</p>
+<empty-line/>
+<p>Какой могучий правит Бог</p>
+<empty-line/>
+<p>Его торжественным глаголом.</p>
+<empty-line/>
+<p>А ныне кто у наших лир</p>
+<empty-line/>
+<p>Их дружелюбной тайны просит?</p>
+<empty-line/>
+<p>Кого за нами в горний мир</p>
+<empty-line/>
+<p>Опальный голос их уносит?</p>
+<empty-line/>
+<p>Меж нас не ведает поэт,</p>
+<empty-line/>
+<p>Его полёт высок иль нет!</p>
+<empty-line/>
+<p>Сам судия и подсудимый</p>
+<empty-line/>
+<p>Пусть молвит: песнопевца жар</p>
+<empty-line/>
+<p>Смешной недуг иль высший дар?</p>
+<empty-line/>
+<p>Решит вопрос неразрешимый!</p>
+<empty-line/>
+<p>Среди безжизненного сна,</p>
+<empty-line/>
+<p>Средь гробового хлада света</p>
+<empty-line/>
+<p>Своею ласкою поэта</p>
+<empty-line/>
+<p>Ты, рифма! радуешь одна.</p>
+<empty-line/>
+<p>Подобно голубю ковчега,</p>
+<empty-line/>
+<p>Одна ему, с родного брега,</p>
+<empty-line/>
+<p>Живую ветвь приносишь ты;</p>
+<empty-line/>
+<p>Одна с божественным порывом</p>
+<empty-line/>
+<p>Миришь его твоим отзывом</p>
+<empty-line/>
+<p>И признаёшь его мечты!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1840</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

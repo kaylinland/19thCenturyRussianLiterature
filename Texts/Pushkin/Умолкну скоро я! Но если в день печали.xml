@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Сергеевич</middle-name>
+			<last-name>Пушкин</last-name>
+		</author>
+		<book-title>Умолкну скоро я!.. Но если в день печали...</book-title>
+<annotation></annotation>		<date value="2009-03-24">24/03/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-12-26">2017-12-26 02:31:55</date>
+		<src-url>http://az.lib.ru/p/pushkin_a_s/text_0230-1.shtml</src-url>
+		<id>samlib5a42332b20ee16.13288727</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Пушкин Александр Сергеевич</p>
+	<empty-line/>
+	<p>Умолкну скоро я!.. Но если в день печали...</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<p>          <strong>* * *</strong></p>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_06_umoknu_skoro_ya.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<p>Умолкну скоро я!... Но если в день печали</p>
+<p>Задумчивой игрой мне струны отвечали;</p>
+<p>Но если юноши, внимая молча мне,</p>
+<p>Дивились долгому любви моей мученью;</p>
+<p>Но если ты сама, предавшись умиленью,</p>
+<p>Печальные стихи твердила в тишине</p>
+<p>И сердца моего язык любила страстный...</p>
+<p>Но если я любим... позволь, о милый друг,</p>
+<p>Позволь одушевить прощальный лиры звук</p>
+<p>Заветным именем любовницы прекрасной!..</p>
+<p>Когда меня навек обымет смертный сон,</p>
+<p>Над урною моей промолви с умиленьем:</p>
+<p>Он мною был любим, он мне был одолжен</p>
+<p>И песен и любви последним вдохновеньем.</p>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_06_umoknu_skoro_ya.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

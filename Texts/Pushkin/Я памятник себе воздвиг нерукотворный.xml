@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Сергеевич</middle-name>
+			<last-name>Пушкин</last-name>
+		</author>
+		<book-title>Я памятник себе воздвиг нерукотворный...</book-title>
+<annotation><p><emphasis>Написано на тему оды Горация "К Мельпомене" (XXX ода книги III)</emphasis>.</p></annotation>		<date value="2009-05-15">15/05/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-12-26">2017-12-26 02:59:20</date>
+		<src-url>http://az.lib.ru/p/pushkin_a_s/text_0400.shtml</src-url>
+		<id>samlib5a42399883c633.09221899</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Пушкин Александр Сергеевич</p>
+	<empty-line/>
+	<p>Я памятник себе воздвиг нерукотворный...</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<p>
+ 
+ 
+
+
+</p>
+<empty-line/>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_23_ya_pamyatnik_sebe.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<p>                   <strong>* * *</strong></p>
+<p>                                     <emphasis>Exegi monumentum</emphasis> 1)</p>
+<empty-line/>
+<p id="lvox"></p>
+<empty-line/>
+<p>Я памятник себе воздвиг нерукотворный,</p>
+<p>К нему не зарастет народная тропа,</p>
+<p>Вознесся выше он главою непокорной</p>
+<p>                    Александрийского столпа.</p>
+<empty-line/>
+<p>Нет, весь я не умру -- душа в заветной лире</p>
+<p>Мой прах переживет и тленья убежит --</p>
+<p>И славен буду я, доколь в подлунном мире</p>
+<p>            Жив будет хоть один пиит.</p>
+<empty-line/>
+<p>Слух обо мне пройдет по всей Руси великой,</p>
+<p>И назовет меня всяк сущий в ней язык,</p>
+<p>И гордый внук славян, и финн, и ныне дикой</p>
+<p>            Тунгус, и друг степей калмык.</p>
+<empty-line/>
+<p>И долго буду тем любезен я народу,</p>
+<p>Что чувства добрые я лирой пробуждал,</p>
+<p>Что в мой жестокий век восславил я Свободу</p>
+<p>            И милость к падшим призывал.</p>
+<empty-line/>
+<p>Веленью божию, о муза, будь послушна,</p>
+<p>Обиды не страшась, не требуя венца,</p>
+<p>Хвалу и клевету приемли равнодушно</p>
+<p>            И не оспоривай глупца.</p>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_23_ya_pamyatnik_sebe.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Примечания</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<empty-line/>
+<p><emphasis>"Я памятник себе воздвиг нерукотворный..." </emphasis>(стр. 460). Написано на тему оды Горация "К Мельпомене" (XXX ода книги III), откуда взят и эпиграф. Эту же оду Горация перевел Ломоносов; ей подражал Державин в своем стихотворении "Памятник".</p>
+<empty-line/>
+<p><emphasis>Александрийский столп </emphasis>-- Александровская колонна, памятник Александру I в Петербурге на Дворцовой площади; Пушкин "выехал из Петербурга за 5 дней до открытия Александровской колонны, чтоб не присутствовать при церемонии вместе с камер-юнкерами, моими товарищами" (запись в дневнике 28 ноября 1834 г.; см. т. 7). Причина была, конечно, глубже -- Пушкин не желал участвовать в прославлении Александра I.</p>
+<empty-line/>
+<p>В черновой рукописи 3-й строфы называются еще и другие национальности, живущие в России, которые назовут имя Пушкина: грузинец, киргизец, черкес. Четвертая строфа читалась первоначально:</p>
+<empty-line/>
+<p>И долго буду тем любезен я народу,</p>
+<p>Что звуки новые для песен я обрел,</p>
+<p>Что вслед Радищеву восславил я Свободу</p>
+<p>            И милосердие воспел.</p>
+<empty-line/>
+<p><emphasis>Вслед Радищеву</emphasis> -- как автору оды "Вольность" и "Путешествия из Петербурга в Москву".</p>
+<empty-line/>
+<p><emphasis>Восславил я Свободу</emphasis> -- имеется в виду вольнолюбивая лирика Пушкина.</p>
+<empty-line/>
+<p><emphasis>Милость к падшим призывал</emphasis> -- Пушкин говорит о своих "Стансах" ("В надежде славы и добра..."), о стихотворении "Друзьям", о "Пире Петра I", может быть о "Герое", -- тех стихотворениях, в которых он призывал Николая I вернуть с каторги декабристов.</p>
+<empty-line/>
+<p>1) Я воздвиг памятник (лат.).</p>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_23_ya_pamyatnik_sebe.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

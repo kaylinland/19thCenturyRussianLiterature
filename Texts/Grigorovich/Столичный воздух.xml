@@ -1,0 +1,2440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>love_short</genre>
+		<author>
+			<first-name>Дмитрий</first-name>
+			<middle-name>Васильевич</middle-name>
+			<last-name>Григорович</last-name>
+		</author>
+		<book-title>Столичный воздух</book-title>
+<annotation><p>(Эскиз петербургских нравов.)</p></annotation>		<date value="2014-02-19">19/02/2014</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 03:49:14</date>
+		<src-url>http://az.lib.ru/g/grigorowich_d_w/text_1896_stolichny_vozduh_oldorfo.shtml</src-url>
+		<id>samlib58f4b9cb9c13d5.47358807</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Григорович Дмитрий Васильевич</p>
+	<empty-line/>
+	<p>Столичный воздух</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Полное собраніе сочиненій</p>
+<p>Д.В. Григоровича</p>
+<p>въ 12 томахъ.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>3-е, вновь пересмотрѣнное и исправленное авторомъ изданіе.</p>
+<p>Томъ десятый.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>С.-Петербургъ. 1896.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><a xlink:href="http://az.lib.ru">http://az.lib.ru</a></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>СТОЛИЧНЫЙ ВОЗДУХЪ.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<empty-line/>
+<p>(ЭСКИЗЪ ПЕТЕРБУРГСКИХЪ НРАВОВЪ.)</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ВЪ ОДНОМЪ ДѢЙСТВІИ.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ДѢЙСТВУЮЩІЯ ЛИЦА:</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Павелъ Васильевичъ Вельскій -- 40 лѣтъ.</p>
+<p>Софья Сергѣевна, его жена -- 32 года.</p>
+<p>Александра Александровна Новинская, двоюродная сестра г-жи Вельской, пріѣхавшая изъ провинціи -- 24 года.</p>
+<p>Сергѣй Львовичъ, ея мужъ -- 38 лѣтъ.</p>
+<p>Вознесенскій, сенатскій чиновникъ, занимающійся мимо службы веденіемъ дѣлъ по разнымъ благотворительнымъ обществамъ --  40 лѣтъ.</p>
+<p>Даша, горничная Новинской -- 30 лѣтъ.</p>
+<p>Сидоръ, ея мужъ, камердинеръ Новинскаго -- 30 лѣтъ.</p>
+<p>Кормилица Вельскихъ.</p>
+<p>Александръ, слуга Вельскихъ.</p>
+<p>Дѣйствіе -- въ Петербургѣ, между часомъ и тремя пополудни.</p>
+<empty-line/>
+<p><emphasis>Сцена представляетъ гостиную въ нижнемъ этажѣ дома Вельскихъ, гд</emphasis><emphasis>ѣ</emphasis><emphasis> остановились Новинск</emphasis><emphasis>і</emphasis><emphasis>е; въ глубинѣ дверь на парадную половину Вельскихъ; налѣво, на первомъ планѣ, дверь на половину Новинскихъ, налѣво кушетка, столъ съ вазой и букетомъ цвѣтовъ, нѣсколько креселъ; направо столъ съ письменными принадлежностями.</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ЯВЛЕНІЕ I.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша</strong> <emphasis>(выходя изъ двери налѣво).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Опять пропалъ! Отвернуться не успѣла, пропалъ, разбойникъ!!.. Слышу: звонитъ барыня, отбѣжала на минуту, гляжу: его и слѣдъ простылъ!.. загубилъ насъ этотъ Петербургъ проклятый, чтобъ ему провалиться! Въ шесть недѣль, какъ сюда пріѣхали, всѣхъ сокрушилъ, окаянный! Барыня стала на себя не похожа; баринъ... баринъ и того хуже: совсѣмъ съ толку сбился... И мой за нимъ, туда же!!.. Куда ракъ съ копытомъ, туда и конь съ клешней.. тьфу!.. никакъ и сама-то я здѣсь совсѣмъ одурѣла.</p>
+<empty-line/>
+<empty-line/>
+<p>ЯВЛЕНІЕ II.</p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша, Кормилица</strong> <emphasis>(съ ребенкомъ на рукахъ).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Кормилица.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Здравствуй, Дарьюшка...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша</strong> <emphasis>(сильно </emphasis><emphasis>не въ духѣ).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Здравствуй, коли нечего дѣлать...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Кормилица.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Не видѣла нашей барыни?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Такъ къ ней и приставлена, чтобъ за нею ходить! А что тебѣ?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Кормилица.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Да что, Дарьюшка, второй вотъ день хожу за ней по всему дому и все безъ толку; даже, вѣришь ли, руки отмотались...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша</strong> <emphasis>(сосредоточенно).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Отмотаются, матушка... здѣсь у васъ отмотаются.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Кормилица</strong> <emphasis>(продолжая).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Придешь въ спальню, говорятъ: "нѣкогда, одѣвается"; опять придешь, говорятъ: "сѣла писать съ бумагами!" придешь опять -- "въ гости уѣхамши..." Вечоръ два раза докладывала; сегодня на лѣстницѣ встрѣчалась, опять говорю: "барыня, послать надыть за дохтуромъ..."</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша</strong> <emphasis>(нетерпѣливо).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Что же она?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Кормилица.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Сначатія словно и въ толкъ возьметъ: засуетится, забѣгаетъ... А тутъ опять изъ магазина придутъ, либо гости, либо сама уѣдетъ, смотришь: опять забыла! Весь день такъ-то ходишь и все безъ толку!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Захотѣла ты отъ этихъ нашихъ модницъ! У нихъ что? Только шалтай-балтай въ головѣ. Команъ ву бонжуръ, мусью! вотъ и все! Наглядѣлась я въ эти шесть недѣль, у васъ живучи... Ну, ужъ столичное житье! Да меня озолоти всю, -- сюда не поѣду.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Кормилица.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Нѣтъ, не говори, Дарьюшка! насчетъ кушанья превосходнѣе деревенскаго; вотъ также и насчетъ кофею...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша</strong> <emphasis>(перебивая).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Нашла что сказать: кофе! По мнѣ хоть бы его вовсе не было! Мы вѣкъ въ деревнѣ его не пили, а хуже не были; отъ него что: только дурѣешь!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Кормилица.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ну вотъ также и насчетъ пива.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша</strong> <emphasis>(досадливо).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ахъ, не поминай мнѣ лучше объ этомъ проклятомъ пивѣ! Вотъ оно гдѣ у меня сидитъ, вотъ! вотъ!!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Кормилица.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ты все насчетъ своего мужа сокрушаешься?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>О чужихъ что ли я стану плакать? До Петербурга до вашего ничего съ нимъ такого не было; въ шесть недѣль всему выучилъ! А все народъ здѣшній, матушка, все народъ... Самый что ни на есть пронзительный, разбойникъ сущій... <emphasis>(Передразнивая.) </emphasis>"Чего-съ, чего-съ!.." тьфу, анаѳемы! Закружатъ, завертятъ человѣка и не догадаешься... Пошли эти компаніи, трактиры, гулянья, кафестораны...</p>
+<empty-line/>
+<empty-line/>
+<p>ЯВЛЕНІЕ III.</p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша, Кормилица, Вельская</strong> <emphasis>(выходя изъ дверей про</emphasis><emphasis>тивъ сцены).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>А, кормилица!.. Здравствуй, Даша... Гдѣ твоя барыня?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Къ обѣднѣ ушли, сударыня.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ахъ да, сегодня праздникъ! <emphasis>(Кормилицѣ.) </emphasis>Ну что дитя? <emphasis>(Бросается къ ребенку.) </emphasis>Милый, душка! Baby!.. Ce cher Baby!..</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Кормилица.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Со вчерашняго дня жарокъ показался...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Жаръ! Ah mon Dieu! Сейчасъ, сію минуту, надо послать за докторомъ... Ступай, кормилица... Я сейчасъ... <emphasis>(Корми</emphasis><emphasis>лица уходитъ; Вельская берется за звонокъ, но входитъ Александръ съ письмомъ на подносѣ, и она останавливается.) </emphasis>Что это, опять письма? <emphasis>(Александръ уходитъ.)</emphasis><emphasis> </emphasis>Рѣшительно себѣ не принадлежишь... Три письма. Боже мой! сколько дѣлъ! ахъ да, совсѣмъ забыла! <emphasis>(Звонитъ; входитъ Александръ.) </emphasis>Александръ, пошлите скорѣе взять ложу во французскомъ театрѣ на завтра; скажите только, -- и не забудьте (вы такъ разсѣянны), -- взять съ правой стороны подлѣ сцены... <emphasis>(Александръ уходитъ; за нимъ въ другую дверь уходитъ Даша, пожимая плечами.) </emphasis>Посмотримъ, что тутъ еще такое... <emphasis>(Беретъ первое письмо.) </emphasis>Счетъ изъ Ville de Lyon... и третій разъ, какія несносныя! <emphasis>(Беретъ второе письмо.) </emphasis>"Chère Sophie, сегодня я окончательно навела справку и могу удовлетворить твоему любопытству: благотворительный концертъ Kitty принесъ 2000 рублей..." <emphasis>(Прерывая.) </emphasis>Двѣ тысячи рублей! это невозможно! Всѣ говорили, концертъ не удался и зала была совершенно пустая! Впрочемъ, все объясняется... все объясняется этими мальчишками, которыхъ она въ себя влюбляетъ... Они никому не давали проходу, упрашивая чуть не со слезами купить билеты; билеты не покупались; не смѣя возвратить ихъ назадъ, они сложились и сами ихъ купили! C'est clair, clair comme le jour!.. <emphasis>(Развертываетъ третье письмо.) </emphasis>"Милостивая государыня! Не имѣя никакой чести быть лично представленъ вамъ, я, какъ простой любитель человѣчества, прямо обращаюсь къ вамъ, зная, что сердце ваше всегда раскрыто на пользу ближняго..." <emphasis>(Прерывая.) </emphasis>Да, меня знаютъ... меня всѣ знаютъ!! <emphasis>(Продолжая читать:) </emphasis>"Но буду кратокъ, щадя драгоцѣнное время ваше. Здѣсь въ роскошной, сѣверной столицѣ нашей проживаетъ бѣдная вдовица, нѣкто Вильгельмина Пешель, имѣющая сына, прекраснаго молодого человѣка, одареннаго всѣми качествами, требующимися для образованія замѣчательнаго чиновника..." <emphasis>(Прерываясъ.) </emphasis>Боже мой, какъ длинно и какой слогъ!... <emphasis>(Продолжая.) </emphasis>"Надѣленный щедрой природой восхитительной наружностью, молодой Пешель отличается необыкновенными душевными свойствами, передавными ему матерью, женщиной высшихъ добродѣтелей и нравственности, получившей образованіе въ одномъ изъ лучшихъ пансіоновъ." <emphasis>(Прерываясъ.) </emphasis>Боже мой, какое мнѣ дѣло до этого!.. Какой слогъ! какой слогъ! какъ, еще не кончено?.. <emphasis>(Читаетъ:) </emphasis>"Образованіе молодого Пешеля отвѣчаетъ вполнѣ его нравственности; онъ обнаружилъ поразительные успѣхи въ русскомъ, французскомъ и нѣмецкомъ языкахъ; на первыхъ двухъ онъ изъясняется свободно и правильно, особенно на первомъ, который и есть его природный". <emphasis>(Прерываясъ.) </emphasis>Онъ глупъ, должно быть! опредѣлить его никуда не могли и теперь по обыкновенію просятъ меня похлопотать объ немъ... Je suis assomée par ces просьбы! Впрочемъ это неизбѣжное слѣдствіе моего положенья: je suis si populaire! <emphasis>(Глядя на письмо.) </emphasis>Камъ, еще не кончено? <emphasis>(Читая:) </emphasis>"Находясь постоянно при матери, молодой Пешель пріобрѣлъ отъ нея прекрасныя манеры, характеръ нѣжный и игривый, смѣтливость весьма замѣчательную..." <emphasis>(Бросая письмо.) </emphasis>Нѣтъ, довольно! довольно... Но, Боже мой, сколько еще дѣлъ! сколько дѣлъ! Надо написать до сорока пригласительныхъ писемъ къ завтратинему вечеру, надо приготовить три платья, сдѣлать нѣсколько визитовъ... а въ три часа... Боже мой, въ три часа у меня комитетъ.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Александръ</strong> <emphasis>(докладывая).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Господинъ Вознесенскій!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Проси! Проси!</p>
+<empty-line/>
+<empty-line/>
+<p>ЯВЛЕНІЕ IV.</p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская и Вознесенскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Здравствуйте... виновата, я все забываю...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вознесенскій</strong> <emphasis>(легко наклоняясь).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ельпидифоръ...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ахъ, да, Анпидифоръ Антонычъ!.. Извините пожалуйста... эти русскія имена... это, знаете, такъ трудно!.. Какъ вы мнѣ нужны... Липи... Липидифоръ Антоновичъ, какъ нужны!.. Ну, что, какъ идутъ наши билеты?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вознесенскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>До сихъ поръ все благополучно...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская</strong> <emphasis>(перебивая).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>То-есть, какъ благополучно? Я хочу, понимаете, чтобы было превосходно!! Понимаете Ан... ахъ, опять забыла... да, Анпидифоръ Антоновичъ, я хочу, чтобы было превосходно!! Нашъ концертъ долженъ непремѣнно принести 3000! У меня на это свои важныя, очень важныя причины! Три тысячи, слышите ли?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вознесенскій</strong> <emphasis>(почтительно наклоняясь).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Вамъ извѣстна моя преданность къ вамъ... и также къ цѣли, которую вы изволите преслѣдовать...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Сколько билетовъ уже роздано?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вознесенскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Еще не сведены окончательные счеты, но, кажется, уже больше трети...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Афишка уже напечатана?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вознесенскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Сію минуту только что вышла изъ типографіи. Я захватилъ ее съ собою, вотъ она... <emphasis>(Читаетъ:) </emphasis>"Въ пятницу, 17 числа, Комитетомъ для снабженія носовыми платками бѣдныхъ извозчиковъ данъ будетъ вокальный и инструментальный концертъ съ живыми картинами и томболой-аллегри..."</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Надо бы къ фразѣ: "съ живыми картинами" прибавить: "патріотическаго содержанія!.. "</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вознесенскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Превосходная мысль; къ тому же оно теперь въ большой модѣ! Такъ какъ это только первая афиша, завтра, при второмъ оттискѣ, можно будетъ вставить ваше замѣчательное замѣчаніе... я хотѣлъ сказать вашу мысль!..</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Хорошо, хорошо... Только помните... ахъ, Боже мой, я все забываю...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вознесенскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ельпидифоръ...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ахъ, да...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вознесенскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Антоновичъ...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Да, извините пожалуйста, эти русскія имена... право это такъ трудно! Помните же, намъ необходимо 3000!.. Это очень важно. <emphasis>(Вкрадчиво.) </emphasis>Вы просили меня устроить ваше дѣло и я устрою его; помните: одолженіе за одолженіе.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Александръ</strong> <emphasis>(докладывая).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Секретарь посольства!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Проси, проси!.. Наверхъ, въ голубую гостиную... Скажите только: я очень извиняюсь и прошу подождать... <emphasis>(Въ сторону.) </emphasis>Нельзя не принять, бѣдняжка такъ влюбленъ! Кстати, я дамъ ему 20 билетовъ. <emphasis>(Вознесенскому.) </emphasis>Приготовьте пока пожалуйста бумаги для комитета; въ два часа ровно мы начнемъ! <emphasis>(Уходитъ.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>ЯВЛЕНІЕ V.</p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вознесенскій</strong> <emphasis>(одинъ).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Удивительно право сотворены эти свѣтскія дамы! Встанутъ въ 12 часовъ, въ часъ, и думаютъ, что уже съ этихъ поръ время цѣлаго человѣчества принадлежитъ имъ по праву... Она сказала однакоже: "услуга за услугу". Гм... Ну, до сихъ поръ, по крайней мѣрѣ, я съ ея стороны ничего еще не вижу... Полгода занимался, какъ секретарь, благотворительными дѣлами баронессы Ластъ, -- и получилъ мѣсто; хлопоталъ объ лотереѣ въ пользу снабженія неимущихъ старухъ дешевымъ нюхательнымъ табакомъ, -- графиня Гаденбургъ сдѣлала меня смотрителемъ пріюта; жалованье, конечно, пустякъ, но мѣсто сближаетъ съ сильными міра, а мнѣ всегда этого хотѣлось... Состоялъ потомъ при постройкѣ часовни, -- были при этомъ даже кой-какія выгоды, и все-таки княгиня Зинзивѣева выхлопотала вотъ <emphasis>(указываетъ на петлицу). </emphasis>Ну, а эта, эта пока еще ничего не сдѣлала! А уладить -- надо; связи, большія связи!.. Шутка однакожъ что вздумала! собрать 3000!!! Мало у нея влюбленныхъ, -- вотъ что жаль; мало такъ сказать гарантіи для раздачи билетовъ... Но нѣтъ, не тотъ совсѣмъ у нея характеръ, -- слишкомъ разбрасывается! И политика, и благотворительность, и общественные интересы, и свѣтскія удовольствія... Да, слишкомъ разбрасывается!.. Однакожъ сколько я здѣсь ни сижу, провинціальная ея кузина Александра Александровна Новинская все-таки не показывается, а въ этотъ часъ я всегда застаю ее здѣсь... Вотъ эта такъ не разбрасывается... Это прелесть женщина!.. Но... но вотъ и она.</p>
+<empty-line/>
+<empty-line/>
+<p>ЯВЛЕНІЕ VI.</p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вознесенскій и Новинская</strong> <emphasis>(выходя изъ двери въ глубинѣ; она въ шляпкѣ)</emphasis><emphasis>.</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вознесенскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ахъ, мое почтеніе, Александра Александровна...</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Здравствуйте... Вы не видали кузины?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вознесенскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Сейчасъ здѣсь были... Вышли, кажется, одѣваться; у насъ комитетъ черезъ четверть часа...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Комитетъ? Но вчера уже былъ.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вознесенскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Сегодня другой, сегодня комитетъ для снабженія дешевымъ мыломъ бѣдныхъ трубочистовъ... Но не безпокою ли я васъ?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Извините... мнѣ надо прочесть нѣсколько писемъ,</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вознесенскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Въ такомъ случаѣ, имѣю честь кланяться. <emphasis>(Въ сторону.) </emphasis>"Оставлю здѣсь нѣсколько бумагъ, чтобы имѣть предлогъ вернуться"... Холодна, замкнута, сосредоточенна, но очаровательна!! <emphasis>(Уходитъ.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>ЯВЛЕНІЕ VII.</p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская</strong> <emphasis>(одна).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Не могу дать себѣ отчета, но господинъ этотъ почему-то особенно мнѣ не нравится... Встрѣчаются такіе люди: чѣмъ любезнѣе, тѣмъ несноснѣе. <emphasis>(Садится, снимаетъ шляпку.) </emphasis>Но, Боже мой, куда же Сережа могъ уйти такъ рано? Вчера я опять его только видѣла мелькомъ... И такъ почти каждый день. Но нѣтъ, не хочу вѣрить въ такую слабость; кругъ прежнихъ товарищей, петербургскія развлеченія, все это, очень понятно, можетъ на время занять человѣка, особенно послѣ нѣсколькихъ лѣтъ деревенской жизни; но все это не можетъ же завлечь его совершенно... Съ другой стороны думаю -- и сердце невольно сжимается... Что значитъ эта перемѣна въ немъ? Въ послѣдніе дни онъ сталъ особенно какъ-то озабоченъ, задумчивъ... Кузина, какъ величайшую тайну, сообщила мнѣ, что онъ проводитъ вечера съ ея мужемъ въ клубѣ и много играетъ... Кузина прибавляетъ (и на этотъ разъ всегда какъ бы подчеркиваетъ слова свои), что мужчины вообще склонны къ увлеченію. Боже мой!.. Прожить шесть лѣтъ, какъ я прожила, благословляя каждый мигъ своей жизни, и все это будетъ забыто, забыто въ какія-нибудь шесть недѣль... забыто потому только, что въ Петербургѣ существуютъ какія-то обольщенія... <emphasis>(Плачетъ.) </emphasis>Но что это? отчего же я плачу?.. <emphasis>(Съ удареніемъ.) </emphasis>Да, надо сказать, однакожъ, въ этой столичной жизни, въ этомъ воздухѣ, въ вихрѣ этой суеты, есть дѣйствительно какая-то зараза; дѣйствительно есть что-то возбуждающее нервы, но охлаждающее сердце. Здѣсь даже всѣ понятія какъ-то превращаются... Въ шесть недѣль я много насмотрѣлась... И когда подумаю, что сама дала мужу мысль сюда пріѣхать, сама къ нему приставала... Мнѣ хотѣлось развлечь его. Хорошо еще, что дѣтей не взяла съ собою.</p>
+<empty-line/>
+<empty-line/>
+<p>ЯВЛЕНІЕ VIII.</p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша и Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша</strong> <emphasis>(входя неожиданно и подавая два письма).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Привезли, сударыня.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ахъ, какъ ты меня испугала! что такое?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Да вотъ письма, сударыня; одно съ почты, должно быть отъ нашихъ.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>А другое письмо?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Его принесла какая-то чужая горничная съ задняго крыльца; людей никого не было, кромѣ прачки; передали ей, а она мнѣ... Просили отдать въ руки камердинера вашего братца.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Оставь здѣсь, -- я передамъ... <emphasis>(Беретъ письмо и вдругъ </emphasis><emphasis>измѣняется въ лицѣ, въ сторону.) </emphasis>Имя моего мужа... женскій почеркъ... Боже мой!..</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша</strong> <emphasis>(плаксиво).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Александра Александровна, у меня къ вамъ просьба есть: сдѣлайте такую милость, силъ моихъ нѣтъ терпѣть!.. Хоть вы его постращайте, совсѣмъ вѣдь замотался.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Что такое?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Да мой Сидоръ, сударыня... что и дѣлать не знаю... По цѣлымъ днямъ пропадаетъ... пропалъ какъ есть.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Хорошо, послѣ... оставь меня.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Пора бы отсюда уѣхать. Ей-Богу пора! Ничего здѣсь нѣтъ хорошаго... только суета одна.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Оставь меня, пожалуйста, я сейчасъ приду.</p>
+<empty-line/>
+<p><emphasis>(Даша уходитъ.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ЯВЛЕНІЕ IX.</p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская</strong> <emphasis>(одна; разсматривая письмо съ большимъ волнен</emphasis><emphasis>і</emphasis><emphasis>емъ).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Да... да. Это его имя: Mr. Mr. de Novinsky. Женская рука... Принесли съ задняго хода... <emphasis>(Читаетъ снова.) </emphasis>Mr. Mr. de Novinsky... <emphasis>(Хватаясь за голову, потомь за сердце.) </emphasis>А и такъ безгранично ему вѣрила!!.. Но нѣтъ, быть не можетъ, тутъ что-нибудь не такъ... Однакожъ, вотъ... вотъ письмо... его имя... <emphasis>(Дѣлаетъ движеніе, какъ бы желая распечатать его.) </emphasis>Нѣтъ, я не сдѣлаю этого!.. Есть еще другое письмо... <emphasis>(Смотритъ на конвертъ.) </emphasis>Оно отъ жены нашего управляющаго, мнѣ адресовано и я прочту его... <emphasis>(Читаетъ:) </emphasis>"Глубокоуважаемая Александра Александровна, пишу вамъ на-скоро и по порученію мужа; онъ уѣхалъ неожиданно по дѣлу и поручилъ мнѣ просить васъ объяснить супругу вашему, что нѣтъ никакой возможности такъ скоро продать рожь и выслать такую значительную сумму денегъ". <emphasis>(Останавлаваясь.) </emphasis>Зачѣмъ ему вдругъ эти деньги? Стало-быть правда, что онъ играетъ и... проигралъ, можетъ-быть!.. <emphasis>(Берешъ другое письмо.) </emphasis>Можетъ-быть здѣсь узнаю правду... <emphasis>(Долго колеблется, вдругъ раскрываетъ конвертъ и читаетъ:) </emphasis>Cher Bibi adoré, tu m'as promis de me mener aujourd'hui aux iles.</p>
+<empty-line/>
+<empty-line/>
+<p>ЯВЛЕНІЕ X.</p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская и Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская</strong> <emphasis>(быстро входя; Новинская прячетъ письмо и</emphasis> <emphasis>садится на него).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Bonjour, Zizi! Во-первыхъ, здравствуй; мы еще не видѣлись сегодня <emphasis>(цѣлуются), </emphasis>во-вторыхъ, я пришла извиниться передъ тобой. Ты знаешь, завтра у насъ вечеръ, т.-е. собственно c'est moi, я даю его; цѣль та -- какъ можно больше раздать билетовъ на мой благотворительный концертъ. Наверху, въ большихъ комнатахъ теперь ставятъ цвѣты, убираютъ, и потому я отъ 2 до 3 часовъ завладѣла внизу твоей столовой... У меня комитетъ; ты прощаешь?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Да, еще бы!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Еще просьба... сегодня за обѣдомъ (потомъ скажу, кто и кто у насъ будетъ) подлѣ тебя сядетъ секретарь посольства баронъ Чикъ. Chère amie, будь съ нимъ какъ можно любезнѣе... онъ влюбленъ, ты знаешь. Il en perd la tête... Начинаютъ болтать объ этомъ въ городѣ. Cette chère capitale! Ты еще не знаешь Петербурга; только слава; а относительно сплетенъ: c'est un vrai Арзамасъ; ну, такъ будь мила; я просила его быть очаровательнымъ... Понимаешь, чтобы отвести подозрѣніе. <emphasis>(Разсѣянно.) </emphasis>Но послѣ обѣда ты ѣдешь съ нами въ оперу.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Нѣтъ, у меня голова болитъ...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>По крайней мѣрѣ, на балъ послѣ театра мы ѣдемъ вмѣстѣ...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Нѣтъ, я и на балъ не поѣду...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Chère Zizi, tu as quelque chose... Что съ тобой? Помилуй, платье твое заказано, готово, сидитъ на тебѣ какъ ангелъ, какъ два ангела, и ты отказываешься ѣхать!..</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Говорю тебѣ, у меня голова болитъ...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ахъ, chère amie, полно. Перестань, пожалуйста. У всѣхъ голова болитъ, у всѣхъ рѣшительно -- и никто на это не обращаетъ вниманія... C'est province... къ завтрашнему дню, по крайней мѣрѣ, надѣюсь, твоя голова пройдетъ... Она должна пройти! завтра: c'est le grand-jour, le coup d'état, ты обѣщала мнѣ помочь, и я разсчитываю... Вспомни, завтра въ два часа праздникъ на каткѣ!.. Вся молодежь явится, весь городъ, tout le monde! Я это затѣяла съ тѣмъ, чтобы имѣть случай раздать билеты для моего концерта; ты обѣщала помогать мнѣ... Но что съ тобою?.. Qu'as-tu Zizi? Смотри, даже прическа твоя разстроена... Встань на минуту, я тебя поправлю... встань... <emphasis>(Старается приподнять Нов</emphasis><emphasis>и</emphasis><emphasis>нскую, ma упирается.) </emphasis>Une seconde... Встань же!.. <emphasis>(Новинская приподнимается; на полъ </emphasis><emphasis>п</emphasis><emphasis>адаетъ письмо.)</emphasis></p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская</strong> <emphasis>(въ смущеніи).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ахъ!.. <emphasis>(Неловко старается закрыть ногою письмо.)</emphasis></p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская</strong> <emphasis>(наставительно).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Zizi, будь осторожнѣе...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Какъ? ты можешь думать...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Не думаю, но вижу и повторяю тебѣ: Zizi, будь осторожна... Tu joues là ma chère...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская</strong> <emphasis>(быстро подиммая письмо и подавая его).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Читай!!.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская</strong> <emphasis>(читая съ жадностью).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>"Cher Bibi adoré!.." Oh quelle horreur!.. <emphasis>(Усаживая Новинскую на диванъ и въ то же время пробѣгая письмо глазами.) </emphasis>Теперь я понимаю, отчего у тебя глаза красны... <emphasis>(Читая и вмѣстѣ съ тѣмъ говоря съ Новинской.) </emphasis>Chère amie, du courage; я тебѣ говорила: приходитъ для насъ періодъ черныхъ дней! Chère Zizi: шесть лѣтъ супружества!!.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Но нѣтъ, я вѣрю моему мужу; тутъ есть какая-нибудь ошибка...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская</strong> <emphasis>(съ уб</emphasis><emphasis>ѣж</emphasis><emphasis>деніемъ).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Zizi, шесть лѣтъ супружества!.. Но кто принесъ это письмо?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Даша; оно было передано Дашѣ твоей прачкой, а той доставлено какой-то горничной черезъ черную лѣстницу: она велѣла передать камердинеру cousin, т. е. твоего мужа... на немъ было имя моего мужа, и я рѣшилась его распечатать.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Zizi, шесть лѣтъ супружества!.. Они всѣ такъ! Nous autres pauvres femmes!.. Но ты говоришь, камердинеру моего мужа... <emphasis>(Въ сторону.) </emphasis>Ah mon Dieu!.. Это ясно, это ему! <emphasis>(Съ живостью обращается; къ Новинской.) </emphasis>Дай мнѣ это письмо.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Нѣтъ, оно адресовано мужу, я отдамъ его ему по принадлежности.</p>
+<empty-line/>
+<empty-line/>
+<p>ЯВЛЕНІЕ XI.</p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вознесенскій</strong> <emphasis>(входя).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Софья Сергѣевна, комитетъ собранъ и ожидаетъ васъ.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Иду... <emphasis>(Въ сторону.) </emphasis>Нѣтъ сомнѣнія, моему мужу... Только этого недоставало!.. Ah mon Dieu! <emphasis>(Уходитъ.)</emphasis></p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вознесенскій</strong> <emphasis>(слѣдуя за нею, но взглядывая на Новинскую въ сторону).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Прелестная женщина!.. Холодна, сосредоточенна, но очаровательна! <emphasis>(Уходитъ.)</emphasis></p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская</strong> <emphasis>(одна).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Неужели Сережа могъ такъ себя унизить... Быть не можетъ... нѣтъ... нѣтъ!.. Но между тѣмъ, какъ объяснить себѣ все это... я такъ много слышала объ этихъ женщинахъ! Онѣ, говорятъ, такъ опасны! какой тайной владѣютъ эти женщины, чтобы въ одинъ день, въ одинъ часъ разрушить счастье... <emphasis>(прерываясь рыдан</emphasis><emphasis>і</emphasis><emphasis>емъ) </emphasis>счастье, которое честной женщинѣ стоило столькихъ лѣтъ любви и преданности мужу.</p>
+<empty-line/>
+<empty-line/>
+<p>ЯВЛЕНІЕ XII.</p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Тѣ же и Кормилица</strong> <emphasis>(съ ребенкомъ).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Что ты, кормилица?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Кормилица.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Да что, сударыня, съ утра самаго хожу за барыней, -- найти не могу... Даже руки отмотала!..</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Что же тебѣ?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Кормилица.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Да вотъ жаръ у ребенка... Сколько разъ говорила: "сейчасъ, сейчасъ!" а все нѣтъ ничего; опять ходила; говорятъ: канитетъ какой-то...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская</strong> <emphasis>(съ живостью),</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Какъ, ребенокъ боленъ и ты... и... <emphasis>(Звонить; входитъ Александръ.) </emphasis>Скорѣе пошлите за докторомъ. Погодите, я напишу ему нѣсколько словъ... Ты ступай, кормилица; сейчасъ пріѣдетъ. <emphasis>(Кормилица уходитъ; Новинская пишетъ письмо; въ это время входитъ Вознесенскгй.) </emphasis>Вотъ отдайте доктору, скажите еще на словахъ, что его ждутъ... <emphasis>(Александръ уходитъ.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>ЯВЛЕНІЕ XIII.</p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская и Вознесенскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вознесенскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Виноватъ, сударыня, я васъ, кажется, обезпокоилъ... Но остались здѣсь бумаги и я воспользовался минутой, когда началось совѣщаніе... <emphasis>(Вкрадчиво.) </emphasis>Надо прибавить: бурное совѣщаніе, потому что между предсѣдателями, сестрицей вашей и баронессой Ластъ начался горячій споръ... пошли даже пикировки, ни одна не хочетъ уступить другой... Но вы, кажется, заняты...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Извините.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вознесенскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Въ такомъ случаѣ удаляюсь... Удаляюсь. <emphasis>(Въ сторону) </emphasis>Какая прелесть!.. <emphasis>(Уходитъ; въ ту мгшуту, какъ онъ въ дверяхъ, изъ двери налѣво выходитъ Новинск</emphasis><emphasis>і</emphasis><emphasis>й.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>ЯВЛЕНІЕ XIV.</p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій и Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій</strong> <emphasis>(глядя на дверь, куда вышель Вознесенскій и въ сторону).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Опять этотъ секретарь?! <emphasis>(При видѣ мужа Новинская садится на диванъ.) </emphasis>Здравствуй, Alexandrine! я еще не видалъ тебя сегодня... <emphasis>(Подходитъ къ ней, обнаруживая явную неловкость, и беретъ ее за руку.) </emphasis>Мнѣ говорили -- ты была у обѣдни, я не успѣлъ; съ 10-ти часовъ пришли ко мнѣ Ипатовъ и Силичъ, старые товарищи по полку, ты ихъ не знаешь, -- и просидѣли почти до часу... <emphasis>(Молчаніе жены все болѣе и болѣе его смущаетъ.) </emphasis>Право, какой странный городъ этотъ Петербургъ; цѣлый день ничего не дѣлаешь, только мечешься во всѣ стороны... а между тѣмъ нѣтъ минуты свободнаго времени. Не знаю, дѣлаетъ ли на тебя то же впечатлѣніе, но странно то, что при этой безтолковой жизни у всѣхъ какія-то нахмуренныя, озабоченныя лица... всѣ какъ-то недовольны собою, недовольны своимъ положеніемъ, еще больше недовольны положеніемъ другого и всѣ какъ-то бранятъ другъ друга... Такой ужъ здѣсь воздухъ. <emphasis>(Съ возрастающею нeловкостью.) </emphasis>Ахъ, да, сестра мнѣ мимоходомъ сказала, что ты сегодня на балъ не поѣдешь... отчего же?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Голова болитъ.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ты уже вчера жаловалась... я сейчасъ пошлю за докторомъ. <emphasis>(Дѣлаетъ движеніе къ звонку.)</emphasis></p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская</strong> <emphasis>(удерживая).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Нѣтъ, не надо...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій</strong> <emphasis>(въ сторону).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Она сегодня еще больше разстроена. <emphasis>(Громко, придвигаясь ближе къ женѣ.) </emphasis>Скажи пожалуйста, что съ тобой?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская</strong> <emphasis>(черезъ силу удерживая слезы).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ничего...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ничего... и ты говоришь это чистосердечно... Посмотри мнѣ въ лицо... <emphasis>(Хочетъ взять ея руку, она отворачтается, закрываетъ лицо руками и вдругъ, зарыдавъ, убѣгаетъ въ дверь налѣво. Новинскій бросается за женой, потомъ возвра</emphasis><emphasis>щаясь.) </emphasis>Но нѣтъ, не пойду за ней... Что же это въ самомъ дѣлѣ?.. Просто ни на что не похоже!.. Вотъ двѣ недѣли, какъ это продолжается... съ того глупаго вечера, какъ я поѣхалъ въ Царское-Село къ старымъ товарищамъ и... и... два дня не возвращался... Ну, глупо было... знаю, что глупо! но все-таки нельзя такъ долго сердиться... Вельскій правъ: баловать женъ никуда не годится... Чѣмъ больше она сердится, тѣмъ мнѣ досаднѣе; и хочется подойти къ ней, и вмѣстѣ съ тѣмъ чувствуется какая-то неловкость... А тутъ Петербургъ со своею вознею; то туда, то сюда, нѣтъ минуты разумнаго спокойствія!.. Но нѣтъ ли также другой причины въ ея перемѣнѣ? Женщины такъ фантастичны!.. Вообще все это скучно, глупо, пора кончить и убираться во-свояси.</p>
+<empty-line/>
+<empty-line/>
+<p>ЯВЛЕНІЕ XV.</p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій и Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій</strong> <emphasis>(входя).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ба, ты уже готовъ!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій</strong> <emphasis>(стараясь скрыть дурное расположеніе духа, </emphasis><emphasis>принимая шутливый</emphasis> <emphasis>видъ).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Готовъ! только въ другомъ смыслѣ, какъ обыкновенно принимаютъ... Знаешь, Вельскій, это такъ мимоходомъ, я пришелъ къ убѣжденію, и надо сказать, ты много тому способствовалъ -- что женщинъ вообще, т. е. никогда, баловать не слѣдуетъ...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Пари держу -- поссорились. И въ первый разъ, какъ-то интересно... Любезный другъ, неизбѣжно надо придти къ тому!!! Ты еще что? Ты въ исключительномъ положеніи; твоя поэма тянулась 6 лѣтъ; она обыкновенно скорѣе переходитъ во всеобщую исторію; разница въ томъ только, что историческія сраженія служили къ истребленію человѣчества... супружескія битвы нисколько не мѣшаютъ къ его размноженію.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ты все шутишь! Повторяю, я пришелъ къ горькому убѣжденію: женъ баловать не слѣдуетъ! <emphasis>(Съ увлеченіемъ.) </emphasis>Ты отдаешься женщинѣ душой и тѣломъ.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Не обо мнѣ ли это говоришь?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Нѣтъ.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>То-то, я уже испугался.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій</strong> <emphasis>(продолжая).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Живешь, такъ сказать, для нея одной! Шагу не дѣлаешь, ни умственно, ни даже физически, безъ того, чтобы она не знала.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій</strong> <emphasis>(публикѣ).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Что значитъ неопытность! Даже слушать страшно...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій</strong> <emphasis>(продолжая).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>И все это ведетъ къ тому, что если ты только...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Не я во всякомъ случаѣ!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій</strong> <emphasis>(досадливо).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ну да, не ты... Что ты все перебиваешь, я о себѣ говорю; если ты по обстоятельствамъ отъ тебя независящимъ... Ну, хоть бы какъ я теперь, пріѣхалъ въ Петербургъ, гдѣ условія жизни совсѣмъ другія, чѣмъ въ деревнѣ... не могу же я быть здѣсь вѣчно прикованнымъ къ женѣ! это поневолѣ!.. Что жъ? Она серьезно начинаетъ огорчаться, плачетъ, разводитъ въ душѣ разныя подозрѣнія, впадаетъ въ какую-то мрачную меланхолію, разстраивается совершенно...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Въ такихъ случаяхъ замѣть себѣ одно правило: оставь жену въ покоѣ; утѣшать начнешь -- хуже будетъ, повѣрь мнѣ; всѣ твои аргументы, утѣшенія, оправданія, доводы, доказательства ни къ чему не поведутъ; дѣйствіе то же, что подкладывать камни въ потокъ: только шума и пѣны прибавится!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Я не шутя начинаю безпокоиться за ея здоровье.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Пустяки.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Пустяки?!!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Разумѣется! Вѣрь мнѣ, я говорю по опыту. Изо всего, что есть на свѣтѣ живущаго, женщины самое крѣпкое существо и самое живучее -- бѣлка совершейная! Онѣ умираютъ отъ любви, умираютъ съ горя, мы ихъ моримъ на каждомъ шагу, онѣ сами себя убиваютъ безпрестанно, -- и что жъ? Все-таки живутъ и процвѣтаютъ для счастія человѣчества!! Вообще здоровье женщины самая неопредѣленная вещь. Оно отъ всего зависитъ, -- отъ погоды, отъ часа, отъ туалета ея пріятельницъ, словомъ, отъ всего и отъ ничего. Часто женщина, приговоренная утромъ на смерть цѣлымъ консиліумомъ докторовъ, въ три часа очаровательно болтаетъ въ гостиной, если это только, конечно, входитъ въ составъ ея расчетовъ, и всю ночь танцуетъ до пѣтуховъ!.. Короче сказать: между тобой и женою прошла туча: Филемонъ и Бавкида поссорились!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Тебѣ все смѣшно!.. Нѣтъ, я серьезно говорю: меня жена не на шутку начинаетъ безпокоить...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Въ какомъ отношеніи?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Въ отношеніи чисто сердечномъ.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Счастливецъ!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Счастливецъ?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Еще бы, когда жена въ состояніи давать тебѣ такія сладкія ощущенія...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Знаешь, Вельскій, ты мнѣ просто гадокъ сегодня! Ты какъ-будто кокетничаешь своимъ равнодушіемъ; нашелъ чѣмъ хвастать! И наконецъ ты просто прикидываешься; ужъ будто ты не имѣешь этихъ ощущеній?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Я?! Да Боже меня упаси и помилуй... Спѣшу прибавить: мои отношенія къ женѣ совсѣмъ другого рода.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Знаю, знаю, ты ужъ мнѣ говорилъ; тѣ отношенія, которыя зарождаются въ столичномъ воздухѣ и въ извѣстныхъ слояхъ, т. е. люди женятся, живутъ съ другой... а любятъ только самихъ себя!..</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Я говорилъ это въ свое обвиненіе... и ничего не сказалъ о женѣ.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ты постоянно съ ней ссоришься.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій</strong> <emphasis>(комически наставительно).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Въ Римѣ, говорятъ, на гробницѣ двухъ супруговъ была слѣдующая надпись: "Прохожій, остановись и любуйся величайшимъ чудомъ: здѣсь покоится мужъ и жена, которые не ссорятся!"</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Твоя жена отличная женщина.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Совершенно справедливо... но справедливо и то также, что на мою долю мало остается.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Какъ такъ?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Свѣтъ много себѣ беретъ, и надо сказать: жена охотно поддается его требованіямъ... Требованія эти прихотливы... Ты самъ, я думаю, видишь: я постоянно живу посреди какихъ-то превращеній: на прогулкѣ жена является великолѣпнымъ тюльпаномъ; на балѣ или въ ложѣ -- пышной махровой розой; въ гостиной -- фіалкой или ландышемъ, смотря по капризу минуты; для меня собственно что жъ остается? Часто одни стебли, а еще чаще крапива!..</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Короче сказать, ты хочешь меня увѣрить, что охладѣлъ совершенно.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Да... кажется.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Любопытно бы знать, какъ ты дошелъ до этого?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Не вдругъ, конечно, -- этапами; можно даже раздѣлить ихъ, если хочешь, на періоды: 1-й періодъ: бѣшенство баловъ и увеселеній до бѣлой горячки; 2-й періодъ: дипломатическій салонъ; 3-й періодъ -- политическое значеніе, какъ питаніе собственнаго тщеславія; 4-й -- благотворительность, подбитая розовымъ атласомъ... Потому что, замѣть себѣ: половина благодѣяній извѣстнаго рода основана на спекулиціи; она невинна, но все-таки спекуляція. Разсыпая благодѣянія, всегда сколько-нибудь себѣ благодѣтельствуешь... Жена, напримѣръ, съ наслажденіемъ беретъ у меня 500 р. съ тѣмъ, чтобы 100 отдать своимъ бѣднымъ!.. Но я удаляюсь отъ предмета; продолжаю: когда начались балы и бѣлая горячка увеселеній, -- я сладко засыпалъ въ каретѣ -- но все еще крѣпился; дипломатическій салонъ на минуту возбудилъ мои первы, и я первый разъ подумалъ о побѣгѣ; политическое значеніе укрѣпило меня окончательно въ такомъ намѣреніи; когда же дошло до благотворительности, особенно до комитетовъ, -- я зажмурилъ глаза, какъ человѣкъ, попавшій на край пропасти, и скатился очертя голову; къ счастію, пропасть была не глубока; къ тому же на днѣ меня подхватили пріятели, -- я говорю о тѣхъ, которые меня любятъ, а не о тѣхъ, которые меня ненавидятъ; они, правда, не дѣлали большихъ усилій, чтобы спасти меня; такъ только слегка протянули руки и повели меня... въ клубъ -- гдѣ я и остался... Тепло, хорошо, покойно, а главное нѣтъ комитетовъ!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Такъ что ты теперь совершенно равнодушенъ къ тому, что бы въ домѣ ни происходило?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Совершенно!..</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ну, а если бъ жена твоя, видя себя совершенно оставленной, вздумала бы увлечься?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Не думаю, чтобы такое открытіе доставило мнѣ особенное удовольствіе, но не думаю также... Да вотъ я знаю, напримѣръ, въ жену влюбленъ теперь секретарь посольства баронъ Чикъ, и что жъ? Развѣ ты видишь меня въ особенной тревогѣ? Конечно, это до извѣстной границы... И потомъ, братецъ, вѣрь мнѣ, во всемъ этомъ главную роль играетъ опытъ. Такъ, напримѣръ, баронъ Чикъ принадлежитъ къ извѣстному числу обожателей, l'adorateur!.. числу, замѣть себѣ, совершенно безвредному и безопасному; обожатель имѣетъ только шансы быть мужемъ моей жены послѣ моей смерти. Но, какъ видишь, я живъ и спокоенъ, что жъ, пускай себѣ тѣшатся!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Нѣтъ, я не таковъ... При одной мысли такого несчастья, я чувствую, что блѣднѣю. <emphasis>(Перемѣнивъ тонъ.) </emphasis>Да, кстати, скажи, пожалуйста, я давно собираюсь спросить: что за человѣкъ этотъ Воскресенскій, который здѣсь то и дѣло вертится?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>А право не знаю... такъ дрянь какая-то! Господинъ, пробивающій себѣ дорожку... больше по чернымъ лѣстницамъ...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Уменъ или глупъ?..</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Вопросъ, ясно показывающій, что ты заглохъ въ провинціи; вопросъ въ Петербургѣ неразрѣшимый; одни тебѣ скажутъ: уменъ, какъ ясный день! Другіе -- идіотъ совершеннѣйшій... Если ты хочешь знать мое мнѣніе, я нахожу, что онъ слишкомъ помадится!.. Но чѣмъ тебя все это интересуетъ?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Я замѣчаю, онъ постоянно вертится подлѣ жены и мнѣ хотѣлось знать...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ты можешь думать?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ничего рѣшительно... я слишкомъ хорошо знаю жену, чтобы позволить себѣ что-нибудь думать! Но вѣдь самъ же ты говоришь: любовь рождается изъ ничего.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Да только и умираетъ также отъ всего...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Съ другой стороны меня начинаетъ безпокоить перемѣна въ ея расположеніи духа; она стала грустна, несообщительна, какъ будто что-то таитъ на душѣ... Даже въ отношеніяхъ нашихъ, прежде такихъ ясныхъ и искреннихъ, легла будто тѣнь отдаленья...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>И ты подозрѣваешь?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Повторяю тебѣ: ничего рѣшительно... Но... но съ другой стороны... <emphasis>(Съ досадой.) </emphasis>Ты же самъ твердишь то и дѣло: женщины такъ фантастичны, такъ неожиданны!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій</strong> <emphasis>(посмѣиваясъ).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ну, братъ, и ты хорошъ!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Что ты этимъ хочешь сказать?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>У тебя ничего нѣтъ на совѣсти?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>У меня?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>А маленькая Фифи?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій</strong> <emphasis>(съ испугомъ).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ради Бога, тише! Я всего сказалъ ей два-три слова... Вѣдь ты же самъ пригласилъ меня къ ней пить чай... Что жъ тутъ такого?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій</strong> <emphasis>(смѣясь).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Какъ испугался! Но, послушай, что жъ мы стоимъ, однакожъ? Погода славная, скоро два часа, пойдемъ гулять!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Хорошо... Только я хотѣлъ бы жену видѣть... мнѣ необходимо...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Говорю, не утѣшай! Сто разъ будетъ хуже; все дѣло испортишь... и, наконецъ, сто разъ успѣешь... Погоди меня здѣсь, я только возьму сигаръ. <emphasis>(Уходитъ.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>ЯВЛЕНІЕ XVI.</p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій</strong> <emphasis>(одинъ).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Не узнала ли она какъ-нибудь объ этомъ несчастномъ похожденіи... Вельскій вѣрно разболталъ женѣ; та, какъ водится, поспѣшила передать Alexandriue... Кузина не дурная женщина, но языкъ... Боже мой! Способна на нескромность, ничего не говоря, и проболтаться, не открывая рта... <emphasis>(Входишъ Сидоръ, камердинеръ Новинскаго.) </emphasis>Наконецъ-то, братецъ, ты явился! Гдѣ ты пропадаешь съ утра до вечера?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Сидоръ.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Вы изволили съ письмомъ послать.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Дѣло было на полчаса, а ты пропадалъ цѣлыхъ три... И такъ всякій день... хотѣлъ бы я знать, что ты дѣлаешь?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Сидоръ.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ничего-съ...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>То-то ничего! Совѣтую, братъ, быть чаще дома! Подожди здѣсь; сію минуту придетъ сюда Павелъ Васильевичъ, скажи ему, что я прошу его подождать минуту! <emphasis>(Уходитъ.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>ЯВЛЕНІЕ XVIІ.</p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Сидоръ</strong> <emphasis>(одинъ).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Вишь что: сиди дома! А самому небось не сидится. Вотъ они, господа, всѣ такіе! Никаноръ Иванычъ правду говоритъ, въ такомъ, то-есть, стесненіи живемъ, ни на что такое не похоже! Въ деревнѣ и того хуже! Ни за что бы туда не поѣхалъ, кабы не жена... она, варварка, только шею спутала. <emphasis>(Даша прокрадывается изъ двери нал&amp;</emphasis><emphasis>#1123;во и становится за мужемъ.) </emphasis>Когда же онъ придетъ? <emphasis>(Смотритъ на часы.) </emphasis>Четверть третьяго, только бы къ тремъ ослобониться; обѣщали придти къ тому времени въ греческую кофейную. Прелюбезная будетъ компанія: Денисъ кучеръ, Филиппъ лакей, Власъ другой лакей, Аннушка, Параша.</p>
+<empty-line/>
+<empty-line/>
+<p>ЯВЛЕНІЕ XVIII.</p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша и Сидоръ.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша</strong> <emphasis>(становясь передъ мужемъ).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Вотъ ты какъ, разбойникъ! Вотъ ты куда бѣгаешь!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Сидоръ.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Тише, что кричишь, тише...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Я тебѣ покричу, разбойникъ ты этакой! Параша! Греческая Аннушка! <emphasis>(Хватаетъ его за шиворотъ.)</emphasis></p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Сидоръ</strong> <emphasis>(отбиваясь).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Сдѣлайте ваше одолженіе, тише... не извольте себѣ ничего безпокоиться... отвяжись, сатана!!!</p>
+<empty-line/>
+<empty-line/>
+<p>ЯВЛЕНІЕ XIX.</p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій</strong> <emphasis>(входя).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Что вы, что вы? Съ ума сошли... ступайте вонъ!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша</strong> <emphasis>(плача).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Да что, батюшка, Сергѣй Львовичъ, вы всему причиной! Такъ разбаловали его! Послушайте, что онъ говоритъ; его... его... <emphasis>(разражаясь рыдан</emphasis><emphasis>і</emphasis><emphasis>емъ) </emphasis>его, вишь, какая-то греческая Аннушка поджидаетъ!..</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Сидоръ.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ничего такого нѣтъ, Сергѣй Львовичъ...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Лжешь, разбойникъ!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Сидоръ.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Сама лжешь!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій</strong> <emphasis>(становясь между ними).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Говорю вамъ, ступайте вонъ! Приказываю вамъ выйти!!!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Что же это такое будетъ?!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій</strong> <emphasis>(повелительно).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ступайте, говорю!</p>
+<empty-line/>
+<p><emphasis>(Даша и Сидоръ уходятъ въ разныя двери.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ЯВЛЕНІЕ XX.</p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій</strong> <emphasis>одинъ.</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Нѣтъ, я лучше скажу Вельскому, чтобы шелъ гулять одинъ, и останусь... Я положительно долженъ объясниться съ женою... Такъ невозможно: и ей тяжело, и мнѣ невыносимо... Пускай это баловство, пускай провинціальные нравы, пускай слабость съ моей стороны... Что мнѣ за дѣло! То и другое не опасно; я знаю, что жена меня любитъ, и я люблю ее больше всего на свѣтѣ!</p>
+<empty-line/>
+<empty-line/>
+<p>ЯВЛЕНІЕ XXI.</p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій и Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій</strong> <emphasis>(быстро идетъ ей навстрѣчу).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Я сейчасъ шелъ къ тебѣ... Послушай, Alexandrine, намъ необходимо объясниться... Сядъ, прошу тебя. <emphasis>(Сажаетъ ее.) </emphasis>Не стану говорить о перьыхъ двухъ, трехъ дняхъ, когда вдругъ, Богъ знаетъ, что съ тобой произошло: ты сдѣлалась нервозна, раздражительна... Положимъ, поводомъ могла быть моя поѣздка въ Царское... хотя, надо сказать, съ твоей стороны было ребячествомъ сердиться... Такое недовѣріе ко мнѣ меня обидѣло. И вмѣсто того, чтобы прямо сказать тебѣ, въ чемъ дѣло, я началъ дуться, -- знаешь, русская привычка... Въ эти двѣ недѣли жизнь вокругъ насъ, какъ нарочно, такъ сложилась, чтобы поддерживать въ насъ раздраженіе: балы, обѣды, вечера, визиты, чаи вечерніе, "thés dansants" и утренніе, словомъ, вся петербургская возня, которая такъ хорошо выражается здѣсь въ домѣ, не создана для того, чтобы людей успокаивать. Все это поддерживаетъ угаръ, невольно удаляетъ другъ отъ друга... Но когда въ послѣдніе дни ты сдѣлалась особенно грустна и несообщительна, когда 10 минутъ назадъ ты вдругъ зарыдала... я жестоко встревожился, и было отчего! Скажи мнѣ, наконецъ, что съ тобою...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская</strong> <emphasis>(въсторону).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Какъ Петербургъ успѣлъ его скоро испортить... Можно ли такъ лукавить...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ты отворачиваешься... Не хочу я думать, чтобы ты повѣрила какимъ-нибудь сплетнямъ. Я знаю, напримѣръ, что кузина...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Она ничего мнѣ не говорила, и наконецъ я сплетнямъ не вѣрю.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Всѣ такъ говорятъ, это ужъ такъ водится, а между тѣмъ еще никто не оставался къ нимъ равнодушенъ. Если не сплетни, такъ стало-быть есть факты какіе-нибудь?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Можетъ быть...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій</strong> <emphasis>(съ испугомъ).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Какъ?.. Что ты говоришь? Какіе факты?..</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская</strong> <emphasis>(въ сторону).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Какъ онъ смутился! <emphasis>(Громко.) </emphasis>Перестань, пожалуйста, такая комедія недостойна тебя, и наконецъ я ея не заслуживаю...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Но, Alexandrine... увѣряю тебя...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Не увѣряй! <emphasis>(даетъ письмо) </emphasis>вотъ, возьми лучше.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Письмо? <emphasis>(Читая письмо.) </emphasis>М-r М-r de Novinsky. <emphasis>(Читая письмо.) </emphasis>"Mon cher Bibi". <emphasis>(Съ живостью.) </emphasis>Постой... тутъ на конвертѣ долженъ быть знакъ. Вотъ онъ! Иначе, конечно, быть не могло... Видишь ты этотъ крестикъ сбоку? Это вздумалъ Вельскій; онъ увѣряетъ, что каждый разъ, какъ у жены является новый влюбленный (ты знаешь, теперь секретарь посольства), она тутъ-то и дѣлается къ мужу особенно подозрительной и начинаетъ его жестоко преслѣдовать. Ты знаешь, онъ вообще мало себя стѣсняетъ и любитъ веселиться; онъ придумалъ эту глупую шутку: адресовать письма извѣстнаго рода на мое имя; предупредилъ меня, конечно, насчетъ звѣздочки на конвертѣ... Но ты такъ на меня смотришь, какъ будто не совсѣмъ еще убѣдилась... Прекрасно!.. хорошо еще, что конвертъ не испорченъ и можно его снова заклеить. <emphasis>(Звонокъ.)</emphasis></p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Что ты хочешь дѣлать?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Увидишь. <emphasis>(Входить Александръ.) </emphasis>Александръ, вотъ тебѣ письмо, минутъ черезъ пять... или нѣтъ, лучше стой у двери и какъ только я позвоню -- принеси его сюда; мнѣ не подавай, войди только и скажи: письмо принесли. <emphasis>(Александръ уходитъ.) </emphasis>Насколько я былъ тяжело смущенъ минуту назадъ, настолько я теперь въ восхищеніи... Теперь отчаивайся, сокрушайся своимъ недовѣріемъ. <emphasis>(За сценой шумъ, голоса.)</emphasis></p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій и Новинская</strong> <emphasis>(вставая).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Что это?.. Что-то случилось?.. <emphasis>(Два лакея вносятъ на сцену кресло съ распростертой въ немъ Вельской; за ними идетъ Вознесенскій; изъ двери справа входитъ Вельскій.)</emphasis></p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Всѣ.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Что?.. что такое? Что случилось?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вознесенскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Случилось маленькое неудовольствіе... Софья Сергѣевна и другой предсѣдатель, баронесса Ластъ, не сошлись въ мысляхъ и поссорились.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Обыкновенный результатъ вашихъ засѣданій, сколько я замѣтилъ.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вознесенскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Но Софья Сергѣевна совершенно права.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>О, безъ сомнѣнія... Завтра вѣроятно вы то же скажете г-жѣ Ластъ...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вознесенскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Но позвольте однакожъ... <emphasis>(Въ это время Новинскгй и </emphasis><emphasis>жена его ухаживаютъ за Вельской.)</emphasis></p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Надо бы положить ее на диванъ.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вознесенскій</strong> <emphasis>(суетливо).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Прекрасная мысль... это будетъ гораздо удобнѣе.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій</strong> <emphasis>(перебивая ему дорогу).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Позвольте, М. Г., это ужъ наше дѣло... Если вамъ надо что-нибудь передать женѣ, не угодно ли завтра пожаловать... Извините, пожалуйста.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вознесенскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Я хотѣлъ только услужить... Но впрочемъ, какъ вамъ будетъ угодно. <emphasis>(Удаляется, раскланиваясь.)</emphasis></p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій</strong> <emphasis>(обращаясъ къ лакеямъ).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ступайте... больше ничего не надо,</p>
+<empty-line/>
+<p><emphasis>(Вельскій и Новинскій укладываютъ Вельскую на диванъ;</emphasis> <emphasis>Новинская поддерживаетъ ей голову; въ то время, какъ</emphasis> <emphasis>Вельскій вынимаетъ платокь изъ кармана жены, чтобы</emphasis> <emphasis>обмахнутъ ее, изъ платья выпадаеть записка. Вельскій</emphasis> <emphasis>подхватываетъ ее и прячеть къ себѣ въ карманъ.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская</strong> <emphasis>(приходя въ себя).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Гдѣ я?.. Ah<emphasis> </emphasis>c'est vous... А комитетъ?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій</strong> <emphasis>(раздражительно).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Разъѣхался...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вильская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Разъѣхался?! Je voulais la confondre... Je l'ai confondue!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Да только съ тобой сдѣлалось дурно, тогда какъ она спокойно себѣ уѣхала и совершенно благоденствуетъ... Можетъ быть даже смѣется надъ тобой.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Она смѣется!.. Я ее уничтожила при всѣхъ!!! Представь, Zizi, я узнала тутъ же въ комитетѣ, мнѣ тихонько передали по секрету: она сочинила цѣлую интригу, чтобы повредить моему патріотическому концерту. Но это такъ пройти не можетъ!.. <emphasis>(Обращаясь къ мужу.) </emphasis>Paul... ты непремѣнно долженъ ѣхать объясниться съ ея мужемъ.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Покорно благодарю, онъ лучшій мой пріятель...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Я этого ожидала! <emphasis>(Обращаясъ къ Новинскому.)</emphasis></p>
+<p>Serge, ты поѣдешь, не правда ли, ты мой кузенъ и имѣешь на это полное право...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій</strong> <emphasis>(Новинскому).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Предупреждаю тебя: Ластъ стрѣляетъ безъ промаха...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская</strong> <emphasis>(обращаясь къ мужу).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Serge, ты не поѣдешь!!!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Всѣ противъ меня! On est jamais trompé que par les siens.</p>
+<empty-line/>
+<p><emphasis>(Новинскій дергаетъ звонокъ; входитъ Александръ съ письмомь.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Александръ.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Письмо принесли...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Вѣрно мнѣ... дай сюда...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій</strong> <emphasis>(съ живостью).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Почему жъ тебѣ именно?.. quelle idée!.. Не мнѣ ли?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская</strong> <emphasis>(быстро схватывая письмо; Александръ уходитъ).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Нѣтъ, мнѣ... мнѣ... <emphasis>(Быстро чатая конвертъ, въ сторону.) </emphasis>М-г de Novinsky, je tiens le mystère...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій</strong> <emphasis>(которому Вельск</emphasis><emphasis>і</emphasis><emphasis>й дѣлаетъ выразительные знаки).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Позволь, Sophie, быть-можетъ мнѣ...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Нѣтъ, мнѣ... мнѣ... <emphasis>(Быстро разрываетъ конверть и читаеть; въ это время Вельскій разрываетъ конвертъ письма, спрятаннаго въ карманѣ, и также читаетъ).</emphasis></p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская</strong> <emphasis>(читая).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>"Mon cher Bibi adoré!"</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій</strong> <emphasis>(читая).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>" Madame!"</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская</strong> <emphasis>(встревоженно).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Что такое?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій</strong> <emphasis>(женѣ).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ничего, продолжайте...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская</strong> <emphasis>(читая).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Tu ma's promis de me mener aujourd'hui aux lies...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій</strong> <emphasis>(читая).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Vous m'aves promis de m'attendre aujourd'hui...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская</strong> <emphasis>(опускаясь на диванъ).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ахъ! мнѣ дурно!</p>
+<empty-line/>
+<p><emphasis>(Новинская поддерживаетъ Вельскую).</emphasis></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Поль, повторяю тебѣ, ты сегодня отвратителенъ, хуже этого -- ты не великодушенъ, письмо тебѣ не адресовано... ты не имѣешь права его читать.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>То письмо также не женѣ адресовано, однакожъ, она его читала.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Перестань... какъ тебѣ не стыдно... Sophie, неужто ты не видишь... тутъ вышло какое-то недоразумѣніе... очевидно вышла путаница, дай мнѣ это письмо...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ни за что на свѣтѣ... оно... <emphasis>(бросаешъ взглядъ на мужа) </emphasis>оно будетъ служить къ обогащенію моей коллекціи.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій</strong> <emphasis>(обращаясь къ Вельскому).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Отдай свое...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ни за что въ мірѣ... оно послужитъ мнѣ для начала коллекціи...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Все это вздоръ, пустяки. <emphasis>(Вельскому.) </emphasis>Дай сюда! <emphasis>(Но</emphasis><emphasis>винск</emphasis><emphasis>і</emphasis><emphasis>й вырываетъ письмо </emphasis><emphasis>у Вельскаго).</emphasis></p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская</strong> <emphasis>(Вельской).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Chère Sophie... перестань... прошу тебя... <emphasis>(Беретъ у нея </emphasis><emphasis>письмо и передаетъ своему мужу.)</emphasis></p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій</strong> <emphasis>(складывая оба письма, разорвавъ на куски, </emphasis><emphasis>бросаетъ въ каминъ).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Вотъ лучшее для нихъ употребленіе... все это вышло изъ дыму, въ дымъ и должно обратиться... <emphasis>(Входитъ кор</emphasis><emphasis>милгща.)</emphasis></p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ну, что, былъ докторъ?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская</strong> <emphasis>(бросаясь къ кормилицѣ).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Да, что онъ сказалъ?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Кормилица.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Говоритъ, -- жаръ пройдетъ.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская</strong> <emphasis>(съ увлеченіемъ).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ce cher Beby... Alexandrine! вотъ мои радости!.. mes délices... мое утѣшеніе!.. <emphasis>(Съ ударен</emphasis><emphasis>і</emphasis><emphasis>емъ бросая взглядь на мужа.)</emphasis></p>
+<empty-line/>
+<p><emphasis>(Входитъ Даша.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша</strong> <emphasis>(плаксиво).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Батюшка, Сергѣй Львовичъ... Александра Александровна... силъ моихъ нѣтъ!.. Вступитесь хоть вы, Павелъ Васильевичъ...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Всѣ.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Что случилось?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Таперичи пришедъ пьяный... Совсѣмъ какъ есть загубилъ его Петербургъ.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Успокойся пожалуйста... Ступай, лучше собирай платья барыни и начинай укладываться въ дорогу... Въ деревнѣ все поправится... ступай.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Даша.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Слава тебѣ Господи! <emphasis>(Уходитъ, за ней кормилица.)</emphasis></p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій</strong> <emphasis>(подходя къ Новинскому).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Какъ, ты ѣдешь?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская</strong> <emphasis>(Новинской).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ты хочешь меня оставить?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій</strong> <emphasis>(Вельскому).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Необходимо, мой другъ, дѣла, а главное, я замѣчаю, женѣ не совсѣмъ здоровъ петербургскій воздухъ.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская</strong> <emphasis>(Вельской).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Надо ѣхать, насъ ждутъ дѣти... Кромѣ того, петербургскій воздухъ положительно вреденъ моему мужу.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій</strong> <emphasis>(Новинскому).</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Вы какъ мыши, оставляете домъ въ то время, когда ему грозитъ опасность. <emphasis>(Новшскій и Новинская подходятъ другъ къ другу). </emphasis>И наконецъ, что вы тутъ оба разсказываете... Дался имъ воздухъ... Дѣло совсѣмъ не въ воздухѣ.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ты правъ отчасти... <emphasis>(цѣлуя жену) </emphasis>дѣло вотъ въ чемъ...</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Да... Ты хочешь сказать... дѣло въ счастьи.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Что жъ вамъ обоимъ мѣшаетъ?</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ничего, рѣшительно ничего. <emphasis>(Подходя къ Вельскому.) </emphasis>Дай сюда руку... не мнѣ... а вотъ сюда. <emphasis>(Ведетъ его къ Вельской). (Новинская въ то же время тянетъ Вельскую къ мужу.)</emphasis></p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Я могу это сдѣлать безъ твоего пособія.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>И я также.</p>
+<empty-line/>
+<p><emphasis>(Вельскій и Вельская даютъ другъ другу рукы.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Новинскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Ну, вотъ и прекрасно... давно бы такъ... Только все-таки вамъ лучше перемѣнить столичный воздухъ, оно будетъ надежнѣе... право надежнѣе!</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельская.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>О, мы весною непремѣнно поѣдемъ въ деревню! <emphasis>(Въ сторону.) </emphasis>Теперь онъ не будетъ ревновать къ барону.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Вельскій.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Да, мнѣ давно хочется подышать свѣжимъ воздухомъ! <emphasis>(Въ сторону) </emphasis>Теперь можно уѣхать къ Альфонсинѣ!!!</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

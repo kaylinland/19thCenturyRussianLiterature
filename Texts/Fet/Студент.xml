@@ -1,0 +1,1164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Афанасий</first-name>
+			<middle-name>Афанасьевич</middle-name>
+			<last-name>Фет</last-name>
+		</author>
+		<book-title>Студент</book-title>
+<annotation><p>Взаимотношениям Фета и героини поэмы посвящены стихотворный цикл <a xlink:href="http://az.lib.ru/f/fet_a_a/text_0042.shtml#80a"><strong>"К Офелии"</strong></a> и одноименный рассказ <a xlink:href="http://az.lib.ru/g/grigorxew_a_a"></a>Аполлона Григорьева.</p></annotation>		<date value="2005-07-05">05/07/2005</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 03:12:47</date>
+		<src-url>http://az.lib.ru/f/fet_a_a/text_0120.shtml</src-url>
+		<id>samlib58f4b140410777.92720532</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Фет Афанасий Афанасьевич</p>
+	<empty-line/>
+	<p>Студент</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l0"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>Афанасий Фет.  Студент</p>
+</title>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><strong>Поэма</strong></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>---------------------------------------------------------------------</p>
+<empty-line/>
+<p>Источник: А. А. Фет. Сочинения в двух томах. М.: Худ. литература,</p>
+<empty-line/>
+<p>1982. Том 1. стр. 481-487.</p>
+<empty-line/>
+<p>Lib.ru/Классика, июль 2005 г.</p>
+<empty-line/>
+<p>---------------------------------------------------------------------</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><strong><emphasis> Посвящается С. П. Х-о </emphasis></strong></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Гляжу на вас я, умница моя,</p>
+<empty-line/>
+<p>Как на своем болезненном вы ложе</p>
+<empty-line/>
+<p>Откинулись, раздумие тая,</p>
+<empty-line/>
+<p>А против вас, со сказочником схоже,</p>
+<empty-line/>
+<p>И бормочу и вспоминаю я</p>
+<empty-line/>
+<p>О временах, как был я молод тоже,</p>
+<empty-line/>
+<p>Когда не так казалась жизнь пуста,-</p>
+<empty-line/>
+<p>И просятся октавы на уста.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>2</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Я был студентом. Жили мы вдвоем</p>
+<empty-line/>
+<p>С товарищем московским в антресоле</p>
+<empty-line/>
+<p>Родителей его. Их старый дом</p>
+<empty-line/>
+<p>Стоял близ сада, на Девичьем поле.</p>
+<empty-line/>
+<p>Нас старики любили и во всём</p>
+<empty-line/>
+<p>Предоставляли жить по нашей воле -</p>
+<empty-line/>
+<p>Лишь наверху; когда ж сходили вниз,</p>
+<empty-line/>
+<p>Быть скромными -  таков наш был девиз.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>3</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Нельзя сказать, чтоб тяжкие грехи</p>
+<empty-line/>
+<p>Нас удручали. Он долбил тетрадки</p>
+<empty-line/>
+<p>Да Гегеля читал; а я стихи</p>
+<empty-line/>
+<p>Кропал; стихи не выходили гладки.</p>
+<empty-line/>
+<p>Но, боже мой, как много чепухи</p>
+<empty-line/>
+<p>Болтали мы; как нам казались сладки</p>
+<empty-line/>
+<p>Поэты, нас затронувшие, все:</p>
+<empty-line/>
+<p>И Лермонтов, и Байрон, и Мюссе.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>4</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И был ли я рассеян от природы,</p>
+<empty-line/>
+<p>Или застенчив, не могу сказать,</p>
+<empty-line/>
+<p>Но к женщинам не льнул я в эти годы,</p>
+<empty-line/>
+<p>Его ж и Гегель сам не мог унять;</p>
+<empty-line/>
+<p>Чуть женщины лишь не совсем уроды,-</p>
+<empty-line/>
+<p>Глядишь, влюблен, уже влюблен опять.</p>
+<empty-line/>
+<p>На лекции идем -  бранюсь я вволю,</p>
+<empty-line/>
+<p>А он вприпрыжку по пустому полю.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>5</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>По праздникам езжали к старикам</p>
+<empty-line/>
+<p>Различные почтительные лица</p>
+<empty-line/>
+<p>Из сослуживцев старых и их дам,</p>
+<empty-line/>
+<p>Бывала также томная девица</p>
+<empty-line/>
+<p>Из институтских -  по ее словам,</p>
+<empty-line/>
+<p>Был Ламартин всех ярче, как денница,-</p>
+<empty-line/>
+<p>Две девочки -  и ту, что побледней,</p>
+<empty-line/>
+<p>Звала хозяйка крестницей своей.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>6</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Свершали годы свой обычный круг,</p>
+<empty-line/>
+<p>Гамлет-Мочалов сотрясал нас бурно,</p>
+<empty-line/>
+<p>На фортепьянах игрывал мой друг,</p>
+<empty-line/>
+<p>Певала Лиза - и подчас недурно -</p>
+<empty-line/>
+<p>И уходила под вечер.- Но вдруг</p>
+<empty-line/>
+<p>Судьбы встряхнулась роковая урна.</p>
+<empty-line/>
+<p>"Вы слышали? А я от них самих.</p>
+<empty-line/>
+<p>Ведь к Лизаньке присватался жених!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>7</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Не говорят худого про него.</p>
+<empty-line/>
+<p>С имением, хоть небольшого чину;</p>
+<empty-line/>
+<p>У генерала служит своего,</p>
+<empty-line/>
+<p>Ведет себя как должно дворянину:</p>
+<empty-line/>
+<p>Ни гадких карт, ни прочего чего.</p>
+<empty-line/>
+<p>Серебряную подарю корзину</p>
+<empty-line/>
+<p>Я ей свою большую.- Что ж мне дать?</p>
+<empty-line/>
+<p>Я крестная, а не родная мать".</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>8</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Жених! жених! Коляска под крыльцом.</p>
+<empty-line/>
+<p>Отец и дочка входят с офицером.-</p>
+<empty-line/>
+<p>Не вышел ростом, не красив лицом,</p>
+<empty-line/>
+<p>Но мог бы быть товарищам примером:</p>
+<empty-line/>
+<p>Весь раздушон, хохол торчит вихром,</p>
+<empty-line/>
+<p>Торчат усы изысканным манером,</p>
+<empty-line/>
+<p>И воротник как жар, и белый кант,</p>
+<empty-line/>
+<p>И сахара белее аксельбант.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>9</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>"Вот, Лизанька, бог дал и женишка!</p>
+<empty-line/>
+<p>А вы ее, мой милый, берегите:</p>
+<empty-line/>
+<p>Ребенок ведь! Немножечко дика,</p>
+<empty-line/>
+<p>Неопытна,- на нас уж не взыщите".</p>
+<empty-line/>
+<p>А мне ее отец:"Вы старика</p>
+<empty-line/>
+<p>Утешьте, вы и ей не откажите:</p>
+<empty-line/>
+<p>Мы с Лизою решились вас просить</p>
+<empty-line/>
+<p>С крестовым братом шаферами быть.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>10</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ты, Лизанька, уж попроси сама,</p>
+<empty-line/>
+<p>Вы, кажется, друг другу не чужие,</p>
+<empty-line/>
+<p>Старинной дружбой связаны дома,</p>
+<empty-line/>
+<p>А с крестным братом даже и родные".</p>
+<empty-line/>
+<p>-"Я вас прошу".-"Ах, боже, дела тьма.</p>
+<empty-line/>
+<p>Пора и дальше, люди молодые,</p>
+<empty-line/>
+<p>И к тетушке мне нужно вас завесть.-</p>
+<empty-line/>
+<p>Так по рукам?"-"Благодарю за честь".</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>11</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Горит огнями весь иконостас</p>
+<empty-line/>
+<p>Хрустальное блестит паникадило,</p>
+<empty-line/>
+<p>И дьякона за хором слышен бас...</p>
+<empty-line/>
+<p>Она стоит и веки опустила,</p>
+<empty-line/>
+<p>Но так бледна, что поражает глаз;</p>
+<empty-line/>
+<p>Испугана ль она, иль загрустила?</p>
+<empty-line/>
+<p>Мы стали цепью все, чтобы народ</p>
+<empty-line/>
+<p>На наших дам не налезал вперед.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>12</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>"Где ж мой платок? - старик воскликнул наш.-</p>
+<empty-line/>
+<p>Дай мне хоть свой; отдам тебе на бале.</p>
+<empty-line/>
+<p>Что возишься! Да скоро ли подашь?</p>
+<empty-line/>
+<p>Ну, дайте вы, хоть вы бы отыскали".</p>
+<empty-line/>
+<p>-"Да не найду".-"Вот завели cache-cache!"</p>
+<empty-line/>
+<p>-"И у меня! И у меня украли!"</p>
+<empty-line/>
+<p>-"Обчистили? Народец-то каков!"</p>
+<empty-line/>
+<p>Вся наша цепь без носовых платков.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>13</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Стою да мельком на нее взгляну.</p>
+<empty-line/>
+<p>Знать, от свечей ей томно - от угара.</p>
+<empty-line/>
+<p>И жалко-жалко мне ее одну,</p>
+<empty-line/>
+<p>Но жалко тож  индейского фуляра.-</p>
+<empty-line/>
+<p>"А не такую бы ему жену,-</p>
+<empty-line/>
+<p>Пожалуй, что она ему не пара".</p>
+<empty-line/>
+<p>Вот повели их кругом наконец,</p>
+<empty-line/>
+<p>И я топчусь, держа над ней венец.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>14</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Всё кончено. Пустеет божий храм.-</p>
+<empty-line/>
+<p>Подробностей уж не припомню дале,</p>
+<empty-line/>
+<p>Но помню, что с товарищем я там,</p>
+<empty-line/>
+<p>У них в дому, на свадебном их бале.</p>
+<empty-line/>
+<p>Стою в гостиной полусветлой сам,</p>
+<empty-line/>
+<p>А музыка гремит и танцы в зале.</p>
+<empty-line/>
+<p>Не знаю, что сказать, а предо мной</p>
+<empty-line/>
+<p>Давнишняя подруга молодой.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>15</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>"Пойдемте вальс! Вы не хотите? Нет?</p>
+<empty-line/>
+<p>Но вы должны, - ведь я вознегодую...</p>
+<empty-line/>
+<p>Вы сердитесь за давешний ответ?"</p>
+<empty-line/>
+<p>-"Я не сержусь; я просто не танцую".</p>
+<empty-line/>
+<p>-"Ну, дайте ж руку! ссориться не след.</p>
+<empty-line/>
+<p>Та к сердцу ближе. Руку ту - другую".</p>
+<empty-line/>
+<p>И без перчатки стала хлопотать,</p>
+<empty-line/>
+<p>Чтобы с моей руки перчатку снять.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>16</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Но тут товарищ мой влетает в дверь:</p>
+<empty-line/>
+<p>"Вот где они! Куда запропастились!</p>
+<empty-line/>
+<p>Вас кавалер, как разъяренный зверь,</p>
+<empty-line/>
+<p>Повсюду ищет. - Вы б поторопились.</p>
+<empty-line/>
+<p>Да ты-то что? Не кисни хоть теперь,</p>
+<empty-line/>
+<p>Ступай за мной; там словно взбеленились".</p>
+<empty-line/>
+<p>-"Нет, уж уволь. Тебе оно под стать,</p>
+<empty-line/>
+<p>Ты по полю давно привык плясать".</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>17</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Вот грянула мазурка.- Я гляжу,</p>
+<empty-line/>
+<p>Как королева средневековая,</p>
+<empty-line/>
+<p>Вся в бархате, туда, где я сижу,</p>
+<empty-line/>
+<p>Сама идет поспешно молодая</p>
+<empty-line/>
+<p>И говорит: "Пойдемте, я прошу</p>
+<empty-line/>
+<p>Вас на мазурку". Голову склоняя,</p>
+<empty-line/>
+<p>Я подал руку. Входим, - стульев шум,</p>
+<empty-line/>
+<p>И музыка гремит свое рум-рум.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>18</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>"Вы, кажется, не в духе?" - "Я? Ничуть,</p>
+<empty-line/>
+<p>Напротив, я повеселиться рада</p>
+<empty-line/>
+<p>В последний раз. - И молодая грудь</p>
+<empty-line/>
+<p>Дохнула жарко. - Мне движенья надо:</p>
+<empty-line/>
+<p>Без устали помчимся! отдохнуть</p>
+<empty-line/>
+<p>Успею после, там, в гортани ада".</p>
+<empty-line/>
+<p>-"Да что вы говорите?"-"Верьте мне,</p>
+<empty-line/>
+<p>Я не в бреду и я в своем уме.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>19</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>А хоть в бреду, безгрешен этот бред!</p>
+<empty-line/>
+<p>Несчастию не я теперь виною,</p>
+<empty-line/>
+<p>И говорить о нем уже не след,-</p>
+<empty-line/>
+<p>Умру и тайны этой не открою.</p>
+<empty-line/>
+<p>Тут маменька виновница всех бед:</p>
+<empty-line/>
+<p>Распорядиться ей хотелось мною.</p>
+<empty-line/>
+<p>Я поддалась, всю жизнь свою сгубя.-</p>
+<empty-line/>
+<p>Я влюблена давно!"-"В кого?"-"В тебя!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>20</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И мы неслись под пламенные звуки,</p>
+<empty-line/>
+<p>И - боже мой - как дивно хороша</p>
+<empty-line/>
+<p>Она была! и крепко наши руки</p>
+<empty-line/>
+<p>Сжимались, - и навстречу к ней душа</p>
+<empty-line/>
+<p>Моя неслась в томленьи новой муки.</p>
+<empty-line/>
+<p>"И я тебя люблю! - едва дыша,</p>
+<empty-line/>
+<p>Я повторял.- Что нам людская злоба!</p>
+<empty-line/>
+<p>Взгляни в глаза мне; твой,- я твой до гроба!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>21</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Что было дальше, трудно говорить</p>
+<empty-line/>
+<p>И совестно. Пришлось нам поневоле</p>
+<empty-line/>
+<p>С товарищем усерднее ходить</p>
+<empty-line/>
+<p>В дом, где бывали редко мы дотоле.</p>
+<empty-line/>
+<p>Тот всё вином старался угостить;</p>
+<empty-line/>
+<p>Пьешь, и душа сжимается от боли,</p>
+<empty-line/>
+<p>Да к всенощной спешишь, чтоб как-нибудь</p>
+<empty-line/>
+<p>Хоть издали разок еще взглянуть.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>22</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>О сладкий, нам знакомый шорох платья</p>
+<empty-line/>
+<p>Любимой женщины, о, как ты мил!</p>
+<empty-line/>
+<p>Где б мог ему подобие прибрать я</p>
+<empty-line/>
+<p>Из радостей земных? Весь сердца пыл</p>
+<empty-line/>
+<p>К нему летит, раскинувши объятья,</p>
+<empty-line/>
+<p>Я в нем расцвет какой-то находил.</p>
+<empty-line/>
+<p>Но в двадцать лет - как несказанно дорог</p>
+<empty-line/>
+<p>Красноречивый, легкий этот шорох!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>23</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Любить всегда отрадно, но писать -</p>
+<empty-line/>
+<p>Такая страсть у любящих к чему же?</p>
+<empty-line/>
+<p>Ведь это прямо дело выдавать,</p>
+<empty-line/>
+<p>И ничего не выдумаешь хуже.</p>
+<empty-line/>
+<p>Казалось бы, ну как не помышлять</p>
+<empty-line/>
+<p>О брате, об отце или о муже?</p>
+<empty-line/>
+<p>В затмении влюбленные умы -</p>
+<empty-line/>
+<p>И ревностно писали тоже мы.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>24</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Я помню живо: в самый Новый год</p>
+<empty-line/>
+<p>Она мне пишет:"Я одна скучаю.</p>
+<empty-line/>
+<p>Муж едет в клуб; я выйду у ворот,</p>
+<empty-line/>
+<p>Одетая крестьянкою, и к чаю</p>
+<empty-line/>
+<p>Приду к тебе. Коль спросит ваш народ,</p>
+<empty-line/>
+<p>Вели сказать, что из родного краю</p>
+<empty-line/>
+<p>Зашла к тебе кормилицына дочь.</p>
+<empty-line/>
+<p>Укутаюсь - и не заметят в ночь".</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>25</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>С товарищем переглянулись мы.</p>
+<empty-line/>
+<p>Хотя не очень прытки были сами,</p>
+<empty-line/>
+<p>Но видим ясно: этой кутерьмы</p>
+<empty-line/>
+<p>И бабушка не разведет бобами.</p>
+<empty-line/>
+<p>Практические подлинно умы!</p>
+<empty-line/>
+<p>Нашли исход: рядиться мужиками!</p>
+<empty-line/>
+<p>Голубушка! Я звать ее не мог:</p>
+<empty-line/>
+<p>Я не себя - ее я поберег.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>26</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>А время шло. Кто любит так, не знает,</p>
+<empty-line/>
+<p>Чего он ждет, чем мысль его кипит.</p>
+<empty-line/>
+<p>Спросите вы у дома, что пылает:</p>
+<empty-line/>
+<p>Чего он ждет? Не ждет он, а горит,</p>
+<empty-line/>
+<p>И темный дым весь искрами мелькает</p>
+<empty-line/>
+<p>Над ним, а он весь пышет и стоит.</p>
+<empty-line/>
+<p>Надолго ли огни и искры эти?</p>
+<empty-line/>
+<p>Надолго ли?- Надолго ль всё на свете?</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>27</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Однажды мы сидели наверху</p>
+<empty-line/>
+<p>С товарищем, витая в думах нежных.</p>
+<empty-line/>
+<p>Вдруг горничная.- Весь платок в снегу,</p>
+<empty-line/>
+<p>Лицо у ней бледнее хлопьев снежных.</p>
+<empty-line/>
+<p>"Да что ты?"-"Всё пропало! Быть греху;</p>
+<empty-line/>
+<p>Все письма отыскал он в нотах прежних,</p>
+<empty-line/>
+<p>Да как пошел, - в столах, в шкапах, в трюмо</p>
+<empty-line/>
+<p>И в туфлях даже, глядь, - сидит письмо.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>28</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Под крик его и гам тут горьких слез</p>
+<empty-line/>
+<p>Из девичьей я слышала немало.</p>
+<empty-line/>
+<p>Не треснул ли ее проклятый пес!</p>
+<empty-line/>
+<p>Он сам ушел. В испуге написала</p>
+<empty-line/>
+<p>Вам тут она.- Не помню, как донес</p>
+<empty-line/>
+<p>Меня господь. Ответ я обещала.</p>
+<empty-line/>
+<p>Прочтите же; а я пока пойду</p>
+<empty-line/>
+<p>И за калиткой стану - подожду".</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>29</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Читаю: "Всё проведал этот зверь.</p>
+<empty-line/>
+<p>С тобою он стреляться, верно, станет;</p>
+<empty-line/>
+<p>И если ты убьешь его теперь -</p>
+<empty-line/>
+<p>Тогда, тогда и счастие настанет.</p>
+<empty-line/>
+<p>Я верую, ты тоже сердцем верь,</p>
+<empty-line/>
+<p>Оно меня, я знаю, не обманет.</p>
+<empty-line/>
+<p>Я убегу в деревню за тобой,</p>
+<empty-line/>
+<p>И там твоею стану я женой.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>30</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>А послезавтра в восемь приходи</p>
+<empty-line/>
+<p>На монастырь и стань там у забора</p>
+<empty-line/>
+<p>И на калитку с улицы гляди -</p>
+<empty-line/>
+<p>Хоть на часок уйду из-под надзора,-</p>
+<empty-line/>
+<p>Стой там в тени и терпеливо жди.</p>
+<empty-line/>
+<p>Как восемь станет бить, приду я скоро.</p>
+<empty-line/>
+<p>Недаром злые видела я сны!</p>
+<empty-line/>
+<p>Но верь ты мне, мы будем спасены".</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>31</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Без опыта, без денег и без сил,</p>
+<empty-line/>
+<p>У чьей груди я мог искать спасенья?</p>
+<empty-line/>
+<p>Серебряный я кубок свой схватил,</p>
+<empty-line/>
+<p>Что подарила мать мне в день рожденья,</p>
+<empty-line/>
+<p>И пенковую трубку, что хранил</p>
+<empty-line/>
+<p>В чехле, как редкость, полную значенья,</p>
+<empty-line/>
+<p>Был и бинокль туда же приобщен</p>
+<empty-line/>
+<p>И с репетиром золотой Нортон.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>32</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Тебе в могилу тихую привет,</p>
+<empty-line/>
+<p>Мой старый друг, я, старец, посылаю.</p>
+<empty-line/>
+<p>Ты был у нас деканом много лет,</p>
+<empty-line/>
+<p>К тебе, бывало, еду и читаю</p>
+<empty-line/>
+<p>Я грешные стихи, пускаясь в свет,</p>
+<empty-line/>
+<p>И за полночь мы за стаканом чаю</p>
+<empty-line/>
+<p>Сидим, вникаем в римского певца...</p>
+<empty-line/>
+<p>Тебя любил и чтил я как отца!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>33</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Зачем всю дрянь к наставнику я вез?</p>
+<empty-line/>
+<p>Но лишь вошел, он крикнул мне: "Что с вами?"</p>
+<empty-line/>
+<p>Я объяснил как мог, повеся нос,</p>
+<empty-line/>
+<p>И вдруг, как мальчик, залился слезами.</p>
+<empty-line/>
+<p>Меня он обнял и почти донес</p>
+<empty-line/>
+<p>До кресла. Сам он с влажными глазами</p>
+<empty-line/>
+<p>И с кроткой речью, полною любви,</p>
+<empty-line/>
+<p>Стал унимать рыдания мои.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>34</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>"Спасти ее!" - я только мог твердить.</p>
+<empty-line/>
+<p>"Спасти-то нужно вас,- расстроить эту</p>
+<empty-line/>
+<p>Безумную попытку. Заложить</p>
+<empty-line/>
+<p>Немедленно я прикажу карету...</p>
+<empty-line/>
+<p>Инспектора вас в карцер посадить</p>
+<empty-line/>
+<p>Я попрошу на месяц по секрету.</p>
+<empty-line/>
+<p>Когда своей не жаль вам головы,</p>
+<empty-line/>
+<p>То хоть ее-то не губите вы".</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>35</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Давно стою, волнуясь, на часах,</p>
+<empty-line/>
+<p>И смотрит ярко месяц с тверди синей,</p>
+<empty-line/>
+<p>Спит монастырский двор в его лучах,</p>
+<empty-line/>
+<p>С церковных крыш блестит колючий иней.</p>
+<empty-line/>
+<p>Удастся ли ей вырваться-то? Ах!</p>
+<empty-line/>
+<p>И олуха такого быть рабыней!</p>
+<empty-line/>
+<p>На колокольне ровно восемь бьет;</p>
+<empty-line/>
+<p>Вот заскрипел слегка снежок... Идет!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>36</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Откинула покров она с чела,</p>
+<empty-line/>
+<p>И месяц светом лик ей обдал чистый.</p>
+<empty-line/>
+<p>Уже моих колен ее пола</p>
+<empty-line/>
+<p>Касается своей волной пушистой,</p>
+<empty-line/>
+<p>И на плечо ко мне она легла,</p>
+<empty-line/>
+<p>И разом круг объял меня душистый:</p>
+<empty-line/>
+<p>И молодость, и дрожь, и красота,</p>
+<empty-line/>
+<p>И в поцелуе замерли уста.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>37</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И я ворвался в этот мир цветов,</p>
+<empty-line/>
+<p>Волшебный мир живых благоуханий,</p>
+<empty-line/>
+<p>Горячих слез и уст, речей без слов,</p>
+<empty-line/>
+<p>Мир счастия и пылких упований,</p>
+<empty-line/>
+<p>Где как во сне таинственный покров</p>
+<empty-line/>
+<p>От нас скрывает всю юдоль терзаний.</p>
+<empty-line/>
+<p>Нельзя душой и блекнуть и цвести,-</p>
+<empty-line/>
+<p>Я в этот миг не мог сказать "прости".</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>38</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>А вам не жаль? Чего? - спросить бы надо:</p>
+<empty-line/>
+<p>Что был я глуп, или что стал умней?</p>
+<empty-line/>
+<p>Какая же за это мне награда?</p>
+<empty-line/>
+<p>Бывало, точно, и не спишь ночей,</p>
+<empty-line/>
+<p>Но сладок был и самый кубок яда;</p>
+<empty-line/>
+<p>Зато теперь чем дальше, тем горчей:</p>
+<empty-line/>
+<p>Всё те же рельсы и машина та же,</p>
+<empty-line/>
+<p>И мчит тебя, как чемодан в багаже.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>39</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Дня через два хозяйка за столом</p>
+<empty-line/>
+<p>Вдруг говорит: "А наши молодые</p>
+<empty-line/>
+<p>Уехали - и старики вдвоем</p>
+<empty-line/>
+<p>Остались. Он сказал, что там большие</p>
+<empty-line/>
+<p>В деревне хлопоты у них. Кругом</p>
+<empty-line/>
+<p>Падеж скота, и есть дела другие.</p>
+<empty-line/>
+<p>А вы чем сыты, молодой народ,</p>
+<empty-line/>
+<p>Что капельки вы не берете в рот?"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>40</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Затем,- затем настал конец. А вы</p>
+<empty-line/>
+<p>Простите, если сказка надоела.</p>
+<empty-line/>
+<p>Я скоро сам уехал из Москвы,</p>
+<empty-line/>
+<p>И мне писали: Лиза овдовела.</p>
+<empty-line/>
+<p>Поздней искал я милостей вдовы,</p>
+<empty-line/>
+<p>Но свидеться она не захотела.</p>
+<empty-line/>
+<p>Болтали - там... какой-то генерал...</p>
+<empty-line/>
+<p>А может быть, кто говорил - соврал.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><strong> 1884 </strong></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Первая публикация -  "Нива" 1884, No 17.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

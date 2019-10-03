@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Сергеевич</middle-name>
+			<last-name>Пушкин</last-name>
+		</author>
+		<book-title>К *** (&quot;Я помню чудное мгновенье...&quot;)</book-title>
+<annotation></annotation>		<date value="2009-04-03">03/04/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-12-26">2017-12-26 11:01:46</date>
+		<src-url>http://az.lib.ru/p/pushkin_a_s/text_0270.shtml</src-url>
+		<id>samlib5a4201ea45bae7.57413482</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Пушкин Александр Сергеевич</p>
+	<empty-line/>
+	<p>К *** (&quot;Я помню чудное мгновенье...&quot;)</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+ </p>
+<empty-line/>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/editors/p/pushkin_a_s/text_0270.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<p>              <strong>К***</strong></p>
+<empty-line/>
+<p></p>
+<p id="lvox"></p>
+<p>Я помню чудное мгновенье:</p>
+<p>Передо мной явилась ты,</p>
+<p>Как мимолетное виденье,</p>
+<p>Как гений чистой красоты.</p>
+<empty-line/>
+<p>В томленьях грусти безнадежной,</p>
+<p>В тревогах шумной суеты,</p>
+<p>Звучал мне долго голос нежный</p>
+<p>И снились милые черты.</p>
+<empty-line/>
+<p>Шли годы. Бурь порыв мятежный</p>
+<p>Рассеял прежние мечты,</p>
+<p>И я забыл твой голос нежный,</p>
+<p>Твои небесные черты.</p>
+<empty-line/>
+<p>В глуши, во мраке заточенья</p>
+<p>Тянулись тихо дни мои</p>
+<p>Без божества, без вдохновенья,</p>
+<p>Без слез, без жизни, без любви.</p>
+<empty-line/>
+<p>Душе настало пробужденье:</p>
+<p>И вот опять явилась ты,</p>
+<p>Как мимолетное виденье,</p>
+<p>Как гений чистой красоты.</p>
+<empty-line/>
+<p>И сердце бьется в упоенье,</p>
+<p>И для него воскресли вновь</p>
+<p>И божество, и вдохновенье,</p>
+<p>И жизнь, и слезы, и любовь.</p>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/editors/p/pushkin_a_s/text_0270.shtml">аудио-файла</a>.</strong></p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Примечание</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>* <emphasis>К *** ("Я помню чудное мгновенье...")</emphasis> (стр. 89). Керн, Анна Петровна (1800--1879) -- племянница соседки Пушкина П. А. Осиповой. Гостила летом 1825 г. в Тригорском. В первой строфе поэт вспоминает первую встречу с ней, в 1819 г., в Петербурге, в доме Олениных. Керн писала о том, как Пушкин передал ей эти стихи в день ее отъезда из Тригорского. "Он пришел утром и на прощание принес мне экземпляр 2-й главы "Онегина"1), в неразрезанных листках, между которых я нашла вчетверо сложенный почтовый лист бумаги со стихами: "Я помню чудное мгновенье" и проч. и проч. Когда я собиралась спрятать в шкатулку поэтический подарок, он долго на меня смотрел, потом судорожно выхватил и не хотел возвращать; насилу выпросила я их опять; что у него промелькнуло тогда в голове -- не знаю" ("Пушкин в воспоминаниях и рассказах современников", Л. 1936, стр. 326).</p>
+<empty-line/>
+<p>1) Керн ошиблась, вторая глава еще не вышла тогда. Вероятно, это была первая глава "Евгения Онегина".</p>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/editors/p/pushkin_a_s/text_0270.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

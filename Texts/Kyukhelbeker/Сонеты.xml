@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Вильгельм</first-name>
+			<middle-name>Карлович</middle-name>
+			<last-name>Кюхельбекер</last-name>
+		</author>
+		<book-title>Сонеты</book-title>
+<annotation><p>Сонет ("Объяты сладким сном, благоуханья...")</p>
+<p>Герой и певец</p>
+<p>Сонеты:</p>
+<p>1. Рождество.</p>
+<p>2. Пасхальный первый.</p>
+<p>3. Пасхальный второй.</p>
+<p>4. Магдалина у гроба господня.</p>
+<p>5. Вознесение</p>
+<p>Два сонета:</p>
+<p>1. ("Уранионов друг, божественный Тантал...")</p>
+<p>2. ("Ты пыльной древности преданья воскресил...")</p>
+<p>Сонет ("Опомнись! долго ли? приди в себя и встань...")</p></annotation>		<date value="2006-02-08">08/02/2006</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 04:27:40</date>
+		<src-url>http://az.lib.ru/k/kjuhelxbeker_w_k/text_0050.shtml</src-url>
+		<id>samlib58f4c2cc998d69.93102863</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Кюхельбекер Вильгельм Карлович</p>
+	<empty-line/>
+	<p>Сонеты</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>В.К.КЮХЕЛЬБЕКЕР</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Сонет ("Объяты сладким сном, благоуханья...")</p>
+<empty-line/>
+<p>Герой и певец</p>
+<empty-line/>
+<p>Сонеты:</p>
+<empty-line/>
+<p>1. Рождество.</p>
+<empty-line/>
+<p>2. Пасхальный первый.</p>
+<empty-line/>
+<p>3. Пасхальный второй.</p>
+<empty-line/>
+<p>4. Магдалина у гроба господня.</p>
+<empty-line/>
+<p>5. Вознесение</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Два сонета:</p>
+<empty-line/>
+<p>1. ("Уранионов друг, божественный Тантал...")</p>
+<empty-line/>
+<p>2. ("Ты пыльной древности преданья воскресил...")</p>
+<empty-line/>
+<p>Сонет ("Опомнись! долго ли? приди в себя и встань...")</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>СОНЕТ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Объяты сладким сном, благоуханья</p>
+<empty-line/>
+<p>Таятся в лоне нежного шипка:</p>
+<empty-line/>
+<p>Так и любви всесильная тоска</p>
+<empty-line/>
+<p>В закрытом сердце дремлет без желанья.</p>
+<empty-line/>
+<p>Развили розу солнцевы лобзанья;</p>
+<empty-line/>
+<p>Вдаль аромат лиется, как река:</p>
+<empty-line/>
+<p>Эрот, который, прикорнув, пока</p>
+<empty-line/>
+<p>Казался без движенья, без дыханья,</p>
+<empty-line/>
+<p>Тут вдруг вскочил и сердце вдруг расторг;</p>
+<empty-line/>
+<p>Он пробужден ее очей лучами, -</p>
+<empty-line/>
+<p>Но им не греть, нет! властвовать рабами.</p>
+<empty-line/>
+<p>Умри же, сердце, и прости, восторг</p>
+<empty-line/>
+<p>И ты, надежда, с сладкими мечтами:</p>
+<empty-line/>
+<p>Увы! я предан, я обманут вами!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Первая половина 1820-х годов (?)</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ГЕРОЙ И ПЕВЕЦ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1-Й СОНЕТ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Герой, кому венец дарован бранный,</p>
+<empty-line/>
+<p>Муж, совершивший смелые дела,</p>
+<empty-line/>
+<p>Живет в столетьях, славой осиянный;</p>
+<empty-line/>
+<p>Пусть поразит могущего стрела, -</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>За гроб восхитит лавр, однажды данный!</p>
+<empty-line/>
+<p>Расступится завистливая мгла:</p>
+<empty-line/>
+<p>Он разорвет времен покров туманный</p>
+<empty-line/>
+<p>Сиянием бессмертного чела.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Но без хвалы и битвы и победа</p>
+<empty-line/>
+<p>Как шумная река бы протекли</p>
+<empty-line/>
+<p>И в мире не оставили бы следа,</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Да чтят витию племена земли!</p>
+<empty-line/>
+<p>Спасает подвиги его беседа:</p>
+<empty-line/>
+<p>Бойцы бы без него, как сон, прошли.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>2-Й СОНЕТ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Подобится златому оку мира</p>
+<empty-line/>
+<p>Спаситель братьев, радостный боец;</p>
+<empty-line/>
+<p>Но пастырю полночных стад эфира,</p>
+<empty-line/>
+<p>Луне подобен - сладостный певец.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>А тот, кому даны и меч и лира,</p>
+<empty-line/>
+<p>Кто на главу взложил двойной венец,</p>
+<empty-line/>
+<p>В войне перун, в объятиях же мира</p>
+<empty-line/>
+<p>Души обворожитель, врач сердец, -</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Тому подобья нет: его судьбина,</p>
+<empty-line/>
+<p>Священных, дивных полная чудес,</p>
+<empty-line/>
+<p>Гора сокровищ и богатств пучина.</p>
+<empty-line/>
+<p>На землю прямо пала от небес:</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Он выше всех; так скал крутых вершина</p>
+<empty-line/>
+<p>Златая превышает темный лес,</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1829</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>РОЖДЕСТВО</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Сей малый мир пред оными мирами,</p>
+<empty-line/>
+<p>Которые бесчисленной толггой</p>
+<empty-line/>
+<p>Парят и блещут в тверди голубой,</p>
+<empty-line/>
+<p>Одна пылинка; мы же - что мы сами?</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Но солнцев сонм, катящихся над нами,</p>
+<empty-line/>
+<p>Вовеки на весах любви святой</p>
+<empty-line/>
+<p>Не взвесит ни одной души живой;</p>
+<empty-line/>
+<p>Не весит вечный нашими весами.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ничто вселенна пред ее творцом;</p>
+<empty-line/>
+<p>Вещал же так творец и царь вселенной:</p>
+<empty-line/>
+<p>"Сынов Адама буду я отцом;</p>
+<empty-line/>
+<p>Избавлю род их, смертью уловленный, -</p>
+<empty-line/>
+<p>Он не погибнет пред моим лицом!" -</p>
+<empty-line/>
+<p>И бог от девы родился смиренной.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>2</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ПАСХАЛЬНЫЙ ПЕРВЫЙ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Меня беды и скорби посещали</p>
+<empty-line/>
+<p>От дней младенчества до седины;</p>
+<empty-line/>
+<p>Я, наконец, и горе и печали</p>
+<empty-line/>
+<p>Так встречу, как утес напор волны.</p>
+<empty-line/>
+<p>Но что - хулы меня ли взволновали?</p>
+<empty-line/>
+<p>Все чувства чем во мне возмущены?</p>
+<empty-line/>
+<p>Слуга Христов, бесславлен миром, я ли</p>
+<empty-line/>
+<p>Лишился вдруг сердечной тишины?</p>
+<empty-line/>
+<p>Кто я? ничтожный грешник! А чудесный,</p>
+<empty-line/>
+<p>Божественный, господь, владыка сил,</p>
+<empty-line/>
+<p>Явился ли, одетый в блеск небесный?</p>
+<empty-line/>
+<p>Нет! в прахе он, светлейший всех светил,</p>
+<empty-line/>
+<p>Он в низости окончил путь свой тесный</p>
+<empty-line/>
+<p>И дух на древе срама испустил!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>3</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ПАСХАЛЬНЫЙ ВТОРОЙ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>"Почто я не перунами владею</p>
+<empty-line/>
+<p>И грянуть не могу велеть громам?</p>
+<empty-line/>
+<p>Нет! не стерплю: коварному злодею,</p>
+<empty-line/>
+<p>Ковавшему погибель мне, воздам!" -</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Так, пьян от мести, рьян и шумен ею,</p>
+<empty-line/>
+<p>Свирепым, адским жертвуя духам,</p>
+<empty-line/>
+<p>О боже мой! пред благостью твоею</p>
+<empty-line/>
+<p>Возносит грешник вопли к небесам.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Но тот, который с самого созданья</p>
+<empty-line/>
+<p>Единый был безвинен пред тобой,</p>
+<empty-line/>
+<p>Приял неизреченные страданья,</p>
+<empty-line/>
+<p>И весь, исполненный любви святой:</p>
+<empty-line/>
+<p>"Отец мой, отпусти им грех незнанья!" -</p>
+<empty-line/>
+<p>Молился за объятых слепотой.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>4</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>МАГДАЛИНА У ГРОБА ГОСПОДНЯ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Мария, в тяжкой горести слепая,</p>
+<empty-line/>
+<p>Назвала вертоградарем того,</p>
+<empty-line/>
+<p>Кто, гроб покинув, ей вещал: "Кого</p>
+<empty-line/>
+<p>Здесь в гробе ищешь, плача и рыдая?"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И отвечала: "Тела не нашла я...</p>
+<empty-line/>
+<p>Ах! Господа отдай мне моего!"</p>
+<empty-line/>
+<p>Но вдруг он рек: "Мария!" - и его</p>
+<empty-line/>
+<p>В восторге узнает жена святая...</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Не так ли, больший, чем она, слепец,</p>
+<empty-line/>
+<p>Взывал я, с промыслом всевышним споря:</p>
+<empty-line/>
+<p>"Почто меня оставил мой творец?"</p>
+<empty-line/>
+<p>А ты - ты был со мной и среди горя!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Я утопал, но за руку, отец,</p>
+<empty-line/>
+<p>Ты удержал меня над бездной моря.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>5</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ВОЗНЕСЕНИЕ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Божественный на божием престоле;</p>
+<empty-line/>
+<p>Христос на небо, высше всех светил,</p>
+<empty-line/>
+<p>В свое отечество, туда, отколе</p>
+<empty-line/>
+<p>Сошел на землю, в славе воспарил.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Своих же не покинул он в неволе,</p>
+<empty-line/>
+<p>Их не оставил в узах темных сил;</p>
+<empty-line/>
+<p>Нет! слабых их и трепетных дотоле</p>
+<empty-line/>
+<p>Неколебимым сердцем одарил.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И всех стремящихся к его святыне,</p>
+<empty-line/>
+<p>Горе на крыльях душ ему вослед,</p>
+<empty-line/>
+<p>Он свыше укрепляет и поныне:</p>
+<empty-line/>
+<p>Им песнь Эдема слышится средь бед,</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Средь бурь, в юдоли слез, в людской пустыне,</p>
+<empty-line/>
+<p>И так вещает: "Близок день побед!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1832</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ДВА СОНЕТА</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Уранионов друг, божественный Тантал</p>
+<empty-line/>
+<p>На небо восходил в чертог их светозарный</p>
+<empty-line/>
+<p>И за амврозией, за чашею нектарной,</p>
+<empty-line/>
+<p>Гость, собеседник их, меж ними пировал.</p>
+<empty-line/>
+<p>И что же? согрешил Тантал неблагодарный,</p>
+<empty-line/>
+<p>Похитил пищу их и в ад с Олимпа пал!</p>
+<empty-line/>
+<p>Очнулся в Лете он и слышит: плещет вал.</p>
+<empty-line/>
+<p>Испил бы труженик, - прочь вал бежал</p>
+<empty-line/>
+<p>коварный...</p>
+<empty-line/>
+<p>Прочь от засохших уст, поток обильных вод</p>
+<empty-line/>
+<p>Над жаждою его смеется. - Будто дева</p>
+<empty-line/>
+<p>Прелестная, так свеж висит румяный плод;</p>
+<empty-line/>
+<p>Кажись, зовет: "Сорви!" - а в нем огонь Эрева,</p>
+<empty-line/>
+<p>Свирепый голод... Но умрет за родом род,</p>
+<empty-line/>
+<p>Плода не схватит муж проклятия и гнева!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>2</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>"Ты пыльной древности преданья воскресил;</p>
+<empty-line/>
+<p>К чему? Мы знаем все от велика до мала</p>
+<empty-line/>
+<p>Рассказы о судьбе несчастного Тантала:</p>
+<empty-line/>
+<p>Вперед побереги запас и рифм и сил".</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Не спорю; правы вы: так, сказка обветшала,</p>
+<empty-line/>
+<p>И мифов греческих давно забытый ил</p>
+<empty-line/>
+<p>Теперь уже не тот, которым, словно Нил,</p>
+<empty-line/>
+<p>Рока времен умы когда-то утучняла.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Но что? не я ли сам страдалец тот Тантал?</p>
+<empty-line/>
+<p>И я живал в раю; за чашею нектарной</p>
+<empty-line/>
+<p>Молитв и песней я на небе пировал!</p>
+<empty-line/>
+<p>И вот и я, как он, с Олимпа в бездну пал;</p>
+<empty-line/>
+<p>Бежит от уст моих засохших вал коварный;</p>
+<empty-line/>
+<p>Ловлю - из-под руки уходит плод янтарный!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1839</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>СОНЕТ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>"Опомнись! долго ли? приди в себя и встань</p>
+<empty-line/>
+<p>За искру малую чуть тлеющейся веры,</p>
+<empty-line/>
+<p>Я милосерд к тебе был без цены и меры,</p>
+<empty-line/>
+<p>К тебе и день и ночь протягивал я длань...</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Не думаешь вступать с самим собою в брань;</p>
+<empty-line/>
+<p>Не подняли тебя бойцов моих примеры, -</p>
+<empty-line/>
+<p>Ты спишь под лживые стихов своих размеры,</p>
+<empty-line/>
+<p>Приносишь ты и мне, но и Ваалу дань.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Чтоб разлучить тебя с греховной суетою,</p>
+<empty-line/>
+<p>Чтоб духу дать прозреть, я плоть поверг во тьму,</p>
+<empty-line/>
+<p>Я посетил тебя телесной слепотою".</p>
+<empty-line/>
+<p>Он рек - и внемлю я владыке своему...</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>О, да служу умом, и чувством, и мечтою,</p>
+<empty-line/>
+<p>И песнями души единому ему!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1846</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>КЮХЕЛЬБЕКЕР ВИЛЬГЕЛЬМ КАРЛОВИЧ (1797 - 1846). Лицейский друг Пушкина,</p>
+<empty-line/>
+<p>декабрист, участник восстания на Сенатской площади. Был приговорен к</p>
+<empty-line/>
+<p>смертной казни, замененной каторгой. Писал оды, послания ("Смерть</p>
+<empty-line/>
+<p>Байрона", 1824; "Тень Рылеева", 1827), трагедии ("Аргивяне", 1822 - 1825;</p>
+<empty-line/>
+<p>"Прокофий Ляпунов", 1834), проникнутые пафосом революционной</p>
+<empty-line/>
+<p>гражданственности.</p>
+<empty-line/>
+<p>Сонеты. В сонетах передана библейская история рождения и смерти Иисуса</p>
+<empty-line/>
+<p>Христа.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Издательство "Московский рабочий", 1983 г.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>РУССКИЙ СОНЕТ</p>
+<empty-line/>
+<p>XVIII - НАЧАЛО XX ВЕКА</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Сборник</p>
+<empty-line/>
+<p>Составитель Владимир Сергеевич Совалин</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>OCR Pirat</p>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

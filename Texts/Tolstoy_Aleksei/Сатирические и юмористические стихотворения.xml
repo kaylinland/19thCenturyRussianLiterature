@@ -1,0 +1,5845 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Алексей</first-name>
+			<middle-name>Константинович</middle-name>
+			<last-name>Толстой</last-name>
+		</author>
+		<book-title>Сатирические и юмористические стихотворения</book-title>
+<annotation></annotation>		<date value="2004-10-14">14/10/2004</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2019-01-21">2019-01-21 08:24:01</date>
+		<src-url>http://az.lib.ru/t/tolstoj_a_k/text_0130.shtml</src-url>
+		<id>samlib5c4581a366f0c8.08386834</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Толстой Алексей Константинович</p>
+	<empty-line/>
+	<p>Сатирические и юмористические стихотворения</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l0"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>Алексей Константинович Толстой.</p>
+<p>Сатирические и юмористические стихотворения</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>---------------------------------------------------------------------</p>
+<p>ПРИМЕЧАНИЯ OCR Zmiy:</p>
+<p>Текст данного сборника сформирован по следующим источникам:</p>
+<p>1) Сайт:</p>
+<p>http://www.friends-partners.org/friends/literature/19century.html</p>
+<p>2) Книга: OCR &amp; SpellCheck Zmiy (zmiy@inbox.ru)</p>
+<p>Толстой А.К. Сочинения. В 2-х т. Т. 1. Стихотворения</p>
+<p>М.: Худож. лит., 1981</p>
+<p>Содержание отмеченное [*], взято из (1). Остальное - (2).</p>
+<p>Текст, отмеченный в содержании [**] взят из (2). Остальное - (1).</p>
+<p>Анонс и примечания взяты из (2).</p>
+<empty-line/>
+<p>Все претензии предъявлять сюда: zmiy@inbox.ru.</p>
+<empty-line/>
+<p>Оформление: Zmiy (zmiy@inbox.ru), 28 февраля 2003 года</p>
+<p>---------------------------------------------------------------------</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l1"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>СОДЕРЖАНИЕ</p>
+</title>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l4"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>САТИРИЧЕСКИЕ И ЮМОРИСТИЧЕСКИЕ СТИХОТВОРЕНИЯ</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Благоразумие</p>
+<p>[А.М.Жемчужникову] "Вхожу в твой кабинет..."</p>
+<p>"Исполнен вечным идеалом..."</p>
+<p>Весенние чувства необузданного древнего</p>
+<p>[К.К.Павловой] "Прошу простить великодушно..."</p>
+<p>Бунт в Ватикане</p>
+<p>[Б.М.Маркевичу] "Ты, что в красе своей румяной..."</p>
+<p>[Д.А.Толстому] "Бисмарк, сидючи в Берлине..."</p>
+<p>[Ф.К.Мейендорфу] "Барон, тебе, делившему..."</p>
+<p>История государства Российского от Гостомысла до Тимашева</p>
+<p>"Стасюлевич и Маркевич..."</p>
+<p>"Как-то Карп Семенович..."</p>
+<p>"Рука Алкида тяжела..."</p>
+<p>Медицинские стихотворения</p>
+<p>1. "Доктор божией коровке..."</p>
+<p>2. "Навозный жук, навозный жук..."</p>
+<p>3. "Верь мне, доктор (кроме шутки!)..."</p>
+<p>4. Берестовая будочка</p>
+<p>5. "Муха шпанская сидела..."</p>
+<p>"Угораздило кофейник..."</p>
+<p>Послания к Ф.М.Толстому</p>
+<p>1. "Вкусив елей твоих страниц..."</p>
+<p>2. "В твоем письме, о Феофил..."</p>
+<p>"Сидит под балдахином..."</p>
+<p>Песня о Каткове, о Черкасском, о Самарине, о Маркевиче и о арапах</p>
+<p>Мудрость жизни</p>
+<p>*  Ода на поимку Таирова</p>
+<p>[А.Н.Мальцевой] "Пью ль мадеру, пью ли квас я..."</p>
+<p>"Все забыл я, все простил..."</p>
+<p>"Я готов румянцем девичьим..."</p>
+<p>[М.Н.Лонгинову] "Слава богу, я здоров..."</p>
+<p>Отрывок ("Разных лент схватил он радугу...")</p>
+<p>[Б.М.Маркевичу] "В награду дружеских усилий..."</p>
+<p>Послание к М.Н.Лонгинову о дарвинисме</p>
+<p>"Боюсь людей передовых..."</p>
+<p>Сон Попова</p>
+<p>[М.П.Арнольди] "Ропща на прихоти судеб..."</p>
+<p>[А.М.Жемчужникову] "Мы тебя субботним днем..."</p>
+<p>Рондо</p>
+<p>[Великодушие смягчает сердца] "Вонзил кинжал убийца нечестивый..."</p>
+<p>Надписи на стихотворениях А.С.Пушкина</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l686"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>САТИРИЧЕСКИЕ И</p>
+<empty-line/>
+<p>ЮМОРИСТИЧЕСКИЕ СТИХОТВОРЕНИЯ</p>
+</title>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l687"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>БЛАГОРАЗУМИЕ</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Поразмыслив аккуратно,</p>
+<p>Я избрал себе дорожку</p>
+<p>И иду по ней без шума,</p>
+<p>Понемножку, понемножку!</p>
+<empty-line/>
+<p>Впрочем, я ведь не бесстрастен,</p>
+<p>Я не холоден душою,</p>
+<p>И во мне ведь закипает</p>
+<p>Ретивое, ретивое!</p>
+<empty-line/>
+<p>Если кто меня обидит,</p>
+<p>Не спущу я, как же можно!</p>
+<p>Из себя как раз я выйду,</p>
+<p>Осторожно, осторожно!</p>
+<empty-line/>
+<p>Без ума могу любить я,</p>
+<p>Но любить, конечно, с толком,</p>
+<p>Я готов и правду резать,</p>
+<p>Тихомолком, тихомолком!</p>
+<empty-line/>
+<p>Если б брат мой захлебнулся,</p>
+<p>Я б не стал махать руками,</p>
+<p>Тотчас кинулся бы в воду,</p>
+<p>С пузырями, с пузырями!</p>
+<empty-line/>
+<p>Рад за родину сразиться!</p>
+<p>Пусть услышу лишь картечь я,</p>
+<p>Грудью лягу в чистом поле,</p>
+<p>Без увечья, без увечья!</p>
+<empty-line/>
+<p>Послужу я и в синклите,</p>
+<p>Так чтоб ведали потомки;</p>
+<p>Но уж если пасть придется -</p>
+<p>Так соломки, так соломки!</p>
+<empty-line/>
+<p>Кто мне друг, тот друг мне вечно,</p>
+<p>Все родные сердцу близки,</p>
+<p>Всем союзникам служу я,</p>
+<p>По-австрийски, по-австрийски!</p>
+<empty-line/>
+<p>Конец 1853 или начало 1854</p>
+<empty-line/>
+<empty-line/>
+<p>[А. М. ЖЕМЧУЖНИКОВУ]</p>
+<empty-line/>
+<p>Вхожу в твой кабинет,</p>
+<p>Ищу тебя, бездельник,</p>
+<p>Тебя же нет как нет,</p>
+<p>Знать, нынче понедельник.</p>
+<empty-line/>
+<p>Пожалуй приезжай</p>
+<p>Ко мне сегодня с братом:</p>
+<p>Со мной откушать чай</p>
+<p>И утку с кресс-салатом.</p>
+<empty-line/>
+<p>Венгерское вино</p>
+<p>Вас ждет (в бутылке ль, в штофе ль -</p>
+<p>Не знаю), но давно</p>
+<p>Заказан уж картофель.</p>
+<empty-line/>
+<p>Я в городе один,</p>
+<p>А мать живет на даче,</p>
+<p>Из-за таких причин</p>
+<p>Жду ужину удачи.</p>
+<empty-line/>
+<p>Армянский славный край</p>
+<p>Лежит за Араратом,</p>
+<p>Пожалуй приезжай</p>
+<p>Ко мне сегодня с братом!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l688"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>1854</p>
+</title>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l689"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>x x x</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Исполнен вечным идеалом,</p>
+<p>Я не служить рожден, а петь!</p>
+<p>Не дай мне, Феб, быть генералом,</p>
+<p>Не дай безвинно поглупеть!</p>
+<empty-line/>
+<p>О Феб всесильный! на параде</p>
+<p>Услышь мой голос свысока:</p>
+<p>Не дай постичь мне, бога ради,</p>
+<p>Святой поэзии носка!</p>
+<empty-line/>
+<p>5 октября 1856</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l690"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>ВEСEННИЕ ЧУВСТВА</p>
+</title>
+<empty-line/>
+<p>НЕОБУЗДАННОГО ДРЕВНЕГО</p>
+<empty-line/>
+<p>Дождусь ли той истории,</p>
+<p>Когда придет весна</p>
+<p>И молодой цикории</p>
+<p>Засветит желтизна!</p>
+<empty-line/>
+<p>Уже любовной жаждою</p>
+<p>Вся грудь моя горит,</p>
+<p>И вспрыгнуть щепка каждая</p>
+<p>На щепку норовит.</p>
+<empty-line/>
+<p>Земля цветами новыми</p>
+<p>Покрылася опять,</p>
+<p>Пошли быки с коровами</p>
+<p>В зеленый луг гулять,</p>
+<empty-line/>
+<p>И, силой обаятельной</p>
+<p>За стадом их влеком,</p>
+<p>Готов я бессознательно</p>
+<p>Сам сделаться быком!</p>
+<empty-line/>
+<p>Февраль 1859</p>
+<empty-line/>
+<empty-line/>
+<p>[К. К. ПАВЛОВОЙ]</p>
+<empty-line/>
+<p>Прошу простить великодушно,</p>
+<p>Что я, как старый генерал,</p>
+<p>В борьбе суровой с жизнью душной,</p>
+<p>Моим посланьем опоздал!</p>
+<p>(Сравненье здесь с главою рати,</p>
+<p>Без предыдущего звена,</p>
+<p>Хоть Вам покажется некстати,</p>
+<p>Но рифма мне была нужна.)</p>
+<p>Итак, без дальних отступлений,</p>
+<p>Желаю Вам на Новый год</p>
+<p>Поболе новых вдохновений,</p>
+<p>Помене тягостных забот.</p>
+<p>Для Вас дай бог, чтоб в этом годе</p>
+<p>Взошла счастливая заря!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l691"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>Р. S.</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Со мной о Вашем переводе</p>
+<p>Из драмы "Фауст" говоря,</p>
+<p>Упомянули Вы недавно</p>
+<p>(Серебролукий Вас прости!),</p>
+<p>Что всe бы шло довольно плавно,</p>
+<p>Но трудно стих перевести,</p>
+<p>Где Фауст, в яром озлобленье,</p>
+<p>Кляня всe то, что deus vult1,</p>
+<p>Вдруг говорит для заключенья:</p>
+<p>"Und fluch vor Allem der Geduld!"</p>
+<p>Вращаясь в Фебовом синклите,</p>
+<p>Быть может, стал я слишком лих,</p>
+<p>Но как Вам кажется, скажите,</p>
+<p>Нельзя ли тот строптивый стих</p>
+<p>(Храня при том с почтеньем эха</p>
+<p>Оригинала глубину)</p>
+<p>Перевести не без успеха:</p>
+<p>"Терпенье глупое кляну"?</p>
+<p>___________</p>
+<p>1  Бог хочет (лат.)- Ред.</p>
+<empty-line/>
+<p>Начало 1860-х годов (?)</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l692"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>БУНТ В ВАТИКАНЕ</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Взбунтовалися кастраты,</p>
+<p>Входят в папины палаты:</p>
+<p>"Отчего мы не женаты?</p>
+<p>Чем мы виноваты?"</p>
+<empty-line/>
+<p>Говорит им папа строго:</p>
+<p>"Это что за синагога?</p>
+<p>Не боитеся вы бога?</p>
+<p>Прочь! Долой с порога!"</p>
+<empty-line/>
+<p>Те к нему: "Тебе-то ладно,</p>
+<p>Ты живешь себе прохладно,</p>
+<p>А вот нам так безотрадно,</p>
+<p>Очень уж досадно!</p>
+<empty-line/>
+<p>Ты живешь себе по воле,</p>
+<p>Чай, натер себе мозоли,</p>
+<p>А скажи-ка: таково ли</p>
+<p>В нашей горькой доле?"</p>
+<empty-line/>
+<p>Говорит им папа: "Дети,</p>
+<p>Было прежде вам глядети,</p>
+<p>Потеряв же вещи эти,</p>
+<p>Надобно терпети!</p>
+<empty-line/>
+<p>Жалко вашей мне утраты;</p>
+<p>Я, пожалуй, в виде платы,</p>
+<p>Прикажу из лучшей ваты</p>
+<p>Вставить вам заплаты!"</p>
+<empty-line/>
+<p>Те к нему: "На что нам вата?</p>
+<p>Это годно для халата!</p>
+<p>Не мягка, а жестковата</p>
+<p>Вещь, что нам нужна-то!"</p>
+<empty-line/>
+<p>Папа к ним: "В раю дам местo,</p>
+<p>Будет каждому невеста,</p>
+<p>В месяц по два пуда теста.</p>
+<p>Посудите: вес-то!"</p>
+<empty-line/>
+<p>Те к нему: "Да что нам в тесте,</p>
+<p>Будь его пудов хоть двести,</p>
+<p>С ним не вылепишь невесте</p>
+<p>Tо, чем жить с ней вместе!"</p>
+<empty-line/>
+<p>"Эх, нелегкая пристала!-</p>
+<p>Молвил папа с пьедестала,-</p>
+<p>Уж коль с воза что упало,</p>
+<p>Так пиши: пропало!</p>
+<empty-line/>
+<p>Эта вещь,- прибавил папа,-</p>
+<p>Пропади хоть у Приапа,</p>
+<p>Нет на это эскулапа,</p>
+<p>Эта вещь - не шляпа!</p>
+<empty-line/>
+<p>Да и что вы в самом деле?</p>
+<p>Жили б вы в моей капелле,</p>
+<p>Под начальством Антонелли,</p>
+<p>Да кантаты пели!"</p>
+<empty-line/>
+<p>"Нет,- ответствуют кастраты,-</p>
+<p>Пий ты этакий девятый,</p>
+<p>Мы уж стали сиповаты,</p>
+<p>Поючи кантаты!</p>
+<empty-line/>
+<p>А не хочешь ли для дива</p>
+<p>Сам пропеть нам "Casta diva"?</p>
+<p>Да не грубо, а пискливо,</p>
+<p>Тонко особливо!"</p>
+<empty-line/>
+<p>Испугался папа: "Дети,</p>
+<p>Для чего ж мне тонко пети?</p>
+<p>Да и как мне разумети</p>
+<p>Предложенья эти?"</p>
+<empty-line/>
+<p>Те к нему: "Проста наука,</p>
+<p>В этом мы тебе порука,</p>
+<p>Чикнул раз, и вся тут штука -</p>
+<p>Вот и бритва! Ну-ка!"</p>
+<empty-line/>
+<p>Папа ж думает: "Оно-де</p>
+<p>Было б даже не по моде</p>
+<p>Щеголять мне в среднем роде!"</p>
+<p>Шлет за Де-Мероде.</p>
+<empty-line/>
+<p>Де-Мероде ж той порою,</p>
+<p>С королем готовясь к бою,</p>
+<p>Занимался под горою</p>
+<p>Папской пехтурою:</p>
+<empty-line/>
+<p>Все в подрясниках шелковых,</p>
+<p>Ранцы их из шкурок новых,</p>
+<p>Шишек полные еловых,</p>
+<p>Сам в чулках лиловых.</p>
+<empty-line/>
+<p>Подбегает Венерати:</p>
+<p>"Вам,- кричит,- уж не до рати!</p>
+<p>Там хотят, совсем некстати,</p>
+<p>Папу холощати!"</p>
+<empty-line/>
+<p>Искушенный в ратном строе,</p>
+<p>Де-Мерод согнулся втрое,</p>
+<p>Видит, дело-то плохое,</p>
+<p>Молвит: "Что такое?"</p>
+<empty-line/>
+<p>Повторяет Венерати:</p>
+<p>"Вам теперь уж не до рати,</p>
+<p>Там хотят, совсем некстати,</p>
+<p>Папу холощати!"</p>
+<empty-line/>
+<p>Вновь услышав эту фразу,</p>
+<p>Де-Мероде понял сразу,</p>
+<p>Говорит: "Оно-де с глазу;</p>
+<p>Слушаться приказу!"</p>
+<empty-line/>
+<p>Затрубили тотчас трубы,</p>
+<p>В войске вспыхнул жар сугубый,</p>
+<p>Так и смотрят все, кому бы</p>
+<p>Дать прикладом в зубы?</p>
+<empty-line/>
+<p>Де-Мероде, в треуголке,</p>
+<p>В рясе только что с иголки,</p>
+<p>Всех везет их в одноколке</p>
+<p>К папиной светелке.</p>
+<empty-line/>
+<p>Лишь вошли в нее солдаты,</p>
+<p>Испугалися кастраты,</p>
+<p>Говорят: "Мы виноваты!</p>
+<p>Будем петь без платы!"</p>
+<empty-line/>
+<p>Добрый папа на свободе</p>
+<p>Вновь печется о народе,</p>
+<p>А кастратам Де-Мероде</p>
+<p>Молвит в этом роде:</p>
+<empty-line/>
+<p>"Погодите вы, злодеи!</p>
+<p>Всех повешу за ... я!"</p>
+<p>Папа ж рек, слегка краснея:</p>
+<p>"Надо быть умнее!"1</p>
+<empty-line/>
+<p>И конец настал всем спорам;</p>
+<p>Прежний при дворе декорум,</p>
+<p>И пищат кастраты хором</p>
+<p>Вплоть ad finem seculorum!..2</p>
+<p>____________</p>
+<p>1 Вариант для дам</p>
+<p>.  .  .  .  .  .  .</p>
+<p>А кастратам Де-Мероде</p>
+<p>Молвит в этом роде:</p>
+<empty-line/>
+<p>"Всяк, кто в этот бунт замешан,</p>
+<p>Заслужил бы быть повешен!"</p>
+<p>Папа ж рек, совсем утешен:</p>
+<p>"Я один безгрешен!"</p>
+<empty-line/>
+<p>2 До скончания веков (лат.).- Ред.</p>
+<empty-line/>
+<p>Февраль-март 1864</p>
+<empty-line/>
+<empty-line/>
+<p>[Б. М. МАРКЕВИЧУ]</p>
+<empty-line/>
+<p>Ты, что, в красе своей румяной,</p>
+<p>Предмет восторженной молвы,</p>
+<p>Всегда изящный, вечно рьяный,</p>
+<p>Цветешь на берегах Невы,</p>
+<empty-line/>
+<p>Когда к тебе недавно, сдуру,</p>
+<p>Я обратил наивный зов</p>
+<p>Держать из дружбы корректуру</p>
+<p>Моих неизданных стихов,</p>
+<empty-line/>
+<p>Едва их удостоив взгляда,</p>
+<p>Должно быть полусонный, ты</p>
+<p>С небрежной ленью Алкивьяда</p>
+<p>Переворачивал листы.</p>
+<empty-line/>
+<p>Сменив Буткова на Каткова,</p>
+<p>Отверг ты всякий ложный стыд.</p>
+<p>Тебе смысл здравый не окова,</p>
+<p>Тебя нелепость не страшит.</p>
+<empty-line/>
+<p>И я, тобою искаженный,</p>
+<p>С изнеможением в кости,</p>
+<p>Спешу, смиренный и согбенный,</p>
+<p>Тебе спасибо принести;</p>
+<empty-line/>
+<p>Для каждого стиха errata(*)</p>
+<p>С утра до вечера пишу,</p>
+<p>С супружней кротостью Сократа</p>
+<p>Твою ксантиппость я сношу.</p>
+<empty-line/>
+<p>Ругню, вранье, толчки, побои</p>
+<p>Приняв, безропотно стою,</p>
+<p>Смиренно под твои помои</p>
+<p>Склоняю голову мою,</p>
+<empty-line/>
+<p>И в благодарности не шаток,</p>
+<p>И твердо веря в связь сердец,</p>
+<p>Плету тебе из опечаток</p>
+<p>Неувядаемый венец.</p>
+<empty-line/>
+<p>Они, роскошные, как злаки,</p>
+<p>Пестрят читающего путь -</p>
+<p>Подобно им, отличья знаки</p>
+<p>Твою да испещряют грудь,</p>
+<empty-line/>
+<p>И да цветут твои потомки,</p>
+<p>На удивление стране,</p>
+<p>Так многочисленны, так громки,</p>
+<p>Так полновесны, как оне!</p>
+<p>____________</p>
+<p>(*) Опечатки  (лат.).- Ред.</p>
+<empty-line/>
+<p>1 мая 1867</p>
+<empty-line/>
+<empty-line/>
+<p>[ГРАФУ Д. А. ТОЛСТОМУ]</p>
+<empty-line/>
+<p>Бисмарк, сидючи в Берлине,</p>
+<p>Пишет Австрии устав,</p>
+<p>Бонапарт, в своей рутине,</p>
+<p>Непреклонный кажет нрав;</p>
+<p>Говорят, что будто ныне</p>
+<p>Кто настойчив, тот и прав;</p>
+<p>И по этой-то причине,</p>
+<p>Перед вами ниц упав,</p>
+<p>Вновь молю вас: о Щербине</p>
+<p>Не забудьте, милый граф!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l693"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>1867</p>
+</title>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>[Ф. К. МЕЙЕНДОРФУ]</p>
+<empty-line/>
+<p>Барон, тебе, делившему</p>
+<p>Дни римские с певцом,</p>
+<p>Тебе, переломившему</p>
+<p>Копье с святым отцом,</p>
+<empty-line/>
+<p>Тебе, в palazzo Geoli(*)</p>
+<p>Привыкшему витать,</p>
+<p>Не слишком будет смело ли</p>
+<p>Поднесть сию тетрадь?</p>
+<empty-line/>
+<p>Но в скуки час томительный,</p>
+<p>Признайся (хи, хи, хи!),</p>
+<p>Ты сам, превосходительный,</p>
+<p>Пописывал стихи?</p>
+<p>Итак, мое послание</p>
+<p>И дружеский поклон</p>
+<p>До нашего свидания</p>
+<p>Я шлю тебе, барон.</p>
+<p>_______</p>
+<p>(*) Во дворце Джоли (итал.).- Ред.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l694"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>1867</p>
+</title>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l695"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>ИСТОРИЯ ГОСУДАРСТВА РОССИЙСКОГО</p>
+</title>
+<empty-line/>
+<p>ОТ ГОСТОМЫСЛА ДО ТИМАШЕВА</p>
+<empty-line/>
+<p>Вся земля наша велика и обилна,</p>
+<p>а наряда в ней нет.</p>
+<empty-line/>
+<p>Нестор, летопись, cтр. 8</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l696"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>1</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Послушайте, ребята,</p>
+<p>Что вам расскажет дед.</p>
+<p>Земля наша богата,</p>
+<p>Порядка в ней лишь нет.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l697"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>2</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>A эту правду, детки,</p>
+<p>За тысячу уж лет</p>
+<p>Смекнули наши предки:</p>
+<p>Порядка-де, вишь, нет.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l698"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>3</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>И стали все под стягом,</p>
+<p>И молвят: "Как нам быть?</p>
+<p>Давай пошлем к варягам:</p>
+<p>Пускай придут княжить.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l699"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>4</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Ведь немцы тороваты,</p>
+<p>Им ведом мрак и свет,</p>
+<p>Земля ж у нас богата,</p>
+<p>Порядка в ней лишь нет".</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l700"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>5</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Посланцы скорым шагом</p>
+<p>Отправились туда</p>
+<p>И говорят варягам:</p>
+<p>"Придите, господа!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l701"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>6</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Мы вам отсыплем злата,</p>
+<p>Что киевских конфет;</p>
+<p>Земля у нас богата,</p>
+<p>Порядка в ней лишь нет".</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l702"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>7</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Варягам стало жутко,</p>
+<p>Но думают: "Что ж тут?</p>
+<p>Попытка ведь не шутка -</p>
+<p>Пойдем, коли зовут!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l703"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>8</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>И вот пришли три брата,</p>
+<p>Варяги средних лет,</p>
+<p>Г лядят г земля богата,</p>
+<p>Порядка ж вовсе нет.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l704"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>9</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>"Hу,-  думают,- команда!</p>
+<p>Здесь ногу сломит черт,</p>
+<p>Es ist ja eine Schande,</p>
+<p>Wir mussen wieder fort"1.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l705"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>10</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Но братец старший Рюрик</p>
+<p>"Постой,- сказал другим,-</p>
+<p>Fortgeh'n war' ungeburlich,</p>
+<p>Vielleicht ist's nicht so schlimm2.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l706"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>11</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Хоть вшивая команда,</p>
+<p>Почти одна лишь шваль;</p>
+<p>Wir bringen's schon zustande,</p>
+<p>Versuchen wir einmal"3.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l707"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>12</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>И стал княжить он сильно,</p>
+<p>Княжил семнадцать лет,</p>
+<p>Земля была обильна,</p>
+<p>Порядка ж нет как нет!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l708"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>13</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>За ним княжил князь Игорь,</p>
+<p>А правил им Олег,</p>
+<p>Das war ein groper Krieger4</p>
+<p>И умный человек.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l709"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>14</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Потом княжила Ольга,</p>
+<p>А после Святослав;</p>
+<p>So ging die Reihenfolge5</p>
+<p>Языческих держав.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l710"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>15</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Когда ж вступил Владимир</p>
+<p>На свой отцовский трон,</p>
+<p>Da endigte fur immer</p>
+<p>Die alte Religion6.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l711"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>16</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Он вдруг сказал народу:</p>
+<p>"Ведь наши боги дрянь,</p>
+<p>Пойдем креститься в воду!"</p>
+<p>И сделал нам Иордань.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l712"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>17</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>"Перун уж очень гадок!</p>
+<p>Когда его спихнем,</p>
+<p>Увидите, порядок</p>
+<p>Какой мы заведем!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l713"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>18</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Послал он за попами</p>
+<p>В Афины и Царьград.</p>
+<p>Попы пришли толпами,</p>
+<p>Крестятся и кадят,</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l714"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>19</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Поют себе умильно</p>
+<p>И полнят свой кисет;</p>
+<p>Земля, как есть, обильна,</p>
+<p>Порядка только нет.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l715"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>20</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Умре Владимир с горя,</p>
+<p>Порядка не создав.</p>
+<p>За ним княжить стал вскоре</p>
+<p>Великий Ярослав.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l716"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>21</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Оно, пожалуй, с этим</p>
+<p>Порядок бы и был;</p>
+<p>Но из любви он к детям</p>
+<p>Всю землю разделил.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l717"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>22</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Плоха была услуга,</p>
+<p>А дети, видя то,</p>
+<p>Давай тузить друг друга:</p>
+<p>Кто как и чем во что!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l718"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>23</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Узнали то татары:</p>
+<p>"Ну,- думают,- не трусь!"</p>
+<p>Надели шаровары,</p>
+<p>Приехали на Русь.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l719"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>24</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>"От вашего, мол, спора</p>
+<p>Земля пошла вверх дном,</p>
+<p>Постойте ж, мы вам скоро</p>
+<p>Порядок заведемШ.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l720"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>25</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Кричат: "Давайте дани!"</p>
+<p>(Хоть вон святых неси.)</p>
+<p>Тут много всякой дряни</p>
+<p>Настало на Руси.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l721"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>26</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Что день, то брат на брата</p>
+<p>В орду несет извет;</p>
+<p>Земля, кажись, богата -</p>
+<p>Порядка ж вовсе нет.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l722"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>27</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Иван явился Третий;</p>
+<p>Он говорит: "Шалишь!</p>
+<p>Уж мы теперь не дети!"</p>
+<p>Послал татарам шиш.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l723"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>28</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>И вот земля свободна</p>
+<p>От всяких зол и бед</p>
+<p>И очень хлебородна,</p>
+<p>А все ж порядка нет.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l724"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>29</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Настал Иван Четвертый,</p>
+<p>Он Третьему был внук;</p>
+<p>Калач на царстве тертый</p>
+<p>И многих жен супруг.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l725"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>30</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Иван Васильич Грозный</p>
+<p>Ему был имярек</p>
+<p>За то, что был серьезный,</p>
+<p>Солидный человек.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l726"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>31</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Приемами не сладок,</p>
+<p>Но разумом не хром;</p>
+<p>Такой завел порядок,</p>
+<p>Хоть покати шаром!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l727"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>32</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Жить можно бы беспечно</p>
+<p>При этаком царе;</p>
+<p>Но ах! ничто не вечно -</p>
+<p>И царь Иван умре!</p>
+<empty-line/>
+<p>зз</p>
+<empty-line/>
+<p>За ним царить стал Федор,</p>
+<p>Отцу живой контраст;</p>
+<p>Был разумом не бодор,</p>
+<p>Трезвонить лишь горазд.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l728"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>34</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Борис же, царский шурин,</p>
+<p>Не в шутку был умен,</p>
+<p>Брюнет, лицом недурен,</p>
+<p>И сел на царский трон.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l729"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>35</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>При нем пошло всe гладко,</p>
+<p>Не стало прежних зол,</p>
+<p>Чуть-чуть было порядка</p>
+<p>В земле он не завел.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l730"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>36</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>К несчастью, самозванец,</p>
+<p>Откуда ни возьмись,</p>
+<p>Такой задал нам танец,</p>
+<p>Что умер царь Борис.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l731"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>37</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>И, на Бориса место</p>
+<p>Взобравшись, сей нахал</p>
+<p>От радости с невестой</p>
+<p>Ногами заболтал.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l732"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>38</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Хоть был он парень бравый</p>
+<p>И даже не дурак,</p>
+<p>Но под его державой</p>
+<p>Стал бунтовать поляк.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l733"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>39</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>А то нам не по сердцу;</p>
+<p>И вот однажды в ночь</p>
+<p>Мы задали им перцу</p>
+<p>И всех прогнали прочь.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l734"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>40</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Взошел на трон Василий,</p>
+<p>Но вскоре всей землей</p>
+<p>Его мы попросили,</p>
+<p>Чтоб он сошел долой.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l735"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>41</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Вернулися поляки,</p>
+<p>Казаков привели;</p>
+<p>Пошел сумбур и драки:</p>
+<p>Поляки и казаки,</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l736"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>42</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Казаки и поляки</p>
+<p>Нас паки бьют и паки;</p>
+<p>Мы ж без царя как раки</p>
+<p>Горюем на мели.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l737"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>43</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Прямые были страсти -</p>
+<p>Порядка ж ни на грош.</p>
+<p>Известно, что без власти</p>
+<p>Далeко не уйдешь.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l738"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>44</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Чтоб трон поправить царский</p>
+<p>И вновь царя избрать,</p>
+<p>Тут Минин и Пожарский</p>
+<p>Скорей собрали рать.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l739"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>45</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>И выгнала их сила</p>
+<p>Поляков снова вон,</p>
+<p>Земля же Михаила</p>
+<p>Взвела на русский трон.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l740"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>46</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Свершилося то летом;</p>
+<p>Но был ли уговор -</p>
+<p>История об этом</p>
+<p>Молчит до этих пор.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l741"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>47</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Варшава нам и Вильна</p>
+<p>Прислали свой привет;</p>
+<p>Земля была обильна -</p>
+<p>Порядка ж нет как нет.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l742"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>48</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Сев Алексей на царство,</p>
+<p>Тогда роди Петра.</p>
+<p>Пришла для государства</p>
+<p>Тут новая пора.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l743"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>49</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Царь Петр любил порядок,</p>
+<p>Почти как царь Иван,</p>
+<p>И так же был не сладок,</p>
+<p>Порой бывал и пьян.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l744"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>50</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Он молвил: "Мне вас жалко,</p>
+<p>Вы сгинете вконец;</p>
+<p>Но у меня есть палка,</p>
+<p>И я вам всем отец!..</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l745"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>51</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Не далее как к святкам</p>
+<p>Я вам порядок дам!"</p>
+<p>И тотчас за порядком</p>
+<p>Уехал в Амстердам.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l746"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>52</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Вернувшися оттуда,</p>
+<p>Он гладко нас обрил,</p>
+<p>А к святкам, так что чудо,</p>
+<p>В голландцев нарядил.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l747"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>53</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Hо это, впрочем, в шутку,</p>
+<p>Петра я не виню:</p>
+<p>Больному дать желудку</p>
+<p>Полезно ревеню.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l748"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>54</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Хотя силeн уж очень</p>
+<p>Был, может быть, прием;</p>
+<p>А все ж довольно прочен</p>
+<p>Порядок стал при нем.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l749"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>55</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Но сон объял могильный</p>
+<p>Петра во цвете лет,</p>
+<p>Глядишь, земля обильна,</p>
+<p>Порядка ж снова нет.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l750"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>56</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Тут кротко или строго</p>
+<p>Царило много лиц,</p>
+<p>Царей не слишком много,</p>
+<p>А более цариц.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l751"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>57</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Бирон царил при Анне;</p>
+<p>Он сущий был жандарм,</p>
+<p>Сидели мы как в ванне</p>
+<p>При нем, da... Gott erbarm!7</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l752"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>58</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Веселая царица</p>
+<p>Была Елисавeт:</p>
+<p>Поет и веселится,</p>
+<p>Порядка только нет.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l753"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>59</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Какая ж тут причина</p>
+<p>И где же корень зла,</p>
+<p>Сама Екатерина</p>
+<p>Постигнуть не могла.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l754"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>60</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>"Madame, при вас на диво</p>
+<p>Порядок расцветет,-</p>
+<p>Писали ей учтиво</p>
+<p>Вольтер и Дидерот,-</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l755"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>61</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Лишь надобно народу,</p>
+<p>Которому вы мать,</p>
+<p>Скорее дать свободу,</p>
+<p>Скорей свободу дать".</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l756"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>62</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>"Messieurs,- им возразила</p>
+<p>Она,- vous me comblez"8,-</p>
+<p>И тотчас прикрепила</p>
+<p>Украинцев к земле.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l757"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>63</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>За ней царить стал Павел,</p>
+<p>Мальтийский кавалер,</p>
+<p>Но не совсем он правил</p>
+<p>На рыцарский манер.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l758"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>64</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Царь Александер Первый</p>
+<p>Настал ему взамен,</p>
+<p>В нем слабы были нервы,</p>
+<p>Но был он джентльмен.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l759"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>65</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Когда на нас в азарте</p>
+<p>Стотысячную рать</p>
+<p>Надвинул Бонапарте,</p>
+<p>Он начал отступать.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l760"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>66</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Казалося, ну, ниже</p>
+<p>Нельзя сидеть в дыре,</p>
+<p>Ан глядь: уж мы в Париже,</p>
+<p>С Louis le Desire.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l761"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>67</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>В то время очень сильно</p>
+<p>Расцвел России цвет,</p>
+<p>Земля была обильна,</p>
+<p>Порядка ж нет как нет.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l762"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>68</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Последнее сказанье</p>
+<p>Я б написал мое,</p>
+<p>Но чаю наказанье,</p>
+<p>Боюсь monsieur Veillot.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l763"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>69</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Ходить бывает склизко</p>
+<p>По камешкам иным,</p>
+<p>Итак, о том, что близко,</p>
+<p>Мы лучше умолчим.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l764"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>70</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Оставим лучше троны,</p>
+<p>К министрам перейдем.</p>
+<p>Но что я слышу? стоны,</p>
+<p>И крики, и содом!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l765"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>71</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Что вижу я! Лишь в сказках</p>
+<p>Мы зрим такой наряд;</p>
+<p>На маленьких салазках</p>
+<p>Министры все катят.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l766"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>72</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>С горы со криком громким</p>
+<p>In corpore9, сполна,</p>
+<p>Скользя, свои к потомкам</p>
+<p>Уносят имена.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l767"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>73</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Се Норов, се Путятин,</p>
+<p>Се Панин, се Метлин,</p>
+<p>Се Брок, а се Замятнин,</p>
+<p>Се Корф, се Головнин.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l768"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>74</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Их много, очень много,</p>
+<p>Припомнить всех нельзя,</p>
+<p>И вниз одной дорогой</p>
+<p>Летят они, скользя.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l769"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>75</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Я грешен: летописный</p>
+<p>Я позабыл свой слог;</p>
+<p>Картине живописной</p>
+<p>Противостать не мог.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l770"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>76</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Лиризм, на все способный,</p>
+<p>Знать, у меня в крови;</p>
+<p>О Нестор преподобный,</p>
+<p>Меня ты вдохнови.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l771"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>77</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Поуспокой мне совесть,</p>
+<p>Мое усердье зря,</p>
+<p>И дай мою мне повесть</p>
+<p>Окончить не хитря.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l772"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>78</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Итак, начавши снова,</p>
+<p>Столбец кончаю свой</p>
+<p>От рождества Христова</p>
+<p>В год шестьдесят восьмой.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l773"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>79</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Увидя, что всe хуже</p>
+<p>Идут у нас дела,</p>
+<p>Зело изрядна мужа</p>
+<p>Господь нам ниcпосла.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l774"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>80</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>На утешенье наше</p>
+<p>Нам, аки свет зари,</p>
+<p>Свой лик яви Тимашев -</p>
+<p>Порядок водвори.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l775"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>81</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Что аз же многогрешный</p>
+<p>На бренных сих листах</p>
+<p>Не дописах поспешно</p>
+<p>Или переписах,</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l776"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>82</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>То, спереди и сзади</p>
+<p>Читая во все дни,</p>
+<p>Исправи правды ради,</p>
+<p>Писанья ж нe кляни.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l777"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>83</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Составил от былинок</p>
+<p>Рассказ немудрый сей</p>
+<p>Худый смирениый инок,</p>
+<p>Раб божий Алексей.</p>
+<empty-line/>
+<p>___________</p>
+<empty-line/>
+<p>1 Ведь это позор - мы должны убраться прочь (нем.).- Ред.</p>
+<p>2 Уйти было бы неприлично, может быть, это не так уж плохо (нем.).- Ред.</p>
+<p>3 Мы справимся, давайте попробуем  (нем.).- Ред.</p>
+<p>4 Это был великий воин (нем.).- Ред.</p>
+<p>5 Такова была последовательность (нем.).- Ред.</p>
+<p>6 Тогда пришел конец старой религии (нем.).-  Ред.</p>
+<p>7 Помилуй бог! (нем.).- Ред.</p>
+<p>8 Господа, вы слишком добры ко мне (франц.).- Ред.</p>
+<p>9 В полном составе (лат.).- Ред.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l778"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>1868</p>
+</title>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l779"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>x x x</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Стасюлевич и Маркевич</p>
+<p>Вместе побранились;</p>
+<p>Стасюлевич и Маркевич</p>
+<p>Оба осрамились.</p>
+<empty-line/>
+<p>"Ты поляк,- гласит Маркевич,-</p>
+<p>В этом я уверен!"</p>
+<p>Отвечает Стасюлевич:</p>
+<p>"Лжешь как сивый мерин!"</p>
+<empty-line/>
+<p>Говорит ему Маркевич:</p>
+<p>"Судишь ты превратно!"</p>
+<p>Отвечает Стасюлевич:</p>
+<p>"То донос печатный!"</p>
+<empty-line/>
+<p>Размышляет Стасюлевич:</p>
+<p>"Классицизм нам кстати ль?"</p>
+<p>Говорит ему Маркевич:</p>
+<p>"Стало, ты предатель!"</p>
+<empty-line/>
+<p>Октябрь (?) 1869</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l780"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>x x x</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Как-то Карп Семенович</p>
+<p>Сорвался с балкона,</p>
+<p>И на нем суконные</p>
+<p>Были панталоны.</p>
+<empty-line/>
+<p>Ах, в остережение</p>
+<p>Дан пример нам оный:</p>
+<p>Братья, без медления</p>
+<p>Снимем панталоны!</p>
+<empty-line/>
+<p>22 декабря 1869</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l781"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>x x x</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Рука Алкида тяжела,</p>
+<p>Ужасны Стимфалидов стаи,</p>
+<p>Смертельна Хирона стрела,</p>
+<p>Широко лоно Пазифаи.</p>
+<empty-line/>
+<p>Из первых Аристогитон</p>
+<p>С Гармодием на перекличке,</p>
+<p>И снисходительно Платон</p>
+<p>Их судит странные привычки.</p>
+<empty-line/>
+<p>Гомера знали средь Афин</p>
+<p>Рабы и самые рабыни,</p>
+<p>И каждый римский гражданин</p>
+<p>Болтал свободно по-латыни.</p>
+<empty-line/>
+<p>22 декабря 1869</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l782"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>МЕДИЦИНСКИЕ СТИХОТВОРЕНИЯ</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>1</p>
+<empty-line/>
+<p>Доктор божией коровке</p>
+<p>Назначает рандеву,</p>
+<p>Штуки столь не видел ловкой</p>
+<p>С той поры, как я живу,</p>
+<p>Ни во сне, ни наяву.</p>
+<p>Веря докторской сноровке,</p>
+<p>Затесалася в траву</p>
+<p>К ночи божия коровка.</p>
+<p>И, припасши булаву,</p>
+<p>Врач пришел на рандеву.</p>
+<p>У скалы крутой подножья</p>
+<p>Притаясь, коровка божья</p>
+<p>Дух не смеет перевесть,</p>
+<p>За свою страшится честь.</p>
+<empty-line/>
+<p>Дщери нашей бабки Евы!</p>
+<p>Так-то делаете все вы!</p>
+<p>Издали: "Mon coeur, mon tout", -(*)</p>
+<p>А пришлось начистоту,</p>
+<p>Вам и стыдно, и неловко;</p>
+<p>Так и божия коровка -</p>
+<p>Подняла внезапно крик:</p>
+<p>"Я мала, а он велик!"</p>
+<p>Но, в любви не зная шутки,</p>
+<p>Врач сказал ей: "Это дудки!</p>
+<p>Мне ведь дело не ново,</p>
+<p>Уж пришел я, так того!"</p>
+<empty-line/>
+<p>Кем наставлена, не знаю,</p>
+<p>К чудотворцу Николаю</p>
+<p>(Как то делалося встарь)</p>
+<p>Обратилась божья тварь.</p>
+<p>Грянул гром. В его компанье</p>
+<p>Разлилось благоуханье -</p>
+<p>И домой, не бегом, вскачь,</p>
+<p>Устрашась, понесся врач,</p>
+<p>Приговаривая: "Ловко!</p>
+<p>Ну уж божия коровка!</p>
+<p>Подстрекнул меня, знать, бес!"</p>
+<p>- Сколько в мире есть чудес!</p>
+<p>___________</p>
+<p>(*) Сердце мое, жизнь моя (франц.).- Ред.</p>
+<empty-line/>
+<p>Октябрь (?) 1868</p>
+<empty-line/>
+<p>2</p>
+<empty-line/>
+<p>Навозный жук, навозный жук,</p>
+<p>Зачем, среди вечерней тени,</p>
+<p>Смущает доктора твой звук?</p>
+<p>Зачем дрожат его колени?</p>
+<empty-line/>
+<p>O врач, скажи, твоя мечта</p>
+<p>Теперь какую слышит повесть?</p>
+<p>Какого ропот живота</p>
+<p>Тебе на ум приводит совесть?</p>
+<empty-line/>
+<p>Лукавый врач, лукавый врач!</p>
+<p>Трепещешь ты не без причины -</p>
+<p>Припомни стон, припомни плач</p>
+<p>Тобой убитой Адольфины!</p>
+<empty-line/>
+<p>Твои уста, твой взгляд, твой нос</p>
+<p>Ее жестоко обманули,</p>
+<p>Когда с улыбкой ты поднес</p>
+<p>Ей каломельные пилюли...</p>
+<empty-line/>
+<p>Свершилось! Памятен мне день -</p>
+<p>Закат пылал на небе грозном -</p>
+<p>С тех пор моя летает тень</p>
+<p>Вокруг тебя жуком навозным...</p>
+<empty-line/>
+<p>Трепещет врач - навозный жук</p>
+<p>Вокруг него, в вечерней тени,</p>
+<p>Чертит круги - а с ним недуг,</p>
+<p>И подгибаются колени...</p>
+<empty-line/>
+<p>Ноябрь (?) 1868</p>
+<empty-line/>
+<p>3</p>
+<empty-line/>
+<p>"Верь мне, доктор (кроме шутки!),-</p>
+<p>Говорил раз пономарь,-</p>
+<p>От яиц крутых в желудке</p>
+<p>Образуется янтарь!"</p>
+<empty-line/>
+<p>Врач, скептического складу,</p>
+<p>Не любил духовных лиц</p>
+<p>И причетнику в досаду</p>
+<p>Проглотил пятьсот яиц.</p>
+<empty-line/>
+<p>Стон и вопли! Все рыдают,</p>
+<p>Пономарь звонит сплеча -</p>
+<p>Это значит: погребают</p>
+<p>Вольнодумного врача.</p>
+<empty-line/>
+<p>Холм насыпан. На рассвете</p>
+<p>Пир окончен в дождь и грязь,</p>
+<p>И причетники мыслете</p>
+<p>Пишут, за руки схватясь.</p>
+<empty-line/>
+<p>"Вот не минули и сутки,-</p>
+<p>Повторяет пономарь,-</p>
+<p>А уж в докторском желудке</p>
+<p>Так и сделался янтарь!"</p>
+<empty-line/>
+<p>Ноябрь (?) 1868</p>
+<empty-line/>
+<p>4</p>
+<p>БЕРЕСТОВАЯ БУДОЧКА</p>
+<empty-line/>
+<p>В берестовой сидя будочке,</p>
+<p>Ногу на ногу скрестив,</p>
+<p>Врач наигрывал на дудочке</p>
+<p>Бессознательный мотив.</p>
+<empty-line/>
+<p>Он мечтал об операциях,</p>
+<p>О бинтах, о ревене,</p>
+<p>О Венере и о грациях...</p>
+<p>Птицы пели в вышине.</p>
+<empty-line/>
+<p>Птицы пели и на тополе,</p>
+<p>Хоть не ведали о чем,</p>
+<p>И внезапно все захлопали,</p>
+<p>Восхищенные врачом.</p>
+<empty-line/>
+<p>Лишь один скворец завистливый</p>
+<p>Им сказал как бы шутя:</p>
+<p>"Что на веточках повисли вы,</p>
+<p>Даром уши распустя?</p>
+<empty-line/>
+<p>Песни есть и мелодичнее,</p>
+<p>Да и дудочка слаба,-</p>
+<p>И врачу была б приличнее</p>
+<p>Оловянная труба!"</p>
+<empty-line/>
+<p>Между 1868 и 1870</p>
+<empty-line/>
+<p>5</p>
+<empty-line/>
+<p>Муха шпанская сидела</p>
+<p>На сиреневом кусте,</p>
+<p>Для таинственного дела</p>
+<p>Доктор крался в темноте.</p>
+<empty-line/>
+<p>Вот присел он у сирени;</p>
+<p>Муха, яд в себе тая,</p>
+<p>Говорит: "Теперь для мщенья</p>
+<p>Время вылучила я!"</p>
+<empty-line/>
+<p>Уязвленный мухой больно,</p>
+<p>Доктор встал, домой спеша,</p>
+<p>И на воздухе невольно</p>
+<p>Выкидает антраша.</p>
+<empty-line/>
+<p>От людей ночные тени</p>
+<p>Скрыли доктора полет,</p>
+<p>И победу на сирени</p>
+<p>Муха шпанская поет.</p>
+<empty-line/>
+<p>Между 1868 и 1870</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l783"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>x x x</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Угораздило кофейник</p>
+<p>С вилкой в роще погулять.</p>
+<p>Набрели на муравейник;</p>
+<p>Вилка ну его пырять!</p>
+<p>Расходилась: я храбра-де!</p>
+<p>Тычет вдоль и поперек.</p>
+<p>Муравьи, спасенья ради,</p>
+<p>Поползли куда кто мог;</p>
+<p>А кофейнику потеха:</p>
+<p>Руки в боки, кверху нос,</p>
+<p>Надседается от смеха:</p>
+<p>"Исполати! Аксиос!</p>
+<p>Веселися, храбрый росс!"</p>
+<p>Тут с него свалилась крышка,</p>
+<p>Муравьев взяла одышка,</p>
+<p>Все отчаялись - и вот -</p>
+<p>Наползли к нему в живот.</p>
+<p>Как тут быть? Оно не шутки:</p>
+<p>Насекомые в желудке!</p>
+<p>Он, схватившись за бока,</p>
+<p>Пляшет с боли трепака.</p>
+<p>Поделом тебе, кофейник!</p>
+<p>Впредь не суйся в муравейник,</p>
+<p>Нe ходи как ротозей,</p>
+<p>Умеряй характер пылкий,</p>
+<p>Избирай своих друзей</p>
+<p>И не связывайся с вилкой!</p>
+<empty-line/>
+<p>Ноябрь (?) 1868</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l784"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>ПОСЛАНИЯ К Ф. М. ТОЛСТОМУ</p>
+</title>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l785"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>1</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Вкусив елей твоих страниц</p>
+<p>И убедившися в их силе,</p>
+<p>Перед тобой паду я ниц,</p>
+<p>О Феофиле, Феофиле!</p>
+<empty-line/>
+<p>Дорогой двойственной ты шел,</p>
+<p>Но ты от Януса отличен;</p>
+<p>Как государственный орел,</p>
+<p>Ты был двуглав, но не двуличен.</p>
+<empty-line/>
+<p>Твоих столь радужных цветов</p>
+<p>Меня обманывала приcма,</p>
+<p>Но ты возрек - и я готов</p>
+<p>Признать тиранство дуалисма;</p>
+<empty-line/>
+<p>Сомкнем же наши мы сердца,</p>
+<p>Прости упрек мой близорукий -</p>
+<p>И будь от буйного стрельца</p>
+<p>Тобой отличен Долгорукий!</p>
+<empty-line/>
+<p>Декабрь 1868</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l786"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>2</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Красный Рог, 14 января 1869</p>
+<empty-line/>
+<p>В твоем письме, о Феофил</p>
+<p>(Мне даже стыдно перед миром),</p>
+<p>Меня, проказник, ты сравнил</p>
+<p>Чуть-чуть не с царственным Шекспиром!</p>
+<empty-line/>
+<p>О Ростислав, такую роль,</p>
+<p>Скажи, навязывать мне кстати ль?</p>
+<p>Поверь, я понимаю соль</p>
+<p>Твоей иронии, предатель!</p>
+<empty-line/>
+<p>Меня насмешливость твоя</p>
+<p>Равняет с Лессингом. Ужели</p>
+<p>Ты думал, что серьезно я</p>
+<p>Поверю этой параллели?</p>
+<empty-line/>
+<p>Ты говоришь, о Феофил,</p>
+<p>Что на немецком диалекте</p>
+<p>"Лаокоона" он хвалил,</p>
+<p>Как я "Феодора" в "Проекте"?</p>
+<empty-line/>
+<p>Увы, не Лессинг я! Зачем,</p>
+<p>Глумясь, равнять пригорок с Этной?</p>
+<p>Я уступаю место всем,</p>
+<p>А паче братии газетной.</p>
+<empty-line/>
+<p>Не мню, что я Лаокоон,</p>
+<p>Во змей упершийся руками,</p>
+<p>Но скромно зрю, что осажден</p>
+<p>Лишь дождевыми червяками!</p>
+<empty-line/>
+<p>Потом - подумать страшно - ах!</p>
+<p>Скажи, на что это похоже?</p>
+<p>Ты рассуждаешь о властях</p>
+<p>Так, что мороз дерет по коже!</p>
+<empty-line/>
+<p>Подумай, ведь письмо твое</p>
+<p>(Чего на свете не бывает!)</p>
+<p>Могло  попасть к m-r Veillot,</p>
+<p>Который многое читает.</p>
+<empty-line/>
+<p>Нет, нет, все это дребедень!</p>
+<p>Язык держать привык я строго</p>
+<p>И повторяю каждый день:</p>
+<p>Нет власти, аще не от бога!</p>
+<empty-line/>
+<p>Не нам понять высоких мер,</p>
+<p>Творцом внушаемых вельможам,</p>
+<p>Мы из истории пример</p>
+<p>На этот случай выбрать можем:</p>
+<empty-line/>
+<p>Перед Шуваловым свой стяг</p>
+<p>Склонял великий Ломоносов -</p>
+<p>Я ж друг властей и вечный враг</p>
+<p>Так называемых вопросов!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l787"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>x x x</p>
+</title>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l788"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>x x x</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Сидит под балдахином</p>
+<p>Китаец Цу-Кин-Цын</p>
+<p>И молвит мандаринам:</p>
+<p>"Я главный мандарин!</p>
+<empty-line/>
+<p>Велел владыко края</p>
+<p>Мне ваш спросить совет:</p>
+<p>Зачем у нас в Китае</p>
+<p>Досель порядка нет?"</p>
+<empty-line/>
+<p>Китайцы все присели,</p>
+<p>Задами потрясли,</p>
+<p>Гласят: "Затем доселе</p>
+<p>Порядка нет в земли,</p>
+<empty-line/>
+<p>Что мы ведь очень млады,</p>
+<p>Нам тысяч пять лишь лет;</p>
+<p>Затем у нас нет складу,</p>
+<p>Затем порядку нет!</p>
+<empty-line/>
+<p>Клянемся разным чаем,</p>
+<p>И желтым и простым,</p>
+<p>Мы много обещаем</p>
+<p>И много совершим!"</p>
+<empty-line/>
+<p>"Мне ваши речи милы,-</p>
+<p>Ответил Цу-Кин-Цын,-</p>
+<p>Я убеждаюсь силой</p>
+<p>Столь явственных причин.</p>
+<empty-line/>
+<p>Подумаешь: пять тысяч,</p>
+<p>Пять тысяч только лет!"</p>
+<p>И приказал он высечь</p>
+<p>Немедля весь совет.</p>
+<empty-line/>
+<p>Апрель (?) 1869</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l789"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>ПЕСНЯ О КАТКОВЕ,</p>
+</title>
+<empty-line/>
+<p>О ЧЕРКАССКОМ, О САМАРИНЕ,</p>
+<p>О МАРКЕВИЧЕ И О АРАПАХ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l790"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>1</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Друзья, ура единство!</p>
+<p>Сплотим святую Русь!</p>
+<p>Различий, как бесчинства,</p>
+<p>Народных я боюсь.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l791"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>2</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Катков сказал, что, дискать,</p>
+<p>Терпеть их - это грех!</p>
+<p>Их надо тискать, тискать</p>
+<p>В московский облик всех!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l792"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>3</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Ядро у нас - славяне;</p>
+<p>Но есть и вотяки,</p>
+<p>Башкирцы, и армяне,</p>
+<p>И даже калмыки;</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l793"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>4</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Есть также и грузины</p>
+<p>(Конвоя цвет и честь!),</p>
+<p>И латыши, и финны,</p>
+<p>И шведы также есть;</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l794"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>5</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Недавно и ташкентцы</p>
+<p>Живут у нас в плену;</p>
+<p>Признаться ль? Есть и немцы</p>
+<p>Но это: entre nous!(*)</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l795"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>6</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Страшась с Катковым драки,</p>
+<p>Я на ухо шепну:</p>
+<p>У нас есть и поляки,</p>
+<p>Но также: entre nous;</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l796"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>7</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>И многими иными</p>
+<p>Обилен наш запас;</p>
+<p>Как жаль, что между ними</p>
+<p>Арапов нет у нас!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l797"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>8</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Тогда бы князь Черкасской,</p>
+<p>Усердием велик,</p>
+<p>Им мазал белой краской</p>
+<p>Их неуказный лик;</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l798"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>9</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>С усердьем столь же смелым,</p>
+<p>И с помощью воды,</p>
+<p>Самарин тер бы мелом</p>
+<p>Их черные зады;</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l799"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>10</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Катков, наш герцог Алба,</p>
+<p>Им удлинял бы нос,</p>
+<p>Маркeвич восклицал бы:</p>
+<p>"Осанна! Аксиос!"</p>
+<empty-line/>
+<p>_______</p>
+<p>(*) Между нами! (франц.).- Ред.</p>
+<empty-line/>
+<p>Апрель или май 1869</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l800"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>МУДРОСТЬ ЖИЗНИ</p>
+</title>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l801"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>1</p>
+</title>
+<empty-line/>
+<p>Если хочешь быть майором,</p>
+<p>То в сенате не служи,</p>
+<p>Если ж служишь, то по шпорам</p>
+<p>Не вздыхай и не тужи.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l802"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>2</p>
+</title>
+<empty-line/>
+<p>Будь доволен долей малой,</p>
+<p>Тщись расходов избегать,</p>
+<p>Руки мой себе, пожалуй,</p>
+<p>Мыла ж на ноги не трать.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l803"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>3</p>
+</title>
+<empty-line/>
+<p>Будь настойчив в правом споре,</p>
+<p>В пустяках уступчив будь,</p>
+<p>Жилься докрасна в запоре,</p>
+<p>А поноса вспять не нудь.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l804"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>4</p>
+</title>
+<empty-line/>
+<p>Замарав штаны малиной</p>
+<p>Иль продрав их назади,</p>
+<p>Их сымать не смей в гостиной,</p>
+<p>Но в боскетную поди.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l805"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>5</p>
+</title>
+<empty-line/>
+<p>Если кто невольным звуком</p>
+<p>Огласит твой кабинет,</p>
+<p>Ты не вскакивай со стуком,</p>
+<p>Восклицая: "Много лет!"</p>
+<empty-line/>
+<p>б</p>
+<p>Будь всегда душой обеда,</p>
+<p>Не брани чужие щи</p>
+<p>И из уха у соседа</p>
+<p>Дерзко ваты не тащи.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l806"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>7</p>
+</title>
+<empty-line/>
+<p>Восхищаяся соседкой,</p>
+<p>По груди ее не гладь</p>
+<p>И не смей ее салфеткой</p>
+<p>Потный лоб свой обтирать.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l807"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>8</p>
+</title>
+<empty-line/>
+<p>От стола коль отлучиться</p>
+<p>Повелит тебе нужда,</p>
+<p>Тем пред дамами хвалиться</p>
+<p>Ты не должен никогда.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l808"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>9</p>
+</title>
+<empty-line/>
+<p>Коль сосед болит утробой,</p>
+<p>Ты его не осуждай,</p>
+<p>Но болящему без злобы</p>
+<p>Корша ведомость подай.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l809"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>10</p>
+</title>
+<empty-line/>
+<p>Изучай родню начальства,</p>
+<p>Забавлять ее ходи,</p>
+<p>Но игривость до нахальства</p>
+<p>Никогда не доводи:</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l810"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>11</p>
+</title>
+<empty-line/>
+<p>Не проси у тещи тряпки</p>
+<p>Для обтирки сапогов</p>
+<p>И не спрашивай у бабки,</p>
+<p>Много ль есть у ней зубов?</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l811"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>12</p>
+</title>
+<empty-line/>
+<p>Помни теток именины,</p>
+<p>Чти в кузинах благодать</p>
+<p>И не вздумай без причины</p>
+<p>Их под мышки щекотать.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l812"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>13</p>
+</title>
+<empty-line/>
+<p>Будь с невестками попроще,</p>
+<p>Но приличия блюди</p>
+<p>И червей, гуляя в роще,</p>
+<p>Им за шею не клади.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l813"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>14</p>
+</title>
+<empty-line/>
+<p>Не зови за куст умильно</p>
+<p>Дочерей на пару слов</p>
+<p>И с племянницы насильно</p>
+<p>Не тащи ее чулков.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l814"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>15</p>
+</title>
+<empty-line/>
+<p>На тебя коль смотрят люди,</p>
+<p>Не кричи: "Катай-валяй!"</p>
+<p>И кормилицыной груди</p>
+<p>У дити не отбивай.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l815"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>16</p>
+</title>
+<empty-line/>
+<p>Всем девицам будь отрада,</p>
+<p>Рви в саду для них плоды,</p>
+<p>Не показывай им зада</p>
+<p>Без особенной нужды.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l816"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>17</p>
+</title>
+<empty-line/>
+<p>Проводя в деревне лето,</p>
+<p>Их своди на скотный двoр:</p>
+<p>Помогает много это</p>
+<p>Расширять их кругозор;</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l817"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>18</p>
+</title>
+<empty-line/>
+<p>Но, желаньем подстрекаем</p>
+<p>Их сюрпризом удивить,</p>
+<p>Не давай, подлец, быка им</p>
+<p>В виде опыта доить.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l818"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>19</p>
+</title>
+<empty-line/>
+<p>Также было б очень гадко</p>
+<p>Перст в кулак себе совать</p>
+<p>Под предлогом, что загадка</p>
+<p>Им дается отгадать.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l819"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>20</p>
+</title>
+<empty-line/>
+<p>Вообще знай в шутках меру,</p>
+<p>Сохраняй достойный вид,</p>
+<p>Как прилично офицеру</p>
+<p>И как служба нам велит.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l820"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>21</p>
+</title>
+<empty-line/>
+<p>Если мать иль дочь какая</p>
+<p>У начальника умрет,</p>
+<p>Расскажи ему, вздыхая,</p>
+<p>Подходящий анекдот;</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l821"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>22</p>
+</title>
+<empty-line/>
+<p>Но смотри, чтоб ловко было,</p>
+<p>Не рассказывай, грубя:</p>
+<p>Например, что вот кобыла</p>
+<p>Также пала у тебя;</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l822"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>23</p>
+</title>
+<empty-line/>
+<p>Или там, что без потерей</p>
+<p>Мы на свете не живем</p>
+<p>И что надо быть тетерей,</p>
+<p>Чтоб печалиться о том;</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l823"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>24</p>
+</title>
+<empty-line/>
+<p>Потому что, если пылок</p>
+<p>Твой начальник и сердит,</p>
+<p>Проводить тебя в затылок</p>
+<p>Он курьеру повелит.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l824"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>25</p>
+</title>
+<empty-line/>
+<p>Предаваясь чувствам нежным,</p>
+<p>Бисер свиньям не мечи -</p>
+<p>Вслед за пахарем прилежным</p>
+<p>Ходят жадные грачи.</p>
+<empty-line/>
+<p>Вторая половина 1870</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l825"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>ОДА НА ПОИМКУ ТАИРОВА</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Царицын луг. Солнце светит во всем своем</p>
+<p>блеске. Хор дворян, купечества, мещан и</p>
+<p>почетных граждан.</p>
+<empty-line/>
+<p>Х о р</p>
+<p>Таирова поймали!</p>
+<p>Отечество, ликуй!</p>
+<p>Конец твоей печали -</p>
+<p>Ему отрежут нос!</p>
+<empty-line/>
+<p>О д и н  д в о р я н и Н</p>
+<p>Близ лавок и трактиров,</p>
+<p>Скрываясь там и сям,</p>
+<p>Не раз злодей Таиров</p>
+<p>Пугал собою дам.</p>
+<empty-line/>
+<p>О д и н  к у п е ц  1-й</p>
+<p>г и л ь д и и</p>
+<p>С осанкой благородной,</p>
+<p>Бродя средь наших стен,</p>
+<p>Таиров..........</p>
+<p>Показывал нам....!</p>
+<empty-line/>
+<p>Х о р</p>
+<p>Таирова поймали!</p>
+<p>Отечество, ликуй!</p>
+<p>Конец твоей печали -</p>
+<p>Ему отрежут нос!</p>
+<empty-line/>
+<p>К у п е ц  2-й г и л ь д и и</p>
+<p>"Друзья мои,- к совету,</p>
+<p>Вздохнув, Кокошкин рек,-</p>
+<p>Здесь бегает по свету</p>
+<p>Какой-то человек.</p>
+<empty-line/>
+<p>Забыл он, видно, веру,</p>
+<p>Забыл, бездельник, стыд,</p>
+<p>Начальство для примеру</p>
+<p>Поймать его велит -</p>
+<empty-line/>
+<p>Не то, друзья,- на плаху</p>
+<p>Нам всем назначен путь -</p>
+<p>Нельзя ли хоть для страху</p>
+<p>Поймать кого-нибудь?"</p>
+<empty-line/>
+<p>И вот велит он тайно</p>
+<p>Подсматривать везде,</p>
+<p>Не узрят ли случайно</p>
+<p>Хоть чьи-либо ....</p>
+<empty-line/>
+<p>Напрасно! Бич злодеев,</p>
+<p>Неукротим, как рок,</p>
+<p>Полковник Трубачеев</p>
+<p>Увидеть их не мог.</p>
+<empty-line/>
+<p>Близ лавок и трактиров,</p>
+<p>Скрываясь там и сям,</p>
+<p>По-прежнему Таиров</p>
+<p>Пугал собою дам.</p>
+<empty-line/>
+<p>Мы все были готовы</p>
+<p>Бежать куда кто знал...</p>
+<empty-line/>
+<p>К в а р т а л ь н ы й  2-й</p>
+<p>а д м и н и с т р а т и в н о й  ч а с т и</p>
+<p>(перебивает купца 2-й гильдии)</p>
+<empty-line/>
+<p>Потише! Что вы? Что вы?</p>
+<p>Услышит генерал!</p>
+<empty-line/>
+<p>Х о р</p>
+<p>(перебивает квартального 2-й административной части)</p>
+<p>Таирова поймали!</p>
+<p>Отечество, ликуй!</p>
+<p>Конец твоей печали -</p>
+<p>Ему отрежут нос!</p>
+<empty-line/>
+<p>К у п е ц  3-й  г и л ь д и и</p>
+<p>(продолжает рассказ купца 2-й гильдии)</p>
+<p>Близ лавок и трактиров,</p>
+<p>Скрываясь там и сям,</p>
+<p>По-прежнему Таиров</p>
+<p>Пугал собою дам.</p>
+<empty-line/>
+<p>Однажды шел он важно</p>
+<p>Вблизи Пяти углов,</p>
+<p>Его узрел отважный</p>
+<p>Сенатор Муравьев.</p>
+<empty-line/>
+<p>Узрел лишь и мгновенно</p>
+<p>В полицью дал он знать:</p>
+<p>Таиров дерзновенный</p>
+<p>Явился-де опять.</p>
+<empty-line/>
+<p>Покинув тотчас съезжу,</p>
+<p>Бегут они туда...</p>
+<empty-line/>
+<p>К в а р т а л ь н ы й  2-й</p>
+<p>а д м и н и с т р а т и в н о й  ч а с т и</p>
+<p>(перебивает купца 3-й гильдии)</p>
+<p>Вот я тебя уж съезжу,</p>
+<p>Послушай, борода!</p>
+<empty-line/>
+<p>Х о р</p>
+<p>(перебивает квартального 2-й административной части)</p>
+<p>Таирова поймали!</p>
+<p>Отечество, ликуй!</p>
+<p>Конец твоей печали -</p>
+<p>Ему отрежут нос!</p>
+<empty-line/>
+<p>О д и н  м е щ а н и н</p>
+<p>(продолжает рассказ купца 3-й гильдии)</p>
+<p>И тише сколь возможно,</p>
+<p>Лишь кашляя слегка,</p>
+<p>Подходят осторожно</p>
+<p>Они издалека.</p>
+<empty-line/>
+<p>"Скажите, вы ль тот дерзкий,-</p>
+<p>Все вместе вопиют,-</p>
+<p>Который дамам мерзкий</p>
+<p>Показывает...?"</p>
+<empty-line/>
+<p>"Одержим я истомой,-</p>
+<p>Таиров им в ответ,-</p>
+<p>И ... хоть налицо мой,</p>
+<p>Но всe равно что нет!</p>
+<empty-line/>
+<p>Да знает ваша шайка,</p>
+<p>Что в нем едва вершок,</p>
+<p>А сверх него фуфайка</p>
+<p>И носовой платок!</p>
+<empty-line/>
+<p>Его без телескопа</p>
+<p>Не узрят никогда,</p>
+<p>Затем что он не...</p>
+<p>Прощайте, господа!"</p>
+<empty-line/>
+<p>О д и н  д в о р я н и н</p>
+<p>(обращаясь к мещанину)</p>
+<p>Уловка помогла ли?</p>
+<empty-line/>
+<p>О д и н  к у п е ц</p>
+<p>(обращаясь к дворянину)</p>
+<p>Не думаю, навряд!</p>
+<p>Один  мещанин</p>
+<p>(обращаясь к почетному гражданину)</p>
+<p>Уловка-то? Едва ли!</p>
+<empty-line/>
+<p>О д и н  г р а ж д а н и н</p>
+<p>(обращаясь сам к себе)</p>
+<p>Хитер ведь, супостат!</p>
+<empty-line/>
+<p>Х о р  п о ч е т н ы х  г р а ж д а н</p>
+<p>Таирова поймали,</p>
+<p>Таирова казнят!</p>
+<empty-line/>
+<p>Х о р  к у п ц о в</p>
+<p>Прошли наши печали,</p>
+<p>Пойдемте в Летний сад!</p>
+<empty-line/>
+<p>O б щ и й  х о р</p>
+<p>Таирова поймали!</p>
+<p>Отечество, ликуй!</p>
+<p>Конец твоей печали -</p>
+<p>Ему отрежут нос!</p>
+<empty-line/>
+<p>1871 (?)</p>
+<empty-line/>
+<empty-line/>
+<p>[А. Н. МАЛЬЦЕВОЙ]</p>
+<empty-line/>
+<p>Пью ль мадеру, пью ли квас я,</p>
+<p>Пью ли сливки я коровьи,</p>
+<p>За твое всегда, Настасья,</p>
+<p>Выпиваю я здоровье.</p>
+<empty-line/>
+<p>Ныне "Тигра" пассажиры</p>
+<p>Мне вручили полномочье,</p>
+<p>Чтобы пил при звоне лиры</p>
+<p>За твою младую дочь я.</p>
+<empty-line/>
+<p>Лиры нет у капитана,</p>
+<p>Лишь бутылки да графины,</p>
+<p>И при шуме урагана,</p>
+<p>И при грохоте машины</p>
+<p>Пью из этого стакана</p>
+<p>За обеих именины!</p>
+<empty-line/>
+<p>29 октября 1869</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l826"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>x x x</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Все забыл я, все простил,</p>
+<p>Все меня чарует,</p>
+<p>И приказчик стал мне мил,</p>
+<p>Что доход ворует,</p>
+<empty-line/>
+<p>И бредущий ревизор</p>
+<p>Там через плотину,</p>
+<p>И свинья, что о забор</p>
+<p>С хрюком чешет спину,</p>
+<empty-line/>
+<p>Сердце так полно мое,</p>
+<p>Так я стал незлобен,</p>
+<p>Что и самого Вельо</p>
+<p>Я 6 обнять способен!</p>
+<empty-line/>
+<p>14 мая 1871</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l827"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>x x x</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Я готов румянцем девичьим</p>
+<p>Оттого покрыться,</p>
+<p>Что Маркeвич с Стасюлевичем</p>
+<p>Долго так бранится.</p>
+<empty-line/>
+<p>Что б ему на Стасюлевича</p>
+<p>Hе грозиться палкой?</p>
+<p>Стасюлевичу б Маркeвича</p>
+<p>Подарить фиалкой?</p>
+<empty-line/>
+<p>14 мая 1871</p>
+<empty-line/>
+<empty-line/>
+<p>[М. Н. ЛОНГИНОВУ]</p>
+<empty-line/>
+<p>Слава богу, я здоров,</p>
+<p>Но ведь может же случиться,</p>
+<p>Что к обители отцов</p>
+<p>Mне придется отлучиться.</p>
+<empty-line/>
+<p>Если выйдет казус сей,</p>
+<p>Что сведет мне поясницу,</p>
+<p>Ты, прошу, жене моей</p>
+<p>Выдай паспорт за границу.</p>
+<empty-line/>
+<p>Ты ей в том не откажи,</p>
+<p>Ибо это будет верно,</p>
+<p>Что стою я близ межи,</p>
+<p>Преступить ее же скверно.</p>
+<empty-line/>
+<p>3 июля 1871</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l828"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>ОТРЫВОК</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>(РЕЧЬ ИДЕТ О БАРОНЕ ВЕЛЬО)</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l829"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>1</p>
+</title>
+<empty-line/>
+<p>Разных лент схватил он радугу,</p>
+<p>Дело ж почты - дело дрянь:</p>
+<p>Адресованные в Ладогу,</p>
+<p>Письма едут в Еривань.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l830"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>2</p>
+</title>
+<empty-line/>
+<p>Телеграммы заблуждаются</p>
+<p>По неведомым путям,</p>
+<p>Иль совсем не получаются,</p>
+<p>Иль со вздором пополам.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l831"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>3</p>
+</title>
+<empty-line/>
+<p>Пишет к другу друг встревоженный:</p>
+<p>"Твоего взял сына тиф!"</p>
+<p>Тот читает, что таможенный</p>
+<p>Изменяется тариф.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l832"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>4</p>
+</title>
+<empty-line/>
+<p>Пишет в Рыльск Петров к Сазонову:</p>
+<p>"Наши цены поднялись" -</p>
+<p>Телеграмма ж к Артамонову</p>
+<p>Так и катится в Тифлис.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l833"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>5</p>
+</title>
+<empty-line/>
+<p>Много вышло злополучия</p>
+<p>Через это и вреда;</p>
+<p>Одного такого случая</p>
+<p>Не забуду никогда:</p>
+<empty-line/>
+<p>б</p>
+<p>Телеграфною депешею</p>
+<p>Городничий извещен,</p>
+<p>Что "идет колонной пешею</p>
+<p>На него Hаполеон".</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l834"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>7</p>
+</title>
+<empty-line/>
+<p>Город весь пришел в волнение,</p>
+<p>Всполошился мал и стар;</p>
+<p>Запирается правление,</p>
+<p>Разбегается базар.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l835"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>8</p>
+</title>
+<empty-line/>
+<p>Пошептавшись, Фекла с Домною</p>
+<p>Испекли по пирогу</p>
+<p>И за дверию огромною</p>
+<p>Припасают кочергу.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l836"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>9</p>
+</title>
+<empty-line/>
+<p>Сам помощник городничего</p>
+<p>В них поддерживает дух</p>
+<p>И к заставе с рынка птичьего</p>
+<p>Инвалидов ставит двух.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l837"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>10</p>
+</title>
+<empty-line/>
+<p>Вся семья купцов Ворониных</p>
+<p>Заболела наповал,</p>
+<p>Поп о древних вавилонянах</p>
+<p>В церкве проповедь сказал.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l838"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>11</p>
+</title>
+<empty-line/>
+<p>Городничиха сбирается</p>
+<p>Уж на жертву, как Юдифь,</p>
+<p>Косметиком натирается,</p>
+<p>Городничий еле жив.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l839"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>12</p>
+</title>
+<empty-line/>
+<p>Недоступна чувству узкому,</p>
+<p>Дочь их рядится сама;</p>
+<p>Говорит: "К вождю французскому</p>
+<p>Я хочу идти с мама!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l840"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>13</p>
+</title>
+<empty-line/>
+<p>Вместе в жертву, чай, с охотою</p>
+<p>Примет нас Наполеон;</p>
+<p>Ах, зачем пришел с пехотою,</p>
+<p>А не с конницею он!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l841"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>14</p>
+</title>
+<empty-line/>
+<p>И в заставу, бредя кровию,</p>
+<p>Мать и дочь идут пешком,</p>
+<p>Тащут старую Прасковию</p>
+<p>За собой с пустым мешком.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l842"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>15</p>
+</title>
+<empty-line/>
+<p>До зари за огородами</p>
+<p>Вместе бродят дочь и мать,</p>
+<p>Но грядущего с народами</p>
+<p>Бонапарта не видать.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l843"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>16</p>
+</title>
+<empty-line/>
+<p>Неудачею печалимы,</p>
+<p>Приплелись они домой:</p>
+<p>"Ни вождя не отыскали мы,</p>
+<p>Ни колонны никакой!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l844"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>17</p>
+</title>
+<empty-line/>
+<p>Видно, все, и с квартирьерами,</p>
+<p>Провалились на мосту,</p>
+<p>Что построен инженерами</p>
+<p>О великом о посту!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l845"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>18</p>
+</title>
+<empty-line/>
+<p>Городничий удивляется:</p>
+<p>"Что же видели вы там?"</p>
+<p>"Только видели: валяется</p>
+<p>У заставы всякий хлам,</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l846"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>19</p>
+</title>
+<empty-line/>
+<p>Да дорогой с поросятами</p>
+<p>Шла Аверкина свинья;</p>
+<p>Мы ее толкнули пятами</p>
+<p>Мимоходом, дочь и я;</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l847"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>20</p>
+</title>
+<empty-line/>
+<p>Да дьячок отца Виталия</p>
+<p>С нами встретился, пострел,</p>
+<p>Но и он-то нас, каналия,</p>
+<p>Обесчестить не хотел!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l848"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>21</p>
+</title>
+<empty-line/>
+<p>Городничий обижается:</p>
+<p>"Вишь, мошенник, грубиян!</p>
+<p>Пусть же мне не попадается</p>
+<p>В первый раз, как будет пьян!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l849"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>22</p>
+</title>
+<empty-line/>
+<p>Но, однако же, вы видели</p>
+<p>Аванпост или пикет?"</p>
+<p>"Ах, папаша, нас обидели,</p>
+<p>И пикета даже нет!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l850"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>23</p>
+</title>
+<empty-line/>
+<p>Городничий изумляется,</p>
+<p>Сам в уезд летит стремглав</p>
+<p>И в Конторе там справляется,</p>
+<p>Что сдано на телеграф?</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l851"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>24</p>
+</title>
+<empty-line/>
+<p>Суть депеши скоро сыскана,</p>
+<p>Просто значилося в ней:</p>
+<p>"Под чиновника Распрыскина</p>
+<p>Выдать тройку лошадей".</p>
+<empty-line/>
+<p>Сентябрь (?) 1871</p>
+<empty-line/>
+<empty-line/>
+<p>[Б. М. МАРКЕВИЧУ]</p>
+<empty-line/>
+<p>В награду дружеских усилий,</p>
+<p>Вам проложивших новый путь,</p>
+<p>С сим посылается Василий</p>
+<p>Помочь вам в Брянске чем-нибудь.</p>
+<empty-line/>
+<p>Коляска ждет на полдороги</p>
+<p>Питомца ветреного муз -</p>
+<p>Да покровительствуют боги</p>
+<p>Ее давно желанный груз!</p>
+<empty-line/>
+<p>Наперсник легкой Терпсихоры</p>
+<p>Да скачет цел и невредим,</p>
+<p>Да не подломятся рессоры</p>
+<p>Близ грязных Выгоничь под ним!</p>
+<empty-line/>
+<p>Его румяные ланиты</p>
+<p>И дорогие седины</p>
+<p>Да увенчают и хариты,</p>
+<p>И Рога Красного сыны!</p>
+<empty-line/>
+<p>28 июня 1872</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l852"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>ПОСЛАНИЕ К М. Н. ЛОНГИНОВУ</p>
+</title>
+<empty-line/>
+<p>О ДАРВИНИСМЕ</p>
+<empty-line/>
+<p>Я враг всех так называемых вопросов.</p>
+<empty-line/>
+<p>Один из членов</p>
+<p>Государственного совета,</p>
+<empty-line/>
+<p>Ecли у тебя есть фонтан, заткни его.</p>
+<p>Кузьма Прутков.</p>
+<p>1</p>
+<p>Правда ль это, что я слышу?</p>
+<p>Молвят овамо и семо:</p>
+<p>Огорчает очень Мишу</p>
+<p>Будто Дарвина система?</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l853"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>2</p>
+</title>
+<empty-line/>
+<p>Полно, Миша! Ты не сетуй!</p>
+<p>Без хвоста твоя ведь ....,</p>
+<p>Так тебе обиды нету</p>
+<p>В том, что было до потопа.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l854"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>3</p>
+</title>
+<empty-line/>
+<p>Всход наук не в нашей власти,</p>
+<p>Мы их зерна только сеем;</p>
+<p>И Коперник ведь отчасти</p>
+<p>Разошелся с Моисеем.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l855"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>4</p>
+</title>
+<empty-line/>
+<p>Ты ж, еврейское преданье</p>
+<p>С видом нянюшки лелея,</p>
+<p>Ты б уж должен в заседанье</p>
+<p>Запретить и Галилея.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l856"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>5</p>
+</title>
+<empty-line/>
+<p>Если ж ты допустишь здраво,</p>
+<p>Что вольны в науке мненья -</p>
+<p>Твой контроль с какого права?</p>
+<p>Был ли ты при сотворенье?</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l857"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>6</p>
+</title>
+<empty-line/>
+<p>Отчего б не понемногу</p>
+<p>Введены во бытиe мы?</p>
+<p>Иль не хочешь ли уж богу</p>
+<p>Ты предписывать приемы?</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l858"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>7</p>
+</title>
+<empty-line/>
+<p>Способ, как творил создатель,</p>
+<p>Что считал он боле кстати -</p>
+<p>Знать не может председатель</p>
+<p>Комитета о печати.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l859"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>8</p>
+</title>
+<empty-line/>
+<p>Ограничивать так смело</p>
+<p>Всесторонность божьей власти -</p>
+<p>Ведь такое, Миша, дело</p>
+<p>Пахнет ересью отчасти!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l860"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>9</p>
+</title>
+<empty-line/>
+<p>Ведь подобные примеры</p>
+<p>Подавать - неосторожно,</p>
+<p>И тебя за скудость веры</p>
+<p>В Соловки сослать бы можно!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l861"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>10</p>
+</title>
+<empty-line/>
+<p>Да и в прошлом нет причины</p>
+<p>Нам искать большого ранга,</p>
+<p>И, по мне, шматина глины</p>
+<p>Не знатней орангутанга.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l862"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>11</p>
+</title>
+<empty-line/>
+<p>Но на миг положим даже:</p>
+<p>Дарвин глупость порет просто -</p>
+<p>Ведь твое гоненье гаже</p>
+<p>Всяких глупостей раз во сто!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l863"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>12</p>
+</title>
+<empty-line/>
+<p>Нигилистов, что ли, знамя</p>
+<p>Видишь ты в его системе?</p>
+<p>Но святая сила с нами!</p>
+<p>Что меж Дарвином и теми?</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l864"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>13</p>
+</title>
+<empty-line/>
+<p>От скотов нас Дарвин хочет</p>
+<p>До людской возвесть средины -</p>
+<p>Нигилисты же хлопочут,</p>
+<p>Чтоб мы сделались скотины.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l865"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>14</p>
+</title>
+<empty-line/>
+<p>В них не знамя, а прямое</p>
+<p>Подтвержденье дарвинисма,</p>
+<p>И сквозят в их диком строе</p>
+<p>Все симптомы атависма:</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l866"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>15</p>
+</title>
+<empty-line/>
+<p>Грязны, неучи, бесстыдны,</p>
+<p>Самомнительны и едки,</p>
+<p>Эти люди очевидно</p>
+<p>Норовят в свои же предки.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l867"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>16</p>
+</title>
+<empty-line/>
+<p>А что в Дарвина идеи</p>
+<p>Оба пола разубраны -</p>
+<p>Это бармы архирея</p>
+<p>Вздели те же обезьяны.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l868"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>17</p>
+</title>
+<empty-line/>
+<p>Чем же Дарвин тут виновен?</p>
+<p>Верь мне: гнев в себе утиша,</p>
+<p>Из-за взбалмошных поповен</p>
+<p>Не гони его ты, Миша!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l869"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>18</p>
+</title>
+<empty-line/>
+<p>И еще тебе одно я</p>
+<p>Здесь прибавлю, многочтимый:</p>
+<p>Не китайскою стеною</p>
+<p>От людей отделены мы;</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l870"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>19</p>
+</title>
+<empty-line/>
+<p>С Ломоносовым наука</p>
+<p>Положив у нас зачаток,</p>
+<p>Проникает к нам без стука</p>
+<p>Мимо всех твоих рогаток,</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l871"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>20</p>
+</title>
+<empty-line/>
+<p>Льет на мир потоки света</p>
+<p>И, следя, как в тьме лазурной</p>
+<p>Ходят божии планеты</p>
+<p>Без инструкции ценсурной,</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l872"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>21</p>
+</title>
+<empty-line/>
+<p>Кажет нам, как та же сила,</p>
+<p>Все в иную плоть одета,</p>
+<p>В область разума вступила,</p>
+<p>Не спросясь у Комитета.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l873"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>22</p>
+</title>
+<empty-line/>
+<p>Брось же, Миша, устрашенья,</p>
+<p>У науки нрав не робкий,</p>
+<p>Не заткнешь ее теченья</p>
+<p>Ты своей дрянною пробкой!</p>
+<empty-line/>
+<p>Конец 1872</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l874"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>x x x</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Боюсь людей передовых,</p>
+<p>Страшуся милых нигилистов;</p>
+<p>Их суд правдив, их натиск лих,</p>
+<p>Их гнев губительно неистов;</p>
+<empty-line/>
+<p>Но вместе с тем бывает мне</p>
+<p>Приятно, в званье ретрoграда,</p>
+<p>Когда хлестнет их по спине</p>
+<p>Моя былина иль баллада.</p>
+<empty-line/>
+<p>С каким достоинством глядят</p>
+<p>Они, подпрыгнувши невольно,</p>
+<p>И, потираясь, говорят:</p>
+<p>Нисколько не было нам больно!</p>
+<empty-line/>
+<p>Так в хату впершийся индюк,</p>
+<p>Метлой пугнутый неучтивой,</p>
+<p>Распустит хвост, чтоб скрыть испуг,</p>
+<p>И забулдыкает спесиво.</p>
+<empty-line/>
+<p>Начало 1873</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l875"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>СОН ПОПОВА</p>
+</title>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l876"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>1</p>
+</title>
+<empty-line/>
+<p>Приснился раз, бог весть с какой причины,</p>
+<p>Советнику Попову странный сон:</p>
+<p>Поздравить он министра в именины</p>
+<p>В приемный зал вошел без панталон;</p>
+<p>Но, впрочем, не забыто ни единой</p>
+<p>Регалии; отлично выбрит он;</p>
+<p>Темляк на шпаге; всe по циркуляру -</p>
+<p>Лишь панталон забыл надеть он пару.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l877"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>2</p>
+</title>
+<empty-line/>
+<p>И надо же случиться на беду,</p>
+<p>Что он тогда лишь свой заметил промах,</p>
+<p>Как уж вошел. "Ну,- думает,- уйду!"</p>
+<p>Не тут-то было! Уж давно в хоромах</p>
+<p>Народу тьма; стоит он на виду,</p>
+<p>В почетном месте; множество знакомых</p>
+<p>Его увидеть могут на пути -</p>
+<p>"Нет,- он решил,- нет, мне нельзя уйти!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l878"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>3</p>
+</title>
+<empty-line/>
+<p>А вот я лучше что-нибудь придвину</p>
+<p>И скрою тем досадный мой изъян;</p>
+<p>Пусть верхнюю лишь видят половину,</p>
+<p>За нижнюю ж ответит мне Иван!"</p>
+<p>И вот бочком прокрался он к камину</p>
+<p>И спрятался по пояс за экран.</p>
+<p>"Эх,- думает,- недурно ведь, канальство!</p>
+<p>Теперь пусть входит высшее начальство!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l879"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>4</p>
+</title>
+<empty-line/>
+<p>Меж тем тесней все становился круг</p>
+<p>Особ чиновных, чающих карьеры;</p>
+<p>Невнятный в зале раздавался звук,</p>
+<p>И все принять свои старались меры,</p>
+<p>Чтоб сразу быть замеченными. Вдруг</p>
+<p>В себя втянули животы курьеры,</p>
+<p>И экзекутор рысью через зал,</p>
+<p>Придерживая шпагу, пробежал.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l880"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>5</p>
+</title>
+<empty-line/>
+<p>Вошел министр. Он видный был мужчина,</p>
+<p>Изящных форм, с приветливым лицом,</p>
+<p>Одет в визитку: своего, мол, чина</p>
+<p>Не ставлю я пред публикой ребром.</p>
+<p>Внушается гражданством дисциплина,</p>
+<p>А не мундиром, шитым серебром.</p>
+<p>Все зло у нас от глупых форм избытка,</p>
+<p>Я ж века сын - так вот на мне визитка!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l881"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>6</p>
+</title>
+<empty-line/>
+<p>Не ускользнул сей либеральный взгляд</p>
+<p>И в самом сне от зоркости Попова.</p>
+<p>Хватается, кто тонет, говорят,</p>
+<p>За паутинку и за куст терновый.</p>
+<p>"А что,- подумал он,- коль мой наряд</p>
+<p>Понравится? Ведь есть же, право слово,</p>
+<p>Свободное, простое что-то в нем!</p>
+<p>Кто знает? Что ж? Быть может! Подождем!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l882"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>7</p>
+</title>
+<empty-line/>
+<p>Министр меж тем стан изгибал приятно:</p>
+<p>"Всех, господа, всех вас благодарю!</p>
+<p>Прошу и впредь служить так аккуратно</p>
+<p>Отечеству, престолу, алтарю!</p>
+<p>Ведь мысль моя, надеюсь, вам понятна?</p>
+<p>Я в переносном смысле говорю:</p>
+<p>Мой идеал полнейшая свобода -</p>
+<p>Мне цель народ - и я слуга народа!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l883"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>8</p>
+</title>
+<empty-line/>
+<p>Прошло у нас то время, господа,-</p>
+<p>Могу сказать: печальное то время,-</p>
+<p>Когда наградой пота и труда</p>
+<p>Был произвол. Его мы свергли бремя.</p>
+<p>Народ воскрес - но не вполне - да, да!</p>
+<p>Ему вступить должны помочь мы в стремя,</p>
+<p>В известном смысле сгладить все следы</p>
+<p>И, так сказать, вручить ему бразды.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l884"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>9</p>
+</title>
+<empty-line/>
+<p>Искать себе не будем идеала,</p>
+<p>Ни основных общественных начал</p>
+<p>В Америке. Америка отстала:</p>
+<p>В ней собственность царит и капитал.</p>
+<p>Британия строй жизни запятнала</p>
+<p>Законностью. А я уж доказал:</p>
+<p>Законность есть народное стесненье,</p>
+<p>Гнуснейшее меж всеми преступленье!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l885"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>10</p>
+</title>
+<empty-line/>
+<p>Нет, господа! России предстоит,</p>
+<p>Соединив прошедшее с грядущим,</p>
+<p>Создать, коль смею выразиться, вид,</p>
+<p>Который называется присущим</p>
+<p>Всем временам; и, став на свой гранит,</p>
+<p>Имущим, так сказать, и неимущим</p>
+<p>Открыть родник взаимного труда.</p>
+<p>Надеюсь, вам понятно, господа?"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l886"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>11</p>
+</title>
+<empty-line/>
+<p>Раздался в зале шепот одобренья,</p>
+<p>Министр поклоном легким отвечал,</p>
+<p>И тут же, с видом, полным снисхожденья,</p>
+<p>Он обходить обширный начал зал:</p>
+<p>"Как вам? Что вы? Здорова ли Евгенья</p>
+<p>Семеновна? Давно не заезжал</p>
+<p>Я к вам, любезный Сидор Тимофеич!</p>
+<p>Ах, здравствуйте, Ельпидифор Сергеич!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l887"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>12</p>
+</title>
+<empty-line/>
+<p>Стоял в углу, плюгав и одинок,</p>
+<p>Какой-то там коллежский регистратор.</p>
+<p>Он и к тому, и тем не пренебрег:</p>
+<p>Взял под руку его: "Ах, Антипатор</p>
+<p>Васильевич! Что, как ваш кобелек?</p>
+<p>Здоров ли он? Вы ездите в театор?</p>
+<p>Что вы сказали? Все болит живот?</p>
+<p>Ах, как мне жаль! Но ничего, пройдет!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l888"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>13</p>
+</title>
+<empty-line/>
+<p>Переходя налево и направо,</p>
+<p>Свои министр так перлы расточал;</p>
+<p>Иному он подмигивал лукаво,</p>
+<p>На консоме другого приглашал</p>
+<p>И ласково смотрел и величаво.</p>
+<p>Вдруг на Попова взор его упал,</p>
+<p>Который, скрыт экраном лишь по пояс,</p>
+<p>Исхода ждал, немного беспокоясь.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l889"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>14</p>
+</title>
+<empty-line/>
+<p>"Ба! Что я вижу! Тит Евсеич здесь!</p>
+<p>Так, так и есть! Его мы точность знаем!</p>
+<p>Но отчего ж он виден мне не весь?</p>
+<p>И заслонен каким-то попугаем?</p>
+<p>Престранная выходит это смесь!</p>
+<p>Я любопытством очень подстрекаем</p>
+<p>Увидеть ваши ноги. Да, да, да!</p>
+<p>Я вас прошу, пожалуйте сюда!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l890"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>15</p>
+</title>
+<empty-line/>
+<p>Колеблясь меж надежды и сомненья:</p>
+<p>Как на его посмотрят туалет,</p>
+<p>Попов наружу вылез. В изумленье</p>
+<p>Министр приставил к глазу свой лорнет.</p>
+<p>"Что это? Правда или наважденье?</p>
+<p>Никак, на вас штанов, любезный, нет?"</p>
+<p>И на чертах изящно-благородных</p>
+<p>Гнев выразил ревнитель прав народных.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l891"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>16</p>
+</title>
+<empty-line/>
+<p>"Что это значит? Где вы рождены?</p>
+<p>В Шотландии? Как вам пришла охота</p>
+<p>Там, за экраном, снять с себя штаны?</p>
+<p>Вы начитались, верно, Вальтер Скотта?</p>
+<p>Иль классицизмом вы заражены?</p>
+<p>И римского хотите патриота</p>
+<p>Изобразить? Иль, боже упаси,</p>
+<p>Собой бюджет представить на Руси?"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l892"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>17</p>
+</title>
+<empty-line/>
+<p>И был министр еще во гневе краше,</p>
+<p>Чем в милости. Чреватый от громов</p>
+<p>Взор заблестел. Он продолжал: "Вы наше</p>
+<p>Доверье обманули. Много слов</p>
+<p>Я тратить не люблю".- "Ва-вa-ва-ваше</p>
+<p>Превосходительство!- шептал Попов.-</p>
+<p>Я не сымал... Свидетели курьеры,</p>
+<p>Я прямо так приехал из квартеры!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l893"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>18</p>
+</title>
+<empty-line/>
+<p>"Вы, милостивый, смели, государь,</p>
+<p>Приехать так? Ко мне? На поздравленье?</p>
+<p>В день ангела? Безнравственная тварь!</p>
+<p>Теперь твое я вижу направленье!</p>
+<p>Вон с глаз моих! Иль нету - секретарь!</p>
+<p>Пишите к прокурору отношенье:</p>
+<p>Советник Тит Евсеев сын Попов</p>
+<p>Все ниспровергнуть власти был готов.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l894"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>19</p>
+</title>
+<empty-line/>
+<p>Но, строгому благодаря надзору</p>
+<p>Такого-то министра - имярек -</p>
+<p>Отечество спаслось от заговору</p>
+<p>И нравственность не сгинула навек.</p>
+<p>Под стражей ныне шлется к прокурору</p>
+<p>Для следствия сей вредный человек,</p>
+<p>Дерзнувший снять публично панталоны,</p>
+<p>Да поразят преступника законы!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l895"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>20</p>
+</title>
+<empty-line/>
+<p>Иль нет, постойте! Коль отдать под суд,</p>
+<p>По делу выйти может послабленье,</p>
+<p>Присяжные-бесштанники спасут</p>
+<p>И оправдают корень возмущенья!</p>
+<p>Здесь слишком громко нравы вопиют -</p>
+<p>Пишите прямо в Третье отделенье:</p>
+<p>Советник Тит Евсеев сын Попов</p>
+<p>Все ниспровергнуть власти был готов.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l896"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>21</p>
+</title>
+<empty-line/>
+<p>Он поступил законам так противно,</p>
+<p>На общество так явно поднял меч,</p>
+<p>Что пользу можно б административно</p>
+<p>Из неглиже из самого извлечь.</p>
+<p>Я жертвую агентам по две гривны,</p>
+<p>Чтобы его - но скрашиваю речь -</p>
+<p>Чтоб мысли там внушить ему иные.</p>
+<p>Затем ура! Да здравствует Россия!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l897"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>22</p>
+</title>
+<empty-line/>
+<p>Министр кивнул мизинцем. Сторожа</p>
+<p>Внезапно взяли под руки Попова.</p>
+<p>Стыдливостью его не дорожа,</p>
+<p>Они его от Невского, Садовой,</p>
+<p>Средь смеха, крика, чуть не мятежа,</p>
+<p>К Цепному мосту привели, где новый</p>
+<p>Стоит, на вид весьма красивый, дом,</p>
+<p>Своим известный праведным судом.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l898"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>23</p>
+</title>
+<empty-line/>
+<p>Чиновник по особым порученьям,</p>
+<p>Который их до места проводил,</p>
+<p>С заботливым Попова попеченьем</p>
+<p>Сдал на руки дежурному. То был</p>
+<p>Во фраке муж, с лицом, пылавшим рвеньем,</p>
+<p>Со львиной физьономией, носил</p>
+<p>Мальтийский крест и множество медалей,</p>
+<p>И в душу взор его влезал всe далей!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l899"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>24</p>
+</title>
+<empty-line/>
+<p>В каком полку он некогда служил,</p>
+<p>В каких боях отличен был как воин,</p>
+<p>За что свой крест мальтийский получил</p>
+<p>И где своих медалей удостоен -</p>
+<p>Неведомо. Ехидно попросил</p>
+<p>Попова он, чтобы тот был спокоен,</p>
+<p>С улыбкой указал ему на стул</p>
+<p>И в комнату соседнюю скользнул.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l900"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>25</p>
+</title>
+<empty-line/>
+<p>Один оставшись в небольшой гостиной,</p>
+<p>Попов стал думать о своей судьбе:</p>
+<p>"А казус вышел, кажется, причинный!</p>
+<p>Кто б это мог вообразить себе?</p>
+<p>Попался я в огонь, как сноп овинный!</p>
+<p>Ведь искони того еще не бе,</p>
+<p>Чтобы меня кто в этом виде встретил,</p>
+<p>И как швейцар проклятый не заметил!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l901"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>26</p>
+</title>
+<empty-line/>
+<p>Но дверь отверзлась, и явился в ней</p>
+<p>С лицом почтенным, грустию покрытым,</p>
+<p>Лазоревый полковник. Из очей</p>
+<p>Катились слезы по его ланитам.</p>
+<p>Обильно их струящийся ручей</p>
+<p>Он утирал платком, узором шитым,</p>
+<p>И про себя шептал: "Так! Это он!</p>
+<p>Таким он был едва лишь из пелен!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l902"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>27</p>
+</title>
+<empty-line/>
+<p>О юноша!- он продолжал, вздыхая</p>
+<p>(Попову было с лишком сорок лет),-</p>
+<p>Моя душа для вашей не чужая!</p>
+<p>Я в те года, когда мы ездим в свет,</p>
+<p>Знал вашу мать. Она была святая!</p>
+<p>Таких, увы! теперь уж боле нет!</p>
+<p>Когда б она досель была к вам близко,</p>
+<p>Вы б не упали нравственно так низко!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l903"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>28</p>
+</title>
+<empty-line/>
+<p>Но, юный друг, для набожных сердец</p>
+<p>К отверженным не может быть презренья,</p>
+<p>И я хочу вам быть второй отец,</p>
+<p>Хочу вам дать для жизни наставленье.</p>
+<p>Заблудших так приводим мы овец</p>
+<p>Со дна трущоб на чистый путь спасенья.</p>
+<p>Откройтесь мне, равно как на духу:</p>
+<p>Что привело вас к этому греху?</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l904"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>29</p>
+</title>
+<empty-line/>
+<p>Конечно, вы пришли к нему не сами,</p>
+<p>Характер ваш невинен, чист и прям!</p>
+<p>Я помню, как дитeй за мотыльками</p>
+<p>Порхали вы средь кашки по лугам!</p>
+<p>Нет, юный друг, вы ложными друзьями</p>
+<p>Завлечены! Откройте же их нам!</p>
+<p>Кто вольнодумцы? Всех их назовите</p>
+<p>И собственную участь облегчите!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l905"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>30</p>
+</title>
+<empty-line/>
+<p>Что слышу я? Ни слова? Иль пустить</p>
+<p>Уже успело корни в вас упорство?</p>
+<p>Тогда должны мы будем приступить</p>
+<p>Ко строгости, увы! и непокорство,</p>
+<p>Сколь нам ни больно, в вас искоренить!</p>
+<p>О юноша! Как сердце ваше черство!</p>
+<p>В последний раз: хотите ли всю рать</p>
+<p>Завлекших вас сообщников назвать?"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l906"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>31</p>
+</title>
+<empty-line/>
+<p>К нему Попов достойно и наивно:</p>
+<p>"Я, господин полковник, я бы вам</p>
+<p>Их рад назвать, но мне, ей-богу, дивно...</p>
+<p>Возможно ли сообщничество там,</p>
+<p>Где преступленье чисто негативно?</p>
+<p>Ведь панталон-то не надел я сам!</p>
+<p>И чем бы там меня вы ни пугали -</p>
+<p>Другие мне, клянусь, не помогали!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l907"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>32</p>
+</title>
+<empty-line/>
+<p>"Не мудрствуйте, надменный санкюлот!</p>
+<p>Свою вину не умножайте ложью!</p>
+<p>Сообщников и гнусный ваш комплот</p>
+<p>Повергните к отечества подножью!</p>
+<p>Когда б вы знали, что теперь вас ждет,</p>
+<p>Вас проняло бы ужасом и дрожью!</p>
+<p>Но дружбу вы чтоб ведали мою,</p>
+<p>Одуматься я время вам даю!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l908"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>33</p>
+</title>
+<empty-line/>
+<p>Здесь, на столе, смотрите, вам готово</p>
+<p>Достаточно бумаги и чернил:</p>
+<p>Пишите же - не то, даю вам слово:</p>
+<p>Чрез полчаса вас изо всех мы сил..."</p>
+<p>Тут ужас вдруг такой объял Попова,</p>
+<p>Что страшную он подлость совершил:</p>
+<p>Пошел строчить (как люди в страхе гадки!)</p>
+<p>Имен невинных многие десятки!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l909"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>34</p>
+</title>
+<empty-line/>
+<p>Явились тут на нескольких листах:</p>
+<p>Какой-то Шмидт, два брата Шулаковы,</p>
+<p>Зерцалов, Палкин, Савич, Розенбах,</p>
+<p>Потанчиков, Гудим-Бодай-Корова,</p>
+<p>Делаверганж, Шульгин, Страженко, Драх,</p>
+<p>Грай-Жеребец, Бабков, Ильин, Багровый,</p>
+<p>Мадам Гриневич, Глазов, Рыбин, Штих,</p>
+<p>Бурдюк-Лишай - и множество других.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l910"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>35</p>
+</title>
+<empty-line/>
+<p>Попов строчил сплеча и без оглядки,</p>
+<p>Попались в список лучшие друзья;</p>
+<p>Я повторю: как люди в страхе гадки -</p>
+<p>Начнут как бог, а кончат как свинья!</p>
+<p>Строчил Попов, строчил во все лопатки,</p>
+<p>Такая вышла вскоре ектенья,</p>
+<p>Что, прочитав, и сам он ужаснулся,</p>
+<p>Вскричал: фуй! фуй! задрыгал - и проснулся.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l911"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>36</p>
+</title>
+<empty-line/>
+<p>Небесный свод сиял так юн и нов,</p>
+<p>Весенний день глядел в окно так весел,</p>
+<p>Висела пара форменных штанов</p>
+<p>С мундиром купно через спинку кресел;</p>
+<p>И в радости уверился Попов,</p>
+<p>Что их Иван там с вечера повесил -</p>
+<p>Одним скачком покинул он кровать</p>
+<p>И начал их в восторге надевать.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l912"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>37</p>
+</title>
+<empty-line/>
+<p>Это был лишь сон! О, счастие! о, радость!</p>
+<p>Моя душа, как этот день, ясна!</p>
+<p>Не сделал я Бодай-Корове гадость!</p>
+<p>Не выдал я агентам Ильина!</p>
+<p>Не наклепал на Савича! О, сладость!</p>
+<p>Мадам Гриневич мной не предана!</p>
+<p>Страженко цел, и братья Шулаковы</p>
+<p>Постыдно мной не ввержены в оковы!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l913"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>38</p>
+</title>
+<empty-line/>
+<p>Но ты, никак, читатель, восстаешь</p>
+<p>На мой рассказ? Твое я слышу мненье:</p>
+<p>Сей анекдот, пожалуй, и хорош,</p>
+<p>Но в нем сквозит дурное направленье.</p>
+<p>Всe выдумки, нет правды ни на грош!</p>
+<p>Слыхал ли кто такое обвиненье,</p>
+<p>Что, мол, такой-то - встречен без штанов,</p>
+<p>Так уж и власти свергнуть он готов?</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l914"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>39</p>
+</title>
+<empty-line/>
+<p>И где такие виданы министры?</p>
+<p>Кто так из них толпе кадить бы мог?</p>
+<p>Я допущу: успехи наши быстры,</p>
+<p>Но где ж у нас министер-демагог?</p>
+<p>Пусть проберут все списки и регистры,</p>
+<p>Я пять рублей бумажных дам в залог;</p>
+<p>Быть может, их во Франции немало,</p>
+<p>Но на Руси их нет и не бывало!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l915"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>40</p>
+</title>
+<empty-line/>
+<p>И что это, помилуйте, за дом,</p>
+<p>Куда Попов отправлен в наказанье?</p>
+<p>Что за допрос? Каким его судом</p>
+<p>Стращают там? Где есть такое зданье?</p>
+<p>Что за полковник выскочил? Во всем,</p>
+<p>Во всем заметно полное незнанье</p>
+<p>Своей страны обычаев и лиц,</p>
+<p>Встречаемое только у девиц.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l916"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>41</p>
+</title>
+<empty-line/>
+<p>А наконец, и самое вступленье:</p>
+<p>Ну есть ли смысл, я спрашиваю, в том,</p>
+<p>Чтоб в день такой, когда на поздравленье</p>
+<p>К министру все съезжаются гуртом,</p>
+<p>С Поповым вдруг случилось помраченье</p>
+<p>И он таким оделся бы шутом?</p>
+<p>Забыться может галстук, орден, пряжка -</p>
+<p>Но пара брюк - нет, это уж натяжка!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l917"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>42</p>
+</title>
+<empty-line/>
+<p>И мог ли он так ехать? Мог ли в зал</p>
+<p>Войти, одет как древние герои?</p>
+<p>И где резон, чтоб за экран он стал,</p>
+<p>Никем не зрим? Возможно ли такое?</p>
+<p>Ах, батюшка-читатель, что пристал?</p>
+<p>Я не Попов! Оставь меня в покое!</p>
+<p>Резон ли в этом или не резон -</p>
+<p>Я за чужой не отвечаю сон!</p>
+<empty-line/>
+<p>Лето 1873</p>
+<empty-line/>
+<empty-line/>
+<p>[М. П. АРНОЛЬДИ]</p>
+<empty-line/>
+<p>Ропща на прихоти судеб</p>
+<p>И в испытаньях малодушный,</p>
+<p>Я ждал насушенный твой хлеб,</p>
+<p>Как ожидают хлеб насущный.</p>
+<empty-line/>
+<p>Мой легкомысленный живот</p>
+<p>С неблагодарностью кухарок</p>
+<p>Винил в забвенье вас - и вот</p>
+<p>Приносят с почты ваш подарок!</p>
+<empty-line/>
+<p>О, кто опишет, господа,</p>
+<p>Его эффект животворящий!</p>
+<p>Красней, красней же от стыда,</p>
+<p>Мой всяку дрянь живот варящий!</p>
+<empty-line/>
+<p>Склони в смущении свой взор,</p>
+<p>Живот, на этот короб хлебный</p>
+<p>И пой вседневно с этих пор</p>
+<p>Eго творцу канон хвалебный!</p>
+<empty-line/>
+<p>"Да не коснется злая боль,</p>
+<p>Hи резь его пищеваренья!</p>
+<p>Да обретет он в жизни соль</p>
+<p>И смысл в житейском треволненье!</p>
+<empty-line/>
+<p>Да посрамятся перед ним</p>
+<p>Его враги ошибкой грубой!</p>
+<p>Как этот хлеб несокрушим,</p>
+<p>Да сокрушает их он зубы!</p>
+<empty-line/>
+<p>Его главы да минет рок,</p>
+<p>И да живет он долговечен,</p>
+<p>Как этот хлеб, что внукам впрок</p>
+<p>Предусмотрительно испечен!"</p>
+<empty-line/>
+<p>27 февраля 1875</p>
+<empty-line/>
+<empty-line/>
+<p>[А. М. ЖЕМЧУЖНИКОВУ]</p>
+<empty-line/>
+<p>Мы тебя субботним днем</p>
+<p>Заклинаем и зовем,</p>
+<p>Причитая тако:</p>
+<p>"Приезжай к нам, Алексей,</p>
+<p>Приезжай с женой своей -</p>
+<p>Будет кулебяка!</p>
+<empty-line/>
+<p>Будет также то и се,</p>
+<p>Будет Селери Мусе,</p>
+<p>Будут также сласти</p>
+<p>И Елагина, чьи ты</p>
+<p>Оценяешь красоты</p>
+<p>Ради сладострастья!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l918"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>x x x</p>
+</title>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l919"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>РОНДО</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Ax, зачем у нас граф Пален</p>
+<p>Так к присяжным параллелен!</p>
+<p>Будь он боле вертикален,</p>
+<p>Суд их боле был бы делен!</p>
+<empty-line/>
+<p>Добрый суд царем повелен,</p>
+<p>А присяжных суд печален,</p>
+<p>Все затем, что параллелен</p>
+<p>Через меру к ним граф Пален!</p>
+<empty-line/>
+<p>Душегубец стал нахален,</p>
+<p>Суд стал вроде богаделен,</p>
+<p>Оттого что так граф Пален</p>
+<p>Ко присяжным параллелен.</p>
+<empty-line/>
+<p>Всяк боится быть застрелен,</p>
+<p>Иль зарезан, иль подпален,</p>
+<p>Оттого что параллелен</p>
+<p>Ко присяжным так граф Пален.</p>
+<empty-line/>
+<p>Мы дрожим средь наших спален,</p>
+<p>Мы дрожим среди молелен,</p>
+<p>Оттого что так граф Пален</p>
+<p>Ко присяжным параллелен!</p>
+<empty-line/>
+<p>Herr, erbarm' dich unsrer Seelen!</p>
+<p>Habe Mitleid mit uns allen,(*)</p>
+<p>Да не будет параллелен</p>
+<p>Ко присяжным так граф Пален!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l920"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>x x x</p>
+</title>
+<empty-line/>
+<p>____________</p>
+<p>(*) Господи, сжалься над нашими душами!</p>
+<p>Имей сострадание ко всем нам (нем.).- Ред.</p>
+<empty-line/>
+<empty-line/>
+<p>[ВЕЛИКОДУШИЕ СМЯГЧАЕТ СЕРДЦА]</p>
+<empty-line/>
+<p>Вонзил кинжал убийца нечестивый</p>
+<p>В грудь Деларю.</p>
+<p>Tот, шляпу сняв, сказал ему учтиво:</p>
+<p>"Благодарю".</p>
+<p>Тут в левый бок ему кинжал ужасный</p>
+<p>Злодей вогнал,</p>
+<p>А Деларю сказал: "Какой прекрасный</p>
+<p>У вас кинжал!"</p>
+<p>Тогда злодей, к нему зашедши справа,</p>
+<p>Его пронзил,</p>
+<p>А Деларю с улыбкою лукавой</p>
+<p>Лишь погрозил.</p>
+<p>Истыкал тут злодей ему, пронзая,</p>
+<p>Все телеса,</p>
+<p>А Деларю: "Прошу на чашку чая</p>
+<p>К нам в три часа".</p>
+<p>Злодей пал ниц и, слез проливши много,</p>
+<p>Дрожал как лист,</p>
+<p>А Деларю: "Ах, встаньте, ради бога!</p>
+<p>Здесь пол нечист".</p>
+<p>Но все у ног его в сердечной муке</p>
+<p>Злодей рыдал,</p>
+<p>А Деларю сказал, расставя руки:</p>
+<p>"Не ожидал!</p>
+<p>Возможно ль? Как?! Рыдать с такою силой?-</p>
+<p>По пустякам?!</p>
+<p>Я вам аренду выхлопочу, милый,-</p>
+<p>Аренду вам!</p>
+<p>Через плечо дадут вам Станислава</p>
+<p>Другим в пример.</p>
+<p>Я дать совет царю имею право:</p>
+<p>Я камергер!</p>
+<p>Хотите дочь мою просватать, Дуню?</p>
+<p>А я за то</p>
+<p>Кредитными билетами отслюню</p>
+<p>Вам тысяч сто.</p>
+<p>А вот пока вам мой портрет на память,-</p>
+<p>Приязни в знак.</p>
+<p>Я не успел его еще обрамить,-</p>
+<p>Примите так!"</p>
+<p>Тут едок стал и даже горче перца</p>
+<p>Злодея вид.</p>
+<p>Добра за зло испорченное сердце</p>
+<p>Ах! не простит.</p>
+<p>Высокий дух посредственность тревожит,</p>
+<p>Тьме страшен свет.</p>
+<p>Портрет еще простить убийца может,</p>
+<p>Аренду ж - нет.</p>
+<p>Зажглась в злодее зависти отрава</p>
+<p>Так горячо,</p>
+<p>Что, лишь надел мерзавец Станислава</p>
+<p>Через плечо,-</p>
+<p>Он окунул со злобою безбожной</p>
+<p>Кинжал свой в яд</p>
+<p>И, к Деларю подкравшись осторожно,-</p>
+<p>Хвать друга в зад!</p>
+<p>Тот на пол лег, не в силах в страшных болях</p>
+<p>На кресло сесть.</p>
+<p>Меж тем злодей, отняв на антресолях</p>
+<p>У Дуни честь,-</p>
+<p>Бежал в Тамбов, где был, как губернатор,</p>
+<p>Весьма любим.</p>
+<p>Потом в Москве, как ревностный сенатор,</p>
+<p>Был всеми чтим.</p>
+<p>Потом он членом сделался совета</p>
+<p>В короткий срок...</p>
+<p>Какой пример для нас являет это,</p>
+<p>Какой урок!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l921"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>x x x</p>
+</title>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l922"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>НАДПИСИ НА СТИХОТВОРЕНИЯХ</p>
+</title>
+<empty-line/>
+<p>А. С. ПУШКИНА</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l923"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>ПОДРАЖАНИЕ</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>("Я видел смерть: она сидела...")</p>
+<empty-line/>
+<p>.  .  .  .  .  .  .  .  .  .  .  .</p>
+<p>Прости, печальный  мир, где темная стезя</p>
+<p>Над бездной для меня лежала,</p>
+<p>Где жизнь меня не утешала,</p>
+<p>Где я любил, где мне любить нельзя!</p>
+<p>Небес лазурная завеса,</p>
+<p>Любимые холмы, ручья веселый глас,</p>
+<p>Ты, утро - вдохновенья час,</p>
+<p>Вы, тени мирные таинственного леса,</p>
+<p>И всe - прости в последний раз!</p>
+<empty-line/>
+<p>Ты притворяешься, повеса,</p>
+<p>Ты знаешь, баловень, дорогу на Парнас.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l924"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>ВЫЗДОРОВЛЕНИЕ</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>.  .  .  .  .  .  .  .  .  .  .  .</p>
+<p>Приди, меня мертвит любовь!</p>
+<p>В молчанье благосклонной ночи</p>
+<p>Явись, волшебница! Пускай увижу вновь</p>
+<p>Под грозным кивером твои небесны очи,</p>
+<p>И плащ, и пояс боевой,</p>
+<p>И бранной обувью украшенные ноги...</p>
+<p>Не медли, поспешай, прелестный воин мой,</p>
+<p>Приди, я жду тебя: здоровья дар благой</p>
+<p>Мне снова ниспослали боги,</p>
+<p>А с ним и сладкие тревоги</p>
+<p>Любви таинственной и шалости младой.</p>
+<empty-line/>
+<p>По мне же, вид являет мерзкий</p>
+<p>В одежде дева офицерской.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l925"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>ИЗ ПИСЬМА</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Есть в России город Луга</p>
+<p>Петербургского округа.</p>
+<p>Хуже б не было сего</p>
+<p>Городишки на примете,</p>
+<p>Если б не было на свете</p>
+<p>Новоржева моего.</p>
+<empty-line/>
+<p>Город есть еще один,</p>
+<p>Называется он Мглин,</p>
+<p>Мил евреям и коровам,</p>
+<p>Стоит Луги с Новоржевым.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l926"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>ДОРИДЕ</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Я верю: я любим; для сердца нужно верить.</p>
+<p>Нет, милая моя не может лицемерить;</p>
+<p>Все непритворно в ней: желаний томный жар,</p>
+<p>Стыдливость робкая-харит бесценный дар,</p>
+<p>Нарядов и речей приятная небрежность</p>
+<p>И ласковых имен младенческая нежность.</p>
+<empty-line/>
+<p>Томительна харит повсюду неизбежность.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l927"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>ВИНОГРАД</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>.  .  .  .  .  .  .  .  .</p>
+<p>Краса моей долины злачной,</p>
+<p>Отрада осени златой,</p>
+<p>Продолговатый и прозрачный,</p>
+<p>Как персты девы молодой.</p>
+<empty-line/>
+<p>Мне кажется, тому немалая досада,</p>
+<p>Чей можно перст сравнить со гроздом винограда.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l928"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>ЖЕЛАНИЕ</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>("Кто видел край, где роскошью природы...")</p>
+<empty-line/>
+<p>.  .  .  .  .  .  .  .  .  .  .  .  .</p>
+<p>И там, где мирт шумит над тихой урной,</p>
+<p>Увижу ль вновь, сквозь темные леса,</p>
+<p>И своды скал, и моря блеск лазурный,</p>
+<p>И ясные, как радость, небеса?</p>
+<empty-line/>
+<p>Утихнут ли волненья жизни бурной?</p>
+<p>Минувших лет воскреснет ли краса?</p>
+<p>Приду ли вновь под сладостные тени</p>
+<p>Душой заснуть на лоне мирной лени?..</p>
+<empty-line/>
+<p>Пятьсот рублей я наложил бы пени</p>
+<p>За урну, лень и миртовы леса.</p>
+<empty-line/>
+<p>На странице, где помещено обращенное к Е. А.</p>
+<p>Баратынскому четверостишие "Я жду обещанной тетради...".</p>
+<p>Толстой написал:</p>
+<empty-line/>
+<p>Вакх, Лель, хариты, томны урны,</p>
+<p>Проказники, повесы, шалуны,</p>
+<p>Цевницы, лиры, лень, Авзонии сыны,</p>
+<p>Камены, музы, грации лазурны,</p>
+<p>Питомцы, баловни луны,</p>
+<p>Наперсники пиров, любимцы Цитереи</p>
+<p>И прочие небрежные лакеи.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l929"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>АКВИЛОН</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Зачем ты, грозный аквилон,</p>
+<p>Тростник болотный долу клонишь?</p>
+<p>Зачем на дальний небосклон</p>
+<p>Ты облако столь гневно гонишь?</p>
+<p>.  .  .  .  .  .  .  .  .  .</p>
+<p>Как не наскучило вам всем</p>
+<p>Пустое спрашивать у бури?</p>
+<p>Пристали все: зачем, зачем?-</p>
+<p>Затем, что то - в моей натуре!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l930"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>ПРОРОК</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>.  .  .  .  .  .  .  .  .  .  .  .</p>
+<p>"Восстань, пророк, и виждь, и внемли,</p>
+<p>Исполнись волею моей</p>
+<p>И, обходя моря и земли,</p>
+<p>Глаголом жги сердца людей!"</p>
+<empty-line/>
+<p>Вот эту штуку, пью ли, ем ли,</p>
+<p>Всегда люблю я, ей-же-ей!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l931"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>ЗОЛОТО И БУЛАТ</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Все мое,- сказало злато;</p>
+<p>Все мое,- сказал булат;</p>
+<p>Все куплю,- сказало злато;</p>
+<p>Все возьму,- сказал булат.</p>
+<empty-line/>
+<p>Ну, так что ж?- сказало злато;</p>
+<p>Ничего!- сказал булат.</p>
+<p>Так ступай!- сказало злато;</p>
+<p>И пойду!- сказал булат.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l932"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>В. С. ФИЛИМОНОВУ ПРИ ПОЛУЧЕНИИ</p>
+</title>
+<empty-line/>
+<p>ПОЭМЫ ЕГО "ДУРАЦКИЙ КОЛПАК"</p>
+<empty-line/>
+<p>.  .  .  .  .  .  .  .  .  .</p>
+<p>Итак, в знак мирного привета,</p>
+<p>Снимая шляпу, бью челом,</p>
+<p>Узнав философа-поэта</p>
+<p>Под осторожным колпаком.</p>
+<empty-line/>
+<p>Сей Филимонов, помню это,</p>
+<p>И в наш ходил когда-то дом:</p>
+<p>Толстяк, исполненный привета,</p>
+<p>С румяным ласковым лицом.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l933"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>АНЧАР</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>.  .  .  .  .  .  .  .</p>
+<p>А князь тем ядом напитал</p>
+<p>Свои послушливые стрелы</p>
+<p>И с ними гибель разослал</p>
+<p>К соседям в чуждые пределы,</p>
+<empty-line/>
+<p>Тургенев, ныне поседелый,</p>
+<p>Нам это, взвизгивая смело,</p>
+<p>В задорной юности читал.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l934"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>ОТВЕТ</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>.  .  .  .  .  .  .  .  .  .  .</p>
+<p>С тоской невольной, с восхищеньем</p>
+<p>Я перечитываю вас</p>
+<p>И восклицаю с нетерпеньем:</p>
+<p>Пора! В Москву, в Москву сейчас!</p>
+<p>Здесь город чопорный, унылый,</p>
+<p>Здесь речи - лед, сердца - гранит;</p>
+<p>Здесь нет ни ветрености милой,</p>
+<p>Ни муз, ни Пресни, ни харит.</p>
+<empty-line/>
+<p>Когда бы не было тут Пресни,</p>
+<p>От муз с харитами хоть тресни.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l935"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>ЦАРСКОСЕЛЬСКАЯ СТАТУЯ</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Урну с водой уронив, об утес ее дева разбила.</p>
+<p>Дева печально сидит, праздный держа черепок.</p>
+<p>Чудо! не сякнет водэ, изливаясь из урны разбитой:</p>
+<p>Дева над вечной струей вечно печальна сидит.</p>
+<empty-line/>
+<p>Чуда не вижу я тут. Генерал-лейтенант Захаржевский,</p>
+<p>В урне той дно просверлив, воду провел чрез нее.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l936"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>x x x</p>
+</title>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l1440"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>ПРИМЕЧАНИЯ</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p><strong>САТИРИЧЕСКИЕ И ЮМОРИСТИЧЕСКИЕ СТИХОТВОРЕНИЯ</strong></p>
+<empty-line/>
+<p>Благоразумие.  -  Последняя строфа написана несколько позже.  Синклит -</p>
+<p>собрание  высших  сановников.   По-австрийски.  -  Намек  на  враждебную  по</p>
+<p>отношению к  России  позицию,  занятую  во  время  Крымской войны  Австрией,</p>
+<p>которая до этого считалась ее верным союзником.</p>
+<p>[А.М.Жемчужникову] "Вхожу в твой кабинет...".  - Обращено к двоюродному</p>
+<p>брату  Толстого,  поэту  Алексею  Жемчужникову  (1821  -  1908),  одному  из</p>
+<p>создателей Козьмы Пруткова.</p>
+<p>[К.К.Павловой]  "Прошу   простить  великодушно...".   -   Павлова  К.К.</p>
+<p>(1807-1893) -  поэтесса и переводчица.  С конца 50-х годов жила за границей.</p>
+<p>Толстой  познакомился  с  нею  в  1861  г.   В  их  письмах  много  шуточных</p>
+<p>стихотворений Павлова перевела на немецкий язык "Дон Жуана",  "Смерть Иоанна</p>
+<p>Грозного",  "Царя Федора Иоанновича" и ряд стихотворений Толстого.  В борьбе</p>
+<p>суровой с  жизнью  душной -  начало пародии Толстого на  поэму  И.С.Аксакова</p>
+<p>"Бродяга".  Сребролукий - бог Аполлон (греч. миф.). Фебов синклит - собрание</p>
+<p>людей искусства (Феб -  второе имя  Аполлона,  который считался покровителем</p>
+<p>искусств).</p>
+<p>Бунт  в  Ватикане.   -   В  этом  стихотворении,   написанном  в  Риме,</p>
+<p>высмеивается  лицемерие  и  ханжество  главы  католической  церкви.  Толстой</p>
+<p>вышучивает  также  воинственные  замыслы  и   претензии  папы   римского  на</p>
+<p>сохранение его светской власти. Приап (греч. миф.) - бог плодородия, садов и</p>
+<p>полей,  покровитель  чувственных наслаждений.  Антонелли  Д.  (1806-1886)  -</p>
+<p>кардинал,  глава  государственного совета  Папской  области.  Casta  diva  -</p>
+<p>пречистая дева;  ария  из  оперы итальянского композитора В.Беллини "Норма";</p>
+<p>возможно,  впрочем, что речь идет о каком-то католическом песнопении. Мероде</p>
+<p>Ф.-К. (1820-1874) - военный министр Папской области.</p>
+<p>[Б.М.Маркевичу] "Ты,  что  в  красе своей румяной...".  -  Б.М.Маркевич</p>
+<p>(1822-1884) -  реакционный писатель и публицист,  сотрудник изданий Каткова,</p>
+<p>приятель Толстого,  который,  однако, не разделял многих взглядов Маркевича.</p>
+<p>Взяв на  себя корректуру сборника стихотворений Толстого,  Маркевич небрежно</p>
+<p>отнесся к этой работе и пропустил много ошибок. Алкивиад (451 - 404 до н.э.)</p>
+<p>- афинский  политический  деятель  и   полководец;   наряду  с  незаурядными</p>
+<p>способностями  отличался  легкомыслием,   себялюбием  и  т.п.   Бутков  В.П.</p>
+<p>(1814-1881) -  государственный секретарь. В конце 50-х годов Маркевич служил</p>
+<p>в  Государственной канцелярии под его начальством.  С изнеможением в кости -</p>
+<p>строка   из   стихотворения  Ф.И.Тютчева  "Как   птичка   раннею  зарей...".</p>
+<p>Ксантиппость. - Ксантиппа - жена древнегреческого философа Сократа, которая,</p>
+<p>по  преданию,   отличалась  сварливым  и  злым  характером;   имя  ее  стало</p>
+<p>нарицательным.</p>
+<p>[Д.А.Толстому] "Бисмарк,  сидючи в Берлине...".  -  Надпись на сборнике</p>
+<p>стихотворений,  подаренном министру  народного  просвещения Д.А.Толстому.  С</p>
+<p>поэтом Н.Ф.Щербиной (1821 -  1869) А.К.Толстой был в эти годы в приятельских</p>
+<p>отношениях. О чем он просил Д.А.Толстого - неизвестно. В первых строках речь</p>
+<p>идет  о  международной обстановке после разгрома Австрии Пруссией в  1866 г.</p>
+<p>Бонапарт - Наполеон III.</p>
+<p>[Ф.К.Мейендорфу] "Барон,  тебе,  делившему...".  -  Надпись на сборнике</p>
+<p>стихотворений 1867 г.  Мейендорф Ф.К.  (ум.  в 1870 г.) -  русский дипломат.</p>
+<p>Толстой встречался с  ним в  Риме в  начале 1866 г.  Тебе,  переломившему //</p>
+<p>Копье  с  святым отцом.  -  Имеется в  виду  резкое столкновение Мейендорфа,</p>
+<p>занимавшего до  1866  г.  должность  старшего  секретаря  русской  миссии  в</p>
+<p>Ватикане и  фактически исполнявшего обязанности посла,  с  папой Пием  IX  в</p>
+<p>декабре   1865   г.   Это   столкновение  послужило  поводом   для   разрыва</p>
+<p>дипломатических отношений между русским правительством и Ватиканом.</p>
+<p>История  государства  Российского от  Гостомысла  до  Тимашева.  -  Сам</p>
+<p>Толстой,  упоминая о  своем произведении в  письмах,  каждый раз называл его</p>
+<p>иначе:  "L'histoire de  Russia",  "L'histoire de  Russie  jusqu'a  Тимашев",</p>
+<p>"История  России",   "Сокращенная  русская  история",  "История  государства</p>
+<p>Российского от  Гостомысла  до  Тимашева".  Почти  все  заглавия  в  письмах</p>
+<p>Толстого явно сокращенные,  а потому мы остановились на последнем, в котором</p>
+<p>ощущается  как  фон  "История  Государства  Российского"  Карамзина.  Весьма</p>
+<p>вероятно,  что сатира не  имела окончательно установленного поэтом заглавия.</p>
+<p>Существует,  впрочем, другая точка зрения на этот счет, которая основывается</p>
+<p>на  свидетельстве В.М.Жемчужникова и  согласно которой  сатира  должна  быть</p>
+<p>озаглавлена "Сокращенная русская  история от  Гостомысла до  Тимашева" (см.:</p>
+<p>А.Бабореко.  Новые  сведения  о  стихотворениях  А.К.Толстого.  -  В  журн.:</p>
+<p>"Русская литература", 1959, Э 3, с. 200-201).</p>
+<p>Сразу  после  написания "История" стала  распространяться в  списках  и</p>
+<p>приобрела  большую   популярность.   Редактор   журнала   "Русская  старина"</p>
+<p>М.И.Семевский хотел  опубликовать ее  тотчас же  после  смерти Толстого,  но</p>
+<p>натолкнулся на цензурные препятствия. Ему удалось это сделать лишь в 1883 г.</p>
+<p>Возможно,  что  замысел  сатиры  Толстого  возник  не  без  воздействия двух</p>
+<p>стихотворений,   напечатанных  в   известном  сборнике   "Русская  потаенная</p>
+<p>литература XIX  столетия" (Лондон,  1861):  "Сказка" и  "Когда наш  Новгород</p>
+<p>Великий...".  Вот  начало второго из  них (до "Русской потаенной литературы"</p>
+<p>оно появилось в 4-й книжке "Голосов из России" - Лондон, 1857):</p>
+<empty-line/>
+<p>Когда наш Новгород Великий</p>
+<p>Отправил за море послов,</p>
+<p>Чтобы просить у них владыки</p>
+<p>Для буйных вольницы голов,</p>
+<p>Он с откровенностию странной</p>
+<p>Велел сказать чужим князьям:</p>
+<p>"Наш край богатый и пространный,</p>
+<p>Да не дался порядок нам!"*</p>
+<p>______________</p>
+<p>*  Толстой  хорошо  знал  издания  революционной эмиграции.  Композитор</p>
+<p>М.М.Ипполитов-Иванов,  посетивший Красный  Рог  через  несколько  лет  после</p>
+<p>смерти поэта,  писал в своих воспоминаниях, что "в библиотеке А.К. оказались</p>
+<p>почти все заграничные издания Бакунина,  Герцена, весь "Колокол" и почти все</p>
+<p>журналы с пометками и замечаниями А.К.".</p>
+<empty-line/>
+<p>Гостомысл -  легендарный новгородский посадник  (правитель города)  или</p>
+<p>князь,  по  совету которого,  как  сообщает летопись,  новгородцы пригласили</p>
+<p>якобы  варяжских князей.  Тимашев -  см.  вступит.  статью  (И.Г.Ямпольский.</p>
+<p>А.К.Толстой).  Иордан -  река  в  Палестине,  в  которой,  по  евангельскому</p>
+<p>рассказу,  крестился Иисус Христос. Имярек - по имени. В официальных бумагах</p>
+<p>это  слово указывало место,  где  нужно вставить чье-нибудь имя.  Трезвонить</p>
+<p>лишь  горазд.  -  Речь  идет  о  религиозности  Федора,  мало  занимавшегося</p>
+<p>государственными делами.  Паки -  опять,  снова.  Но был ли уговор - то есть</p>
+<p>были ли взяты у  Михаила Романова при его вступлении на престол какие-нибудь</p>
+<p>обязательства,  ограничивавшие его власть.  Madame, при вас на диво и т.д. -</p>
+<p>Желая прослыть просвещенной монархиней,  "философом на троне",  Екатерина II</p>
+<p>вступила в переписку с французскими мыслителями.  Она добилась того,  что ее</p>
+<p>хвалили.  Но  все их советы относительно насущных политических и  социальных</p>
+<p>преобразований в  России остались,  разумеется,  втуне.  Дидерот -  Д.Дидро.</p>
+<p>Мальтийский  кавалер.   -   Павел  I  был  гроссмейстером  духовного  ордена</p>
+<p>мальтийских рыцарей.  Louis le Desire (Людовик Желанный) -  прозвище, данное</p>
+<p>роялистами Людовику XVIII (1755-1824),  возведенному на  французский престол</p>
+<p>при содействии Александра I. Veillot - барон И.О.Велио (1830-1899), директор</p>
+<p>почтового департамента министерства внутренних дел в 1868-1880 гг.;  имя его</p>
+<p>неоднократно встречается в письмах и стихах Толстого; поэт негодовал на него</p>
+<p>за  перлюстрацию (тайный  просмотр)  корреспонденции и  высмеивал за  плохую</p>
+<p>работу почты.  Столбец - свиток, старинная рукопись. Зело - очень. Водвори -</p>
+<p>водворил.  Аз -  я.  Не дописах поспешно и т.д.  -  Ср.  с текстом летописи:</p>
+<p>"Такоже и аз худый, недостойный и многогрешный раб божий Лаврентий мних... И</p>
+<p>ныне,  господа отци и братья,  оже ся где буду описал, или переписал, или не</p>
+<p>дописал, чтите исправливая бога для, а не клените".</p>
+<p>"Стасюлевич и Маркевич...".  -  Стасюлевич М.М. (1826-1911) - историк и</p>
+<p>публицист,   редактор  либерального  журнала  "Вестник  Европы",   сторонник</p>
+<p>реальной  системы  образования.   Б.М.Маркевич  (1822-1884)  -   реакционный</p>
+<p>писатель и публицист, сотрудник изданий Каткова, приятель Толстого, который,</p>
+<p>однако,  не  разделял многих  взглядов Маркевича.  "Ваше  препирательство со</p>
+<p>Стасюлевичем,  -  писал Толстой Маркевичу 3 ноября 1869 г., - ... вдохновило</p>
+<p>меня на куплеты,  но я  их показывал только жене и  сразу же уничтожил...  Я</p>
+<p>даже  и  забыл  эти  куплеты -  помню  только,  что  они  начинались так..."</p>
+<p>Стихотворение вызвано  полемикой Стасюлевича и  Маркевича,  которая является</p>
+<p>лишь  эпизодом длившейся в  течение ряда лет  полемики "Вестника Европы",  с</p>
+<p>одной стороны, и "Русского вестника" и "Московских ведомостей" - с другой, о</p>
+<p>реальной и  классической системе образования.  Полемика имела  в  60-е  годы</p>
+<p>политический  смысл.   Представители  правительственного  лагеря   видели  в</p>
+<p>проповеди  классицизма  способ  отвлечь  молодежь  от  материалистических  и</p>
+<p>революционных идей.  Этого  нельзя сказать о  Толстом,  хотя  он  также  был</p>
+<p>горячим сторонником классического образования. Толстой осуждал недопустимые,</p>
+<p>с его точки зрения,  полемические приемы;  см.  его письмо к Маркевичу от 26</p>
+<p>мая  1869 г.:  "Все наши полемисты...  не  умеют полемизировать,  так как не</p>
+<p>аргументируют,  а  бранятся.  Стасюлевич всякое мнение,  не согласное с  его</p>
+<p>собственным,  называет доносом,  Катков -  предательством".  Маркевича же он</p>
+<p>обвинял в непозволительных намеках, которые имеют "видимость инсинуации".</p>
+<p>"Как-то Карп Семенович...".  -  Это и следующее стихотворения связаны с</p>
+<p>той же полемикой, что и предыдущее, и составляют часть письма к Маркевичу от</p>
+<p>22  декабря 1869  г.  Стихотворению предшествуют слова:  "Редактор "Вестника</p>
+<p>Европы" говорит в  последнем номере своего журнала,  что падение Афин и Рима</p>
+<p>доказывает,  как неудовлетворителен был классицизм.  Это очень хорошо,  и  я</p>
+<p>думаю написать по этому поводу песню.  Пока что я  могу только набросать эти</p>
+<p>несколько неудовлетворительных стихов". Иронизируя над Стасюлевичем, Толстой</p>
+<p>имел  в   виду  его  примечание  к   статье  С.М.Соловьева  "Наблюдения  над</p>
+<p>историческою жизнию  народов";  Стасюлевич использовал одно  из  утверждений</p>
+<p>Соловьева в полемических целях.</p>
+<p>"Рука  Алкида  тяжела...".  -  Стихотворение  отделено  от  предыдущего</p>
+<p>следующим признанием:  "Что до  меня,  то  я  откровенный классик,  я  люблю</p>
+<p>греческий мир, и все греческое мне нравится".</p>
+<empty-line/>
+<empty-line/>
+<p>Медицинские стихотворения</p>
+<empty-line/>
+<p>"Медицинскими" назвал эти стихотворения сам Толстой. Героем их является</p>
+<p>доктор  А.И.Кривский,  служивший  в  Красном  Роге  в  1868  -  1870  годах.</p>
+<p>По-видимому,  не  все стихотворения этого цикла дошли до нас,  в  частности,</p>
+<p>известны лишь четыре строки из стихотворения о пиявке:</p>
+<empty-line/>
+<p>Ища в мужчине идеала,</p>
+<p>Но стыд храня,</p>
+<p>Пиявка доктору сказала:</p>
+<p>Люби меня!</p>
+<empty-line/>
+<p>3.  "Верь  мне,  доктор  (кроме  шутки!)...".  -  Причетник  -  младший</p>
+<p>церковнослужитель в  православной церкви,  пономарь,  дьячок и  т.п.  Писать</p>
+<p>мыслете - говорится о неровной походке пьяного. Мыслете - старинное название</p>
+<p>буквы "м".</p>
+<p>"Угораздило  кофейник...".   -  Исполати!  (хвала!  слава!)  и  Аксиос!</p>
+<p>(достоин!)  -  греческие  выражения,  употреблявшиеся  в  церковной  службе.</p>
+<p>Веселися,  храбрый росс!  -  Строка из  хора  "Гром победы,  раздавайся...",</p>
+<p>сочиненного Г.Р.Державиным для празднества у  Потемкина в  1791 г.  и  часто</p>
+<p>исполнявшаяся впоследствии в разных торжественных случаях.</p>
+<empty-line/>
+<empty-line/>
+<p>Послания к Ф.М.Толстому</p>
+<empty-line/>
+<p>Толстой Феофил Матвеевич (1809-1881) - музыкальный критик, композитор и</p>
+<p>беллетрист;  член Главного управления по  делам печати;  печатал критические</p>
+<p>статьи под псевдонимом: Ростислав. Послания связаны с запрещением постановки</p>
+<p>"Царя  Федора  Иоанновича".  О  ходе  дела  информировал поэта,  обещая свое</p>
+<p>содействие, Ф.М.Толстой. В октябре 1868 г. И.А.Гончаров сообщил А.К.Толстому</p>
+<p>об окончательном запрещении трагедии и о неожиданном поведении Ф.М.Толстого.</p>
+<p>"Мне стало известно,  -  писал А.К.Толстой Маркевичу,  -  что Феофил,  когда</p>
+<p>председательствовал в Совете по делам печати в отсутствие Похвистнева, додал</p>
+<p>оба свои голоса против "Федора Иоанновича",  ратуя в  то же время в качестве</p>
+<p>литератора за  разрешение этой  пьесы.  Это  вдохновило меня  на  послание к</p>
+<p>Феофилу". Оно не дошло до нас; известны лишь четыре строки:</p>
+<empty-line/>
+<p>О, будь же мене голосист,</p>
+<p>Но боле сам с собой согласен...</p>
+<p>. . . . . . . . . . . . . . . . .</p>
+<p>Стяжал себе двойной венец:</p>
+<p>Литературный и цензурный.</p>
+<empty-line/>
+<p>1.  "Вкусив елей твоих страниц...".  - Ф.М.Толстой обиделся на поэта за</p>
+<p>не дошедшее до нас первое послание к нему, особенно за эпитеты "двуличный" и</p>
+<p>"трехипостасный",  и написал ему длинное письмо,  в котором утверждал, что с</p>
+<p>самого начала,  несмотря на  крупные литературные достоинства пьесы,  считал</p>
+<p>неудобной ее постановку на сцене.  На это письмо Толстой и ответил посланием</p>
+<p>"Вкусив елей твоих страниц...".  Концовка - перифраз двух строк из "Стансов"</p>
+<p>Пушкина.</p>
+<p>2.  "В твоем письме,  о Феофил...".  - Посылая стихотворение Маркевичу,</p>
+<p>поэт сообщил ему,  что оно является ответом на  одно из  писем Ф.М.Толстого,</p>
+<p>которое  "пахнет  провокацией".  "Лаокоона" он  хвалил,  как  я  "Феодора" в</p>
+<p>"Проекте".  -  По-видимому,  имеется в  виду следующий эпизод.  После выхода</p>
+<p>трактата Г.-Э.Лессинга об  искусстве "Лаокоон" (1766) Х.-А.Клотц -  немецкий</p>
+<p>филолог-классик   и   влиятельный   журналист,    человек   даровитый,    но</p>
+<p>недобросовестный  -   прислал  Лессингу  льстивое  письмо,  которым  пытался</p>
+<p>расположить его в свою пользу.  Но, обманувшись в своих расчетах, он подверг</p>
+<p>критике некоторые мысли, высказанные в "Лаокооне". Ответом на его возражения</p>
+<p>и   вместе  с   тем  уничтожающей  характеристикой  Клотца  явились  "Письма</p>
+<p>антикварного содержания" Лессинга,  которые нанесли сильный удар его научной</p>
+<p>репутации.  "Проект" -  "Проект  постановки на  сцену  трагедии "Царь  Федор</p>
+<p>Иоаннович"".  Veillot  -  барон  И.О.Велио  (1830-1899),  директор почтового</p>
+<p>департамента  министерства  внутренних  дел   в   1868-1880  гг.;   имя  его</p>
+<p>неоднократно встречается в письмах и стихах Толстого; поэт негодовал на него</p>
+<p>за  перлюстрацию (тайный  просмотр)  корреспонденции и  высмеивал за  плохую</p>
+<p>работу почты.  Шувалов И.И.  (1727-1797) -  государственный деятель середины</p>
+<p>XVIII   в.,   содействовавший  развитию  науки  и   искусства,   оказывавший</p>
+<p>покровительство ученым и писателям.  Ломоносов,  Державин и другие посвящали</p>
+<p>Шувалову свои произведения.  Вечный враг так называемых вопросов - цитата из</p>
+<p>Козьмы Пруткова:  "В  обществе заговорили о  каких-то новых потребностях,  о</p>
+<p>каких-то новых вопросах... Я - враг всех так называемых вопросов!"</p>
+<p>"Сидит  под  балдахином...".  -  В  русской  сатирической литературе  и</p>
+<p>публицистике Китай  издавна фигурировал как  ширма,  за  которой можно  было</p>
+<p>более свободно говорить о темных сторонах российской действительности.  Так,</p>
+<p>в  одной  из  своих рецензий начала 40-х  годов Белинский писал о  китайском</p>
+<p>имени  Дзун-Кин-Дзын  и  "китайском духе",  распространяющемся в  России,  о</p>
+<p>мандаринах  и   "мандаринском  журнале"   "Плошка   всемирного  просвещения,</p>
+<p>вежливости и учтивости",  имея в виду под последним ультрареакционный журнал</p>
+<p>"Маяк".</p>
+<p>Песня о Каткове, о Черкасском, о Самарине, о Марковиче и о арапах. - 14</p>
+<p>марта 1869 г.  на  обеде,  данном в  его честь в  Одесском английском клубе,</p>
+<p>Толстой   произнес  речь,   которая  кончалась  провозглашением  тоста   "за</p>
+<p>благоденствие всей русской земли,  за  все русское государство,  во всем его</p>
+<p>объеме,  от края и до края, и за всех подданных государя императора, к какой</p>
+<p>бы национальности они ни принадлежали". Последние слова вызвали недовольство</p>
+<p>приятеля  Толстого  Б.М.Маркевича.   Резкая   оценка   националистических  и</p>
+<p>русификаторских взглядов Маркевича содержится в  письмах к  нему Толстого от</p>
+<p>26 апреля и 24 мая 1869 г.  Против этих взглядов направлено и стихотворение.</p>
+<p>Катков М.Н.  (1818-1887) -  журналист и публицист, редактор журнала "Русский</p>
+<p>вестник" и газеты "Московские ведомости"; до 60-х годов умеренный либерал, а</p>
+<p>затем -  апологет самодержавия и идеолог дворянской реакции. Черкасский В.А.</p>
+<p>(1824-1878)  -   общественный  и  государственный  деятель,   примыкавший  к</p>
+<p>славянофилам;  после  польского  восстания 1863  г.  занимал  пост  главного</p>
+<p>директора правительственной комиссии внутренних дел в  Польше.  Самарин Ю.Ф.</p>
+<p>(1819-1876) -  публицист и общественный деятель славянофильского лагеря; как</p>
+<p>и В.А.Черкасский, был деятельным сотрудником статс-секретаря по делам Польши</p>
+<p>Н.А.Милютина;  в  1868 г.  вышли первые два  выпуска его  сочинения "Окраины</p>
+<p>России",   в  котором  он  доказывал,   что  русская  политика  недостаточно</p>
+<p>проникнута  национальными  интересами  и   что  правительство  недооценивает</p>
+<p>опасностей,   грозящих  русскому  государству  на  окраинах.  Маркевич  Б.М.</p>
+<p>(1822-1884) -  реакционный писатель и публицист,  сотрудник изданий Каткова,</p>
+<p>приятель Толстого,  который,  однако, не разделял многих взглядов Маркевича.</p>
+<p>Недавно и  ташкентцы...  -  В  60-х годах значительная часть Туркестана была</p>
+<p>присоединена  к  России,  образовав  туркестанское  генерал-губернаторство с</p>
+<p>центром  в  Ташкенте.  Алба  (Альба)  (1507-1582)  -  испанский полководец и</p>
+<p>государственный деятель;  правитель Нидерландов; безуспешно пытался кровавым</p>
+<p>террором подавить нидерландскую революцию.  Осанна!  (греч.  -  спаси же!) и</p>
+<p>Аксиос! (греч. - достоин!) - выражения, употреблявшиеся в церковной службе.</p>
+<p>Мудрость  жизни.  -  Боскетная -  комната,  украшенная или  расписанная</p>
+<p>зеленью.  Корша ведомость - либеральная газета "С.-Петербургские ведомости",</p>
+<p>выходившая под  редакцией В.Ф.Корша.  Вслед за  пахарем прилежным и  т.д.  -</p>
+<p>Цитата из стихотворения Фета "Первая борозда".</p>
+<p>[А.Н.Мальцевой] "Пью ль мадеру,  пью ли квас я..." -.  -  Мальцева А.Н.</p>
+<p>(1820-1894)  -  жена  брянского помещика и  крупного заводчика С.И.Мальцева,</p>
+<p>приятельница царицы. Стихотворение написано по дороге из Ливадии в Одессу во</p>
+<p>время сильной качки.</p>
+<p>"Все  забыл  я,  все  простил...".  -  Это  и  следующие  стихотворения</p>
+<p>составляют часть  письма  к  Маркевичу  от  14  мая  1871  г.  Стихотворению</p>
+<p>предшествуют слова:  "Если бы не наступила уже весна и не пели соловьи, я бы</p>
+<p>написал ругательное письмо  Тимашеву...  но  мягкая  погода  и  меня  делает</p>
+<p>кротким").  О Тимашеве см. во вступит. статье (И.Г.Ямпольский. А.К.Толстой).</p>
+<p>Veillot  -  барон  И.О.Велио  (1830-1899),  директор  почтового департамента</p>
+<p>министерства  внутренних  дел   в   1868-1880  гг.;   имя  его  неоднократно</p>
+<p>встречается  в  письмах  и  стихах  Толстого;  поэт  негодовал  на  него  за</p>
+<p>перлюстрацию (тайный просмотр) корреспонденции и  высмеивал за плохую работу</p>
+<p>почты.</p>
+<p>"Я готов румянцем девичьим...". - Стихотворение отделено от предыдущего</p>
+<p>словами: "Я хотел бы, чтобы такие же чувства Вы питали к Стасюлевичу". Об их</p>
+<p>полемике см. выше, в примечании к стихотворению "Стасюлевич и Маркевич...".</p>
+<p>[М.Н.Лонгинову] "Слава богу, я здоров...". - Написано перед отъездом за</p>
+<p>границу. Лонгинов был в то время орловским губернатором.</p>
+<p>Отрывок.  -  Veillot -  барон И.О.Велио (1830-1899), директор почтового</p>
+<p>департамента  министерства  внутренних  дел   в   1868-1880  гг.;   имя  его</p>
+<p>неоднократно встречается в письмах и стихах Толстого; поэт негодовал на него</p>
+<p>за  перлюстрацию (тайный  просмотр)  корреспонденции и  высмеивал за  плохую</p>
+<p>работу почты.  Юдифь -  библейская героиня;  во время нашествия вавилонского</p>
+<p>полководца  Олоферна  отправилась  в   неприятельский  лагерь  и  обворожила</p>
+<p>Олоферна своей красотой,  а  когда он  заснул,  отрубила ему  голову и  этим</p>
+<p>спасла родину от иноземных захватчиков.</p>
+<p>[Б.М.Маркевичу]  "В  награду  дружеских  усилий...".   -   Б.М.Маркевич</p>
+<p>(1822-1884) -  реакционный писатель и публицист,  сотрудник изданий Каткова,</p>
+<p>приятель Толстого,  который,  однако, не разделял многих взглядов Маркевича.</p>
+<p>Терпсихора (греч.  миф.) - муза танца. Хариты (греч. миф.) - богини красоты;</p>
+<p>в переносном значении - красавицы.</p>
+<p>Послание к М.Н.Лонгинову о дарвинисме.  -  Лонгинов М.Н.  (1823-1875) -</p>
+<p>библиограф и историк литературы,  в молодости член кружка, группировавшегося</p>
+<p>вокруг редакции "Современника",  и  либерал;  с  конца  1850-х  годов  резко</p>
+<p>поправел и  перешел в  лагерь реакции;  в  1871 -  1875 гг.  был начальником</p>
+<p>Главного управления по  делам печати и  жестоко преследовал передовую мысль.</p>
+<p>Лонгинов ответил Толстому стихотворным посланием,  в котором утверждал,  что</p>
+<p>слухи о запрещении книги Дарвина не соответствуют действительности.  Вот как</p>
+<p>реагировал на  это  Толстой:  "Он отрекается от  преследования Дарвина.  Тем</p>
+<p>лучше,  но и  прочего довольно" (письмо к  Стасюлевичу от 3 января 1873 г.).</p>
+<p>Первый эпиграф взят также из Козьмы Пруткова.  Овамо и  семо -  там и здесь.</p>
+<p>Шматина глины -  ком глины, из которого, по библейскому преданию, бог создал</p>
+<p>человека.  Бармы -  принадлежность парадного наряда русских князей и  царей,</p>
+<p>надевавшаяся на плечи; также: ризы священника или оплечья на них.</p>
+<p>"Боюсь  людей  передовых...".  -  "Приезжающие сюда  русские,  -  писал</p>
+<p>Толстой Маркевичу из Флоренции в  начале 1873 г.,  -  рассказывали мне,  что</p>
+<p>меня продолжают ругать в разных газетах. Я же -</p>
+<empty-line/>
+<p>Боюсь людей передовых...</p>
+<empty-line/>
+<p>Сон  Попова.  -  Сатира  сразу  приобрела большую популярность и  стала</p>
+<p>ходить по  рукам в  многочисленных списках...  О  прототипе министра см.  во</p>
+<p>вступит.  статье (И.Г.Ямпольский. А.К.Толстой). С большой похвалой отозвался</p>
+<p>о  "Сне Попова" Тургенев (письмо Толстого к  жене,  ноябрь 1874 г.).  Не раз</p>
+<p>восхищался им Л.Н.Толстой.  "Это бесподобно. Нет, я не могу не прочитать вам</p>
+<p>этого".  -  И Лев Николаевич начал мастерски читать "Сон Попова"...  вызывая</p>
+<p>иногда взрывы смеха",  -  записал в дневник П.А.Сергеенко.  В ноябре 1875 г.</p>
+<p>чтение  "Сна  Попова"  не  было  допущено  на  вечере  памяти  А.К.Толстого,</p>
+<p>организованном Литературным фондом. Имярек - по имени. В официальных бумагах</p>
+<p>это  слово  указывало место,  где  нужно вставить чье-нибудь имя.  Неглиже -</p>
+<p>небрежный вид, небрежная домашняя одежда. К Цепному мосту. - У Цепного моста</p>
+<p>в  Петербурге (теперь мост  Пестеля) помещалось Третье отделение.  Причинный</p>
+<p>казус  -  неожиданный и  неприятный случай.  Не  бе  -  не  было.  Лазоревый</p>
+<p>полковник. - Жандармы носили голубую форму. Санкюлот - презрительная кличка,</p>
+<p>данная реакционерами в  годы французской революции XVIII в.  беднейшим слоям</p>
+<p>населения и  революционерам-якобинцам,  которые носили длинные брюки,  а  не</p>
+<p>аристократические  короткие  штаны  до   колен  (culotte).   Впоследствии  в</p>
+<p>консервативной  публицистике  слово   "санкюлот"  употреблялось  в   смысле:</p>
+<p>вольнодумец,  революционно настроенный  человек.  Комплот  (фр.  complot)  -</p>
+<p>заговор.  Ектенья  -  заздравное моление,  здесь  употреблено в  ироническом</p>
+<p>смысле.  Пряжка - нагрудный знак, выдававшийся за усердие, непорочную службу</p>
+<p>и пр.</p>
+<p>[М.П.Арнольди] "Ропща на  прихоти судеб...".  -  Написано во Флоренции.</p>
+<p>М.П.Арнольда  -   давний  приятель  Толстого,   муж   Н.А.Арнольди,   автора</p>
+<p>популярного в  свое  время  романа из  жизни русской революционной эмиграции</p>
+<p>"Василиса" (1879).</p>
+<p>Рондо.  -  Пален К.И.  (1833-1912) - министр юстиции в 1867-1878 гг. Во</p>
+<p>время  его  управления министерством судебное  ведомство  повернуло на  путь</p>
+<p>реакции.  Однако  по  вопросу  о  суде  присяжных Толстой  критиковал Палена</p>
+<p>справа,  упрекая в слишком мягком к нему отношении. Резкий выпад против суда</p>
+<p>присяжных  см.  также  в  "Потоке-богатыре".  Каламбурное использование слов</p>
+<p>"параллелен" и  "вертикален" заимствовано из  восьмистишия А.Ф.Вельтмана  (в</p>
+<p>его романе "Странник").</p>
+<p>[Великодушие смягчает сердца] "Вонзил кинжал  убийца нечестивый...".  -</p>
+<p>Стихотворение направлено против идей непротивления злу.  В основе его лежат,</p>
+<p>по-видимому,  какие-то неизвестные нам факты. Аренда - награда, состоявшая в</p>
+<p>предоставлении государственного имения во временное владение;  с 1837 г. под</p>
+<p>именем  аренды  крупным  чиновникам назначалась на  несколько  лет  денежная</p>
+<p>прибавка к жалованью.  Станислава -  т.е.  орден св.  Станислава. Камергер -</p>
+<p>придворный чин. Совет - Государственный совет.</p>
+<p>Надписи  на  стихотворениях  А.С.Пушкина.   -  Надписи,  опубликованные</p>
+<p>племянником С.А.Толстой,  поэтом и философом Д.Н.Цертелевым, были сделаны на</p>
+<p>лейпцигском  издании  стихотворений  Пушкина  1861   г.   (Этот   экземпляр,</p>
+<p>по-видимому, безвозвратно пропал.) Стихотворения Пушкина цитируются по этому</p>
+<p>изданию.  Строки,  написанные на той странице, где помещено стихотворение "Я</p>
+<p>жду обещанной тетради...",  Цертелев связывал именно с  этим четверостишием,</p>
+<p>между  тем   толчком  для  их   написания  были  скорее  напечатанные  рядом</p>
+<p>стихотворения  "Баратынскому  из  Бессарабии",  "Друзьям",  "Адели";  в  них</p>
+<p>фигурируют "Вакха буйный пир",  "звук лир",  музы, "питомцы муз и Аполлона",</p>
+<p>хариты,  Лель.  "Везде,  где попадаются слова Лель, повеса, шалуны, цевницы,</p>
+<p>хариты,   -   писал  Цертелев,   -   Толстой  подчеркивает  их  и   снабжает</p>
+<p>примечаниями...  Против  некоторых стихотворений стоят  краткие восклицания:</p>
+<p>"хорошо",  "великолепно",  "вот это я понимаю", но большею частью примечания</p>
+<p>имеют характер шутки".  Наконец,  Цертелев утверждает, что надписей Толстого</p>
+<p>было   множество.   Продолжение  "Золота   и   булата"  приписывалось  также</p>
+<p>М.Л.Михайлову.  Мглин  -  уездный город Черниговской губернии;  в  Мглинском</p>
+<p>уезде находилось имение Толстого Красный Рог. Авзония - Италия. Цитерея, или</p>
+<p>Киферея (греч.  миф.) - одно из прозвищ Афродиты (остров Кифера был одним из</p>
+<p>центров культа Афродиты).  Филимонов В.С.  (1787-1858) -  поэт, беллетрист и</p>
+<p>драматург.   Захаржевский  Я.В.   (1780-1860)  -  начальник  царскосельского</p>
+<p>дворцового управления.</p>
+<p><strong>И.Г.Ямпольский</strong></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

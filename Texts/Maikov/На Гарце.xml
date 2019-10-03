@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Аполлон</first-name>
+			<middle-name>Николаевич</middle-name>
+			<last-name>Майков</last-name>
+		</author>
+		<book-title>На Гарце</book-title>
+<annotation></annotation>		<date value="2015-03-24">24/03/2015</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 05:33:10</date>
+		<src-url>http://az.lib.ru/m/majkow_a_n/text_0290_poe.shtml</src-url>
+		<id>samlib58f4d226155f92.72480785</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Майков Аполлон Николаевич</p>
+	<empty-line/>
+	<p>На Гарце</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>На Гарце (Гейне).</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Открывайся, мир преданий!</p>
+<empty-line/>
+<p>Приготовься, сердце, к ним,</p>
+<empty-line/>
+<p>К сладким песням, тихим грёзам,</p>
+<empty-line/>
+<p>К вдохновеньям золотым!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Я иду в леса густые,</p>
+<empty-line/>
+<p>Где ключи живые бьют,</p>
+<empty-line/>
+<p>Бродят гордые олени,</p>
+<empty-line/>
+<p>Птицы вольные поют.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>По обрывам, между сосен,</p>
+<empty-line/>
+<p>Доберусь до замка я,</p>
+<empty-line/>
+<p>На который устремляет</p>
+<empty-line/>
+<p>Первый нежный луч заря.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Там, среди седых развалин,</p>
+<empty-line/>
+<p>Как живые, предо мной,</p>
+<empty-line/>
+<p>Встанут дней минувших люди</p>
+<empty-line/>
+<p>С прежней свежею красой...</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Вот и он: над ним как прежде</p>
+<empty-line/>
+<p>Блеску полны небеса,</p>
+<empty-line/>
+<p>А внизу - в волнах тумана</p>
+<empty-line/>
+<p>Словно плавают леса...</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Поросла травою площадь,</p>
+<empty-line/>
+<p>Где счастливец побеждал,</p>
+<empty-line/>
+<p>И победы приз у лучших,</p>
+<empty-line/>
+<p>Может быть, перебивал...</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Плющь висит кругом с балкона,</p>
+<empty-line/>
+<p>Где склонялась на скамью</p>
+<empty-line/>
+<p>Победившая очеами</p>
+<empty-line/>
+<p>Победителя в бою...</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ах, и рыцаря, и даму</p>
+<empty-line/>
+<p>Смерть давно уж унесла...</p>
+<empty-line/>
+<p>Всех нас этот чёрный рыцарь</p>
+<empty-line/>
+<p>Вышибает из седла!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>А. Майков.</p>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

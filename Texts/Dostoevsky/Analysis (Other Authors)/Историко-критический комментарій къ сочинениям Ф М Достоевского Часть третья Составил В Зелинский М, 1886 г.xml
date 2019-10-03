@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Федор</first-name>
+			<middle-name>Михайлович</middle-name>
+			<last-name>Достоевский</last-name>
+		</author>
+		<book-title>Историко-критический комментар╕й къ сочинениям Ф. М. Достоевского. Часть третья. Составил В. Зелинский. М., 1886 г</book-title>
+<annotation></annotation>		<date value="2018-11-16">16/11/2018</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-11-16">2018-11-16 08:09:47</date>
+		<src-url>http://az.lib.ru/d/dostoewskij_f_m/text_1886_ist_krit_kommentary_oldorfo.shtml</src-url>
+		<id>samlib5bee7b4bd5a100.84743754</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Достоевский Федор Михайлович</p>
+	<empty-line/>
+	<p>Историко-критический комментар╕й къ сочинениям Ф. М. Достоевского. Часть третья. Составил В. Зелинский. М., 1886 г</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<p> <strong>Историко-критическій комментарій къ сочиненіямъ Ѳ. М. Достоевскаго</strong>. Часть третья. Составилъ В. Зелинскій. М., 1886 г. Мы говорили въ прошломъ году о первыхъ выпускахъ этого полезнаго изданія. Въ третьей части собраны критическіе отзывы о <emphasis>Бѣсахъ, Подросткѣ, Братьяхъ Карамазовыхъ</emphasis>. Въ предисловіи составитель рѣшительно отвергаетъ тенденціозность подбора критикъ въ своей книжкѣ, и этой тенденціозности, дѣйствительно, не замѣтно въ <emphasis>Историко-критическомъ комментаріи.</emphasis></p>
+<empty-line/>
+<p><emphasis>"Русская Мысль", кн. I, 1886</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

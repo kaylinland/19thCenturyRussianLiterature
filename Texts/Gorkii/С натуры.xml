@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sf</genre>
+		<author>
+			<first-name>Максим</first-name>
+			<last-name>Горький</last-name>
+		</author>
+		<book-title>С натуры</book-title>
+<annotation><p>Сценка.</p></annotation>		<date value="2015-09-04">04/09/2015</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 03:46:03</date>
+		<src-url>http://az.lib.ru/g/gorxkij_m/text_1905_s_natury.shtml</src-url>
+		<id>samlib58f4b90b2f9a39.27696717</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Горький Максим</p>
+	<empty-line/>
+	<p>С натуры</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>М. Горький</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>С натуры</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<empty-line/>
+<p><emphasis>Сценка</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>В деревню для успокоения возбуждённых умов, явился администратор. Не выходя из коляски, он, окружённый казаками, обратился к мужикам с успокоительной речью. Говорил милостиво и грозно, укоризненно и отечески, говорил долго.</p>
+<p>Вдруг из толпы, прерывая речь, раздался вопрос:</p>
+<p>-- А он?</p>
+<p>-- Что? -- спросил администратор.</p>
+<p>-- А как он?</p>
+<p>-- То есть кто -- он?</p>
+<p>-- Ну, знаешь...</p>
+<p>-- Дурак! Что такое -- он?</p>
+<p>-- Конешно... А всё-таки -- как же он?</p>
+<p>-- Да что такое? О чём ты спрашиваешь?</p>
+<p>-- Насчёт его...</p>
+<p>-- Ну?</p>
+<p>-- Он останется?</p>
+<p>-- Пороть! -- приказал администратор. Мужика схватили. Разложили... Выпороли. Он встал и, застёгивая штаны, сказал:</p>
+<p>-- Ну, вот... Я так и думал, что, покуда он останется, -- будут нас пороть...</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Комментарии</strong><strong></strong></p><strong></strong>
+<p><emphasis>С натуры</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Впервые напечатано в журнале "Жало", 1905, номер 1, 29 ноября. Подпись: <strong>Г</strong>.</p>
+<p>Редактор журнала "Жало" Ив. Власов в своих воспоминаниях сообщает, что сценка "С натуры" "написана Горьким вечером 20 ноября 1905 года, в Москве". "Тогда же, -- пишет Власов, -- автограф был передан мне, как редактору сатирического журнала "Жало", для помещения в первом его номере. Этот первый и единственный номер "Жало" вышел в свет 29 ноября 1905 года". (См. журнал "Пламя", 1937, Иваново, номер 6, стр.7.)</p>
+<p>В собрания сочинений не включалось.</p>
+<p>Печатается по рукописи, хранящейся в Архиве А. М. Горького.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

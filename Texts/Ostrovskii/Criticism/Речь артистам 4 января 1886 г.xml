@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Николаевич</middle-name>
+			<last-name>Островский</last-name>
+		</author>
+		<book-title>Речь артистам 4 января 1886 г</book-title>
+<annotation></annotation>		<date value="2018-08-09">09/08/2018</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-08-09">2018-08-09 09:24:39</date>
+		<src-url>http://az.lib.ru/o/ostrowskij_a_n/text_1886_rech_artistam.shtml</src-url>
+		<id>samlib5b6c08572f9395.28311079</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Островский Александр Николаевич</p>
+	<empty-line/>
+	<p>Речь артистам 4 января 1886 г</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<p> </p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>А. Н. Островский</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Речь артистам 4 января 1886 г.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p> Речи 1859-1886</p>
+<p> ГИХЛ, М., 1952</p>
+<p> Составитель тома Г. И. Владыкин</p>
+<p> Подготовка текста и комментарии К. Д. Муратовой</p>
+<p> </p>
+<p> От вас, артистов, не потребуется таланта больше того, что вы имеете. От вас потребуется, чтобы вы употребляли его весь и чтобы употребляли на доброе и честное дело; а доброе и честное не такие большие требования, которые было бы трудно исполнить. Итак, начнем служить великому искусству...</p>
+<p> </p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>КОММЕНТАРИИ</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p> Впервые печатается по рукописи А. Н. Островского, хранящейся с Государственной библиотеке СССР имени В. И. Ленина. Запись речи не закончена.</p>
+<p> 4 января 1886 г. состоялось официальное представление артистов и служащих московских императорских театров новому директору А. Майкову и заведующему репертуаром А. Островскому.</p>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

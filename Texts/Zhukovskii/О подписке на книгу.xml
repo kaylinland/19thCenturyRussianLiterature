@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Василий</first-name>
+			<middle-name>Андреевич</middle-name>
+			<last-name>Жуковский</last-name>
+		</author>
+		<book-title>О подписке на книгу</book-title>
+<annotation></annotation>		<date value="2017-10-06">06/10/2017</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-10-06">2017-10-06 11:59:23</date>
+		<src-url>http://az.lib.ru/z/zhukowskij_w_a/text_1815_o_podpiske.shtml</src-url>
+		<id>samlib59d745eb2f11e3.21634015</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Жуковский Василий Андреевич</p>
+	<empty-line/>
+	<p>О подписке на книгу</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+<p><emphasis>О подпискѣ на книгу.</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p> Въ С. Петербургѣ, въ большой Миллионной въ домѣ Медицинскаго Департамента Министерства полиціи, у Титулярнаго Совѣтника Василья Тимофеевича Кашкина принимается подписка на изданіе <emphasis>Стихотвореній </emphasis>Г. Жуков<emphasis>скаго</emphasis>, въ 2 частяхъ.</p>
+<p> Въ первой Части: <emphasis>Лирическія стихотворенія, Романсы,</emphasis> <emphasis>Пѣсни, Посланія. </emphasis>Во второй: <emphasis>Баллады, Смѣсъ. </emphasis>Изданіе сіе будетъ напечатано въ 4 долю листа, на лучшей бумагѣ; при каждой Части искусно выгравированная виньета.</p>
+<p> Цѣна подписная за обѣ Части въ папкѣ 20 рублей.</p>
+<p> Издатели просятъ Гг. иногородныхъ подпищиковъ относиться прямо на имя Г. Кашкина и прилагать <emphasis>свой адресъ,</emphasis> дабы екземпляры могли быть доставляемы къ нимъ съ надлежащею исправностію.</p>
+<p> Имена подписавшихся будутъ припечатаны въ концѣ 3 Части.</p>
+<empty-line/>
+<p><emphasis>Д. Дашковъ, А. Тургеневъ, Д. Кавелинъ.</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>"Вѣстникъ Европы", NoNo 20, 1815</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

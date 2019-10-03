@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Сергей</first-name>
+			<middle-name>Александрович</middle-name>
+			<last-name>Есенин</last-name>
+		</author>
+		<book-title>Есенин С. А., Герасимов М. П., Клычков С. А. Кантата (&quot;Сквозь туман кровавый смерти...&quot;)</book-title>
+<annotation></annotation>		<date value="2007-07-12">12/07/2007</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-03-06">2018-03-06 11:29:07</date>
+		<src-url>http://az.lib.ru/e/esenin_s_a/text_0540.shtml</src-url>
+		<id>samlib5a9e515405bd94.89427643</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Есенин Сергей Александрович</p>
+	<empty-line/>
+	<p>Есенин С. А., Герасимов М. П., Клычков С. А. Кантата (&quot;Сквозь туман кровавый смерти...&quot;)</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Есенин С. А., Герасимов М. П., Клычков С. А. <strong>Кантата</strong> <strong>("Сквозь туман кровавый смерти...")</strong> // Есенин С. А. Полное собрание сочинений: В 7 т. -- М.: Наука; Голос, 1995--2002.</p>
+<p>Т. 4. Стихотворения, не вошедшие в "Собрание стихотворений". -- <strong>1996</strong>. -- С. 285--286.</p>
+<p><a xlink:href="http://feb-web.ru/feb/esenin/texts/e74/e74-285-.htm"><strong>http://feb-web.ru/feb/esenin/texts/e74/e74-285-.htm</strong></a></p>
+<empty-line/>
+<p><strong>КАНТАТА*</strong></p>
+<empty-line/>
+<p><strong>1</strong></p>
+<empty-line/>
+<p>Сквозь туман кровавый смерти,</p>
+<p>Чрез страданье и печаль</p>
+<p>Мы провидим, -- верьте, верьте --</p>
+<p>Золотую высь и даль.</p>
+<empty-line/>
+<p>Всех, кто был вчера обижен,</p>
+<p>Обойден лихой судьбой,</p>
+<p>С дымных фабрик, черных хижин</p>
+<p>Мы скликаем в светлый бой.</p>
+<empty-line/>
+<p>Пусть последней будет данью</p>
+<p>Наша жизнь и тяжкий труд.</p>
+<p>Верьте, верьте, там за гранью</p>
+<p>Зори новые цветут.</p>
+<empty-line/>
+<p>2</p>
+<empty-line/>
+<p>Спите, любимые братья,</p>
+<p>Снова родная земля</p>
+<p>Неколебимые рати</p>
+<p>Движет под стены Кремля.</p>
+<empty-line/>
+<p>Новые в мире зачатья,</p>
+<p>Зарево красных зарниц...</p>
+<p>Спите, любимые братья,</p>
+<p>В свете нетленных гробниц.</p>
+<empty-line/>
+<p>Солнце златою печатью</p>
+<p>Стражей стоит у ворот...</p>
+<p>Спите, любимые братья,</p>
+<p>Мимо вас движется ратью</p>
+<p>К зорям вселенским народ.</p>
+<empty-line/>
+<p>3</p>
+<empty-line/>
+<p>Сойди с креста, народ распятый,</p>
+<p>Преобразись, проклятый враг,</p>
+<p>Тебе грозит судьба расплатой</p>
+<p>За каждый твой неверный шаг.</p>
+<empty-line/>
+<p>В бою последнем нет пощады,</p>
+<p>Но там, за гранями побед,</p>
+<p>Мы вас принять в объятья рады,</p>
+<p>Простив неволю долгих лет.</p>
+<empty-line/>
+<p>Реви, земля, последней бурей,</p>
+<p>Сзывай на бой, скликай на пир.</p>
+<p>Пусть светит новый день в лазури,</p>
+<p>Преображая старый мир.<strong> </strong></p>
+<empty-line/>
+<p><strong>Осень 1918 </strong></p>
+<empty-line/>
+<empty-line/>
+<p>Сноски</p>
+<empty-line/>
+<empty-line/>
+<p>Сноски к стр. 285</p>
+<p>* Первая часть произведения написана М. Герасимовым, вторая -- С. Есениным, третья -- С. Клычковым.</p>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Константин</first-name>
+			<middle-name>Михайлович</middle-name>
+			<last-name>Фофанов</last-name>
+		</author>
+		<book-title>Стихотворения</book-title>
+<annotation><p>"Лунная тихая ночь..."</p>
+<p>"Ты хочешь знать, когда и как..."</p></annotation>		<date value="2011-11-27">27/11/2011</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-08-12">2017-08-12 07:52:04</date>
+		<src-url>http://az.lib.ru/f/fofanow_k_m/text_1890_poe.shtml</src-url>
+		<id>samlib598f3234ed0d69.72856850</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Фофанов Константин Михайлович</p>
+	<empty-line/>
+	<p>Стихотворения</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<p>"Лунная тихая ночь..."</p>
+<empty-line/>
+<p>Лунная тихая ночь, -</p>
+<p>Воздух, исполненный лени...</p>
+<p>На серебристом снегу</p>
+<p>Темные, резкие тени...</p>
+<p>Сердце бы грезить не прочь, -</p>
+<p>Только печальна душа...</p>
+<p>Только мечтать не могу, -</p>
+<p>Холодом в холод дыша!</p>
+<empty-line/>
+<p>В сердце весна отцвела:</p>
+<p>Там, как в пустыне, безгласно;</p>
+<p>Прошлое счастье - луной</p>
+<p>Смотрит мертво и неясно...</p>
+<p>В блестках морозная мгла,</p>
+<p>В звездах холодная высь...</p>
+<p>Что ж ты, любовь, не со мной?</p>
+<p>Где ж ты, весна, отзовись?!</p>
+<empty-line/>
+<p>(1890)</p>
+<empty-line/>
+<p>    * * *
+</p>
+<p>Ты хочешь знать, когда и как</p>
+<p>    Я повстречался с ней?</p>
+<p>Тогда был душен синий мрак</p>
+<p>    И звонок соловей.
+</p>
+<p>Томилась ночь тоской любви,</p>
+<p>    Цветы дыханьем жгли.</p>
+<p>Был свет в душе, огонь в крови,</p>
+<p>    Мечты мои росли.
+</p>
+<p>Но кто была она, - весна ль,</p>
+<p>    Иль молодость моя? -</p>
+<p>В ее речах жила печаль</p>
+<p>    Иного бытия.
+</p>
+<p>Она склонилася ко мне</p>
+<p>    Тоскливо на плечо</p>
+<p>И в ароматной тишине</p>
+<p>    Дышала горячо.
+</p>
+<p>Всю ночь, воздушная, она,</p>
+<p>    И плача, и стоня,</p>
+<p>Бледна, как майская луна,</p>
+<p>    Ждала сиянья дня.
+</p>
+<p>И улетала с ясным днем,</p>
+<p>    Как легкий пар долин.</p>
+<p>И я, томясь о неземном,</p>
+<p>    К рассвету был один.... 
+</p>
+<p>1865
+</p>
+</section>
+
+</body>
+</FictionBook>

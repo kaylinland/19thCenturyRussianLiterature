@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Владимир</first-name>
+			<middle-name>Владимирович</middle-name>
+			<last-name>Маяковский</last-name>
+		</author>
+		<book-title>Разговор с товарищем Лениным</book-title>
+<annotation></annotation>		<date value="2009-05-15">15/05/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-12-27">2018-12-27 07:50:45</date>
+		<src-url>http://az.lib.ru/m/majakowskij_w_w/text_0980.shtml</src-url>
+		<id>samlib5c248455d3a958.19535155</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Маяковский Владимир Владимирович</p>
+	<empty-line/>
+	<p>Разговор с товарищем Лениным</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<p>               <strong>Владимир Маяковский</strong></p><strong></strong>
+<p><strong></strong></p>
+<p><strong>               РАЗГОВОР</strong></p>
+<p><strong>         С ТОВАРИЩЕМ ЛЕНИНЫМ</strong></p>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_1929_razgovor_s_tov_leninym.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<p>Грудой дел,</p>
+<p>                суматохой явлений</p>
+<p>день отошел,</p>
+<p>               постепенно стемнев.</p>
+<p>Двое в комнате.</p>
+<p>            Я</p>
+<p>               и Ленин -</p>
+<p>фотографией</p>
+<p>                на белой стене,</p>
+<p>Рот открыт</p>
+<p>                в напряженной речи,</p>
+<p>усов</p>
+<p>             щетинка</p>
+<p>               вздернулась ввысь,</p>
+<p>в складках лба</p>
+<p>            зажата</p>
+<p>               человечья,</p>
+<p>в огромный лоб</p>
+<p>               огромная мысль.</p>
+<p>Должно быть,</p>
+<p>            под ним</p>
+<p>               проходят тысячи.</p>
+<p>Лес флагов...</p>
+<p>               рук трава...</p>
+<p>Я встал со стула,</p>
+<p>               радостью высвечен,</p>
+<p>хочется --</p>
+<p>      идти,</p>
+<p>            приветствовать,</p>
+<p>                  рапортовать!</p>
+<p>"Товарищ Ленин,</p>
+<p>            я вам докладываю</p>
+<p>не по службе,</p>
+<p>             а по душе.</p>
+<p>Товарищ Ленин,</p>
+<p>            работа адовая</p>
+<p>будет</p>
+<p>      сделана</p>
+<p>             и делается уже.</p>
+<p>Освещаем,</p>
+<p>            одеваем нищь и _о_голь,</p>
+<p>ширится</p>
+<p>      добыча</p>
+<p>            угля и руды...</p>
+<p>А рядом с этим,</p>
+<p>             конешно,</p>
+<p>                  много,</p>
+<p>много</p>
+<p>      разной</p>
+<p>            дряни и ерунды.</p>
+<p>Устаешь</p>
+<p>      отбиваться и отгрызаться.</p>
+<p>Многие</p>
+<p>       без вас</p>
+<p>            отбились от рук.</p>
+<p>Очень</p>
+<p>      много</p>
+<p>             разных мерзавцев</p>
+<p>ходят</p>
+<p>       по нашей земле</p>
+<p>            и вокруг.</p>
+<p>Нету</p>
+<p>       им</p>
+<p>             ни числа,</p>
+<p>                  ни клички,</p>
+<p>целая</p>
+<p>      лента типов</p>
+<p>            тянется.</p>
+<p>Кулаки</p>
+<p>      и волокитчики,</p>
+<p>подхалимы,</p>
+<p>      сектанты</p>
+<p>            и пьяницы, -</p>
+<p>ходят,</p>
+<p>       гордо</p>
+<p>             выпятив груди,</p>
+<p>в ручках сплошь</p>
+<p>             и в значках нагрудных...</p>
+<p>Мы их</p>
+<p>      всех,</p>
+<p>            конешно, скрутим,</p>
+<p>но всех</p>
+<p>      скрутить</p>
+<p>            ужасно трудно.</p>
+<p>Товарищ Ленин,</p>
+<p>             по фабрикам дымным,</p>
+<p>по землям,</p>
+<p>       покрытым</p>
+<p>             и снегом</p>
+<p>                  и жнивьём,</p>
+<p>вашим,</p>
+<p>      товарищ,</p>
+<p>             сердцем</p>
+<p>                  и именем</p>
+<p>думаем,</p>
+<p>      дышим,</p>
+<p>             боремся</p>
+<p>                   и живем!.."</p>
+<empty-line/>
+<p>Грудой дел,</p>
+<p>            суматохой явлений</p>
+<p>день отошел,</p>
+<p>            постепенно стемнев.</p>
+<p>Двое в комнате.</p>
+<p>          Я</p>
+<p>             и Ленин -</p>
+<p>фотографией</p>
+<p>            на белой стене.</p>
+<empty-line/>
+<p><emphasis>[1929]</emphasis></p>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_1929_razgovor_s_tov_leninym.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

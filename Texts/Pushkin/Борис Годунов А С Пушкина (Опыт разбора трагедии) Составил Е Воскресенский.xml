@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Сергеевич</middle-name>
+			<last-name>Пушкин</last-name>
+		</author>
+		<book-title>&quot;Борис Годунов&quot; А. С. Пушкина. (Опыт разбора трагедии). Составил Е. Воскресенский</book-title>
+<annotation></annotation>		<date value="2018-12-24">24/12/2018</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-12-24">2018-12-24 08:28:19</date>
+		<src-url>http://az.lib.ru/p/pushkin_a_s/text_1886_boris_godunov_oldorfo.shtml</src-url>
+		<id>samlib5c2098a3d18b04.26283999</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Пушкин Александр Сергеевич</p>
+	<empty-line/>
+	<p>&quot;Борис Годунов&quot; А. С. Пушкина. (Опыт разбора трагедии). Составил Е. Воскресенский</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<p> "<strong>Борисъ Годуновъ" А. С. Пушкина</strong>. (Опытъ разбора трагедіи). Составилъ Е. Воскресенскій. Изданіе 2, исправленное и дополненное. Ярославль, 1886 г. Разбору пьесы авторъ предпосылаетъ введеніе, въ которомъ даетъ свѣдѣнія о драмѣ, о трагедіи, о ложноклассицизмѣ и т. п.</p>
+<p> Изложенію автора не достаетъ живости и простоты. Не мѣшало бы и сократить число цитатъ, утомляющихъ юнаго читателя. Хотя авторъ и рекомендуетъ эту книгу (въ предисловіи) для учащихся въ средней школѣ, но намъ она кажется болѣе удобной для пособія учителю при преподаваніи русской словесности, чѣмъ для ученика, для котораго она вдается въ слишкомъ большія подробности.</p>
+<empty-line/>
+<p><emphasis>"Русская Мысль", кн. V, 1886</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

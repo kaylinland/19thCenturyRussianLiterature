@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Федор</first-name>
+			<middle-name>Михайлович</middle-name>
+			<last-name>Достоевский</last-name>
+		</author>
+		<book-title>И. Д. Якубович. Неизвестный отзыв о повести &quot;Дядюшкин сон&quot;</book-title>
+<annotation></annotation>		<date value="2012-10-03">03/10/2012</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 02:50:12</date>
+		<src-url>http://az.lib.ru/d/dostoewskij_f_m/text_1983_neizvestny_otzyv.shtml</src-url>
+		<id>samlib58f4abf4d0c713.98826673</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Достоевский Федор Михайлович</p>
+	<empty-line/>
+	<p>И. Д. Якубович. Неизвестный отзыв о повести &quot;Дядюшкин сон&quot;</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>И. Д. Якубович</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Неизвестный отзыв о повести "Дядюшкин сон"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Достоевский. Материалы и исследования. Вып. 5</p>
+<p>Л., "НАУКА" 1983</p>
+<empty-line/>
+<p>"Дядюшкин сон" -- первое произведение, с которым Достоевский выступил в печати после каторги. Отзывы о повести, конечно, очень интересовали его. Достоевский неоднократно просил брата передавать ему все мнения: "...прошу тебя, исполни мою просьбу, напиши мне все, что услышишь без утайки о моем романе &lt;...&gt; Пойми, что это для меня чрезвычайно интересно" (П., I, 245). В комментариях к "Дядюшкиному сну" отмечается, что повесть по выходе в свет осталась незамеченной критикой, не было и позднейших прижизненных откликов на нее (2, 514).</p>
+<p>Летом 1859 г. Достоевский в письмах к старшему брату дважды упоминает газету "Le Nord": "Я не получил Le Nord..."; "... получил 2 письма. Первое от Милюкова, с статьей в "Le Nord"... Мне очень хочется ему как можно скорее ответить" (П., II, 599, 600).</p>
+<p>"Le Nord" издавалась в Брюсселе. Это была "международная" газета. В каждом ее номере имелся раздел новостей из России. Здесь в No 119 от 29 апреля 1859 г. среди разных новостей из Петербурга имелось сообщение о выходе нового произведения Достоевского "Дядюшкин сон": "C'est avec une grande satisfaction que nous avons trouvé dans "La Parole russe" ("Rousskoë slovo") un roman de Théodore Dostoëvskii "Un rêve de mon oncle" ("Diaduchkin sone"). Il y a juste dix ans déjà que l'auteur des ..Pauvres gens" ne nous avai plus rien donné. Il est toujours, comme par le passé, humoriste plein de verve et de sensibilité. Il paraît même qu'avec l'âge<emphasis> </emphasis>et l'expérience il a appris "à considérer la vie sons un aspect moins triste et moins noir. Il y a plus d'air dans ses tableaux et moins de teintes sombres et de tristesse".1</p>
+<p>Дальше автор статьи подробно излагает сюжет повести. Заканчивается отзыв словами: "Les rédacteurs de <emphasis>la Parole Russe </emphasis>nous promettent dans une do leur prochaines livraisons un nouveau roman du même auteur".2 Этот первый и единственный отклик был, по всей вероятности, написан А. Н. Милюковым. На это указывает, во-первых, заключающее статью сообщение о выходе его собственной книги: "On dit aussi qu'ils ont fait l'acquisition des impressions de voyage de Milioukoff, qui auront, je crois pour Litre "Athènes et Constantinople"";3 во-вторых (и главное), Милюков послал помер именно у той газеты Достоевскому.</p>
+<empty-line/>
+<p>1 "C огромным удовлетворением мы нашли в "Русском слове" напечатанным роман Федора Достоевского "Дядюшкин сон". Прошло уже целых десять лет, как автор "Бедных людей" не выступал перед публикой. Как и раньше, он -- юморист, полный воодушевления и чувствительности. Кажется даже, что с голами и испытаниями он научился смотреть на жизнь менее печально и менее мрачно. В его картинах чувствуется более воздуху, меньше темных и печальных черт" <emphasis>(франц.).</emphasis></p>
+<p>2 "Редакторы "Русского слова" обещают нам в следующих книгах новый роман того же автора" <emphasis>(франц.).</emphasis></p>
+<p>3 "Говорят также, что они (редакторы, -- <emphasis>И. Я.) </emphasis>приобрели книгу впечатлений Милюкова о его путешествии, Они появятся, по-видимому, под заглавием: "Афины и Константинополь"" <emphasis>(франц.).</emphasis></p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

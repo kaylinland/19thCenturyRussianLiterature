@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Федор</first-name>
+			<middle-name>Михайлович</middle-name>
+			<last-name>Достоевский</last-name>
+		</author>
+		<book-title>Дополнение к списку &quot;Дарственные надписи на книгах и фотографиях 1847-1881 годов&quot;</book-title>
+<annotation></annotation>		<date value="2013-07-09">09/07/2013</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 02:50:16</date>
+		<src-url>http://az.lib.ru/d/dostoewskij_f_m/text_1879_nadpis.shtml</src-url>
+		<id>samlib58f4abf878d373.42991838</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Достоевский Федор Михайлович</p>
+	<empty-line/>
+	<p>Дополнение к списку &quot;Дарственные надписи на книгах и фотографиях 1847-1881 годов&quot;</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+<p>Достоевский. Материалы и исследования. Т. 11</p>
+<p>Спб., "Наука", 1994</p>
+<empty-line/>
+<empty-line/>
+<p>Дополнение к списку "Дарственные надписи на книгах и фотографиях 1847--1881 годов"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Е. П. Рохель</p>
+<empty-line/>
+<empty-line/>
+<p>Катерине Прокофьевне Рохель от автора на память.</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>На титульном листе книги </emphasis>"Униженные и оскорбленные. Роман в четырех частях с эпилогом Ф. М. Достоевского. Пятое издание, СПб., 1879".</p>
+<empty-line/>
+<p>Печатается по автографу: ИРЛИ.</p>
+<p>Впервые: Ежегодник Рукописного отдела Пушкинского Дома. 1972. Л., 1974. С. 68.</p>
+<p>Екатерина Прокофьевна Рохель -- жена директора Старорусских минеральных вод доктора А. А. Рохеля. Достоевские познакомились с ним весной 1872 г., когда доктор Рохель, по совету отца Иоанна Румянцева, был приглашен как врач к дочери Достоевского, сломавшей руку (см.: <emphasis>Достоевская А. Г. Воспоминания. </emphasis>С. 223--224). В дальнейшем между семьями установились дружеские отношения. Имена А. А. и Е. П. Рохелей много раз упомянуты в переписке Достоевского с женой за 1875--1880 годы.</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

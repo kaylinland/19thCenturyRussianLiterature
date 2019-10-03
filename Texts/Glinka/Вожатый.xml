@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sf</genre>
+		<author>
+			<first-name>Федор</first-name>
+			<middle-name>Николаевич</middle-name>
+			<last-name>Глинка</last-name>
+		</author>
+		<book-title>Вожатый</book-title>
+<annotation></annotation>		<date value="2011-01-24">24/01/2011</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-03-02">2018-03-02 01:56:18</date>
+		<src-url>http://az.lib.ru/g/glinka_f_n/text_0280oldorfo.shtml</src-url>
+		<id>samlib5a992dd243d097.53729302</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Глинка Федор Николаевич</p>
+	<empty-line/>
+	<p>Вожатый</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+<p>СѢВЕРНЫЕ</p>
+<p>цвѣты</p>
+<p>на 1826 годъ,</p>
+<p>СОБРАННЫЕ</p>
+<p>Барономъ Дельвигомъ.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ИЗДАНЫ</p>
+<p>Иваномъ Слёнинымъ.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ВЪ САНКТПЕТЕРБУРГѢ,</p>
+<p>у книгопродавца Ивана Слёнина.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ВОЖАТЫЙ.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Однажды въ сумерки, когда я находился въ бездейственной задумчивости между сномъ и бдѣніемъ, <emphasis>Онъ </emphasis>явился ко мнѣ. Чрезъ затворенную дверь вошелъ онъ въ комнату, схватилъ меня за руку и широкими шагами повелъ, все прямо, въ далекій путь. Мы подходили къ лѣсамъ: они предъ нами разступались; приближались къ стѣнамъ: онѣ раздвигались; мы взлетали на горы, спускались въ пропасти земныя: вездѣ намъ мостились мосты, вездѣ ожидали челноки самоходы...... <emphasis>Чудесный </emphasis>вводилъ меня даже во внутренность огромныхъ камней, подъ поддоніе рѣкъ и показывалъ составъ деревъ подъ ихъ корою...... Повсюду жизнь и бытіе; вездѣ я видѣлъ духъ жизни; онъ развивалъ нѣжные стебельки цвѣтовь; онъ двигалъ жизнь по грубымъ жиламъ гранита; онъ пролеталъ, какъ молнія, нѣдра земли и зараждалъ металлы...... Я виделъ таинства природы и тайныя общества человѣковъ: все обошелъ, облетѣлъ, видѣлъ, не зная самъ, кто былъ мой вожатый, крылатый, какъ Меркурій. И теперь друзья говорятъ мнѣ; ты быль водимъ <emphasis>воображеніемъ.</emphasis></p>
+<empty-line/>
+<p><emphasis>Ѳ. Глинка.</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

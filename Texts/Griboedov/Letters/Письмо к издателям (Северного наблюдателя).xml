@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Сергеевич</middle-name>
+			<last-name>Грибоедов</last-name>
+		</author>
+		<book-title>Письмо к издателям (&quot;Северного наблюдателя&quot;)</book-title>
+<annotation></annotation>		<date value="2015-05-16">16/05/2015</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-12-19">2017-12-19 01:01:43</date>
+		<src-url>http://az.lib.ru/g/griboedow_a_s/text_1817_pismo_k_izdatelu_severnogo_nabl.shtml</src-url>
+		<id>samlib5a38e387388dc3.19005381</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Грибоедов Александр Сергеевич</p>
+	<empty-line/>
+	<p>Письмо к издателям (&quot;Северного наблюдателя&quot;)</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>А.</strong><strong> </strong><strong>С. Грибоедов</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Письмо к издателям &lt;"Северного наблюдателя"&gt;</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Вчерась я был в концерте, который давала недавно приехавшая сюда первая гамбургская певица г-жа Бекер. Вот несколько замечаний, сделанные мною о голосе и искусстве сей известной певицы; надеюсь, вы не откажетесь поместить их в вашем журнале.</p>
+<p>Если талант состоит в побежденной трудности, то г-жа Бекер должна быть поставлена наряду с величайшими артистами нашего времени. Имея от природы все способы, необходимо нужные для хорошей певицы, голос сильный и необыкновенно высокий, она трудом своим приобрела искусство владеть им с удивительною свободою; переходы ее из <emphasis>грудного</emphasis> голоса в <emphasis>горловой</emphasis> (voix de gosier) совершенно неприметны. Уменьшение и прибавление голоса (cresc. sforz.), рулады, триллеры и все, что есть трудное для пения, выполняет она, так сказать, с <emphasis>математическою</emphasis> точностию; со всем тем, истинные любители музыки не всегда будут довольны ее пением. В быстрых пассажах, стараясь не пропустить ни одной ноты, она до такой степени усиливает голос, что выходит уже не пение, а крик самый неприятный для слуха; беспрестанные рулады, часто некстати ею прибавляемые, делают из всякой пиесы какой-то ученический exercice, в котором нельзя даже видеть и мысли композитора. Из шести пиес, ею петых, я слушал с особенным удовольствием гишпанский романс сочинения Пиантанида, в котором г-жа Бекер, переставши <emphasis>удивлять</emphasis> слушателей, заслужила всеобщее одобрение.</p>
+<empty-line/>
+<p>Августа 14 дня, N.</p>
+<p>1817 года</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>Впервые опубликовано: "Северный наблюдатель". 1817. Ч. I. No 8. С. 273 - 274. </emphasis></p>
+<p><emphasis>Исходник: http://dugward.ru/library/griboedov/griboedov_pismo_k_izdatelu_severnogo_nabl.html</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

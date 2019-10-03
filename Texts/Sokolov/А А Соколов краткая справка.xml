@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Алексеевич</middle-name>
+			<last-name>Соколов</last-name>
+		</author>
+		<book-title>А. А. Соколов: краткая справка</book-title>
+<annotation></annotation>		<date value="2011-08-18">18/08/2011</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-06-21">2018-06-21 11:07:20</date>
+		<src-url>http://az.lib.ru/s/sokolow_a_a/text_0020.shtml</src-url>
+		<id>samlib5b2b5cb8d32526.47011130</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Соколов Александр Алексеевич</p>
+	<empty-line/>
+	<p>А. А. Соколов: краткая справка</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Соколов</strong> (<strong>Александр Алексеевич</strong>)</p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>-- журналист, драматург и романист, род. в 1840 г.; воспитание получил в СПб. театральном училище и выступал как актер. В 1854 г. напечатал драму "Самоотвержение русского народа" и с конца 1850 годов стал помещать статьи по театру и небольшие рассказы в органах мелкой прессы (под псевд. "Не спрашивай, кто я" и "Театральный нигилист"). В 1867 г. напечатал роман "Театральные болота" (выдержал четыре издания и переведен на немецкий язык), за которым последовали: "Сестра Милосердия", "Бескровное убийство", "Отец Алексей из-за Озерья", "Крестник Петра Великого", "Царь Баба", "Сельцо Отрадное", "На суд присяжных", "Белый Генерал" (перев. на франц. яз.) и др., всего более 50. Кроме романов С. написано 760 мелких рассказов и повестей, 9 драм, 5 комедий и 17 мелких драматических произведений и до 500 басен, подписанных псевдонимом "Некрылов". В 1868 г. стал во главе почти не имевшего подписчиков "Петербургского Листка" и довел его до 10000 экз. С 1880-х годов перешел в "Петербургскую Газету", где под разными псевдонимами ежедневно помещает юмористические статейки и стихи. С. издавал и редактировал газету "Суфлер" (см.).</p>
+<empty-line/>
+<p>Источник текста: Энциклопедический словарь Брокгауза и Ефрона.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

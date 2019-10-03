@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>children</genre>
+		<author>
+			<first-name>Василий</first-name>
+			<middle-name>Андреевич</middle-name>
+			<last-name>Жуковский</last-name>
+		</author>
+		<book-title>Письмо Императору Николаю Павловичу</book-title>
+<annotation></annotation>		<date value="2018-09-10">10/09/2018</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-09-10">2018-09-10 07:30:33</date>
+		<src-url>http://az.lib.ru/z/zhukowskij_w_a/text_1837_pismo_nikolayu_oldorfo.shtml</src-url>
+		<id>samlib5b961d99b75a85.54652561</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Жуковский Василий Андреевич</p>
+	<empty-line/>
+	<p>Письмо Императору Николаю Павловичу</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Письмо В. А. Жуковскаго Императору Николаю Павловичу.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p> Основываясь на томъ, что я имѣлъ счастье лично слышать отъ Вашего Императорскаго Величества, я увѣдомилъ Министра Народнаго Просвѣщенія, что Ваше Величество насчетъ изданія сочиненій Пушкина соизволили изъявить мнѣ слѣдующее: "сочиненія уже напечатанныя пропустить не подвергая ихъ новому разбору; сочиненія еще ненапечатанныя отослалъ въ цензуру для разбора по установленному порядку; всѣ рукописи, касающіяся доисторіи Петра Великаго, предварительно представить Вашему Императорскому Величеству". Будучи принужденъ, по причинѣ отъѣзда своего, поспѣшить сдѣлать всѣ нужныя распоряженія для начала изданія, о коемъ уже объявленіе публиковано, осмѣливаюсь просить Ваше Императорское Величество благоволить подтвердить Вашу Высочайшую мнѣ изъявленную Волю, дабы Министръ Просвѣщенія могъ немедленно дать приказаніе о выдачѣ мнѣ экземпляра печатныхъ сочиненій Пушкина, представленнаго мною въ Цензуру для надлежащаго подписанія.</p>
+<empty-line/>
+<p>Дѣйствительный статскій совѣтникъ <strong>Жуковскій.</strong></p>
+<empty-line/>
+<empty-line/>
+<p> 5 апрѣля.</p>
+<p> 1837 г.</p>
+<p> На этомъ письмѣ собственноручная резолюція Императора Николая: "Нѣтъ затрудненій".</p>
+<empty-line/>
+<p>(Съ подлинника изъ коллекціи Э. П. Юргенсона).</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>"Современникъ", кн. IX, 1913</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

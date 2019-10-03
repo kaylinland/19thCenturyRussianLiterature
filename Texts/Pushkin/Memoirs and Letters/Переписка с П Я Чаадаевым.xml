@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>children</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Сергеевич</middle-name>
+			<last-name>Пушкин</last-name>
+		</author>
+		<book-title>Переписка с П. Я. Чаадаевым</book-title>
+<annotation></annotation>		<date value="2014-03-25">25/03/2014</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 06:54:04</date>
+		<src-url>http://az.lib.ru/p/pushkin_a_s/text_1836_perepiska_s_chaadaevym.shtml</src-url>
+		<id>samlib58f4e51c615c66.53242677</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Пушкин Александр Сергеевич</p>
+	<empty-line/>
+	<p>Переписка с П. Я. Чаадаевым</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+<p>Переписка А. С. Пушкина</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>А. С. Пушкин и П. Я. Чаадаев</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Переписка А. С. Пушкина. В 2-х т. Т. 2</p>
+<p>М., "Художественная литература", 1982. (Переписка русских писателей)</p>
+<p>OCR Ловецкая Т. Ю.</p>
+<empty-line/>
+<empty-line/>
+<p>Содержание</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>П. Я. Чаадаев -- Пушкину. Март--апрель 1829 г. Москва</p>
+<p>Пушкин -- П. Я. Чаадаеву. 2 января 1831 г. Москва</p>
+<p>П. Я. Чаадаев -- Пушкину. 17 июня 1831 г. Москва</p>
+<p>Пушкин -- П. Я. Чаадаеву. 6 июля 1831 г. Царское Село</p>
+<p>П. Я. Чаадаев -- Пушкину. 7 июля 1831 г. Москва</p>
+<p>П. Я. Чаадаев -- Пушкину. 18 сентября 1831 г. Москва</p>
+<p>П. Я. Чаадаев -- Пушкину. Первая половина мая 1836 г. Москва</p>
+<p>Пушкин -- П. Я. Чаадаеву. 19 октября 1836 г. Петербург</p>
+<empty-line/>
+<p>Дружеские и эпистолярные отношения Пушкина с Петром Яковлевичем Чаадаевым (1794--1856) представляют поучительную страницу истории русской литературы и общественной мысли. С будущим автором "Философических писем" Пушкин познакомился летом 1816 года в царскосельском домике Карамзина,-- Чаадаев служил тогда корнетом лейб-гвардии гусарского полка, который был расквартирован в Царском Селе. Встречался Пушкин с Чаадаевым и после окончания Лицея, до своей ссылки на юг. Чаадаев участвовал в хлопотах о смягчении участи Пушкина, в результате которых поэт был переведен на службу в Бессарабию.</p>
+<p>Личность Чаадаева, беседы с ним на политические и литературные темы отразились в трех посланиях Пушкина: "Любви, надежды, тихой славы..." (1818), "В стране, где я забыл тревоги прежних лет..." (1821), "К чему холодные сомненья..." (1824) и в надписи "К портрету Чаадаева" (1820):</p>
+<empty-line/>
+<p>      Он вышней волею небес</p>
+<p>      Рожден в оковах службы царской;</p>
+<p>Он в Риме был бы Брут, в Афинах Периклес,</p>
+<p>А здесь он -- офицер гусарской.</p>
+<empty-line/>
+<p>В марте 1821 года Чаадаев, член Союза Благоденствия, ушел в отставку, сбросил гусарский мундир и стал вести партикулярный образ жизни. Несколько лет он жил за границей, и, вероятно, только отсутствие 14 декабря 1825 года в России спасло его от ссылки в Сибирь. Арестованный в августе 1826 года при возвращении на родину, Чаадаев был освобожден за неимением явных улик. Вскоре, в сентябре 1826 года, возобновились его встречи с Пушкиным в литературных салонах Москвы.</p>
+<p>К сожалению, большую часть писем Пушкина Чаадаев сжег зимой 1836 года, когда он подвергся правительственному гонению за опубликование первого "Философического письма"; до нас дошло лишь три письма поэта к Чаадаеву и пять писем Чаадаева к Пушкину. Но и то, что сохранилось, дает ясное представление об интенсивности и накаленности их эпистолярных бесед.</p>
+<p>Поражение декабристов на Сенатской площади вызвало бурные идеологические процессы, стимулировало новые философские и историко-философские поиски. И одно из первых мест в этом круговороте идей принадлежит Чаадаеву. Отвергая духовную нищету самодержавия, презирая раболепие православной церкви перед светской властью, Чаадаев обратил свои взоры к Ватикану; он полагал, что могущественное по своему влиянию на общество католичество может спасти человечество от произвола и притеснений государственной власти, обеспечит победу духовного над материальным. Утвердившись в этой мысли, Чаадаев стал бесстрашно отвергать все то, что мешало, по его мнению, торжеству католической веры. В "Философических письмах", написанных в конце 1820-х годов, московский философ безжалостно "расправляется" с античной культурой, резко порицает реформацию на Западе и православие в России. Он грезит о грядущей "революции духа", мечтает стать мессией, пророком, которому суждено спасти "сбившуюся с пути Россию", и пытается завербовать под свои знамена Пушкина. В письмах за 1829--1831 годы Чаадаев настоятельно призывает поэта познать "тайну века", обратиться "с призывом к небу" и найти обильную "поэтическую пищу" в назревающем духовном перевороте. Однако Пушкин отказывается идти по его стопам и последовательно отвергает его постулаты. В письме от 6 июля 1831 года поэт заступается за Гомера и Марка Аврелия, не принимает уничижительных оценок "исторических памятников" античности. Не соглашается Пушкин и с запальчивыми нападками Чаадаева на протестантизм; поэт возражает против возвеличивания римской церкви, которая, по мысли Чаадаева, является единственной достойной представительницей христианства.</p>
+<p>Эпистолярный поединок 1831 года нашел свое логическое завершение пять лет спустя, когда Пушкин высказал свое нелицеприятное, четко аргументированное мнение о первом "Философическом письме", опубликованном в "Телескопе". Политическая реакция, наступившая после разгрома декабристского движения, наложила мрачный, глубоко пессимистический отпечаток на историко-философскую концепцию Чаадаева, который писал: "Мы живем одним настоящим в самых тесных его пределах, без прошедшего и будущего, среди мертвого застоя". Соглашаясь с Чаадаевым в отвержении духовной атмосферы николаевского царствования, Пушкин категорически возражает автору первого "Философического письма", когда тот обращается к историческому прошлому России; в письме от 19 октября 1836 года Пушкин несколькими емкими фразами показал, что русская история не "бледный и полузабытый сон", не апофеоз "исторической ничтожности", а неодолимый процесс создания могущественного государства, оградившего европейскую цивилизацию от внешних опасностей. Письменная полемика Пушкина с Чаадаевым по широкому кругу историко-философских вопросов являлась составной частью ожесточенных споров об исторических судьбах России, о проблеме "Россия и Запад", которые происходили среди писателей пушкинского круга в первой половине 1830-х годов.</p>
+<empty-line/>
+<empty-line/>
+<p>П. Я. ЧААДАЕВ -- ПУШКИНУ</p>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<p><emphasis>Март </emphasis>-- <emphasis>апрель 1829 г. Моста</emphasis></p>
+<empty-line/>
+<p>Mon vœu le plus ardent, mon ami, est de vous voir initié au mystère du temps. Il n'y pas de spectacle plus affligeant dans le monde moral que celui d'un homme de génie méconnaissant son siècle et sa mission. Quand on voit celui qui doit dominer les esprits, se laisser dominer lui-même par les habitudes et les routines de la populace, on se sent soi-même arrêté dans sa marche; on se dit, pourquoi cet homme m'empêche-t-il de marcher, lui qui doit me conduire ? C'est vraiment ce qui m'arrive, toutes les fois que je songe à Vous, et j'y songe si souvent que j'en suis tout fatigué. Laissez-moi donc marcher, je vous prie. Si vous n'avez pas la patience de Vous instruire de ce qui se passe dans le monde, rentrez en vous-même et tirez de votre propre intérieur la lumière qui se trouve immanquablement dans toute âme faite comme la vôtre. Je suis convaincu que vous pouvez faire un bien infini à cette pauvre Russie égarée sur îa terre. Ne trompez pas votre destinée, mon amil.<emphasis> </emphasis>Depuis quelque temps on lit le russe partout; vous savez que M. Boul-garine a été traduit2, et placé à la suite de M. de Joui;3 quant à vous, il n'y a pas de cahier de la Revue où il ne s'agisse de vous; je trouve le nom de mon ami Goulianof4 prononcé avec respect dans un gros volume, et le fameux Klaproth5 lui décernant une couronne Egyptienne; je crois vraiment qu'il a fait chanceler les pyramides sur leurs bases. Voyez ce que vous pouvez Vous faire de gloire. <emphasis>Jetiez un cri vers le ciel,</emphasis>-- il vous répondra.</p>
+<p>Je vous dis tout cela, comme vous voyez, à l'occasion d'un livre que je vous envoie6. Comme il y a là un peu de tout, il réveillera peut-être en vous quelques bonnes idées. Bonjour, mon ami. Je vous dis comme ce Mahomet disait à ses Arabes,-- ah si vous saviez!</p>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<p><emphasis>ПЕРЕВОД</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Мое самое ревностное желание, друг мой, -- видеть вас посвященным в тайну века. Нет в мире духовном зрелища более прискорбного, чем гений, не понявший своего века и своего призвания. Когда видишь, что человек, который должен господствовать над умами, склоняется перед повадками и косностью черни, чувствуешь, что сам останавливаешься в пути. Спрашиваешь себя: почему человек, который должен указывать мне путь, мешает мне идти вперед? Право, это случается со мной всякий раз, когда я думаю о вас, а думаю я о вас так часто, что устал от этого. Дайте же мне возможность идти вперед, прошу вас. Если у вас не хватает терпения следить за всем, что творится на свете, углубитесь в самого себя в в своем внутреннем мире найдите свет, который, безусловно, кроется во всех душах, подобных вашей. Я убежден, что вы можете принести бесконечное благо этой бедной, сбившейся с пути России. Не измените своему предназначению, друг мой1. С некоторых пор русских читают повсюду; вам известно, что был переведен г-н Булгарин2 и помещен вслед за г-ном де Жуи;3 о вас же речь идет в каждом выпуске Обозрения; в одной толстой книге почтительно упоминается имя моего приятеля Гульянова4, а знаменитый Клапрот5<emphasis> </emphasis>присуждает ему египетский венок; мне, право, кажется, что он поколебал основания пирамид. Представьте же себе, какой славы можете добиться вы. <emphasis>Обратитесь с призывом к небу,</emphasis>-- оно откликнется.</p>
+<p>Как видите, я говорю все это по случаю посылаемой вам книги5. Так как в ней -- обо всем понемногу, то, может быть, она наведет вас на удачные мысли. Прощайте, друг мой. Скажу вам, как Магомет говорил своим арабам -- ах, если б вы знали!</p>
+<p><emphasis></emphasis></p>
+<p>-- -- -- <emphasis></emphasis></p>
+<p><emphasis>Анненков, </emphasis>с.<emphasis> </emphasis>88 (частично, в переводе); <emphasis>Переписка, </emphasis>т. II, с. 90--91; <emphasis>Акад., </emphasis>XIV, No 411.</p>
+<p>1 Чаадаев, охваченный идеей мессианизма, вероятно, полагал, что автор "Подражаний Корану" мог бы под его идейным влиянием стать "духовным" писателем, провозвестником того религиозного обновления, которое представлялось Чаадаеву необходимым для спасения "сбившейся с пути России".</p>
+<p>2 По-видимому, имеется в виду французский перевод романа Булгарина "Иван Выжигин" -- "Ivan Wyjighine ou le Gilblas russe" (Paris, 1829) ("Иван Выжигин, или Русский Жнлблаз").</p>
+<p>3 Французский писатель Виктор Жозеф Жуи (1764--1846), автор книг "L'Hermite de la Chaussée d'Antiii" (1812) ("Отшельник с улицы Дантен"), "Les Hermites eu prison" (1823) ("Отшельники в тюрьме").</p>
+<p>4<emphasis> Гулъянов </emphasis>Иван Александрович (1789--1841) --дипломат, египтолог, автор статей о дешифровке иероглифов; известен рисунок Пушкина, на котором поэт изобразил египетскую пирамиду, с надписью Гульянова: "Начертано поэтом Александром Пушкиным во время разговора, которой я имел с ним сегодня утром о моих трудах вообще и об иероглифических знаках в частности. Москва 13/25 декабря 1831".</p>
+<p>5 <emphasis>Клапрот </emphasis>Генрих Юлиус (1783--1835) -- немецкий ориенталист.</p>
+<p>6 Вероятно, Чаадаев посылал Пушкину двухтомное сочинение историка и публициста Жана Пьера Фредерика Ансильона (1762--1837) "Pensées sur l'homme, ses rapports et ses intérêts" (Berlin, 1829) ("Размышления о человеке, его связях и интересах"). Это сочинение, на страницах которого имеются пометы Чаадаева, сохранилось в библиотеке Пушкина.</p>
+<empty-line/>
+<empty-line/>
+<p>ПУШКИН -- П. Я. ЧААДАЕВУ</p>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<p><emphasis>2 января 1831 г. Москва</emphasis></p>
+<empty-line/>
+<p>Voici, mon ami, celui de mes ouvrages que j'aime le mieux. Vous le lirez, puisqu'il est de moi -- et vous m'en direz votre avis 1. En attendant, je vous embrasse et vous souhaite une bonne année.</p>
+<p>2 Janvier.</p>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<p><emphasis>ПЕРЕВОД</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Вот, друг мой, мое любимое сочинение. Вы прочтете его, так как оно написано мною -- и скажете свое мнение о нем1<emphasis>. </emphasis>Покамест обнимаю вас и поздравляю с Новым годом.</p>
+<empty-line/>
+<p>-- -- --</p>
+<p><emphasis>С</emphasis>, 1856, No VII, июль, отд. V, с. 8 (в некрологе П. Я. Чаадаеву); <emphasis>Акад., </emphasis>XIV, No 556.</p>
+<p>1 Письмо написано на авантитуле книги: "Борис Годунов. Сочинение Александра Пушкина. Санкт-Петербург. 1831". Отзыва Чаадаева о трагедии Пушкина не сохранилось.</p>
+<empty-line/>
+<empty-line/>
+<p>П. Я. ЧААДАЕВ -- ПУШКИНУ</p>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<p><emphasis>17 </emphasis><emphasis>июня</emphasis><emphasis> 1831 </emphasis><emphasis>г</emphasis><emphasis>. </emphasis><emphasis>Москва</emphasis></p>
+<empty-line/>
+<p>Eh bien, mon ami, qu'est devenu mon manuscrit?1<emphasis> </emphasis>Point de nouvelles de vous depuis votre départ. J'ai d'abord hésité de vous écrire pour vous en parler, voulant, selon mon usage, laisser faire au temps son affaire; mais après réflexion, j'ai trouvé que pour cette fois le cas était différent. J'ai, mon ami, achevé tout ce que j'avais à faire, j'ai dit tout ce que j'avais à dire: il me tarde d'avoir tout cela sous la main. Faites donc en sorte, je vous prie, que je n'attende pas trop longtemps mon ouvrage, et écrivez-moi bien vite ce que vous en avez fait. Vous savez de quoi il s'agit pour moi? Ce n'est point de l'effet ambitieux, mais de l'effet utile. Ce n'est pas que je n'eusse désiré sortir un peu de mon obscurité, attendu que ce serait un moyen de donner cours à la pensée que je crois avoir été destiné à livrer au monde; mais la grande préoccupation de ma vie, c'est de compléter cette pensée dans l'intérieur de mon âme et d'en faire mon héritage.</p>
+<p>Il est malheureux, mon ami, que nous ne soyons pas arrivés à nous joindre dans la vie. Je persiste à croire que nous dévions marcher ensemble et qu'il en aurait résulté quelque chose d'utile et pour nous et pour autrui. Ce retour m'est venu à l'esprit, depuis que je vais quelquefois, devinez où?-- au club anglais. Vous y alliez, me disiez-vous; je vous y aurais rencontré, dans ce local si beau, au milieu de ces colonnades si grecques, à l'ombre de ces beaux arbres; la puissance d'effusion de nos esprits n'aurait pas manqué à se produire d'elle-même. J'ai éprouvé souvent chose semblable.</p>
+<p>Bon jour, mon ami. Ecrivez-moi en russe; il ne faut pas que vous parliez d'autre langue que celle de votre vocation. J'attends de vous une bonne longue lettre; parlez-moi de tout ce que vous voudrez: tout m'intéressera venant de vous. Il faut nous mettre en train; je suis sûr que nous trouverons mille choses à nous dire. A vous et bien à vousf du fond de mon âme.</p>
+<empty-line/>
+<p>Tchadaieff.</p>
+<empty-line/>
+<empty-line/>
+<p>17 juin.</p>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<p><emphasis>ПЕРЕВОД</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ну что же, друг мой, куда девалась моя рукопись?1<emphasis> </emphasis>Я не имею от вас известий со дня вашего отъезда. Сначала я не хотел писать вам о ней, решив, согласно моим правилам, предоставить все течению времени; но, размыслив, рассудил, что на этот раз дело обстоит иначе. Я, друг мой, завершил все, что обязан был сделать, сказал все, что имел сказать: мне не терпится иметь все это под рукой. Постарайтесь, пожалуйста, чтобы мне не пришлось долго ждать моего сочинения, и напишите мне поскорее, что вы с ним сделали. Вы знаете, к чему я стремлюсь. Мною руководит не честолюбие, а желание принести пользу. Это не значит, что мне не хотелось бы выйти немного из неизвестности; ведь это -- средство дать распространение мысли, которую, я думаю, мне предопределено открыть миру; но главная забота моей жизни -- это выносить эту мысль в глубине души и сделать ее своим наследием.</p>
+<p>Очень жаль, друг мой, что нам не удалось соединить наши жизненные пути. Я продолжаю думать, что мы должны были идти об руку и из этого получилось бы нечто полезное и для нас, и для других. Мне опять приходит это в голову с тех вор, как я стал иногда ходить -- угадайте куда? -- в Английский клуб. Вы говорили мне, что бывали там, я мог встретиться с вами "этом прекрасном помещении, среди колоннад, так похожих на греческие, в тени прекрасных деревьев; это обязательно повлекло бы эа собой мощный обмен мыслей. Я часто испытывал нечто подобное.</p>
+<p>Будьте здоровы, друг мой. Пишите мне по-русски; вы должны говорить только на языке своего призвания. Я жду от вас хорошего длинного письма; пишите мне обо всем, о чем пожелаете; все, что исходит от вас, будет мне интересно. Надо только начать; я уверен, что у нас найдется тысяча вещей, чтобы рассказать друг другу.</p>
+<p>Ваш, весь ваш, от всего сердца.</p>
+<empty-line/>
+<p><emphasis>Чаадаев.</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>17 июня.</p>
+<p><emphasis></emphasis></p>
+<p>-- -- -- <emphasis></emphasis></p>
+<p><emphasis>РА, </emphasis>1881, кн. I, с. 429--430; <emphasis>Акад., </emphasis>XIV, No 613.</p>
+<p>1 Уезжая из Москвы в Петербург в середине мая 1831 г., Пушкин взял с собою часть "Философических писем" Чаадаева; поэт полагал, что ему удастся их напечатать. Подробнее об этом см. в их последующей переписке.</p>
+<empty-line/>
+<empty-line/>
+<p>ПУШКИН -- П. Я. ЧААДАЕВУ</p>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<p><emphasis>6 </emphasis><emphasis>июля</emphasis><emphasis> 1831 </emphasis><emphasis>г</emphasis><emphasis>. </emphasis><emphasis>Царское</emphasis><emphasis> </emphasis><emphasis>Село</emphasis></p>
+<empty-line/>
+<p>Mon ami, je vous parlerai la langue de l'Europe1, elle m'est plus familière que la nôtre, et nous continuerons nos conversations, commencées jadis à Sarsko-Sélo et si souvent interrompues.</p>
+<p>Vous savez ce qui nous arrive; à Pétersbourg le peuple s'est imaginé qu'on l'empoisonnait2. Les gazettes s'épuisent en semonces et en protestations, malheureusement le peuple ne sait pas lire, et les scènes de sang sont prêtes à se renouveler. Nous sommes cernés à Sarsko-Sélo et à Pavlovsky et nous n'avons aucune communication avec Pétersbourg. Voilà pourquoi je n'ai vu ni Bloudof3, ni Bellizard4. Votre manuscrit est toujours chez moi5; voulez-vous que je vous le renvoyé? mais qu'en ferez-vous à Necropolis?6 laissez-le moi encore quelque temps. Je viens de le relire. Il me semble que le commencement est trop lié à des conversations antécédentes, à des idées antérieurement développées, bien claires et bien positives pour vous, mais dont le lecteur n'est pas au fait. Les premières pages sont donc obscures et je crois que vous feriez bien d'y substituer une simple note, ou bien d'en faire un extrait. J'étais prêt à vous faire remarquer aussi le manque d'ordre et de méthode de tout le morceau, mais j'ai fait réflexion que c'est une lettre, et que le genre excuse et autorise cette négligence et ce laisser-aller. Tout ce que vous dites de Moïse, de Rome, d'Aristote, de l'idée du vrai Dieu, de l'Art antique, du protestantisme est admirable de force, de vérité ou d'éloquence. Tout ce que est portrait et tableau est large, éclatant, grandiose. Votre manière de concevoir l'histoire m'étant tout à fait nouvelle, je ne puis toujours être de votre avis; par exemple je ne conèois pas votre aversion pour Marc-Aurèle, ni votre prédilection pour David (dont j'admire les psaumes, si toutefois ils sont de lui). Je ne vois pas pourquoi la peinture forte et naïve du Polythéisme vous indignerait dans Homère7. Outre son mérite poétique, c'est encore, d'après votre propre aveu, un grand monument historique. Ce que l'Illiade offre de sanguinaire, ne se retrouve-t-il pas dans la Bible? Vous voyez l'unité Chrétienne dans le Catholicisme, c'est à dire dans le Pape. -- N'est-elle pas dans l'idée du Christ, qui se retrouve aussi dans le protestantisme. L'idée première fut monarchique; elle devint républicaine. Je m'exprime mal, mais vous me comprendrez. Écrivez-moi, mon ami, dussiez-vous me gronder. Il vaut mieux, dit l'Écclésiaste, entendre la correction de l'homme sage que les chansons de l'insensé8.</p>
+<empty-line/>
+<p>6 juillet S. S.</p>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<p><emphasis>ПЕРЕВОД</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Друг мой, я буду говорить с вами на языке Европы1, он мне привычнее нашего, и мы продолжим беседы, начатые в свое время в Царском Селе и так часто с тех пор прерывавшиеся.</p>
+<p>Вам известно, что у нас происходит: в Петербурге народ вообразил, что его отравляют2. Газеты изощряются в увещаниях и торжественных заверениях, но, к сожалению, народ неграмотен, и кровавые сцены готовы возобновиться. Мы оцеплены в Царском Селе и в Павловске и не имеем никакого сообщения с Петербургом. Вот почему я не видел ни Блудова3, ни Беллизара4. Ваша рукопись всё еще у меня;5<emphasis> </emphasis>вы хотите, чтобы я вам ее вернул? Но что будете вы с ней делать в Некрополе?6 Оставьте ее мне еще на некоторое время. Я только что перечел ее. Мне кажется, что начало слишком связано с предшествовавшими беседами, с мыслями, ранее развитыми, очень ясными и несомненными для вас, но о которых читатель не осведомлен. Вследствие этого мало понятны первые страницы, и я думаю, что вы бы хорошо сделали, заменив их простым вступлением или же сделав из них извлечение. Я хотел было также обратить ваше внимание на отсутствие плана и системы во всем сочинении, однако рассудил, что это -- письмо и что форма эта дает право на такую небрежность и непринужденность. Все, что вы говорите о Моисее, Риме, Аристотеле, об идее истинного бога, о древнем искусстве, о протестантизме -- изумительно по силе, истинности или красноречию. Все, что является портретом или картиной, сделано широко, блестяще, величественно. Ваше понимание истории для меня совершенно ново, и я не всегда могу согласиться с вами: например, для меня непостижимы ваша неприязнь к Марку Аврелию и пристрастие к Давиду (псалмами которого, если только они действительно принадлежат ему, я восхищаюсь). Не понимаю, почему яркое и наивное изображение политеизма возмущает вас в Гомере7. Помимо его поэтических достоинств, это, по вашему собственному признанию, великий исторический памятник. Разве то, что есть кровавого в Илиаде, не встречается также и в Библии? Вы видите единство христианства в католицизме, то есть в папе. Не заключается ли оно в идее Христа, которую мы находим также и в протестантизме? Первоначально эта идея была монархической, потом она стала республиканской. Я плохо излагаю свои мысли, но вы поймете меня. Пишите мне, друг мой, даже если бы вам пришлось бранить меня. Лучше, говорит Экклезиаст, внимать наставлениям мудрого, чем песням безумца 8.</p>
+<p>6 июля.</p>
+<p>Царское Село.</p>
+<empty-line/>
+<p>-- -- --</p>
+<p>"Le Correspondant". Nouvelle série, t. XIV, 25 juin 1860, 2-е livraison. Paris, pp. 287--288; <emphasis>ПЗ </emphasis>на 1861 год, с. 102--104 (в русском переводе); <emphasis>Акад., </emphasis>XIV, No 626.</p>
+<p>1 Ответ на письмо Чаадаева от 17 июня 1831 г.</p>
+<p>2 Волнения в Петербурге были вызваны эпидемией холеры, которая началась в столице в середине июня 1831 г.; подробнее об этом см.: <emphasis>Письма, </emphasis>т. III, с. 296--298, 300--303, 313--315.</p>
+<p>3 С помощью товарища министра народного просвещения Д. Н. Блудова Пушкин полагал получить разрешение напечатать сочинение Чаадаева.</p>
+<p>4 Имеется в виду петербургский книгопродавец и издатель Фердинанд Михайлович <emphasis>Беллизар, </emphasis>которому поэт собирался предложить издание "Философических писем" Чаадаева.</p>
+<p>5 Чаадаев передал Пушкину шестое и седьмое письма из общего числа восьми писем, составляющих корпус его эпистолярного сочинения (до восстановления всего цикла "Философических писем" письма, находившиеся у Пушкина, считались вторым и третьим). Подробнее об этом см.: Д. Шаховской, П. Я. Чаадаев -- автор "Философических писем".-- <emphasis>ЛН, </emphasis>т. 22--24, с. 6--17.</p>
+<p>6 <emphasis>Necropolis </emphasis><emphasis>-- </emphasis>"город Мертвых", как было обозначено автором в конце седьмого письма. Так Чаадаев называет Москву в "Философических письмах".</p>
+<p>7 Чаадаев полагал, "что Моисей указал людям истинного бога, между тем как Сократ завещал им лишь малодушное сомнение, что Давид -- совершенный образец самого возвышенного героизма, между тем как Марк Аврелий -- в сущности только любопытный пример искусственного величия и тщеславной добродетели. &lt;...&gt; Имя Стагирита (Аристотеля.-- <emphasis>М. Г.), </emphasis>например, будет произноситься не иначе, как с известным омерзением, имя Магомета -- с глубоким почтением. &lt;...&gt; Наконец,-- сказать ли? -- своего рода бесчестие покроет, может быть, великое имя Гомера. Приговор Платона над этим развратителем людей, подсказанный ему его религиозным инстинктом, будут признавать уже не одной из его фантастических выходок, а доказательством его удивительной способности предвосхищать будущие мысли человечества. Должен наступить день, когда имя преступного обольстителя, столь ужасным образом способствовавшего развращению человеческой природы, будет вспоминаться не иначе, как с краской стыда; когда-нибудь люди должны будут с горестью раскаяться в том, что они так усердно воскуряли фимиам этому потворщику их гнуснейших страстей, который, чтобы понравиться им, осквернил священную истину предания и наполнил их сердце грязью" (П. Я. Чаадаев. Сочинения и письма, т. II. М., 1914, с. 133--134; подлинник по-французски).</p>
+<p>8 Пушкин слегка перефразировал изречение, приведенное в ветхозаветной библейской книге: "Лучше слушать обличение от мудрого, нежели слушать песни глупых" (Екклезиаст, гл. 7, стих 5).</p>
+<empty-line/>
+<empty-line/>
+<p>П. Я. ЧААДАЕВ -- ПУШКИНУ</p>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<p><emphasis>7 июля 1831 г. Москва</emphasis></p>
+<empty-line/>
+<p>Mon cher ami, je Vous ai écrit pour vous redemander mon manuscrit ; j'attends réponse l. Je vous avoue que j'ai hâte de le ravoir; renvoyez-le moi, je vous prie, au premier jour. J'ai lieu de croire que je puis incessament en tirer parti et lui faire voir le jour avec le reste de mes écritures 2.</p>
+<p>N'auriez-Vous pas reèu ma lettre? Vu la grande calamité qui nous afflige, cela ne serait pas impossible. On me dit que Sarskoe-Sélo est intact. Je n'ai pas besoin de vous dire combien j'ai été heureux de l'apprendre. Pardonnez-moi, mon ami, de vous occuper de moi, au moment où l'ange de la mort plane si effroyablement sur la contrée que vous habitez3. Je ne l'aurais pas fait si vous habitiez Pétersbourg même; mais c'est l'assurance de la sécurité dont vous jouissez encore où vous êtes, qui m'a donné le coeur de vous écrire.</p>
+<p>Combien il me serait doux, mon ami, si à l'occasion de cette lettre vous me donniez de bien amples nouvelles de vous, et si vous continuiez de m'en donner <emphasis>(</emphasis><emphasis>неразб</emphasis><emphasis>.) </emphasis>tant que l'épidémie durerait chez vous. Puis-je y compter? Bonjour. Je fais des voeux infinis pour votre salut, et vous embrasse bien tendrement. Écrivez-moi, je vous prie. Votre fidèle Chadayeff.</p>
+<p>7 juillet 1831.</p>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<p><emphasis>ПЕРЕВОД</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Милый друг, я просил вас вернуть мою рукопись; жду ответа1.<emphasis> </emphasis>Признаюсь, мне не терпится получить ее обратно; пришлите мне её, пожалуйста, как можно скорее. У меня есть основание полагать, что я могу немедленно использовать ее и выпустить в свет вместе с остальными моими писаниями 2.</p>
+<p>Неужели вы не получили моего письма? Это вполне возможно, вследствие великого бедствия, которое на нас обрушилось. Я слышал, что оно не коснулось Царского Села. Излишне говорить вам о том, как я был счастлив это узнать. Простите, друг мой, что я занимаю вас своей особой в то время, как ангел смерти так грозно витает над местами, где вы живете3. Я не сделал бы этого, живи вы в самом Петербурге, но уверенность, что вы не подвергаетесь опасности там, где находитесь, придала мне смелость написать вам. Как мне было бы радостно, друг мой, если бы в ответ на это письмо вы сообщили побольше о себе и продолжали сообщать все время, пока длится эпидемия. Могу ли я на это рассчитывать? Будьте здоровы. Без конца желаю вам благополучия и нежно обнимаю вас. Пишите мне, пожалуйста. Преданный вам <emphasis>Чаадаев. </emphasis></p>
+<p>7 июля 1831.</p>
+<p><emphasis></emphasis></p>
+<p>-- -- --<emphasis></emphasis></p>
+<p><emphasis>РА, </emphasis>1881, кн. I, с. 430--431; <emphasis>Акад., </emphasis>XIV, No 627.</p>
+<p>1 Чаадаев писал это письмо, не получив еще ответного письма Пушкина от 6 июля.</p>
+<p>2 Год спустя, в конце 1832 г., два письма, находившиеся ранее у Пушкина, были представлены в московскую цензуру под названием "Deux lettres sur l'histoire, adressées à une dame" ("Два письма об истории, адресованные даме"), но не были дозволены к печати.</p>
+<p>3 Чаадаев имеет в виду эпидемию холеры.</p>
+<empty-line/>
+<empty-line/>
+<p>П. Я. ЧААДАЕВ -- ПУШКИНУ</p>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<p><emphasis>18 сентября 1831 г. Москва</emphasis></p>
+<empty-line/>
+<p>Hé bien, mon ami, qu'avez Vous fait de mon manuscrit? Le choléra l'aurait-il emporté?1<emphasis> </emphasis>Mais le choléra, dit-on, n'est pas venu chez vous. N'aurait-il pas pris la clef des champs, par hasard? Mais en ce cas, donnez m'en, je Vous prie, avis quelconque. J'ai eu grand plaisir à revoir de votre écriture. Elle m'a rappelé un temps qui ne valait pas grand'-chose à la vérité, mais où il y avait encore espoir; les grandes déceptions n'étaient pas encore advenues. Je parle de moi, vous entendez bien; mais pour Vous aussi il y avait, je crois, de l'avantage à n'avoir pas encore épuisé toutes les réalités. Douces et brillantes ont été vos réalités à Vous, mon ami. Cependant, toujours, il y en a-t-il qui valent les fausses attentes, les trompeurs pressentiments, les menteuses visions de l'heureux âge des ignorances? Vous voulez causer, dissiez-Vous: causons. Mais prenez garde, je ne suis pas riant; Vous, Vous êtes nerveux. Et voyons, de quoi causerons-nous? Je n'ai qu'une pensée, Vous le savez. Si, par aventure, je trouve autres idées dans mon cerveau, elles se rattacheront certainement à celle-là: voyez si cela vous arrange? Encore si vous me suscitiez quelques idées de votre monde, si vous me provoquiez? mais vous voulez que je parle le premier: soit, mais encore une fois, gare aux nerfs! Donc voici ce que je vais Vous dire. Vous êtes-vous aperèu qu'il se passe quelque chose d'extraordinaire dans les entrailles du monde moral, quelque chose de semblable à ce qui se passe, dit-on, dans les entrailles du monde physique? Or, dites-moi, je Vous prie, comment en êtes-vous affecté? Il me semble, quant à moi, que c'est la matière poétique tout à fait, ce grand renversement des choses; Vous ne sauriez y être indifférent, d'autant que l'égoisme de la poésie y a ample pâture à ce que je crois: le moyen de n'être pas soi-même froissé dans ses plus intimes sentiments, au milieu de ce froissement général de tous les éléments de la nature humaine!2 J'ai vu tantôt une lettre de votre ami, le grand poète;3 c'est un enjouement, une hilarité, qui font peur. Pourriez-vous me dire, comment cet homme, qui avait naguère une tristesse pour chaque chose, ne trouve-t-il paj aujourd'hui une seule petite douleur pour la ruine d'un monde? Car regardez, mon ami, n'est-ce point là vraiment un monde qui périt; et, pour qui ne sait pressentir le monde nouveau qui va surgir en sa place, ce n'est pas autre chose qu'une ruine affreuse qui se fait. N'auriez-Vous pas non plus un sentiment, une pensée à donner à cela? Je suis sûr que le sentiment et la pensée se couvent à votre insu dans quelque profondeur de votre âme, seulement, de se produire au dehors, elles ne sauraient, ensevelies que probablement ils sont dans ce tas de vieilles idées d'habitude, de convenance, dont, vous avez beau dire, tout poète est inévitablement pétri, quoiqu'il fasse ; attendu, mon ami, que depuis l'indien Valmiki, le chantre du Ramayana, et le grec Orphée, jusqu'à l'écossais Byron, tout poète a été tenu jusqu'à cette heure de redire toujours le même chose, dans quelque lieu du monde qu'il eu chanté.</p>
+<p>Oh, que je voudrais pouvoir évoquer à la fois toutes les puissances de votre être poétique! Que je voudrais en tirer, dès ce moment, tout ce qui, je sais, s'y tient caché pour que vous nous fassiez aussi un jour entendre un de ces chants que veut le siècle! Comme tout alors, qui s'en va aujourd'hui devant vous sans laisser nulle trace en votre esprit, aussitôt vous frapperait! Comme tout prendrait face nouvelle à Vos yeux! En attendant, causons toujours. Il y a quelque temps, il y a un an, le monde vivait dans la sécurité du présent et de l'avenir, et récapitulait en silence son passé, et s'en instruisait. L'esprit se régénérait dans la paix, la mémoire humaine se renouvelait, les opinions se reconciliaient, la passion s'étouffait, les colères se trouvaient sans aliment, les vanités se satisfaisaient dans de beaux travaux; tous les besoins des hommes se circonscrivaient peu à peu dans l'intelligence, et tous leurs intérêts allaient peu à peu aboutir au seul intérêt du progrès de la raison universelle. Pour moi, c'était foi, c'était crédulité infinies; dans cette paix heureuse du monde, dans cet avenir, je trouvais ma paix, mon avenir. Est survenue tout à coup ]a bêtise d'un homme, d'un de ces hommes appelés, sans leur aveu, à diriger les affaires humaines. Voilà que sécurité, paix, avenir, tout devient aussitôt néant4. Songez-y bien, ce n'est pas un de ces grands événements, fait pour bouleverser les empires et ruiner les peuples, qui a fait cela, la niaiserie d'un seul homme5. Dans votre tourbillon, vous n'avez pu ressentir la chose comme moi, c'est tout simple : mais se peut-il, que cette prodigieuse aventure qui n'a point sa pareille, toute empreinte de providence qu'elle est, ne vous apparaisse que comme prose toute commune, ou au plus comme poésie didactique, par exemple comme un tremblement de Lisbonne, dont vous n'auriez que faire? pas possible. Moi, je me sens la larme à l'oeil, quand je regarde ce vaste désastre de la vieille, de ma vieille société; ce mal universel, tombé sur mon Europe, d'une manière si imprévue, a doublé mon propre mal. Et pourtant, oui, de tout cela il ne sor tira que du bien, j'en ai la certitude parfaite: et j'ai la consolation de voir que ne suis point le seul à ne pas désespérer du retour de la raison à la raison. Mais comment se fera-t-il ce retour, quand? Sera-ce par quelque puissant esprit délégué extfaordinairement par la providence pour opérer cet oeuvre, ou bien par une suite d'événements par elle suscitée pour éclairer le genre humain? Ne sais. Mais une vague conscience me dit que bientôt viendra un homme nous apporter la vérité du temps. Peut-être sera-ce quelque chose d'abord de semblable à cette religion politique préchée en ce moment par Saint-Simon6 dans Paris, ou bien à ce catholicisme de nouvelle espèce que quelques prêtres téméraires prétendent, dit-on, substituer à celle que la sainteté du temps avait faite7. Pourquoi non? Que le premier branle du mouvement qui doit achever les destinées du genre humain se fasse de telle Ou telle'sorte, qu'importe? Beaucoup de choses qui avaient précédé le grand moment ou <emphasis>la bonne nouvelle </emphasis>fut annoncée autrefois par un envoyé divin, avaient été destinées à préparer l'univers, beaucoup de choses aussi se passeront sans doute de nos jours à fin semblable, avant que <emphasis>la nouvelle bonne nouvelle </emphasis>nous soit apportée de ciel. Attendons.</p>
+<p>Ne parle-t-on pas d'une guerre générale? Je dis qu'il n'en sera rien. Non, mon ami, les voies du sang ne sont plus lés voies de la providence. Les hommes auront beau être bêtes, ils ne se déchireront plus comme des bêtes: le dernier fleuve de sang a coulé, et à cette heure, au moment où je Vous écris, la source en est grâce à Dieu tarie. Sûrement, orages et calamités nous menacent encore, mais ce n'est plus des fureurs des peuples que leur viendront les biens qu'ils sont destinés à obtenir; désormais il n'y aura plus de guerres que des guerres épisodiques, quelques guerres absurdes et ridicules, pour mieux dégoûter les hommes de leurs habitudes de meurtre et de destruction. Avez-vous vu ce qui vient de se passer en France? Ne s'était-on pas imaginé qu'elle allait mettre le feu au quatre coins du monde? Hé bien, point du tout; qu'arrive-t-il? Aux amateurs de gloire, d'envahissement, on a ri au nez, gens de paix et de raison ont triomphé; les vieilles phrases qui résonnaient si bien tantôt aux oreilles franèaises, plus d'écho pour elles.</p>
+<p>De l'écho! Voilà que j'y songe. Fort heureux sans doute que Mrs Lamarque8 et consorts ne trouvent pas d'écho en France, mais moi, en trouverai-je, mon ami, dans Votre âme? Nous verrons. Voilà, cependant, un doute qui me fait tomber la plume de la main. Il ne tiendra qu'à vous de me la faire ramasser; un peu de sympathie dans votre prochaine lettre. M. Naschtschokine me dit que vous êtes singulière ment paresseux. Fouillez un peu dans votre tête, et surtout dans votre coeur qui bat si chaud quand il le veut, vous y trouverez plus de sujets qu'il ne nous en faut pour nous écrire le reste de nos jours. Adieu, cher et vieil ami. Et mon manuscrit donc? j'allais l'oublier: Vous, ne l'oubliez pas, je vous prie. Tchadaeff.</p>
+<p>18 Septembre.</p>
+<empty-line/>
+<p>J'apprends que Vous êtes nommé, ou comment est-ce? que Vous êtes chargé d'écrire l'histoire de Pierre le Grand9: à la bonne heure; je vous en félicite du fond de mon âme. J'attendrai pour vous en dire quelque chose, que vous m'en parliez vous-même. Adieu donc.</p>
+<p>Voilà que je viens de voir vos deux pièces de vers10. Mon ami, jamais vous ne m'avez fait tant de plaisir. Enfin, vous voilà poète national; vous avez enfin deviné votre mission. Je ne puis vous exprimer la satisfaction que vous m'avez fait éprouver. Nous en reparlerons une autre fois,-- beaucoup. Je ne sais si vous m'entendez bien? -- La pièce aux ennemis de la Russie est surtout admirable; c'est moi qui vous le dis : il y a là plus de pensées que l'on n'en a dit et fait depuis un siècle en ce pays. Oui,<emphasis> </emphasis>mon ami, écrivez l'histoire de Pierre le Grand. Tout le monde n'est pas de mon avis ici, vous vous en doutez bien; mais laissons-les dire -- et avanèons; quand l'on a deviné &lt;...&gt; un bout de la puissance qui nous pousse, une seconde fois, on la devinera toute entière, bien sûr. J'ai envie de me dire: voici venir notre Dante enfin? &lt;...&gt;11 ce serait peut-être trop hâtif; attendons.</p>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<p><emphasis>ПЕРЕВОД</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ну, друг мой, что же вы сделали с моей рукописью? Не заболела ли она холерой?1<emphasis> </emphasis>Но, говорят, холера у вас не появлялась. Не сбежала ли она случайно? Но в таком случае дайте мне какое-нибудь указание. Для меня было большим удовольствием снова увидеть ваш почерк. Он напомнил мне время, которое, правда, немногого стоило, но все же было не лишено надежд; пора великих разочарований тогда еще не наступила. Поймите, я говорю о себе; но и для вас, мне кажется, было преимуществом то, что вы еще не исчерпали всех жизненных возможностей. Действительность для вас оказалась сладостной и блестящей, друг мой: и все же бывает ли такая действительность, которая стоила бы обманчивых чаяний, неоправдавшихся предчувствий, лживых видений счастливого возраста неведения? Вы сказали, что хотите побеседовать; поговорим же. Но предупреждаю вас: я не весел; а вы -- вы раздражительны. И притом, о чем нам говорить? Я полон одной мыслью, вы знаете это. Если случайно у меня в голове и появятся какие-нибудь другие мысли, они наверное будут связаны в конце концов все с той же, одной: подумайте, устроит ли это вас. Если бы еще вы передали мне какие-либо мысли из вашего умственного мира, если бы вы вызвали меня как-нибудь. Но вы хотите, чтобы я заговорил первый; будь по вашему, но еще раз: берегите нервы! Итак, вот что я скажу вам. Заметили ли вы, что в недрах мира нравственного происходит нечто необыкновенное, нечто подобное тому, что происходит, как говорят, в недрах мира физического? Скажите мне, пожалуйста, как это на вас действует? С моей точки зрения этот великий переворот вещей в высшей степени поэтичен; вряд ли вы можете оставаться к нему равнодушны, тем более что поэтический эгоизм может найти себе в этом, как мне представляется, обильную пищу: разве можно оказаться незатронутым в самых сокровенных своих чувствах во время этого всеобщего столкновения всех элементов человеческой природы?2 Я видел недавно письмо вашего друга, великого поэта:3 его живость, веселость наводят страх. Не можете ли вы мне объяснить, почему теперь в этом человеке, который прежде мог грустить о всякой мелочи, гибель целого мира не вызывает ни малейшей скорби? Посмотрите, друг мой: разве воистину не гибнет мир? разве для того, кто не в состоянии предчувствовать новый, грядущий на его место мир, это не является ужасным крушением? Неужели вы также можете не останавливаться на этом мыслью и чувством? Я уверен, что и чувство и мысль вынашиваются, неведомые вам, где-то в глубине вашей души, только они не могут проявиться, будучи, вероятно, погребены в куче старых идей, привычек, условностей, которыми, что бы вы ни говорили, неизбежно проникнут всякий поэт, во всем, что он делает, вследствие того, друг мой, что, со времен индуса Вальмики, певца "Рамаяны", и грека Орфея до шотландца Байрона, всякий поэт и посейчас должен повторять одно и то же, в какой бы части земного шара он ни пел.</p>
+<p>Ах, как хотелось бы мне пробудить одновременно все силы вашей поэтической личности! Как хотел бы я сейчас же вскрыть все, что, как я знаю, таится в ней, чтобы когда-нибудь услышать от вас одну из тех песен, которых требует наш век! Как тогда все, что сегодня проходит мимо, не оставляя следа в вашем уме, сразу же поразит вас! Как все примет в ваших глазах новое обличье! До тех пор продолжим нашу беседу. Еще недавно, год тому назад, мир жил в спокойной уверенности в своем настоящем и будущем и молчаливо рассматривал свое прошлое и поучался им. Дух возрождался в спокойствии, человеческая память пробуждалась, убеждения приводились в согласие, страсть подавлялась, не было пищи для раздражения, тщеславные находили удовлетворение в прекрасных трудах; все человеческие потребности постепенно сосредоточивались в познании и все человеческие интересы постепенно сводились к единому интересу -- к участию в развитии всемирного разума. Во мне была безграничная вера, безграничное к этому доверие. В блаженном согласии мира, в этом будущем, я находил свой душевный покой, свою будущность. И вдруг неожиданно ворвалась тупость одного человека, одного из тех людей, которые, без их на то согласия, призваны руководить человеческими делами. И вот, сразу же спокойствие, мир, будущность -- все исчезло4. Подумайте только: это явилось следствием не одного из тех великих событий, которые созданы для того, чтобы потрясать империи и губить народы: глупость одного человека!5 В водовороте вашей жизни вы не могли почувствовать этого так, как я: это ясно; но неужели изумительное, не имеющее себе подобных происшествие, отмеченное печатью провидения, представляется вам обыкновеннейшей прозой или, в лучшем случае, дидактической поэмой, вроде лиссабонского землетрясения, до которого вам нет никакого дела? Не может быть! У меня слезы выступают на глазах, когда я всматриваюсь в великий распад старого, моего старого общества; это мировое страдание, обрушившееся на Европу так неожиданно, удвоило мое собственное страдание. Однако же все закончится хорошо, я вполне в этом уверен и имею утешение видеть, что не я один не теряю надежды на возврат разума к здравому смыслу. Но как произойдет перемена, когда? При посредстве ли могущественного ума, нарочитым образом посланного нам провидением для совершения этого деяния, или же оно явится следствием ряда событий, порожденных им для просвещения рода человеческого? Не знаю. Но смутное предчувствие говорит мне, что скоро появится человек, который принесет нам истину веков. Может быть, вначале это будет некоторым подобием политической религии, проповедуемой в настоящее время Сен-Симоном6 в Париже, или же нового рода католицизма, которым несколько смелых священников, как говорят, хотят заменить тот, который утвердила святость веков7. Почему нет? Не все ли равно, как произойдет первый толчок того движения, которое должно завершить судьбы человечества? Многое, предшествовавшее великой минуте, когда <emphasis>благая весть </emphasis>была провозглашена божественным посланцем, было предназначено для приготовления к ней мира; и в наши дни, без сомнения, также произойдет многое для подобной же цели, перед тем как мы получим от неба <emphasis>новую благую весть. </emphasis>Будем ждать.</p>
+<p>Не поговаривают ли о всеобщей войне? Я утверждаю, что ее не будет. Нет, друг мой, путь крови уже не есть путь провидения. Как бы ни были глупы люди, они не будут больше терзать друг друга как звери: последняя река крови пролилась, и сейчас, когда я вам пишу, источник ее, слава богу, иссяк. Без сомнения, нам угрожают еще грозы и общественные бедствия; но уже не народная ярость принесет людям блага, которые им суждено получить; отныне не будет больше войн, кроме случайных -- нескольких бессмысленных и смешных войн, чтобы вернее отвратить людей от привычки к убийствам и разрушениям. Наблюдали ли вы за тем, что творилось во Франции? Не казалось ли, что она подожжет мир с четырех сторон? И что же? Ничего подобного. Что происходит? В глаза посмеялись любителям славы, захвата; мирные и разумные. люди восторжествовали, старые фразы, которые так хорошо звучали еще недавно в ушах французов, не находят в них больше отклика.</p>
+<p>Отклик! Вот о чем я мечтаю. Очень, конечно, хорошо, что господа Ламарк8<emphasis> </emphasis>и его присные не находят во Франции отклика, но я<emphasis>, </emphasis>друг мой, найду ли его в вашей душе? Увидим. Однако из-за этого сомнения перо выпадает у меня из рук. От вас будет зависеть, чтобы я опять взялся за него; выразите мне немного симпатии в вашем следующем письме. Нащокин говорит, что вы поразительно ленивы. Поройтесь немного в своей голове, особенно же в своем сердце, которое так горячо бьется, когда хочет: вы найдете больше чем нужно, чтобы мы могли писать друг другу до конца наших дней. Прощайте, милый старый друг. А моя рукопись? Чуть было не забыл про нее. Вы-то не забудьте о ней, пожалуйста.</p>
+<p>18 сентября.</p>
+<empty-line/>
+<p>Я узнал, что вы получили назначение, или как это назвать? что вам поручено написать историю Петра Великого9. В добрый час! Поздравляю вас от всей души. Перед тем как высказываться дальше, я подожду, пока вы сами заговорите со мной об этом. Прощайте же.</p>
+<p>Я только что прочел ваши два стихотворения10. Друг мой, никогда еще вы не доставляли мне столько удовольствия. Вот вы, наконец, и национальный поэт; вы, наконец, угадали свое призвание. Не могу достаточно выразить свое удовлетворение. Мы побеседуем об этом в другой раз, обстоятельно. Не знаю, хорошо ли вы понимаете меня. Стихотворение к врагам России особенно замечательно; это я говорю вам. В нем больше мыслей, чем было высказано и осуществлено в течение целого века в этой стране. Да, друг мой, пишите историю Петра Великого. Не все здесь одного со мною мнения, вы, конечно, не сомневаетесь в этом, но пусть говорят, что хотят -- а мы пойдем вперед; когда найдена &lt;...&gt; одна частица подталкивающей нас силы, то второй раз ее наверное найдешь целиком. Мне хочется сказать себе: вот наконец явился' ваш Данте &lt;...&gt;11 эта было бы, может быть, слишком поспешно. Подождем.</p>
+<p><emphasis></emphasis></p>
+<p>-- -- --<emphasis></emphasis></p>
+<p><emphasis>РА</emphasis><emphasis>, </emphasis>1881, кн. I, с. 431--438;  <emphasis>Акад</emphasis><emphasis>., </emphasis>XIV, No 681.</p>
+<p>1 Пушкин пытался вернуть рукопись Чаадаеву в двадцатых числах июля, но посылку не приняли на почте, так как в столице не прекращалась эпидемия холеры. Вероятно, рукопись была отослана в Москву в конце августа; Жуковский, которому Пушкин давал читать сочинение Чаадаева, писал 23 августа 1831 г. А. И. Тургеневу: "Манускрипт Чаадаева он давал мне читать и взял его у меня, чтобы отправить к Чаадаеву. Вероятно, что он уже и получен" ("Письма В. А. Жуковского к А. И. Тургеневу". М., 1895; с. 258).</p>
+<p>2 Чаадаев имеет в виду нравственное обновление, "революцию духа", которая, по мнению автора "Философических писем", должна была вскоре наступить.</p>
+<p>3 <emphasis>Великий поэт </emphasis>-- вероятно, Жуковский.</p>
+<p>4 Здесь и далее Чаадаев подразумевает события, сопровождавшие Июльскую революцию во Франции.</p>
+<p>5 Вероятно, Чаадаев имеет в виду политику Карла X, которая не считалась с социальными переменами и привела к революции.</p>
+<p>6 Учение французского утописта-социалиста Анри Клода <emphasis>Сен-Симона </emphasis>(1760--1825) получило широкое распространение в 1820--1830 гг. В статье "Франция или Англия?" Герцен писал: "Именно во Франции социализм из страсти, каким он был во времена Гракха Бабефа, сделался религией с Сен-Симоном..." (А. И. Герцен. Собр. соч. в 30-ти томах, т. XIII. М., 1958, с. 245).</p>
+<p>7 Антиклерикальному движению, вызванному Июльской революцией, противостояло религиозное течение, пытавшееся сочетать католичество с идеалами всеобщего равенства. Это течение возглавил французский публицист и духовный философ Фелисите Робер Ламене (1782--1854).</p>
+<p>8 <emphasis>Ламарк </emphasis>Максимилиан (1770--1832) -- граф, генерал, деятельный участник Июльской революции 1830 г.</p>
+<p>9 3 сентября 1831 г. Пушкин писал П. В. Нащокину: "...царь (между нами) взял меня в службу, т. е. дал мне жалования, и позволил рыться в архивах для составления Истории Петра I".</p>
+<p>10 "Клеветникам России" и "Бородинская годовщина".</p>
+<p>11 Письмо оборвано.</p>
+<empty-line/>
+<empty-line/>
+<p>П. Я. ЧААДАЕВ -- ПУШКИНУ</p>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<p><emphasis>Первая половина мая 1836 г. Москва</emphasis></p>
+<empty-line/>
+<p>Я ждал тебя, любезный друг, вчера, по слову Нащокина, а нынче жду по сердцу. Я пробуду до восьми часов дома, а потом поеду к тебе. В два часа хожу гулять и прихожу в 4. Твой <emphasis>Чаадаев </emphasis>1.</p>
+<p><emphasis></emphasis></p>
+<p>-- -- --<emphasis></emphasis></p>
+<p><emphasis>Переписка, </emphasis>т. III, с. 315; <emphasis>Акад., </emphasis>XVI, No 1195.</p>
+<p>1 О беседах с Пушкиным Чаадаев писал А. И. Тургеневу 25 мая 1836 г.: "У нас здесь Пушкин. Он очень занят Петром Великим. Его книга придется как раз кстати, когда будет разрушено все дело Петра Великого: она явится надгробным словом ему. Вы знаете, что он издает также журнал под названием "Современник". Современник чего? XVI-ro столетия, да и то нет? Странная у нас страсть приравнивать себя к остальному свету. Что у нас общего с Европой? Паровая машина, и только" (П. Я. Чаадаев. Сочинения и письма, т. I, с. 191; подлинник по-французски). Свои острополемические мысли Чаадаев, по всей вероятности, излагал и при встречах с Пушкиным. Московский философ считал, что в русском обществе все заметнее дают себя знать антизападнические настроения; в частности, еще весной 1835 г. он писал А. И. Тургеневу о верноподданнической пьесе Н. В. Кукольника "Скопин-Шуйский": "Там есть места, исполненные дикой энергии и направленные против всего, идущего с Запада, против всякого рода цивилизации, а партер этому неистово хлопает! Наконец, что я вам скажу? Это апофеоз варварства. Вот, мой друг, до чего мы дошли" (там же, с. 181; подлинник по-французски).</p>
+<empty-line/>
+<empty-line/>
+<p>ПУШКИН -- П. Я. ЧААДАЕВУ</p>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<p><emphasis>10 октября 1836 г. Петербург</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>19 oct.1</p>
+<empty-line/>
+<empty-line/>
+<p>Je vous remercie de la brochure que vous m'avez envoyée2. J'ai été charmé de la relire, quoique très étonné de la voir traduite et imprimée3. Je suis content de la traduction: elle a conservé de l'énergie et du laisser-aller de l'original4. Quant aux idées, vous savez que je suis loin d'être tout à fait de Votre avis. Il n'y a pas de doute que le Schisme5<emphasis> </emphasis>nous a séparé du reste de l'Europe et que nous n'avons pas participé à aucun des grands événements qui l'ont remuée ; mais nous avons eu notre mission à nous. C'est la Russie, c'est son immense étendue qui a absorbé la conquête Mogole. Les tartares n'ont pas osé franchir nos frontières occidentales et nous laisser à dos. Ils se sont retirés vers leurs déserts, et la civilisation Chrétienne a été sauvée. Pour cette fin, nous avons du avoir une existence tout-à-fait à part, qui en nous laissant Chrétiens, nous laissait cependant tout-à-fait étrangers au monde Chrétien, en sorte que notre martyre ne donnait aucune distraction à l'énergique développement de l'Europe catholique6. Vous dites que la source où nous sommes allé puiser le Christianisme était impure, que Byzance était méprisable et méprisée etc.-- hé, mon ami! Jésus Christ lui-même n'était-il pas né juif et Jérusalem n'était-elle pas la fable des nations? l'évangile en est-il moins admirable ? Nous avons pris des Grecs l'évangile et les traditions, et non l'esprit de puérilité et de controverse. Les moeurs de Byzance n'ont jamais été celles de Kiov. Le clergé Russe, jusqu'à Théophane, a été respectable, il ne s'est jamais souillé des infamies du papisme et certes n'aurait jamais provoqué la réformation, au moment ou l'humanité avait le plus besoin d'unité. Je conviens que notre clergé actuel est en retard. En voulez-vous savoir la raison? c'est qu'il est barbu; voilà tout. Il n'est pas de bonne compagnie 7.</p>
+<p>Quant à notre nullité historique, décidément je ne puis être de votre avis. Les guerres d'Oleg et de Sviatoslav, et même les guerres d'apanage n'est-ce pas cette vie d'effet vescence aventureuse et d'activité âpre et sans but qui caractérise la jeunesse de tous les peuples?8 l'invasion des tartares est un triste et grand tableau. Le réveil de la Russie; le développement de sa puissance, sa marche vers l'unité (unité Russe bien entendu), les deux Ivan, le drame sublime commencé à Ouglitch et terminé au monastère d'Ipatief9 -- quoi? tout cela ne serait pas de l'histoire, mais un rêve pâle-et-à demi-oublié? Et Pierre le Grand qui à lui seul est une histoire universelle! Et Catherine Il qui a placé la Russie sur le seuil de l'Europe? et Alexandre qui vous a mené à Paris?10 et (la main sur le coeur) ne trouvez-vous pas quelque chose d'imposant dans la situation actuelle de la Russie, quelque chose qui frappera le futur oin d'admirer tout ce que je vois autour de moi; comme homme de let tre, je suis aigri; comme homme à préjugés, je suis frois se--mais je vous jure sur mon honneur, que pour rien au monde je n'aurais voulu changer de patrie, ni avoir d'autre histoire que celle de nos ancêtres, telle que Dieu nous l'a donnée.</p>
+<p>Voici une bien longue lettre. Après.vous avoir contredit il faut bien que je vous dise que beaucoup de choses dass votre épitre sont profondément vraies. Il faut bien avouer que notre existence sociale est une triste chose. Que cette absence d'opinion publique, cette indifférence pour tout ce qui est devoir, justice et vérité, ce mépris cynique pour la pensée et la dignité de l'homme, sont une chose vraiment désolante. Vous avez bien fait de le dire tout haut11. Mais je crains que vos opinions historiques ne vous fassent du tort... enfin je suis fâché de ne pas m'être trouvé près de vous lorsque vous avez livré votre manuscript aux journalistes. Je ne vais nulle part, et ne puis vous dire si l'article fait effet12. J'espère qu'on ne le fera pas mousser. Avez-vous lu le 3me No du "Современник"? L'article Voltaire et John Tanner sont de moi. Козловский serait ma providence s'il voulait une bonne fois dévenir homme de lettre13. Adieu, mon ami. Si vous voyez Orlof (?) et Rayéwsky (?) 14 dites-leurs bien des choses. Que disent-ils de votre lettre, eux qui sont si médiocrement Chrétiens?15</p>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<p><emphasis>ПЕРЕВОД</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>19 окт.</p>
+<empty-line/>
+<empty-line/>
+<p>Благодарю за брошюру, которую вы мне прислали2. Я с удовольствием перечел ее, хотя очень удивился, что она переведена и напечатана3. Я доволен переводом: в нем сохранена энергия и непринужденность подлинника4. Что касается мыслей, то вы знаете, что я далеко не во всем согласен с вами. Нет сомнения, что Схизма5 отъединила нас от остальной Европы и что мы не принимали участия ни в одном из великих событий, которые ее потрясали; но у нас было свое особое предназначение. Это Россия, это ее необъятные пространства поглотили монгольское нашествие. Татары не посмели перейти наши западные границы и оставить нас в тылу. Они отошли к своим пустыням, и христианская цивилизация была спасена. Для достижения этой цели мы должны были вести совершенно особое существование, которое, оставив нас христианами, сделало нас, однако, совершенно чуждыми христианскому миру, так что нашим мученичеством энергичное развитие католической Европы было избавлено от всяких помех6. Вы говорите, что источник, откуда мы черпали христианство, был нечист, что Византия была достойна презрения и презираема и т. п. Ах, мой друг, разве сам Иисус Христос не родился евреем и разве Иерусалим не был притчею во языцех? Евангелие от этого разве менее изумительно? У греков мы взяли евангелие и предания, но не дух ребяческой мелочности и словопрений. Нравы Византии никогда не были нравами Киева. Наше духовенство, до Феофана, было достойно уважения, оно никогда не пятнало себя низостями папизма и, конечно, никогда не вызвало бы реформации в тот момент, когда человечество больше всего нуждалось в единстве. Согласен, что нынешнее наше духовенство отстало. Хотите знать причину? Оно носит бороду, вот и все. Оно не принадлежит к хорошему обществу7. Что же касается нашей исторической ничтожности, то я решительно не могу с вами согласиться. Войны Олега и Святослава и даже удельные усобицы -- разве это не та жизнь, полная кипучего брожения и пылкой и бесцельной деятельности, которой отличается юность всех народов?8 Татарское нашествие -- печальное и великое зрелище. Пробуждение России, развитие ее могущества, ее движение к единству (к русскому единству, разумеется), оба Ивана, величественная драма,  начавшаяся в Угличе и закончившаяся в Ипатьевском монастыре9,-- как, неужели все это не история, а лишь бледный и полузабытый сон? А Петр Великий, который один есть целая всемирная история! А Екатерина II, которая поставила Россию на пороге Европы? А Александр, который привел вас в Париж?10 и (положа руку на сердце) разве не находите вы чего-то значительного в теперешнем положении России, чего-то такого, что поразит будущего историка?Думаете ли вы, что он поставит нас вне Европы? Хотя лично я сердечно привязан к государю, я далеко не восторгаюсь всем, что вижу вокруг себя; как литератора -- меня раздражают, как человек с предрассудками -- я оскорблен,-- но клянусь честью, что ни за что на свете я не хотел бы переменить отечество или иметь другую историю, кроме истории наших предков, такой, какой нам бог ее дал.</p>
+<p>Вышло предлинное письмо. Поспорив с вами, я должен вам сказать, что многое в вашем послании глубоко верно. Действительно, нужно сознаться, что наша общественная жизнь -- грустная вещь. Что это отсутствие общественного мнения, это равнодушие ко всякому долгу, справедливости и истине, это циничное презрение к человеческой мысли и достоинству -- поистине могут привести в отчаяние. Вы хорошо сделали, что сказали это громко11. Но боюсь, как бы ваши исторические воззрения вам не повредили... Наконец, мне досадно, что я не был подле вас, когда вы передавали вашу рукопись журналистам. Я нигде не бываю и не могу вам сказать, производит ли статья впечатление 12. Надеюсь, что ее не будут раздувать. Читали ли вы 3-й No "Современника"? Статья "Вольтер" и Джон Теннер -- мои, Козловский стал бы моим провидением, если бы захотел раз навсегда сделаться литератором 13. Прощайте, мой друг. Если увидите Орлова (?) и Раевского (?)14, передайте им поклон. Что говорят они о вашем письме, они, столь посредственные христиане?15</p>
+<p><emphasis></emphasis></p>
+<p>-- -- --<emphasis></emphasis></p>
+<p><emphasis>РА, </emphasis>1884, кн. II, с. 453--455; <emphasis>Акад., </emphasis>XVI, No 1267.</p>
+<p>1 Пушкин не отправил письмо Чаадаеву, так как узнал о правительственных гонениях, вызванных опубликованием первого "Философического письма"; К. О. Россет писал в эти дни поэту: "Сейчас, возвратившись домой, я узнал нижеследующее обстоятельство, которое спешу вам сообщить в дополнение к нашему разговору,-- государь читал статью Чедаева и нашел ее нелепою и сумасбродною, сказав при том, что он не сумневается, что "Москва не разделяет сумасшедшего мнения автора", а генерал-губернатору Голицыну предписал ежедневно наведываться о состоянии здоровья головы Чедаева и отдать его под присмотр правительства, ценсора отставить, а No журнала запретить. Сообщаю вам об этом, для того чтоб вы еще раз прочли писанное вами письмо к Чедаеву, а еще лучше отложили бы посылать по почте; я прошу прислать мне вышесказанный номер для прочтения с подателем этой записки".</p>
+<p>2 <emphasis>Брошюра </emphasis>-- отдельный оттиск из журнала "Телескоп" (1836, No 15) "Философические письма к г-же***. Письмо 1". Как видно из показаний Чаадаева, оттиск был передан Пушкину через И. С. Гагарина.</p>
+<p>3 3 ноября 1836 г. С. Н. Карамзина писала брату А. Н. Карамзину по поводу цензуры, которая разрешила к печати "Философическое письмо": "Пушкин очень хорошо сравнивает ее с пугливой лошадью, которая ни за что, хоть убейте ее, не перепрыгнет через белый платок, подобный запрещенным словам, вроде слов "свобода", "революция" и прочее, но которая бросится через ров потому, что он черный, и сломает там себе шею" <emphasis>(Карамзины, </emphasis>с. 128; подлинник по-французски).</p>
+<p>4 Кто был переводчиком первого "Философического письма", до сего времени не установлено; назывались имена Н. X. Кетчера, Белинского и др.</p>
+<p>5<emphasis> Схизма </emphasis>-- разделение христианства на западную и восточную (византийскую) церкви, начавшееся в 867 г. и закончившееся в 1204 г. после завоевания Константинополя крестоносцами.</p>
+<p>6 Ср. со статьей Пушкина "О ничтожестве литературы русской" (1834): "Долго Россия оставалась чуждою Европе. Приняв свет христианства от Византии, она не участвовала ни в политических переворотах, ни в умственной деятельности римско-кафолического мира. Великая эпоха Возрождения не имела на нее никакого влияния; рыцарство не одушевило предков наших чистыми восторгами, в благодетельное потрясение, произведенное крестовыми походами, не отозвалось в краях оцепеневшего севера... России определено было высокое предназначение... Ее необозримые равнины поглотили силу монголов и остановили их нашествие на самом краю Европы; варвары не осмелились оставить у себя в тылу порабощенную Русь и возвратились на степи своего востока. Образующееся просвещение было спасено растерзанной и издыхающей Россией..."</p>
+<p>7 В черновике письма рассуждения о духовенстве заканчивались словами: "Религия чужда нашим мыслям и нашим привычкам" (подлинник по-французски).</p>
+<p>8 Ответ на слова Чаадаева, что история европейских народов начинается с эпохи "бурного волнения, страстного беспокойства, деятельности необдуманной и бесцельной", составляющей героический период истории и приводящей к возникновению народной поэзии и преданий.</p>
+<p>9 Речь идет об убийстве царевича Димитрия в Угличе 15 мая 1591 г., о смутном времени и о короновании Михаила Романова 14 марта 1613 г. в Ипатьевском монастыре.</p>
+<p>10 Чаадаев, участник Отечественной войны 1812 года, был в рядах русской армии, вступившей в Париж в 1814 г.</p>
+<p>11 В черновике письма критика общества и оценка правительственной деятельности даны более развернуто: "Что надо было сказать и что вы сказали -- это то, что наше современное общество столь же презренно, сколь глупо: [что оно не заслуживает даже,] что это отсутствие общественного мнения, это равнодушие ко всякому долгу, справедливости, права и истине; [это циничное презрение ко всему], что не является необходимостью. Это циничное презрение к мысли и к достоинству человека. Надо было прибавить (не в качестве уступки [цензуре], но как правду), что правительство все еще единственный Европеец в России [и что несмотря на все то, что в нем есть тяжкого, грубого, циничного]. И сколь бы грубо [и цинично] оно ни было, только от него зависело бы стать во сто крат хуже. Никто не обратил бы на это ни малейшего внимания" (подлинник по-французски; в редакционных скобках слова, зачеркнутые Пушкиным).</p>
+<p>12 Это утверждение рассчитано на перлюстрацию письма; в черновом тексте Пушкин утверждал, что "Философическое письмо" произвело большое впечатление в обществе.</p>
+<p>13 Пушкин имеет в виду князя Петра Борисовича Козловского, статьи которого о просвещении, а также о теории вероятности печатались в пушкинском "Современнике".</p>
+<p>14 Имена Орлова и Раевского тщательно вычеркнуты и восстанавливаются предположительно.</p>
+<p>15 На последней странице письма запись рукой Пушкина: "Ворон ворону глаза не выклюнет -- Шотландская пословица, приведенная В&lt;альтер&gt; Ск&lt;оттом&gt; в Woodstock".</p>
+<empty-line/>
+<p>Список условных сокращений, принятых в комментариях</p>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<p><emphasis>Акад.-- </emphasis>А. С. Пушкин. Полное собрание сочинений, тт. I--XVII. М.--Л., Изд-во АН СССР, 1937--1959.</p>
+<p><emphasis>Анненков </emphasis>-- П. В. Анненков. Материалы для биографии Александра Сергеевича Пушкина. СПб., 1855 (Сочинения Пушкина с приложением для его биографии портрета, снимков с его почерка и его рисунков, и проч., т. 1).</p>
+<p><emphasis>Анненков. Пушкин </emphasis>-- П. Анненков. Александр Сергеевич Пушкин в александровскую эпоху. 1799--1826. СПб., 1874.</p>
+<p><emphasis>AT -- </emphasis>Переписка Александра Ивановича Тургенева с кн. Петром Андреевичем Вяземским. 1814--1833 гг. Пг., 1921 (Архив братьев Тургеневых, вып 6).</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>Б </emphasis>-- "Благонамеренный".</p>
+<p><emphasis>Баратынский, 1951 </emphasis>-- Баратынский Е. А. Стихотворения. Поэмы. Проза. Письма. М., Гослитиздат, 1951.</p>
+<p><emphasis>Барсуков </emphasis>-- Н. П. Барсуков. Жизнь и труды М. П. Погодина, кн. 1--22. СПб., 1888--1910.</p>
+<p><emphasis>БдЧ </emphasis>-- "Библиотека для чтения".</p>
+<p><emphasis>БЗ </emphasis>-- "Библиографические записки".</p>
+<p><emphasis>Б-ка П.</emphasis>-- Б. Л. Mодзалевский. Библиотека А. С. Пушкина. Библиографическое описание. СПб., 1910.</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>Вацуро </emphasis>-- В. Э. Вацуро. "Северные цветы". История альманаха Дельвига -- Пушкина. М., "Книга", 1978.</p>
+<p><emphasis>ВД </emphasis>-- "Восстание декабристов". Материалы, т. I--XVII. М.--Л., Госиздат, 1925--1980.</p>
+<p><emphasis>ВЕ </emphasis>-- "Вестник Европы".</p>
+<p><emphasis>Вигель -- </emphasis>Ф. Ф. Вигель. Записки, ч. I--II. М., "Круг", 1928.</p>
+<p><emphasis>Вос. Бестужевых </emphasis>-- "Воспоминания Бестужевых". М.--Л., 1951.</p>
+<p><emphasis>Врем. ПК </emphasis>-- "Временник пушкинской комиссии". 1962--1976. М.--Л., "Наука", 1963--1979 (Изд-во АН СССР. Отд. лит. и яз. Пушкинская комиссия).</p>
+<p><emphasis>Вяземский </emphasis>-- П. А. Вяземский. Полное собрание сочинений, т. I--XII. СПб., 1878--1896.</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>Гастфрейнд. Товарищи П. </emphasis>-- Н. Гастфрейнд. Товарищи Пушкина по вып. Царскосельскому лицею. Материалы для словаря лицеистов 1-го курса 1811--1817 гг., т. I--III. СПб., 1912--1913.</p>
+<p><emphasis>ГБЛ </emphasis>-- Государственная библиотека им. В. И. Ленина (Москва). Рукописный отдел.</p>
+<p><emphasis>Гиллельсон </emphasis>-- М. И. Гиллельсон. П. А. Вяземский. Жизнь и творчество. Л., "Наука", 1969.</p>
+<p><emphasis>ГМ </emphasis>-- "Голос минувшего".</p>
+<p><emphasis>ГПБ </emphasis>-- Государственная публичная библиотека им. M. E. Салтыкова-Щедрина (Ленинград). Рукописный отдел.</p>
+<p><emphasis>Греч </emphasis>-- Н. И. Греч. Записки о моей жизни. М.--Л., "Асаdemia", 1930.</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>Дельвиг </emphasis>-- Дельвиг А. А. Сочинения. СПб., 1893.</p>
+<p><emphasis>Дельвиг. Материалы</emphasis>-- Верховский Ю. Н. Барон Дельвиг. Материалы биографические и литературные. Пг., изд-во Кагана, 1922.</p>
+<p><emphasis>ДЖ </emphasis>-- "Дамский журнал".</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>ЖМНП </emphasis>-- "Журнал министерства народного просвещения",</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>ИВ -- </emphasis>"Исторический вестник".</p>
+<p><emphasis>ИРЛИ </emphasis>-- Институт русской литературы (Пушкинский Дом) АН СССР (Ленинград). Рукописный отдел.</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>Карамзины </emphasis>-- "Пушкин в письмах Карамзиных 1836--1837 годов". М.-- Л., 1960 (Изд-во АН СССР. Институт русской литературы (Пушкинский Дом).</p>
+<p><emphasis>Керн </emphasis>-- А. П. Керн. Воспоминания. Дневники. Переписка. М., ИХЛ, 1974.</p>
+<p><emphasis>Кюхельбекер -- </emphasis>В. К. Кюхельбекер. Путешествие. Дневник. Статьи. Л., "Наука", 1979.</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>ЛГ </emphasis>-- "Литературная газета".</p>
+<p><emphasis>Летопись </emphasis>-- М. А. Цявловский. Летопись жизни и творчества А. С. Пушкина, т. I. М., 1951.</p>
+<p><emphasis>Лет. ГЛМ </emphasis>-- Летописи Государственного литературного музея, кн. I. Пушкин. М.-- Л., 1936.</p>
+<p><emphasis>ЛН </emphasis>-- "Литературное наследство".</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>MB </emphasis>-- "Московский вестник".</p>
+<p><emphasis>M</emphasis><emphasis>. вед. </emphasis>-- "Московские ведомости".</p>
+<p><emphasis>Модзалевский </emphasis>-- Б. Л. Mодзалевский. Пушкин. Л., "Прибой", 1929.</p>
+<p><emphasis>Мордовченко </emphasis>-- Н. И. Mордовченко. Русская критика первой четверти XIX века. М.-- Л., Изд-во АН СССР, 1959.</p>
+<p><emphasis>MT </emphasis>-- "Московский телеграф".</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>НЛ -- </emphasis>"Новости литературы".</p>
+<p><emphasis>Новонайденный автограф Пушкина </emphasis>-- В. Э. Вацуро, М. И. Гиллельсон. Новонайденный автограф Пушкина. М.-- Л., "Наука", 1968.</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>ОА </emphasis>-- "Остафьевский архив князей Вяземских". Под ред. и с примеч. В. И. Саптова, т. I--V. СПб., 1899--1913.</p>
+<p><emphasis>ОЗ </emphasis>-- "Отечественные записки".</p>
+<p><emphasis>ОРЯС </emphasis>-- Сборник Отделения русского языка и словесности Академии наук.</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>П. в восп. </emphasis>-- "А. С. Пушкин в воспоминаниях современников). В 2-х томах. М.. ИХЛ, 1974.</p>
+<p><emphasis>П. в печ.</emphasis>-- Н. Синявский, М. Цявловский. Пушкин и печати. 1814--1837. Хронологический указатель произведений Пушкина, напечатанных при его жизни, изд. 2-е, испр. М., Соцэкгиз, 1938.</p>
+<p><emphasis>П. Врем.</emphasis>-- "Пушкин". Временник пушкинской комиссии, т. 1--6. М.-- Л., Изд-во АН СССР, 1936--1941.</p>
+<p><emphasis>ПГП -- </emphasis>"Переписка Я. К. Грота с П. А. Плетневым", т. 1--3. СПб., 1896.</p>
+<p><emphasis>ПЗ </emphasis>-- "Полярная звезда".</p>
+<p><emphasis>П и С </emphasis>-- "Пушкин и его современники". Материалы и исследования, вып. I--XXXIX. СПб., Изд-во Акад. наук, 1903--1930.</p>
+<p><emphasis>Переписка </emphasis>-- "Пушкин. Переписка". Под ред. и с примеч. В. И. Саитова. Т. I--III. СПб., Изд. Имп. Акад. наук, 1906--1911.</p>
+<p><emphasis>Писатели-декабристы в восп. совр. -- </emphasis>"Писатели-декабристы в воспоминаниях современников". В 2-х томах. М., ИХЛ, 1980.</p>
+<p><emphasis>Письма </emphasis>-- Пушкин<emphasis>. </emphasis>Письма 1815--1833, т. I--II. Под ред. и с примеч. Б. Л. Модзалевского. М.-- Л., Госиздат, 1926--1928. Т. III. Под ред. и с примеч. Л. Б. Модзалевского. М.-- Л., "Academia", 1935.</p>
+<p><emphasis>Письма посл. лет. </emphasis>-- Пушкин. Письма последних лет. 1834--1837. Л., "Наука", 1969.</p>
+<p><emphasis>Письма к Вяземскому </emphasis>-- "Письма А. С. Пушкина, бар. А. А. Дельвига, Е. А. Баратынского и П. А. Плетнева к князю П. А. Вяземскому". СПб., 1902.</p>
+<p><emphasis>Плетнев </emphasis>-- Плетнев П. А. Сочинения и переписка, т. I--III. СПб., 1885.</p>
+<p><emphasis>Полевой </emphasis>-- Н. А. Полевой. Материалы по истории русской литературы и журналистики 30-х годов XIX в. Л., "Academia", 1934.</p>
+<p><emphasis>П. Иссл. и мат.</emphasis>-- "Пушкин. Исследования и материалы", т. I--IX. М.--Л., Изд-во АН СССР, 1956--1979.</p>
+<p><emphasis>Пушкин. Итоги и проблемы </emphasis>-- "Пушкин. Итоги и проблемы изучения". М.-- Л., "Наука", 1966.</p>
+<p><emphasis>Пущин </emphasis>-- И. И. Пущин. Записки о Пушкине. Письма. М., Гослитиздат, 1956.</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>РА </emphasis>-- "Русский архив".</p>
+<p><emphasis>Рассказы о П.</emphasis>-- "Рассказы о Пушкине, записанные со слов его друзей П. И. Бартеневым в 1851--1860 годах". М., 1925.</p>
+<p><emphasis>Р. библ.</emphasis>-- "Русский библиофил".</p>
+<p><emphasis>PB </emphasis>-- "Русский вестник".</p>
+<p><emphasis>РЛ </emphasis>-- "Русская литература".</p>
+<p><emphasis>PC </emphasis>-- "Русская старина".</p>
+<p><emphasis>Рукою П.</emphasis>-- "Рукою Пушкина". Несобранные и неопубликованные тексты. М.--Л., "Acadernia", 1935.</p>
+<p><emphasis>Рус. инв. </emphasis>-- "Русский инвалид".</p>
+<p><emphasis>РЭ -- </emphasis>"Русская эпиграмма конца XVII -- начала XX вв." Л., "Сов. Пис.", 1975.</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>С </emphasis>-- "Современник".</p>
+<p><emphasis>Семевский </emphasis>-- Семевский М. И. Прогулка в Тригорское.-- В кн.: Вульф А. Н. Дневники. М., изд-во "Федерация", 1929.</p>
+<p><emphasis>СО </emphasis>-- "Сын отечества".</p>
+<p><emphasis>СО и </emphasis><emphasis>CA </emphasis>-- "Сын отечества и Северный архив".</p>
+<p><emphasis>СПб. вед.-- </emphasis>"С.-Петербургские ведомости".</p>
+<p><emphasis>СПч </emphasis>-- "Северная пчела".</p>
+<p><emphasis>Стар. и нов. </emphasis>-- "Старина и новизна".</p>
+<p><emphasis>СЦ </emphasis>-- "Северные цветы".</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>Тел. </emphasis>-- "Телескоп".</p>
+<p><emphasis>Томашевский </emphasis>-- Б. Томашевский. Пушкин, кн. 1 (1813--1824). М.--Л., Изд-во АН СССР, 1956.</p>
+<p><emphasis>Тургенев. Хроника русского </emphasis>-- А. И. Тургенев. Хроника русского. Дневники (1825--1826). М.-- Л., "Наука", 1964.</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>Хитрово </emphasis>-- "Письма Пушкина к Елизавете Михайловне Хитрово. 1827--1832". Л., 1927.</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>ЦГАЛИ </emphasis>-- Центральный государственный архив литературы и искусства (Москва).</p>
+<p><emphasis>ЦГАОР </emphasis>-- Центральный государственный архив Октябрьской революции (Москва).</p>
+<p><emphasis>ЦГИА </emphasis>-- Центральный государственный исторический архив (Ленинград).</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>Черейский </emphasis>-- Л. А. Черейский. Пушкин и его окружение. Л., "Наука", 1975.</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>Щеголев </emphasis>-- П. Е. Щеголев. Дуэль и смерть Пушкина, изд. 3-е. М.--Л., Госиздат, 1928.</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>Эйдельман </emphasis>-- Н. Я. Эйдельман. Пушкин и декабристы. М., ИХЛ, 1979.</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>ЯА -- </emphasis>"Письма H. M. Языкова к родным за дерптский период его жизни (1822--1829)". СПб., 1913 (Языковский архив, вып. I).</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

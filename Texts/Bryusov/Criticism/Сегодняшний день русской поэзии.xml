@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Валерий</first-name>
+			<middle-name>Яковлевич</middle-name>
+			<last-name>Брюсов</last-name>
+		</author>
+		<book-title>Сегодняшний день русской поэзии</book-title>
+<annotation><p>(50 сборников стихов 1911-1912 г.)</p>
+<p><emphasis>Отрывок</emphasis></p></annotation>		<date value="2009-08-18">18/08/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 01:53:33</date>
+		<src-url>http://az.lib.ru/b/brjusow_w_j/text_0620-1.shtml</src-url>
+		<id>samlib58f49ead7008a4.85107024</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Брюсов Валерий Яковлевич</p>
+	<empty-line/>
+	<p>Сегодняшний день русской поэзии</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+ 
+ 
+
+
+</p>
+<empty-line/>
+<empty-line/>
+<p>Валерий БРЮСОВ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Сегодняшний день русской поэзии</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>(50 сборников стихов 1911-1912 г.)</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Оригинал здесь -- <a xlink:href="http://kluev.org.ua/critics/br_segodnja.htm">http://kluev.org.ua/critics/br_segodnja.htm</a></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Среди подлинных дебютантов первое место принадлежит г. Н.Клюеву. Его первый сборник появился с предисловием пишущего эти строки, и потому мы считаем неудобным говорить об нем. Но теперь уже издана вторая книга Клюева "Братские песни", может быть, более тесная по захвату, чем первая, но едва ли не более сильная. Автор в предисловии говорит, что эти стихи сложены раньше и одновременно с стихами, вошедшими в сборник "Сосен перезвон". Это не мешает иметь "Братским песням" совершенно иной характер. Проходя мимо стихотворений просто слабых (каких в книге не мало), мы должны сказать, что лучшие являют редкий у нас образец подлинной религиозной поэзии. То, что давалось коллективному творчеству некоторых общин наших сектантов, выражено у г. Клюева в порыве личного, индивидуального вдохновения и окрылено стихом, часто совершенным, иногда сделанным умелой и искусной рукой.</p>
+<empty-line/>
+<p>Он придет! Он придет! И содрогнутся горы,</p>
+<p>Под могучей стопою Пришельца-Царя.</p>
+<empty-line/>
+<p>Это -- главная тема книги г. Клюева. Некоторая нелитературность его речи, неприятно останавливавшая в его поэтических описаниях природы, как нельзя более к месту оказалась в этих "духовных стихах"; которым и подобает говорить бесхитростным, народным говором. И есть удивительная для наших дней непосредственность в таких призывах поэта:</p>
+<empty-line/>
+<p>О поспешите, братья, к нам,</p>
+<p>В наш чудный храм, где зори-свечи,</p>
+<p>Где предалтарный фимиам --</p>
+<p>Туманы дремлющих наречий!</p>
+<empty-line/>
+<p>Мы затрудняемся пророчить о судьбе г. Клюева, как поэта. Но во всяком случае он дал нам две хороших книги, -- светские, молодые, яркие.</p>
+<empty-line/>
+<p>Русская мысль. -- М., 1912. -- Кн. VII. -- С. 25-26, 3-я пагинация.</p>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

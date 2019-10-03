@@ -1,0 +1,1793 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>prose_contemporary</genre>
+		<author>
+			<first-name>Константин</first-name>
+			<middle-name>Дмитриевич</middle-name>
+			<last-name>Бальмонт</last-name>
+		</author>
+		<book-title>Переводы</book-title>
+<annotation><p><emphasis>Из грузинской поэзии</emphasis></p>
+<p>Грузинская ода к Тамар</p>
+<p><emphasis>Из армянской поэзии</emphasis></p>
+<p><emphasis>И. Иоаннисян</emphasis></p>
+<p>"Умолкли навсегда времен былых народы..."</p>
+<p><emphasis>О. Туманян</emphasis></p>
+<p>Ахтамар</p>
+<p><emphasis>А. Исаакян</emphasis></p>
+<p>Колокол воли</p>
+<p><emphasis>Из литовской поэзии</emphasis></p>
+<p><emphasis>Песни и дайны</emphasis></p>
+<p>Литвин</p>
+<p>Месяц и Солнце</p>
+<p>Мать и дочь</p>
+<p>Воробьиный праздник</p>
+<p>Заревая</p>
+<p>Садик</p>
+<p>Сельский староста</p>
+<p><emphasis>Из болгарской поэзии</emphasis></p>
+<p><emphasis>Народные песни</emphasis></p>
+<p>Маргита</p>
+<p>Невеста Тодора</p>
+<p>Журавли</p>
+<p>Сон</p>
+<p>Жених да не женился</p>
+<p>Последнее желание</p>
+<p><emphasis>Из испанской поэзии</emphasis></p>
+<p><emphasis>Испанские народные песни</emphasis></p>
+<p>Seguidillas</p></annotation>		<date value="2009-11-18">18/11/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 01:28:58</date>
+		<src-url>http://az.lib.ru/b/balxmont_k_d/text_0830.shtml</src-url>
+		<id>samlib58f498ebdf4507.66895245</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Бальмонт Константин Дмитриевич</p>
+	<empty-line/>
+	<p>Переводы</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>К. Бальмонт</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Переводы</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>----------------------------------------------------------------------------</p>
+<empty-line/>
+<p>Бальмонт К. Д. Избранное. Стихотворения. Переводы. Статьи</p>
+<empty-line/>
+<p>М., "Художественная литература", 1980</p>
+<empty-line/>
+<p>----------------------------------------------------------------------------</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Содержание</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Из грузинской поэзии</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Грузинская ода к Тамар</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Из армянской поэзии</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И. Иоаннисян</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>"Умолкли навсегда времен былых народы..."</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>О. Туманян</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ахтамар</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>А. Исаакян</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Колокол воли</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Из литовской поэзии</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Песни и дайны</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Литвин</p>
+<empty-line/>
+<p>Месяц и Солнце</p>
+<empty-line/>
+<p>Мать и дочь</p>
+<empty-line/>
+<p>Воробьиный праздник</p>
+<empty-line/>
+<p>Заревая</p>
+<empty-line/>
+<p>Садик</p>
+<empty-line/>
+<p>Сельский староста</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Из болгарской поэзии</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Народные песни</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Маргита</p>
+<empty-line/>
+<p>Невеста Тодора</p>
+<empty-line/>
+<p>Журавли</p>
+<empty-line/>
+<p>Сон</p>
+<empty-line/>
+<p>Жених да не женился</p>
+<empty-line/>
+<p>Последнее желание</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Из испанской поэзии</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Испанские народные песни</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Seguidillas</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Из грузинской поэзии</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ГРУЗИНСКАЯ ОДА К ТАМАР</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Тамар, тебя пою, ты - солнце незаходящей красоты,</p>
+<empty-line/>
+<p>Твой стан точеный тонко-строен, и кроткий лик являешь ты.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Тамар, эфир молниеносный, словесный луг целебных трав,</p>
+<empty-line/>
+<p>Ларец познаний, ключ, текущий среди Эдемовых дубрав.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>В щедротах ты подобна морю, высоким духом - небесам.</p>
+<empty-line/>
+<p>Ты - милосердье, и смиренье, и упоение глазам.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Из края в край идя с победой и славой тронув гуд струны,</p>
+<empty-line/>
+<p>Ты победителей сразила, - они тобой побеждены.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ты с богом разделила страсти его взнесенного креста,</p>
+<empty-line/>
+<p>В горах ты утвердила веру, - их высота тобой свята.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Все люди власть твою признали, и люди ль только слились в хор? -</p>
+<empty-line/>
+<p>Тебе подвластны львы в равнине, тебе послушны барсы гор.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Тебя зовут светила - солнцем, тебя возносят семь планет,</p>
+<empty-line/>
+<p>Но для певцов ты недоступна, и до тебя дороги нет.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Из армянской поэзии</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И. ИОАННИСЯН</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Умолкли навсегда времен былых народы,</p>
+<empty-line/>
+<p>Родились новые народы в смену им, -</p>
+<empty-line/>
+<p>И с пальмой нежною зиждительной свободы</p>
+<empty-line/>
+<p>Склонилось счастие к народам молодым.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И слава прадедов, забрезживши звездою,</p>
+<empty-line/>
+<p>Роняет им свой луч и светом гонит зло;</p>
+<empty-line/>
+<p>И добытый трудом, печалью и борьбою,</p>
+<empty-line/>
+<p>Венок бессмертия венчает их чело.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Лишь только ты одна, Армения родная,</p>
+<empty-line/>
+<p>Лежишь, как труп живой, - мне горестно взглянуть}</p>
+<empty-line/>
+<p>В цепях тоскуешь ты, прекрасный лик склоняя;</p>
+<empty-line/>
+<p>Разметана твоя истерзанная грудь!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Из-под твоих руин не глянет ветвью новой</p>
+<empty-line/>
+<p>Зеленый мирт любви - спасения символ;</p>
+<empty-line/>
+<p>Возложен на тебя тоски венец терновый -</p>
+<empty-line/>
+<p>Венец немых скорбей и вековечных зол.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Но нет, ты не умрешь! Я верю в обновленье,</p>
+<empty-line/>
+<p>Оно должно прийти, - оно к тебе придет.</p>
+<empty-line/>
+<p>Во мраке вековом горит звезда спасенья:</p>
+<empty-line/>
+<p>Проснися, близок час, о родина, - он ждет.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Все то, что некогда в душе твоей боролось,</p>
+<empty-line/>
+<p>Пусть вспыхнет вновь. Воспрянь во прахе и пыли!</p>
+<empty-line/>
+<p>Хоть полумертвая, услышь, подай свой голос, -</p>
+<empty-line/>
+<p>Твои сыны придут со всех концов земли...</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>О. ТУМАНЯН</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>АХТАМАР</p>
+<empty-line/>
+<p>Легенда</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Каждой ночью к водам Вана</p>
+<empty-line/>
+<p>Кто-то с берега идет</p>
+<empty-line/>
+<p>И без лодки средь тумана</p>
+<empty-line/>
+<p>Смело к острову плывет.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Он могучими плечами</p>
+<empty-line/>
+<p>Рассекает лоно вод,</p>
+<empty-line/>
+<p>Привлекаемый лучами,</p>
+<empty-line/>
+<p>Что маяк далекий шлет.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Вкруг поток, шипя, крутится,</p>
+<empty-line/>
+<p>За пловцом бежит вослед,</p>
+<empty-line/>
+<p>Но бесстрашный не боится</p>
+<empty-line/>
+<p>Ни опасностей, ни бед.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Что ему угрозы ночи,</p>
+<empty-line/>
+<p>Пена, волны, ветер, мрак?</p>
+<empty-line/>
+<p>Точно любящие очи,</p>
+<empty-line/>
+<p>Перед ним горит маяк!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Каждой ночью искры света</p>
+<empty-line/>
+<p>Манят лаской тайных чар:</p>
+<empty-line/>
+<p>Каждой ночью, тьмой одета,</p>
+<empty-line/>
+<p>Ждет его к себе Тамар.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И могучими плечами</p>
+<empty-line/>
+<p>Бороздит он лоно вод,</p>
+<empty-line/>
+<p>Привлекаемый лучами,</p>
+<empty-line/>
+<p>Что маяк далекий шлет.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Он плывет навстречу счастью,</p>
+<empty-line/>
+<p>Смело борется с волной.</p>
+<empty-line/>
+<p>А Тамар, объята страстью,</p>
+<empty-line/>
+<p>Ждет его во тьме ночной.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Не напрасны ожиданья...</p>
+<empty-line/>
+<p>Ближе, ближе... вот и он!</p>
+<empty-line/>
+<p>Миг блаженства! Миг свиданья!</p>
+<empty-line/>
+<p>Сладких таинств райский сон!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Тихо. Только волны плещут,</p>
+<empty-line/>
+<p>Только, полны чистых чар,</p>
+<empty-line/>
+<p>Звезды ропщут и трепещут</p>
+<empty-line/>
+<p>За бесстыдную Тамар.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И опять к пучинам Вана</p>
+<empty-line/>
+<p>Кто-то с берега идет</p>
+<empty-line/>
+<p>И без лодки средь тумана</p>
+<empty-line/>
+<p>Вдаль от острова плывет.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И со страхом остается</p>
+<empty-line/>
+<p>Над водой Тамар одна,</p>
+<empty-line/>
+<p>Смотрит, слушает, как бьется</p>
+<empty-line/>
+<p>Разъяренная волна.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Завтра - снова ожиданья,</p>
+<empty-line/>
+<p>Так же искрится маяк,</p>
+<empty-line/>
+<p>Тот же чудный миг свиданья,</p>
+<empty-line/>
+<p>Те же ласки, тот же мрак.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Но разведал враг жестокий</p>
+<empty-line/>
+<p>Тайну любящих сердец:</p>
+<empty-line/>
+<p>Был погашен свет далекий,</p>
+<empty-line/>
+<p>Тьмой застигнут был пловец.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Растоптали люди злые</p>
+<empty-line/>
+<p>Ярко блещущий костер,</p>
+<empty-line/>
+<p>Небеса молчат ночные,</p>
+<empty-line/>
+<p>Тщетно света ищет взор.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Не заискрится, как прежде,</p>
+<empty-line/>
+<p>Маяка привет родной, -</p>
+<empty-line/>
+<p>И в обманчивой надежде</p>
+<empty-line/>
+<p>Бьется, бьется он с волной.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ветер шепчет непонятно,</p>
+<empty-line/>
+<p>Над водой клубится пар,</p>
+<empty-line/>
+<p>И вздыхает еле внятно</p>
+<empty-line/>
+<p>Слабый возглас: "Ах, Тамар!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Звуки плача, звуки смеха...</p>
+<empty-line/>
+<p>Волны ластятся к скале...</p>
+<empty-line/>
+<p>И как гаснущее эхо</p>
+<empty-line/>
+<p>"Ах,Тамар!" - звучит во мгле.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>На рассвете встали волны</p>
+<empty-line/>
+<p>И примчали бледный труп,</p>
+<empty-line/>
+<p>И застыл упрек безмолвный?</p>
+<empty-line/>
+<p>"Ах, Тамар!" - средь мертвых губ.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>С той поры минули годы,</p>
+<empty-line/>
+<p>Остров полон прежних чар,</p>
+<empty-line/>
+<p>Мрачно смотрит он на воды</p>
+<empty-line/>
+<p>И зовется "Ахтамар".</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>А. ИСААКЯН</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>КОЛОКОЛ ВОЛИ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>О колокол воли, гуди из лазури,</p>
+<empty-line/>
+<p>От горных высот, от кавказских громад,</p>
+<empty-line/>
+<p>Греми, как гроза, как гудение бури,</p>
+<empty-line/>
+<p>Чтоб гордый тебя услыхал Арарат.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Могучее слово бунтующей мести,</p>
+<empty-line/>
+<p>Свой гнев расширяй, как враждующий стан,</p>
+<empty-line/>
+<p>Народам неси веселящие вести,</p>
+<empty-line/>
+<p>Чтоб грозный союз был, как стяг, златоткан.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>От гор до селений, с долины - к долинам</p>
+<empty-line/>
+<p>От сердца летит пусть до сердца твой зов,</p>
+<empty-line/>
+<p>Да заповедь дашь, да гремишь властелином,</p>
+<empty-line/>
+<p>Твой гнев да звучит до скончанья веков!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>О гордые души, сюда, - окрылитесь!</p>
+<empty-line/>
+<p>Совместно звеня, да развеем мы звон!</p>
+<empty-line/>
+<p>Наш колокол - гнев, он - ликующий витязь,</p>
+<empty-line/>
+<p>Чтоб вольный Кавказ позабыл свой полон.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>О колокол воли, греми же, буди же</p>
+<empty-line/>
+<p>От сна Арарат и верховный Казбек,</p>
+<empty-line/>
+<p>Проснитесь, орлы, прилетите к нам ближе,</p>
+<empty-line/>
+<p>Свирепьтесь, о львы, и встряхнись, человек!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Довольно, довольно мы были рабами,</p>
+<empty-line/>
+<p>С умом в кандалах и с руками в цепях,</p>
+<empty-line/>
+<p>Неси же нам мощь, да пребудем мы в храме</p>
+<empty-line/>
+<p>И огнь распалим в напряженных сердцах.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Рычи нам, журчи нам и выстрой нас к бою,</p>
+<empty-line/>
+<p>До славы, до ран, хоть на смерть, но - в борьбу,</p>
+<empty-line/>
+<p>Несчастье и зло да сразим мы с тобою,</p>
+<empty-line/>
+<p>Греми же как гром и труби как в трубу!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Страна величавых и взрывных вулканов,</p>
+<empty-line/>
+<p>От моря звучи и до моря бушуй!</p>
+<empty-line/>
+<p>Кто смел - тот вперед! Поразим великанов!</p>
+<empty-line/>
+<p>Беги, водопад, огнебрызгами струй!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>О колокол воли, наш колокол воли,</p>
+<empty-line/>
+<p>Да будет твой звук для сердец властелин!</p>
+<empty-line/>
+<p>Свободный Кавказ, в возрождении доли,</p>
+<empty-line/>
+<p>Весь вскликнет в ответ перекличкой вершин.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Из литовской поэзии</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ПЕСНИ И ДАЙНЫ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ЛИТВИН</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Литвин уезжал на войну,</p>
+<empty-line/>
+<p>Мать оставлял и жену.</p>
+<empty-line/>
+<p>Мать начинает тужить:</p>
+<empty-line/>
+<p>"Кто тебе будет служить</p>
+<empty-line/>
+<p>В далекой Угорской земле?"</p>
+<empty-line/>
+<p>"Что же, родная? Есть звезды во мгле, -</p>
+<empty-line/>
+<p>И не счесть.</p>
+<empty-line/>
+<p>Светят глазами,</p>
+<empty-line/>
+<p>Белыми светят руками, -</p>
+<empty-line/>
+<p>Будут как знамя, как буду рубиться с врагами.</p>
+<empty-line/>
+<p>Ты вот, родная, как будешь одна?"</p>
+<empty-line/>
+<p>"Буду молиться". - "А ты как, жена?"</p>
+<empty-line/>
+<p>"Буду любить тебя. Буду молиться".</p>
+<empty-line/>
+<p>"А как ребеночек малый родится?"</p>
+<empty-line/>
+<p>"Буду ребенка качать.</p>
+<empty-line/>
+<p>Петь буду песни". - "А будут метели?"</p>
+<empty-line/>
+<p>"Лаума вместо меня к колыбели</p>
+<empty-line/>
+<p>С бледным лицом подойдет.</p>
+<empty-line/>
+<p>Будет ребенка качать,</p>
+<empty-line/>
+<p>Снега мне в сердце немного положит.</p>
+<empty-line/>
+<p>Это поможет.</p>
+<empty-line/>
+<p>Буду молчать".</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>МЕСЯЦ И СОЛНЦЕ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Солнце-Савлита - красивая дева,</p>
+<empty-line/>
+<p>Месяц женился на ней.</p>
+<empty-line/>
+<p>Светы направо, и светы налево,</p>
+<empty-line/>
+<p>Солнце поет, и под звуки напева</p>
+<empty-line/>
+<p>Росы - как бисер на сетке ветвей.</p>
+<empty-line/>
+<p>Солнце взошло и по небу блуждало,</p>
+<empty-line/>
+<p>Месяц сказал: "Целовались мы мало".</p>
+<empty-line/>
+<p>Месяц бледнеет от трепета сил.</p>
+<empty-line/>
+<p>Слышит в ветвях он поющую птицу,</p>
+<empty-line/>
+<p>Видит блестящую Диво-Денницу,</p>
+<empty-line/>
+<p>Вмиг светлолицую он полюбил.</p>
+<empty-line/>
+<p>Он ее нежит, целует, ласкает.</p>
+<empty-line/>
+<p>Видит Перкунас измену его,</p>
+<empty-line/>
+<p>Поднял карающий меч, набегает,</p>
+<empty-line/>
+<p>Месяц разрублен, но жив. Оттого</p>
+<empty-line/>
+<p>Солнце-Савлита, пылая от гнева,</p>
+<empty-line/>
+<p>Ходит по синему небу вдовой,</p>
+<empty-line/>
+<p>Месяц же часто в ущербе, но дева</p>
+<empty-line/>
+<p>Диво-Денница в сиянье напева</p>
+<empty-line/>
+<p>Слышит, как Месяц ей шепчет: "Я твой!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>МАТЬ И ДОЧЬ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>- О мать моя родимая,</p>
+<empty-line/>
+<p>Позволь идти мне с ними,</p>
+<empty-line/>
+<p>С солдатами, как с братьями,</p>
+<empty-line/>
+<p>Огонь там ходит в дыме.</p>
+<empty-line/>
+<p>- О дочь моя, ты девушка,</p>
+<empty-line/>
+<p>Не с ними мерить долы:</p>
+<empty-line/>
+<p>Сегодня здесь, а завтра там, -</p>
+<empty-line/>
+<p>Солдатский хлеб тяжелый.</p>
+<empty-line/>
+<p>- О мать моя родимая,</p>
+<empty-line/>
+<p>Огонь не гаснет в дыме.</p>
+<empty-line/>
+<p>Я в бой пойду с солдатами.</p>
+<empty-line/>
+<p>Хочу идти я с ними.</p>
+<empty-line/>
+<p>- О дочь моя любимая,</p>
+<empty-line/>
+<p>А ночевать-то где же?</p>
+<empty-line/>
+<p>- О мать моя родимая,</p>
+<empty-line/>
+<p>Повсюду ночи те же.</p>
+<empty-line/>
+<p>Как ночь придет, зеленый луг</p>
+<empty-line/>
+<p>Густой травой поманит.</p>
+<empty-line/>
+<p>Как ночь придет, высокий холм</p>
+<empty-line/>
+<p>Моей постелью станет.</p>
+<empty-line/>
+<p>- О дочь моя любимая,</p>
+<empty-line/>
+<p>Что подстелить ты сможешь?</p>
+<empty-line/>
+<p>И чем же ты прикроешься,</p>
+<empty-line/>
+<p>И как себе поможешь?</p>
+<empty-line/>
+<p>- О мать моя, кручинишься</p>
+<empty-line/>
+<p>Напрасно надо мною,</p>
+<empty-line/>
+<p>Росу я подстелю себе,</p>
+<empty-line/>
+<p>Прикроюсь темной мглою.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ВОРОБЬИНЫЙ ПРАЗДНИК</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Воробей варит пиво для гостей,</p>
+<empty-line/>
+<p>Дам-дам-дали-дам-дили-дам.</p>
+<empty-line/>
+<p>Жить не может воробейко без затей,</p>
+<empty-line/>
+<p>Скачет, пляшет по дорогам, по кустам.</p>
+<empty-line/>
+<p>Варит пиво воробейко для гостей,</p>
+<empty-line/>
+<p>Дам-дам-дали-дам-дили-дам.</p>
+<empty-line/>
+<p>Всех крылатых просит в гости воробей.</p>
+<empty-line/>
+<p>Писк и щебеты. Дам-дам-дили-дам.</p>
+<empty-line/>
+<p>Он с совой пошел плясать. Пляши и пей.</p>
+<empty-line/>
+<p>Ей на палец наступил - и стыд и срам.</p>
+<empty-line/>
+<p>Не с тобой бы воробью плясать, ей-ей.</p>
+<empty-line/>
+<p>Дам-дам-дали-дам-дили-дам.</p>
+<empty-line/>
+<p>Захмелел совсем от пива воробей,</p>
+<empty-line/>
+<p>И пищит сова, нахмурясь: "В суд подам".</p>
+<empty-line/>
+<p>Отдавил сове он палец, лиходей,</p>
+<empty-line/>
+<p>И пошла она таскаться по судам,</p>
+<empty-line/>
+<p>И чирикнул на заборе воробей:</p>
+<empty-line/>
+<p>Дам-дам-дали-дам-дили-дам.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ЗАРЕВАЯ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Утром ранним, раным-рано,</p>
+<empty-line/>
+<p>Солнышко взошло,</p>
+<empty-line/>
+<p>За окошком стал отец мой,</p>
+<empty-line/>
+<p>Глянул сквозь стекло.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Где ты был, сыночек милый,</p>
+<empty-line/>
+<p>Где гулял зарей?</p>
+<empty-line/>
+<p>Где свои заржавил шпоры,</p>
+<empty-line/>
+<p>Оросил росой?</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Утром ранним, раным-рано,</p>
+<empty-line/>
+<p>Я коня кормил,</p>
+<empty-line/>
+<p>И заржавил там я шпоры,</p>
+<empty-line/>
+<p>В росах оросил.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ты неправильное слово,</p>
+<empty-line/>
+<p>Мой сынок, сказал.</p>
+<empty-line/>
+<p>Ты там утром, раным-рано,</p>
+<empty-line/>
+<p>С девушкой гулял.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>2</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Утром ранним, раным-рано,</p>
+<empty-line/>
+<p>Солнышко взошло,</p>
+<empty-line/>
+<p>За окошком стал отец мой,</p>
+<empty-line/>
+<p>Глянул сквозь стекло.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Где гуляла, дочь родная,</p>
+<empty-line/>
+<p>Где зарей была?</p>
+<empty-line/>
+<p>Где на твой венок зеленый</p>
+<empty-line/>
+<p>В росах пала мгла?</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Утром ранним, раным-рано,</p>
+<empty-line/>
+<p>Шла я за водой,</p>
+<empty-line/>
+<p>И на мой венок зеленый</p>
+<empty-line/>
+<p>Пала мгла росой.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ты неправильное слово,</p>
+<empty-line/>
+<p>Дочь моя, рекла,</p>
+<empty-line/>
+<p>Ты там утром раным-рано,</p>
+<empty-line/>
+<p>С молодцем была.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>САДИК</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Пой, моя сестрица.</p>
+<empty-line/>
+<p>Что же не поешь ты?</p>
+<empty-line/>
+<p>Что ты загрустила,</p>
+<empty-line/>
+<p>Руки опустила?</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Как же буду петь я?</p>
+<empty-line/>
+<p>Как мне веселиться?</p>
+<empty-line/>
+<p>В садике есть горе,</p>
+<empty-line/>
+<p>Горюшко есть в малом.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Вытоптаны руты,</p>
+<empty-line/>
+<p>Сорваны все розы.</p>
+<empty-line/>
+<p>Лилии помяты,</p>
+<empty-line/>
+<p>Залиты росою.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>С севера ль был ветер?</p>
+<empty-line/>
+<p>Иль река в разливе?</p>
+<empty-line/>
+<p>Иль гремел Перкунас?</p>
+<empty-line/>
+<p>Жгли сверканья молний?</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Нет, не север веял,</p>
+<empty-line/>
+<p>Не река шумела,</p>
+<empty-line/>
+<p>Не гремел Перкунас,</p>
+<empty-line/>
+<p>Не было здесь молний.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Сонмы бородатых,</p>
+<empty-line/>
+<p>Мужи из-за моря,</p>
+<empty-line/>
+<p>К берегу пристали,</p>
+<empty-line/>
+<p>В садик пробирались.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Руты растоптали,</p>
+<empty-line/>
+<p>Розы все сорвали,</p>
+<empty-line/>
+<p>Лилии сломили,</p>
+<empty-line/>
+<p>Всю росу стряхнули.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Я-то уцелела</p>
+<empty-line/>
+<p>Только еле-еле,</p>
+<empty-line/>
+<p>Под побегом руты,</p>
+<empty-line/>
+<p>Под веночком черным.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>СЕЛЬСКИЙ СТАРОСТА</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Близ дороги, близ широкой,</p>
+<empty-line/>
+<p>Сельский староста живет.</p>
+<empty-line/>
+<p>Ай да дудка-прибаутка,</p>
+<empty-line/>
+<p>Сельский староста живет.</p>
+<empty-line/>
+<p>Дуй-ка в дудку, ду-ду-ду,</p>
+<empty-line/>
+<p>Никуда я не пойду.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Как у старосты три сына,</p>
+<empty-line/>
+<p>Все три сына как один.</p>
+<empty-line/>
+<p>Ай да дудка-прибаутка,</p>
+<empty-line/>
+<p>Все три сына как один.</p>
+<empty-line/>
+<p>Дуй-ка в дудку, ду-ду-ду,</p>
+<empty-line/>
+<p>Никуда я не пойду.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Сын есть Степа, сын есть Юра,</p>
+<empty-line/>
+<p>И Матюшка третий сын.</p>
+<empty-line/>
+<p>Ай да дудка-прибаутка,</p>
+<empty-line/>
+<p>И Матюшка третий сын.</p>
+<empty-line/>
+<p>Дуй-ка в дудку, ду-ду-ду,</p>
+<empty-line/>
+<p>Никуда я не пойду.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Как поехал я в Альвиту,</p>
+<empty-line/>
+<p>Степке скрипку я купил.</p>
+<empty-line/>
+<p>Ай да дудка-прибаутка,</p>
+<empty-line/>
+<p>Степке скрипку я купил.</p>
+<empty-line/>
+<p>Дуй-ка в дудку, ду-ду-ду,</p>
+<empty-line/>
+<p>Никуда я не пойду.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Степке скрипку, Юрке дудку,</p>
+<empty-line/>
+<p>А Матюшке пирожок.</p>
+<empty-line/>
+<p>Ай да дудка-прибаутка,</p>
+<empty-line/>
+<p>А Матюшке пирожок.</p>
+<empty-line/>
+<p>Дуй-ка в дудку, ду-ду-ду,</p>
+<empty-line/>
+<p>Никуда я не пойду.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Мы поехали в Альвиту,</p>
+<empty-line/>
+<p>Ничего там не нашли.</p>
+<empty-line/>
+<p>Ай да дудка-прибаутка,</p>
+<empty-line/>
+<p>Ничего там не нашла</p>
+<empty-line/>
+<p>Дуй-ка в дудку, ду-ду-ду,</p>
+<empty-line/>
+<p>Никуда я не пойду.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И ни скрипки, и ни дудки,</p>
+<empty-line/>
+<p>Никакого пирожка.</p>
+<empty-line/>
+<p>Ай да дудка-прибаутка,</p>
+<empty-line/>
+<p>Никакого пирожка.</p>
+<empty-line/>
+<p>Дуй-ка в дудку, ду-ду-ду,</p>
+<empty-line/>
+<p>Никуда я не пойду.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Из болгарской поэзии</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>НАРОДНЫЕ ПЕСНИ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>МАРГИТА</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Мрак на поле, и солнце заходит,</p>
+<empty-line/>
+<p>На дворе собралися невестки:</p>
+<empty-line/>
+<p>Чей черед за водою с кувшином?</p>
+<empty-line/>
+<p>А черед был Маргиты-девойки.</p>
+<empty-line/>
+<p>Да хитра мать Маргиты, лукава, -</p>
+<empty-line/>
+<p>Хвать кувшин - и идет за водою.</p>
+<empty-line/>
+<p>Вот встречает ее юн безумец:</p>
+<empty-line/>
+<p>"Добрый вечер, Маргитина матерь,</p>
+<empty-line/>
+<p>А Маргита-девойка-то где же?"</p>
+<empty-line/>
+<p>Отвечает Маргитина матерь:</p>
+<empty-line/>
+<p>"Умерла нынче ночью Маргита,</p>
+<empty-line/>
+<p>Братья утром ее схоронили".</p>
+<empty-line/>
+<p>И промолвил тогда юн безумец?</p>
+<empty-line/>
+<p>"Ты не лги, ты не лги, мать Маргиты,</p>
+<empty-line/>
+<p>Всю-то ночь нынче ночью Маргита</p>
+<empty-line/>
+<p>У меня на руке пролежала".</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>НЕВЕСТА ТОДОРА</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Есть красивая Тодора,</p>
+<empty-line/>
+<p>Молодая есть невеста,</p>
+<empty-line/>
+<p>За водой не ходит утром -</p>
+<empty-line/>
+<p>Вечерами, в лунном свете,</p>
+<empty-line/>
+<p>Чтобы солнце не смотрело.</p>
+<empty-line/>
+<p>Вот Тодора наклонилась</p>
+<empty-line/>
+<p>Зачерпнуть в кувшин водицы,</p>
+<empty-line/>
+<p>Тень упала до криницы,</p>
+<empty-line/>
+<p>Выпрямляется Тодора,</p>
+<empty-line/>
+<p>И не тень была пред нею -</p>
+<empty-line/>
+<p>Молодой был воевода.</p>
+<empty-line/>
+<p>Говорит Тодоре тихо:</p>
+<empty-line/>
+<p>"Ой, невеста молодая,</p>
+<empty-line/>
+<p>Ты, красивая Тодора,</p>
+<empty-line/>
+<p>Зачерпни воды студеной,</p>
+<empty-line/>
+<p>Напои коня из кадки,</p>
+<empty-line/>
+<p>Напои меня устами,</p>
+<empty-line/>
+<p>А дружину - из пригоршни".</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ЖУРАВЛИ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>"Журавли вы серокрылы,</p>
+<empty-line/>
+<p>Журавли вы длиннокрылы,</p>
+<empty-line/>
+<p>Как высоко вы летите,</p>
+<empty-line/>
+<p>Как далёко вы глядите, -</p>
+<empty-line/>
+<p>Миновали ли в пути вы</p>
+<empty-line/>
+<p>Ровный край пустой - Добруджу?</p>
+<empty-line/>
+<p>Был ли вам в полете виден,</p>
+<empty-line/>
+<p>Журавли, внизу мой милый?"</p>
+<empty-line/>
+<p>Журавли сказали юной:</p>
+<empty-line/>
+<p>"Коли спрашиваешь, скажем.</p>
+<empty-line/>
+<p>Да, мы видели Стояна</p>
+<empty-line/>
+<p>В Черном море, среди моря.</p>
+<empty-line/>
+<p>Корабли плывут по морю,</p>
+<empty-line/>
+<p>Корабли плывут и лодки.</p>
+<empty-line/>
+<p>Вот плывет корабль по морю,</p>
+<empty-line/>
+<p>А за ним плывут три лодки,</p>
+<empty-line/>
+<p>Млад Стоян плывет по морю,</p>
+<empty-line/>
+<p>Держит медную свирель он,</p>
+<empty-line/>
+<p>Он играет на свирели,</p>
+<empty-line/>
+<p>А свирель свирелит слово:</p>
+<empty-line/>
+<p>"Подожди меня немножко,</p>
+<empty-line/>
+<p>Ты ждала меня так долго,</p>
+<empty-line/>
+<p>Подожди еще немножко.</p>
+<empty-line/>
+<p>Если к милой не вернусь я,</p>
+<empty-line/>
+<p>Избери себе другого, -</p>
+<empty-line/>
+<p>Пусть моим он ходит ходом,</p>
+<empty-line/>
+<p>Пусть мое он молвит слово,</p>
+<empty-line/>
+<p>Пусть мою поет он песню".</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>СОН</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Заснула девушка крепко</p>
+<empty-line/>
+<p>У самого берега моря, -</p>
+<empty-line/>
+<p>Под той ли был сон под маслиной.</p>
+<empty-line/>
+<p>И ветер повеял от моря,</p>
+<empty-line/>
+<p>Он ветку сломал на маслине,</p>
+<empty-line/>
+<p>Ударила девушку ветка,</p>
+<empty-line/>
+<p>В лицо ее ветер ударил,</p>
+<empty-line/>
+<p>И, вздрогнув, она пробудилась,</p>
+<empty-line/>
+<p>И ветер кляла она гневно:</p>
+<empty-line/>
+<p>"Ах, если б ты, ветер, не веял,</p>
+<empty-line/>
+<p>Спала бы себе и спала я.</p>
+<empty-line/>
+<p>Приснился мне сон несчастливый:</p>
+<empty-line/>
+<p>Приходят в мой сон три безумца,</p>
+<empty-line/>
+<p>Безумцы они, не женаты.</p>
+<empty-line/>
+<p>Один дал мне яблоко красно,</p>
+<empty-line/>
+<p>Другой подарил мне злат-перстень,</p>
+<empty-line/>
+<p>Во сне целовал меня третий.</p>
+<empty-line/>
+<p>Пусть тот, что был с яблоком красным,</p>
+<empty-line/>
+<p>Иссох бы, как яблоко красно;</p>
+<empty-line/>
+<p>Пусть тот, что дарил мне злат-перстень,</p>
+<empty-line/>
+<p>Сквозь перстень скользнув, провалился;</p>
+<empty-line/>
+<p>А кто целовал меня в дрёме,</p>
+<empty-line/>
+<p>Целуй не во сне меня - в яви!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ЖЕНИХ ДА НЕ ЖЕНИЛСЯ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ждет юнак, все смотрит-смотрит:</p>
+<empty-line/>
+<p>Хороша в селе юница -</p>
+<empty-line/>
+<p>В стаде агнец белорунный,</p>
+<empty-line/>
+<p>На горе ветвистый явор,</p>
+<empty-line/>
+<p>Горностаевая шапка.</p>
+<empty-line/>
+<p>Ждал безумный, все смотрел он, -</p>
+<empty-line/>
+<p>Белый агнец был заколот,</p>
+<empty-line/>
+<p>И срубили стройный явор,</p>
+<empty-line/>
+<p>И купил купец проезжий</p>
+<empty-line/>
+<p>Горностаевую шапку.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ПОСЛЕДНЕЕ ЖЕЛАНИЕ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Мать моя, радость родная,</p>
+<empty-line/>
+<p>Юною я умираю,</p>
+<empty-line/>
+<p>Не хорони меня скоро,</p>
+<empty-line/>
+<p>Дай подойти всем подружкам,</p>
+<empty-line/>
+<p>Пусть восковыми свечами</p>
+<empty-line/>
+<p>Все они - светы засветят,</p>
+<empty-line/>
+<p>Все принесут по цветочку,</p>
+<empty-line/>
+<p>Все погрустят и потужат.</p>
+<empty-line/>
+<p>После - меня ты схоронишь</p>
+<empty-line/>
+<p>Меж двух дорог, двух широких,</p>
+<empty-line/>
+<p>Там, где несутся юнаки.</p>
+<empty-line/>
+<p>Буду я слушать, родная,</p>
+<empty-line/>
+<p>Как там топочут их кони,</p>
+<empty-line/>
+<p>Звякают острые сабли.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ИВАН ВАЗОВ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>РОССИЯ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Россия! Как нас это имя</p>
+<empty-line/>
+<p>Пленяет - милое, родное!</p>
+<empty-line/>
+<p>Она лучами огневыми</p>
+<empty-line/>
+<p>Светила в горе наше злое!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Она нас вспомнила, когда мы</p>
+<empty-line/>
+<p>Забыты были, - чужд весь свет,</p>
+<empty-line/>
+<p>Любовь, цветок над краем ямы,</p>
+<empty-line/>
+<p>Забота, ласка и завет.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Россия! Ширь - в веках и ныне,</p>
+<empty-line/>
+<p>Размах ты с мощью разливной!</p>
+<empty-line/>
+<p>Ты схожа с небом, с бездной синей,</p>
+<empty-line/>
+<p>И только с русскою душой!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Из испанской поэзии</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ИСПАНСКИЕ НАРОДНЫЕ ПЕСНИ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>SEGUIDILLAS</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Не хочу, чтоб ты ушел,</p>
+<empty-line/>
+<p>Не хочу, чтоб ты остался,</p>
+<empty-line/>
+<p>Ни чтоб ты меня оставил,</p>
+<empty-line/>
+<p>Ни чтоб ты меня увлек.</p>
+<empty-line/>
+<p>Одного хочу я только...</p>
+<empty-line/>
+<p>Я всего хочу - и, значит,</p>
+<empty-line/>
+<p>Не хочу я ничего.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>2</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Женщины - как тени:</p>
+<empty-line/>
+<p>К ним идешь - уходят,</p>
+<empty-line/>
+<p>Ты от них стремишься -</p>
+<empty-line/>
+<p>Гонятся вослед.</p>
+<empty-line/>
+<p>Я их постигаю:</p>
+<empty-line/>
+<p>Раз подходят - жду,</p>
+<empty-line/>
+<p>Раз уходят - пусть их.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>3</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Как хрусталь - влеченье сердца,</p>
+<empty-line/>
+<p>Как бокал - любовь людская.</p>
+<empty-line/>
+<p>Чуть его толкнешь неловко -</p>
+<empty-line/>
+<p>Разобьется на куски.</p>
+<empty-line/>
+<p>И уж так всегда бывает:</p>
+<empty-line/>
+<p>Чем нежнее, тем скорее</p>
+<empty-line/>
+<p>Разобьется навсегда.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>4</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Чуть глаза твои увидел,</p>
+<empty-line/>
+<p>Я своим глазам промолвил:</p>
+<empty-line/>
+<p>"Осторожней: перед нами -</p>
+<empty-line/>
+<p>Беспощадные враги!"</p>
+<empty-line/>
+<p>И душа мне отвечала:</p>
+<empty-line/>
+<p>"Уж открыли перестрелку</p>
+<empty-line/>
+<p>Аванпосты, - посмотри!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>5</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>В понедельник я влюбляюсь,</p>
+<empty-line/>
+<p>А во вторник признаюсь</p>
+<empty-line/>
+<p>И взаимность получаю</p>
+<empty-line/>
+<p>В среду - так же, как в четверг,</p>
+<empty-line/>
+<p>А на пятницу ревнуют,</p>
+<empty-line/>
+<p>А в субботу, в воскресенье</p>
+<empty-line/>
+<p>Новой страсти я ищу.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>6</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Нежным веером ты веешь</p>
+<empty-line/>
+<p>На себя, чтоб освежиться,</p>
+<empty-line/>
+<p>И даешь тихонько знаки,</p>
+<empty-line/>
+<p>Незаметнько другому.</p>
+<empty-line/>
+<p>Тем же веером ты можешь</p>
+<empty-line/>
+<p>Окружить себя прохладой,</p>
+<empty-line/>
+<p>Окружить меня огнем.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>7</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Женщины - как книги,</p>
+<empty-line/>
+<p>Думаешь: "Вот новость,</p>
+<empty-line/>
+<p>Дай-ка я куплю".</p>
+<empty-line/>
+<p>Развернешь, посмотришь -</p>
+<empty-line/>
+<p>Читано давно уж.</p>
+<empty-line/>
+<p>Сколько переделок</p>
+<empty-line/>
+<p>Заново идет!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>8</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ты глядишь и молчишь,</p>
+<empty-line/>
+<p>Дни идут и проходят,</p>
+<empty-line/>
+<p>Я гляжу и молчу.</p>
+<empty-line/>
+<p>Двести лет так продлится:</p>
+<empty-line/>
+<p>Друг на друга смотря,</p>
+<empty-line/>
+<p>Мы с тобой не заметим,</p>
+<empty-line/>
+<p>Что приблизилась смерть.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>9</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>У тебя глаза - не очи,</p>
+<empty-line/>
+<p>У тебя не взоры - стрелы,</p>
+<empty-line/>
+<p>Только взглянешь - я мертва.</p>
+<empty-line/>
+<p>Ты гляди же больше, больше,</p>
+<empty-line/>
+<p>Пусть, с тобой встречаясь взором,</p>
+<empty-line/>
+<p>Каждый миг я умираю,</p>
+<empty-line/>
+<p>Пусть от счастья я умру.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>10</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>С тех пор как ушла ты,</p>
+<empty-line/>
+<p>О солнце всех солнц,</p>
+<empty-line/>
+<p>И птицы умолкли,</p>
+<empty-line/>
+<p>И смолкли ручьи!</p>
+<empty-line/>
+<p>О милое счастье!</p>
+<empty-line/>
+<p>И птицы умолкли,</p>
+<empty-line/>
+<p>И смолкли ручьи.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ПРИМЕЧАНИЯ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Из грузинской поэзии</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Грузинская   ода   к   Тамар  (стр.  478).  -  Тамар  -  царица  Грузии</p>
+<empty-line/>
+<p>(1184-1207);  в  период правления Тамар и ее мужа Давида Сослани (1189-1207)</p>
+<empty-line/>
+<p>Шота  Руставели занимал крупные государственные должности. Эдемские дубравы.</p>
+<empty-line/>
+<p>- Эдем - земной рай.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Из армянской поэзии</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>П. ИОАННИСЯН</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Иоаннес   Иоаннисян   (1864-1929)  -  армянский  поэт-демократ,  видный</p>
+<empty-line/>
+<p>общественный деятель Советской Армении,</p>
+<empty-line/>
+<p>"Умолкли  навсегда  времен  былых  народы..."  (стр.  484).  - Оригинал</p>
+<empty-line/>
+<p>датирован 1887 г.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>О. ТУМАНЯН</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ованес  Туманян  (1869-1923) - выдающийся армянский поэт-эпик, прозаик,</p>
+<empty-line/>
+<p>переводчик.</p>
+<empty-line/>
+<p>Ахтамар  (стр.  485).  -  Ахгамор  -  остров  в озере Ван, на Армянском</p>
+<empty-line/>
+<p>плоскогорье.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>А. ИСААКЯН</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Авегик  Исаакян  (1875-1957)  - выдающийся армянский поэт. Колокол воли</p>
+<empty-line/>
+<p>(стр. 487). - Оригинал датирован 1903 г.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Из литовской поэзии</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Первые  переводы Бальмонта из литовской народной поэзии были напечатаны</p>
+<empty-line/>
+<p>в  альманахе издательства "Шиповник" в 1908 г. - задолго до знакомства поэта</p>
+<empty-line/>
+<p>с  полюбившейся  ему  Литвой. Чувствуя "с детства тяготение и любопытство" к</p>
+<empty-line/>
+<p>Литве,    с    годами    укрепляющееся    благодаря   многолетней   дружбе с</p>
+<empty-line/>
+<p>русско-литовским  поэтом Ю. К. Балтрушайтисом, Бальмонт, однако, лишь в 1928</p>
+<empty-line/>
+<p>г.  начал изучать литовский язык. "На Ваших произведениях и на стихах Людаса</p>
+<empty-line/>
+<p>Гиры,  -  писал  он  в  1930  г.  В. Креве, - я овладел литовским языком. И,</p>
+<empty-line/>
+<p>сознавая,  как  много  мне еще работать над ним, я все же радостно чувствую,</p>
+<empty-line/>
+<p>что  литовский  язык,  столь  загадочный,  самобытный, богатый, я уже знаю".</p>
+<empty-line/>
+<p>"Литва поистине завоевала" Бальмонта. Он высоко ценил творчество современных</p>
+<empty-line/>
+<p>поэтов  Литвы,  но  особенно  восторженно  отзывался  о литовском фольклоре:</p>
+<empty-line/>
+<p>сказках  и  дайнах (народных песнях). "...Дайны - целомудренность, нечто как</p>
+<empty-line/>
+<p>"Vita  Nuova"  Данте,  -  писал  Бальмонт  А.  Венуолису  1  декабря 1933 г.</p>
+<empty-line/>
+<p>(цитированные  письма опубликованы в журн. "Вопросы литературы", 1975, No 3,</p>
+<empty-line/>
+<p>с. 238-254).</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ПЕСНИ И ДАЙНЫ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Литвин  (стр.  489).  -  Угорская  земля - Венгрия. Лаума (лит. миф.) -</p>
+<empty-line/>
+<p>лесная дева; может одарить человека, но чаще совершает злые поступки.</p>
+<empty-line/>
+<p>Месяц и Солнце (стр. 490). - Перкунас - см. примеч. к с. 413.</p>
+<empty-line/>
+<p>Садик (стр. 492). - Рута - см. примеч. к с. 416.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Из болгарской поэзии</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>НАРОДНЫЕ ПЕСНИ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Маргита (стр. 495). - Девойка - девушка.</p>
+<empty-line/>
+<p>Невеста Тодора (стр. 495). - Криница - см. примеч. к с. 249.</p>
+<empty-line/>
+<p>Жених да не женился (стр. 497). - Юнак - юноша, воин. Юница - девушка.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ИВАН ВАЗОВ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Иван  Вазов  (1850-1921)  - болгарский писатель и общественный деятель,</p>
+<empty-line/>
+<p>горячий сторонник русско-болгарской дружбы.</p>
+<empty-line/>
+<p>Россия  (стр.  498)  -  перевод  отрывка  из  стихотворения "Росия!" из</p>
+<empty-line/>
+<p>сборника "Тъгитъ на България" (1877).</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Из испанской поэзии</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ИСПАНСКИЕ НАРОДНЫЕ ПЕСНИ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Seguidillas  (стр.  499).  - Seguidilla - сегидилья, испанская народная</p>
+<empty-line/>
+<p>песня;  в  сегидилье  семь  стихов.  Источник  перевода:  "Cantos  populares</p>
+<p>espanoles", tt. I - V, Sevilla, 1883.</p>
+</section>
+
+</body>
+</FictionBook>

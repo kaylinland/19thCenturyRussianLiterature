@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>children</genre>
+		<author>
+			<first-name>Денис</first-name>
+			<middle-name>Васильевич</middle-name>
+			<last-name>Давыдов</last-name>
+		</author>
+		<book-title>Письмо к Жуковскому</book-title>
+<annotation></annotation>		<date value="2013-03-19">19/03/2013</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 02:35:44</date>
+		<src-url>http://az.lib.ru/d/dawydow_d_w/text_1831_pismo_k_zhukovskomu_oldorfo.shtml</src-url>
+		<id>samlib58f4a8908278f3.31280673</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Давыдов Денис Васильевич</p>
+	<empty-line/>
+	<p>Письмо к Жуковскому</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Письмо Дениса Васильевича Давыдова къ Жуковскому.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ты хотѣлъ имѣть лѣвый усъ мой, какъ ближайшій къ сердцу; вотъ десятая часть онаго, т. е. все то, чтб я могъ собратъ изъ подъ губительныхъ ножницъ, лишившихъ меня этой боевой вывѣски.</p>
+<p>Посылаю тебѣ ее -- она осребрилась восьмью войнами и еще пахнетъ порохомъ послѣдней битвы въ Польшѣ; но посылаю не при стихахъ, какъ ты требовалъ, a при прозѣ, потому что я пишу стихами тогда только, когда бѣсъ поэзіи во мнѣ разыграется, чего теперь не случилось. Такъ какъ этотъ бѣсь никогда въ тебѣ не дремлетъ, то прошу меня за подарокъ отдарить хотя четверостишіемъ. Прости, другъ старинный и почтеннѣшій; жаль, что не успѣлъ обнять тебя передъ отъѣздомъ твоимъ!</p>
+<empty-line/>
+<p>Денисъ.</p>
+<empty-line/>
+<empty-line/>
+<p>1831 г.</p>
+<p>25-го ноября</p>
+<p>Москва.</p>
+<p>Въ Зубовѣ, на валу</p>
+<p>въ домѣ Стрѣкалова.</p>
+<empty-line/>
+<p>При семъ приложены, завернутые въ бумажку волосы, сь надписью на бумажкѣ:</p>
+<p>Послужной списокъ уса Давыдова.</p>
+<empty-line/>
+<empty-line/>
+<p>Войны:</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1. Въ Пруссіи 1806 и 1807 г.</p>
+<p>2.<emphasis> </emphasis>Въ Финляндіи 1808 г.</p>
+<p>3. Въ Турціи 1809 и 1810 г.</p>
+<p>4. Отечественная 1812 г.</p>
+<p>5. Въ Германіи 1813 г.</p>
+<p>6. Во Франціи 1814 г.</p>
+<p>7. Въ Персіи 1826 г.</p>
+<p>8. Въ Польшѣ 1831 г.</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

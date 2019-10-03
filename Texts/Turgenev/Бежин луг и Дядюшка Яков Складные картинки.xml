@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Иван</first-name>
+			<middle-name>Сергеевич</middle-name>
+			<last-name>Тургенев</last-name>
+		</author>
+		<book-title>Бежин луг и Дядюшка Яков. Складные картинки</book-title>
+<annotation></annotation>		<date value="2017-09-28">28/09/2017</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-09-28">2017-09-28 01:58:02</date>
+		<src-url>http://az.lib.ru/t/turgenew_i_s/text_1884_bezhin_lug_oldorfo.shtml</src-url>
+		<id>samlib59ccd5ba785d28.20146259</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Тургенев Иван Сергеевич</p>
+	<empty-line/>
+	<p>Бежин луг и Дядюшка Яков. Складные картинки</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Бѣжинъ лугъ и Дядюшка Яковъ</strong>. Складныя картинки. <emphasis>Изд. А. А. Попова.</emphasis>  Москва, 1884.</p>
+<empty-line/>
+</title>
+<empty-line/>
+<p> Къ числу занимательныхъ для дѣтей игрушекъ принадлежатъ складныя картинки. Ихъ въ продажѣ у насъ довольно много. Г. Попову пришло въ голову счастливое соображеніе: эту игру можно осмыслить, слѣдуетъ придать ей педагогическое значеніе. "Наша литература,-- говоритъ почтенный издатель,-- даетъ богатый матеріалъ для подобныхъ картинокъ". Въ видѣ опыта, имъ изданы двѣ названныя картинки. Кромѣ соотвѣтствующаго текста, г. Поповъ приложилъ краткую біографію Тургенева и Некрасова и портреты этихъ писателей. По справедливому замѣчанію г. Попова, "для полноты успѣха въ пониманіи предлагаемыхъ картинокъ желательно руководство старшихъ, при участіи которыхъ дѣти безъ труда и вполнѣ осмысленно могутъ усвоить себѣ ихъ содержаніе".</p>
+<p> Было бы желательно, по нашему мнѣнію, слѣдующее улучшеніе въ изданіи г. Попова: складныя иллюстраціи къ доступнымъ для дѣтей сочиненіямъ нашихъ писателей должны быть составлены изъ кубиковъ. Тогда составлять картинки будетъ труднѣе, и каждая игрушка, съ другой стороны, будетъ давать шесть иллюстрацій къ разнымъ моментамъ разсказа, вслѣдствіе чего послѣдній запомнится лучше и цѣльнѣе. Не можемъ не выразить желанія, чтобы разумная педагогическая мысль г. Попова получила возможно широкое приложеніе.</p>
+<empty-line/>
+<p><emphasis>"Русская Мысль", No 2, 1884</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

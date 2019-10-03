@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Петр</first-name>
+			<middle-name>Яковлевич</middle-name>
+			<last-name>Чаадаев</last-name>
+		</author>
+		<book-title>М. И.  Гиллельсон. Славная смерть &quot;Телескопа&quot;</book-title>
+<annotation><p>Глава из книги:</p>
+<p>В. Э. Вацуро, М. И. Гиллельсон. "Сквозь "умственные плотины".</p></annotation>		<date value="2005-08-01">01/08/2005</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 02:19:12</date>
+		<src-url>http://az.lib.ru/c/chaadaew_p_j/text_0090-1.shtml</src-url>
+		<id>samlib58f4a4b0921291.20780683</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Чаадаев Петр Яковлевич</p>
+	<empty-line/>
+	<p>М. И.  Гиллельсон. Славная смерть &quot;Телескопа&quot;</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

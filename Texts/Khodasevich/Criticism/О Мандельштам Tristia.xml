@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Владислав</first-name>
+			<middle-name>Фелицианович</middle-name>
+			<last-name>Ходасевич</last-name>
+		</author>
+		<book-title>О. Мандельштам. Tristia</book-title>
+<annotation></annotation>		<date value="2007-01-10">10/01/2007</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-10-11">2017-10-11 02:40:34</date>
+		<src-url>http://az.lib.ru/h/hodasewich_w_f/text_0033.shtml</src-url>
+		<id>samlib59de033224e795.45292439</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Ходасевич Владислав Фелицианович</p>
+	<empty-line/>
+	<p>О. Мандельштам. Tristia</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><strong>Владислав Ходасевич</strong></p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>О. МАНДЕЛЬШТАМ. TRISTIA</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong><emphasis>Стихи. Берлин. 1922.</emphasis></strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Оригинал здесь<strong>: </strong><strong><a xlink:href="http://imho-news.ru/virshi/old/texts/hodasevich/articles/hodmand1.htm"></a></strong><a xlink:href="http://imho-news.ru/virshi/old/texts/hodasevich/articles/hodmand1.htm"><strong>О стихах и поэтах</strong><strong></strong></a><strong></strong><strong>.</strong></p>
+<empty-line/>
+<empty-line/>
+<p>Зачинатели так называемого акмеизма манифестировали свой выход из символизма как войну против "превращения мира в химеру". Они хотели вернуть вещам их первоначальный, простейший смысл. Последовательный акмеизм, конечно, стал бы натурализмом, если бы, отколовшись, не захватил с собою "символический прием". Расстаться с символическим приемом акмеисты не сумели -- или не решились. Как рудимент символистской двусмысленности, "двузначимости" реального мира, они сохранили любовь к метафоре. Этот метафоризм широко разросся в акмеизме, что вполне естественно, так как никакие другие задачи перед акмеистами не возникли. Поэзия Мандельштама -- благородный образчик чистого метафоризма.</p>
+<p>Подобно Адаму (недаром сам акмеизм порой именовался "адамизмом"), поэт ставит главною своей целью -- узнать и назвать вещи. Талант зоркого метафориста позволяет ему тешиться этой игрой и делать ее занимательною для зрителя. Поэзия Мандельштама -- танец вещей, являющийся в самых причудливых сочетаниях. Присоединяя к игре смысловых ассоциаций игру звуковых, -- поэт, обладающий редким в наши и дни знанием и чутьем языка, часто выводит свои стихи за пределы обычного понимания: стихи Мандельштама начинают волновать какими-то темными тайнами, заключенными, вероятно, в корневой природе им сочетаемых слов -- и нелегко поддающимися расшифровке. Думаем, что самому Мандельштаму не удалось бы объяснить многое из им написанного. Теоретикам "заумной" поэзии следует глубоко почитать Мандельштама: он <emphasis>первый</emphasis>, и пока только <emphasis>он один</emphasis>, на собственном примере доказывает, что заумная поэзия имеет право на существование. Сделать это ему помогли: поэтический дар, ум и образованность, то есть то, чего начисто лишены были бедные "мэтры" российского футуризма.</p>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

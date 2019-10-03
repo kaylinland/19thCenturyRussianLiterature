@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sf</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Иванович</middle-name>
+			<last-name>Куприн</last-name>
+		</author>
+		<book-title>Искусство</book-title>
+<annotation></annotation>		<date value="2007-11-02">02/11/2007</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-11-27">2018-11-27 07:04:26</date>
+		<src-url>http://az.lib.ru/k/kuprin_a_i/text_1792.shtml</src-url>
+		<id>samlib5bfcec7a6e50a6.96475570</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Куприн Александр Иванович</p>
+	<empty-line/>
+	<p>Искусство</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+ 
+ 
+
+
+</p>
+<empty-line/>
+<p><strong>Александр Иванович Куприн</strong></p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Искусство </strong><strong><emphasis></emphasis></strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<p><emphasis>Текст сверен с изданием: А. И. Куприн. Собрание сочинений в 9 томах. Том </emphasis><emphasis>4</emphasis><emphasis>. М.: Худ. литература, 1971. С. </emphasis><emphasis>308</emphasis><emphasis>.</emphasis><emphasis></emphasis></p>
+<p><emphasis></emphasis></p>
+<p><emphasis></emphasis></p>
+<p>У одного гениального скульптора спросили:</p>
+<p>-- Как согласовать искусство с революцией?</p>
+<p>Он отдернул занавеску и сказал:</p>
+<p>-- Смотрите.</p>
+<p>И показал им мраморную фигуру, которая представляла раба, разрывающего оковы страшным усилием мышц всего тела.</p>
+<p>И один из глядевших сказал:</p>
+<p>-- Как это прекрасно!</p>
+<p>Другой сказал:</p>
+<p>-- Как это правдиво!</p>
+<p>Но третий воскликнул:</p>
+<p>-- О, я теперь понимаю радость борьбы!</p>
+<empty-line/>
+<p>1906</p>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Николаевич</middle-name>
+			<last-name>Островский</last-name>
+		</author>
+		<book-title>Речь на ужине в честь А. Н. Островского в Тифлисском кружке</book-title>
+<annotation></annotation>		<date value="2018-07-25">25/07/2018</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-07-25">2018-07-25 09:51:43</date>
+		<src-url>http://az.lib.ru/o/ostrowskij_a_n/text_1883_rech_na_uzhine.shtml</src-url>
+		<id>samlib5b58482fbc9cc3.39984571</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Островский Александр Николаевич</p>
+	<empty-line/>
+	<p>Речь на ужине в честь А. Н. Островского в Тифлисском кружке</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<p> </p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>А. Н. Островский</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Речь на ужине в честь А. Н. Островского в Тифлисском кружке</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p> Речи 1859-1886</p>
+<p> ГИХЛ, М., 1952</p>
+<p> Составитель тома Г. И. Владыкин</p>
+<p> Подготовка текста и комментарии К. Д. Муратовой</p>
+<p> </p>
+<empty-line/>
+<p>26 октября 1883 г.</p>
+<empty-line/>
+<empty-line/>
+<p> Я от души благодарю вас за искреннее сочувствие к моей литературной деятельности, но вы преувеличиваете мои заслуги. На высокой горе над Тифлисом красуется великая могила Грибоедова, и так же высоко над всеми нами парит его гений. Не мы, писатели новейшего времени, а он внес живую струю жизненной правды в русскую драматическую литературу.</p>
+<p> </p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>КОММЕНТАРИИ</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p> Печатается по тексту газеты "Кавказ", 1883, No 242, 28 октября.</p>
+<p> О пребывании в Тифлисском кружке А. Н. Островский оставил дневниковую запись от 26 октября 1883 г. В Кружке была исполнена на русском языке пьеса "Не в свои сани не садись".</p>
+<p> </p>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

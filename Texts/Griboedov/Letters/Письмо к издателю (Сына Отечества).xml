@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Сергеевич</middle-name>
+			<last-name>Грибоедов</last-name>
+		</author>
+		<book-title>Письмо к издателю (&quot;Сына Отечества&quot;)</book-title>
+<annotation></annotation>		<date value="2015-05-16">16/05/2015</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 03:48:52</date>
+		<src-url>http://az.lib.ru/g/griboedow_a_s/text_1817_pismo_k_izdatelu_pripisyvaemoe.shtml</src-url>
+		<id>samlib58f4b9b48f0001.27187533</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Грибоедов Александр Сергеевич</p>
+	<empty-line/>
+	<p>Письмо к издателю (&quot;Сына Отечества&quot;)</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>А. С. Грибоедов</strong></p><strong></strong>
+<p><strong>Письмо к издателю &lt;"Сына Отечества"&gt;</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>М&lt;илостивый&gt; г&lt;осударь&gt; м&lt;ой&gt;. Вы печатаете в "Сыне Отечества" <emphasis>все и обо всем. </emphasis>Всякая ода, всякая речь и т.п. находит место в вашем журнале, но о сочинениях и переводах, достойных внимания, неизвестно почему храните упрямое молчание. В нынешнем году вышел в свет перевод "Есфири", который заслуживает, чтоб вы обратили на него взоры читающей публики, но вы, к крайнему всех удивлению, молчите. Не стоит ли сие того, чтоб вам напомянули о соблюдении данного публике слова извещать ее о всех произведениях красноречия и поэзии? Не есть ли молчание сие <emphasis>нарушением </emphasis>обязанности вашей? Извините мою откровенность: я должен буду, в случае продолжения сего безмолвия, отнестись к другим издателям и требовать, чтоб вас вызвали к печатанию того, что вы печатать взяли на себя.</p>
+<empty-line/>
+<p>Ваш покорный слуга. N. N.</p>
+<p>Дек. 21 1816 года</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>Впервые опубликовано: "Сын Отечества". 1817. Ч. 35. </emphasis><emphasis>No</emphasis><emphasis> 2. С. 88. </emphasis></p>
+<p><emphasis>Исходник: http://dugward.ru/library/griboedov/griboedov_pismo_k_izdatelu_pripisyvaemoe.html</emphasis><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

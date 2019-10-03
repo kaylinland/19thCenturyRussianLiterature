@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Иванович</middle-name>
+			<last-name>Герцен</last-name>
+		</author>
+		<book-title>Lettre dun russe &#224; Mazzini</book-title>
+<annotation><p>&lt;Письмо русского к Маццини&gt;</p></annotation>		<date value="2010-11-01">01/11/2010</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 03:29:50</date>
+		<src-url>http://az.lib.ru/g/gercen_a_i/text_0460.shtml</src-url>
+		<id>samlib58f4b53e963d95.34851852</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Герцен Александр Иванович</p>
+	<empty-line/>
+	<p>Lettre dun russe &#224; Mazzini</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>А. И. Герцен</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Lettre dun russe à Mazzini</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>&lt;Письмо русского к Маццини&gt;</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>А. И. Герцен. Собрание сочинений в тридцати томах</p>
+<p>Том шестой. С того берега. Статьи. Долг прежде всего (1847-1851)</p>
+<p>М., Издательство Академии наук СССР, 1955</p>
+<p>Дополнение:</p>
+<p>Том тридцатый. Книга вторая. Письма 1869--1870 годов.</p>
+<p>Дополнения к изданию.</p>
+<p>М., Издательство Академии Наук СССР, 1965</p>
+<empty-line/>
+<p>En vous remerciant de l'honneur que vous avez fait à ma lettre sur la Russie {C'est la lettre publiée dans l'édition hebdomadaire de la <emphasis>Voix du Peuple.</emphasis>} en publiant la traduction dans <emphasis>L'Italia del Popolo, </emphasis>je vous prie de me permettre d'y ajouter quelques réflexions que me suggèrent les derniers événements. Je vous serais bien reconnaissant de leur donner place dans votre journal.</p>
+<p>On parle d'une guerre entre la Russie et la Turquie. Le désir d'une rupture avec la Porte est évident chez l'empereur Nicolas; peu scrupuleux sur les moyens, il s'est contenté d'un prétexte privé de fondement et d'une révoltante inhumanité. Il est étonnant qu'un homme de l'habileté de M. Titof, jadis littérateur libéral de Moscou, n'ait pas trouvé un meilleur prétexte, au moins dans l'intérêt de sa réputation.</p>
+<p>Chose étrange! L'empereur Nicolas, après un règne de 24 ans, se montre persécuteur aussi implacable qu'aux premiers jours de son avènement. Le monde commenèait déjà à oublier les jours néfastes où régnait <emphasis>l'ordre à Varsovie; </emphasis>sa réputation devenait meilleure, comparée à la dépravation et. à la sanguinaire barbarie des autres gouvernements. Dépassé dans sa férocité par les fusillades de Juin, par le sombre <emphasis>delirium tremens </emphasis>d'un de ses voisins et par la nymphomanie empoisonnée d'une de ses voisines qui a élevé un enfant, son fils, à remplir les fonctions de bourreau, l'empereur Nicolas était relégué au second rang de la tyrannie.</p>
+<p>Or, voici qu'il se présente aux yeux du monde, jetant le grand défi à la Turquie, sous prétexte que la Porte, se souvenant qu'elle n'est ni chrétienne, ni civilisée, refuse de livrer sept à huit cents héros qu'il veut fusiller.</p>
+<p>En vérité, l'offense est grave; et entre amis on ne se refuse pas ces petits services!</p>
+<p>Cet incident se terminera peut-être sans dégainer; notre siècle impuissant et décrépit semble quelquefois prendre une énergique résolution, mais] retombe' aussitôt sans avoir rien fait. Ainsi la Révolution de Février fut suivie d'un mouvement rétrograde qui nous reporte au delà de 1789.-- Toutefois, la guerre entre la Porte et la Russie ne peut être que différée.</p>
+<p>Byzance est le rêve constant de la Russie, le fanal que, depuis le Xe siècle, elle n'a jamais perdu de vue. Byzance est pour les barbares orientaux la Rome orientale. Le peuple russe l'appelle <emphasis>Tsargrad, </emphasis>la reine des cités, la cité des Césars. De là lui vient sa religion: Byzance l'a sauvé du catholicisme et du droit romain; Byzance, succombant sous les coups des Osmanlis, a transmis à la Russie son aigle à deux têtes, l'aigle du double empire, comme dot d'une Paléologue, devenue l'épouse du premier tzar moscovite. Pierre Ier*et ses descendants n'ont pu dormir paisiblement; il leur fallait Constantinople. Les lambeaux sanglants de la Livonie,de l'Esthonie, de la Finlande, ceux enfin de la Pologne, ne les ont pas satisfaits. Le but de leurs désirs, leur utopie, leur idéal, c'est Constantinople. Catherine II donna le nom de Constantin à son second fils. L'un des fils de Nicolas, le grand-amiral, se nomme aussi Constantin.</p>
+<p>Le moment de faire la guerre n'est pas mal choisi, et peut-être verrons-nous'l'aigle à deux têtes détacher son vol des glaces du nord et se reposer sur le croissant qui surmonte les coupoles chrétiennes de Sainte-Sophie. Stamboul tombera,<emphasis> </emphasis>Byzance resurgira! Que les destins s'accomplissent!</p>
+<p>Que signifie cet instinct, cette tendance éternelle et fatale qui pousse les Slavo-Russes vers Byzance, depuis les Varègues, depuis Oleg et Sviatoslaw qui allèrent clouer l'écusson de la barbarie et du paganisme sur les murailles de' la capitale de l'empire d'Orient, jusqu'à l'empereur Nicolas! Est-ce une inclination naturelle, une loi physiologique, ou, si vous voulez, une fatalité?</p>
+<p>Dans l'intérêt de l'empereur, je lui conseillerais cependant de ne pas s'aventurer dans cette guerre et d'y penser mûrement avant de l'entreprendre.</p>
+<p>Vous croyez peut-être que je voudrais l'en détourner par la crainte que ses troupes ne soient battues? Non; l'armée russe sera victorieuse.</p>
+<p>Vous croyez, peut-être, que l'Eurone ne le permettrait pas? Non; l'Europe permettra tout.</p>
+<p>Je sais très bien qu'une telle guerre fera beaucoup de bruit. On lancera des notes diplomatiques; on expédiera des diplomates notables. On fera faire une promenade militaire à quelque corps d'armée; une autre promenade aux flottes sur la mer. On profitera de ce prétexte pour faire voter des crédits supplémentaires. On prononcera dans les parlements de magnifiques discours qui renverseront les ministères. On fera des rassemblements dans les rues. On imprimera dans les journaux des articles fulminan ts et des appels au Peuple. On tentera des manifestations pacifiques qui donneront l'occasion aux amis de l'ordre de fusiller et déporter leurs ennemis. Puis, les ministres viendront déclarer que l'empereur de Russie a donné des explications franches et satisfaisantes; qu'il ne veut pas agrandir ses Etats; que la guerre contre la Turquie n'est dirigée que contre les doctrines perverses et subversives; qu'il s'agit seulement de frapper le Socialisme à Constantinople,-- et le silence se fera. L'Europe a-t-elle empêché la Russie de dévorer la Pologne, de dévaster la Hongrie et de <emphasis>protéger </emphasis>la Moldavie et la Valaquie?</p>
+<p>Et qui prononcerait le <emphasis>veto?</emphasis></p>
+<p>La France, peut-être? La France, comme lady Macbeth, ne lavera pas sitôt les taches de sang sur ses mains fratricides. La France est trop coupable pour oser élever la voix contre l'iniquité d'autrui.</p>
+<p>L'Angleterre, peut-être? Elle est forte, mais он traitera avec elle. On lui donnera l'Egypte. On pourrait lui donner Pétersbourg sans perdre à ce marché! En attendant, elle brûlera les vaisseaux de quelques négociants russes, elle stipulera un traité de commerce avec d'immenses avantages, et elle occupera provisoirement quelques îles qu'elle oubliera de restituer.</p>
+<p>L'Autriche? Mais est-ce qu'il existe une Autriche? C'est une réminiscence historique, une expression géographique, un cadavre qu'on n'a pas encore eu le temps d'ensevelir.</p>
+<p>Serait-ce, par hasard, le pacha russe de Berlin? Mais ce gouvernement peut-il être autre chose que russe?</p>
+<p>Et néanmoins je ne conseillerais pas à l'empereur Nicolas d'aller se chauffer au soleil qui resplendit sur les rives du Bosphore. Il fait plus froid à Saint-Pétersbourg, mais il y fait plus sûr. Constantinople conquise, le sceptre de fer de Pierre Ier se rompra en voulant s'allonger jusqu'aux Dardanelles; Constantinople conquise, la dynastie des Romanoff devient impossible, inutile et n'a plus de signification.</p>
+<p>La dynastie des Romanoff va se perdant depuis le réveil de la nationalité russe en 1812, depuis la maudite Sainte-Alliance, depuis- la résurrection du sentiment politique en 1825. L'autorité impériale ne crée plus rien, a perdu toute initiative et ne fait que se maintenir, en réprimant tout mouvement, eu s'opposant à tout progrès; son œuvre est toute négative.</p>
+<p>La Russie, pleine de vie et de force, recule ou reste immobile. L'absolutisme, voulant absorber tout et craignant tout, entrave la marche de la Russie. C'est un pesant <emphasis>sabot </emphasis>attaché aux roues du char, lequel s'enfonce davantage à chaque pas et finira par arrêter la machine, la faire voler en pièces ou se briser lui-même.</p>
+<p>Voyez l'attitude du gouvernement de Pétersbourg depuis le 24 Février. Avide d'agrandissements, ses yeux ne se détournent pas de la Galicie, du grand duché de Posen et des principautés danubiennes. Son inquiète avidité pèse les chances de s'approprier les Slaves autrichiens; et il n'ose! tant il craint d'inoculer la Révolution à la Russie, et de voir crouler, au premier mouvement, ce pesant et informe édifice de despotisme militaire et de bureaucratie germanique. Pierre Ier a bien trouvé le moyen de sortir de l'ornière de l'antique Russie; mais ii n'a pas indiqué à ses successeurs le chemin pour sortir de la ténébreuse période de Pétersbourg.</p>
+<p>Le <emphasis>passé </emphasis>lie et contraint le gouvernement russe. Le passé, lui, est toujours présent, vivant dans sen sang et sa cervelle. Le passé jette l'inquiétude et la terreur dans le cœur et attriste la pensée; il existe comme souvenir et comme remords, et les remords sur le trône revêtent deux formes: la peur et la férocité. Les fautes commises s'expient par des crimes et par l'apothéose du crime. Si un homme de génie, pour être révolutionnaire, s'est fait despote, son neveu écrit sur sa bannière: <emphasis>"Autocrate", </emphasis>comme si une forme de gouvernement, surtout l'absolutisme, pouvait être tout pour un Peuple.</p>
+<p>Le monde slave ne demande que de s'asseoir en une fédération libre; la Russie est le monde slave organisé, c'est <emphasis>l'Etal </emphasis>slave. C'est à elle qu'appartient donc <emphasis>l'hégémonie, </emphasis>mais le tzar la repousse. Au lieu d'appeler à lui les Peuples, frères de son Peuple, il les dénonce; au lieu de se mettre à la tête du mouvement slave, il prête son bras et son or aux bourreaux des Slaves. Il craint tout mouvement, toute vie; il craint la nationalité, il craint la propagande, il craint l'armée qui ne voudra pas rentrer dans ses foyers et se révoltera... L'armée qui est vaillante mais non dévouée, qui ne fuit pas devant l'ennemi, mais déserte en temps de paix, qui est lasse de mauvais traitements et d'insupportables fatigues, et qui porte, elle, le désespoir d'une existence perdue!</p>
+<p>Le soldat russe doit servir quinze et même dix-sept ans, et on veut par-là qu'il cesse d'être homme pour devenir l'instrument du gouvernement. Il commence pourtant à comprendre cette monstrueuse iniquité; il murmure, et le gouvernement contemple avec une triste anxiété l'attitude sombre et sinistre de ses régiments, sans savoir comment y porter remède. S'il diminue les cadres de l'armée, il ne pourra plus contenir le pays; s'il réduit l'exorbitante durée du service, et qu'il jette chaque année dans les campagnes une masse de jeunes gens experts au maniement des armes, les paysans se lèveront en masse; ce sera le signal d'une <emphasis>Jacquerie.</emphasis></p>
+<p>Et toutefois, vous savez que les paysans russes ne manquent pas de terre et possèdent, une organisation communale qui rend impossible le prolétariat; pourquoi donc se lèveraient-ils en masse? Parce que les Romanoff, au lieu d'être les réformateurs, les civilisateurs, au lieu d'abolir l'humiliante servitude du paysan, l'ont étendue et consacrée; parce qu'eux-mêmes ont exercé et exercent encore le droit barbare du seigneur sur le paysan; parce qu'ils ont légalisé l'abus, généralisé ces mœurs crueiies, dant le but de captiver la noblesse et de s'appuyer sur quelque chose dans la nation. Ils ont créé la noblesse en la prédestinant à la civilisation et à l'esclavage, et ils en ont eu raison en commenèant à la corrompre.</p>
+<p>Malheureux paysans russes, qu'a-t-on fait pour vous depuis le commencement du dix-huitième siècle? N'est-ce pas l'amie de Voltaire, Catherine II, la mère de la patrie, qui introduisit la servitude dans la Petite Russie, qui transforma en serfs les cosaques de l'Ukraine?</p>
+<p>Les cosaques, malheureux soldats cultivateurs, sont devenus l'épouvante de l'Europe par une fatalité cruelle ou par un caprice ignorant, tandis que les armées permanentes, qui devraient être l'objet d'une terreur nullement imaginaire, restèrent cantonnées dans la Petite Russie pour protéger l'exécution de cette impériale démence. Catherine II dépouilla les couvents de la Russie centrale pour donner les communes, qui leur appartenaient, comme salaire à ses druides; et au milieu de si nobles soins, elle trouvait dans son esprit assez d'aménités, dans ses lettres à Ferney, pour plaisanter sur le compte du barbare cosaque Pougatcheff. Son fils, le maniaque couronné, récompensait, à la veille du XIXe siècle, la servilité de ses courtisans, par le don de quelques milliers de paysans esclaves et achetait ainsi la prolongation de quelques jours d'existence.</p>
+<p>Lorsque le gouvernement s'aperèut de toute l'iniquité, ou plutôt de toute la folie de cette politique spoliatrice à l'avantage d'une caste, il était trop tard pour y remédier. La noblesse ne voulut pas abandonner sa proie sans conquérir au moins les droits politiques. Détachée du Peuple et mise en opposition avec lui par l'œuvre du gouvernement, traînée dans la voie . de la civilisation officielle, la noblesse était le plus ferme soutien au trône et de la famille impérialefet toutefois elle fut la première qui se détacha du gouvernement; et si, entre les deux, il y a encore un lien qui les unisse, c'est la domination qu'ils exercent, à profit commun, sur le paysan. Monstrueuse complicité! Le gouvernement s'en aperèut et s'indigna de l'ingratitude de la noblesse; il avait cru pouvoir jouer avec la civiligation, mais il oubliait que le dernier mot de la civilisation s'appelle <emphasis>Révolution!</emphasis></p>
+<p>Alors le gouvernement commenèa une lutte sourde contre les lois de la noblesse; il les mine en semblant les consolider; il a l'intention d'émanciper les communautés seigneuriales et n'ose pas se mettre à l'œuvre, et il punit, avec une sévérité presque égale à celle, montrée naguère à Céphalonie par les Anglais, tout mouvement populaire vers l'émancipation. Le gouvernement hésite entre la peur d'une Jacquerie et le péril d'une révolution; il recommande l'émancipation à la noblesse (manifeste du 12 avril 1842), et il impose aux paysans l'obéissance muette et passive; il désire l'affranchissement des communautés seigneuriales et rend esclaves du domaine impérial les communautés affranchies.</p>
+<p>Confusion et chaos! Le gouvernement russe, défiant et irrésolu, plus brutal que ferme, entouré d'une bureaucratie vénale et perfide, trompé par ses deux polices, vendu par ses amis, se trouve dans une voie sans issue. Despotisme limité par la concussion, il désire quelquefois alléger les maux du Peuple et ne peut y réussir; il voudrait quelquefois arrêter le pillage organisé; mais le pillage est plus fort que le gouvernement. Triste, bilieux, endurci, il n'a d'appui solide et immuable que l'armée. Et si, par hasard, l'armée n'était pas aussi <emphasis>immuable </emphasis>qu'il le croit?..</p>
+<p>La physiologie de l'histoire, la théléologie naturelle organique nous enseigne que le plus détestable gouvernement peut durer quand il a encore quelque chose à faire; mais tout gouvernement est près de sa fin, quand il ne peut plus rien faire ou ne fait plus rien que le mal; quand tout ce qui est progrès se change en péril pour lui; quand il a peur de tout mouvement. Le mouvement, c'est la vie; le craindre, c'est être à l'agonie. Un semblable gouvernement est absurde; il doit périr.</p>
+<p>Quand l'aigle impériale sera revenue dans зоп antique patrie, elle ne reparaîtra plus en Russie. La prise de Constantinople serait le commencement d'une nouvelle Russie, d'une fédération slave <emphasis>démocratique et sociale.</emphasis></p>
+<p>Salut fraternel.</p>
+<empty-line/>
+<p>Londres, 20 novembre 1849</p>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<p><emphasis>Перевод</emphasis><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Письмо русского к Маццини</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Принося вам благодарность за честь, которую вы оказали моему письму о России {Это письмо, опубликованное в еженедельном прибавлении к "La Voix du Peuple"*.}, опубликовав его перевод в "Italia del Popolo"*, прошу вас разрешить мне прибавить к нему некоторые размышления, навеянные последними событиями. Я был бы вам очень признателен, если б вы предоставили им место в своей газете.</p>
+<p>Говорят о войне между Россией и Турцией. Совершенно очевидно желание императора Николая порвать отношения с Портой; мало разборчивый в средствах, он удовлетворился предлогом, лишепным всякого основания и возмутительно бесчеловечным. Удивительно, что такой искусный человек, как г. Титов, некогда московский либеральный литератор, не нашел лучшего предлога, хотя бы в интересах своей собственной репутации.</p>
+<p>Странная вещь! Император Николай, после 24-летнего царствования, выступает столь же неумолимым притеснителем, как и в первые дни по воцарении. Мир начинал уже забывать злополучные дни, когда <emphasis>в Варшаве </emphasis>царил <emphasis>порядок; </emphasis>его репутация становилась лучше при сравнении с развращенностью и кровожадным варварством других правительств. Превзойденный в жестокости июньскими расстрелами*, мрачным delirium tremens {белой горячкой (лат.).-- <emphasis>Ред.</emphasis>} своего соседа*, а также извращенной нимфоманией своей соседки*, которая воспитала ребенка, своего сына, для исполнения обязанностей палача, император Николай был оттеснен во вторые ряды тирании.</p>
+<p>Но вот он предстает перед всем миром, бросая решительный вызов Турции, под предлогом, что Порта, памятуя, что она не является ни христианской, ни цивилизованной, отказывается выдать семьсот-восемьсот героев, которых ему хочется расстрелять*.</p>
+<p>И в самом деле -- это оскорбление серьезное, и приятелям не следовало бы отказывать друг другу в подобных мелких услугах!</p>
+<p>Этот инцидент закончится, быть может, без обнажения мечей: наш немощный и дряхлый век как будто принимает иногда энергичное решение, но тотчас же никнет, ничего не совершив. Так за Февральской революцией последовало ретроградное движение, которое отнесло нас за 1789 год.-- Тем не менее война между Портой и Россией может быть лишь отсрочена.</p>
+<p>Византия -- извечная мечта России, светоч, который еще с X века она никогда не теряла из виду. Византия для восточных варваров -- это восточный Рим. Русский народ называет ее <emphasis>Царьградом, </emphasis>царицей городов, городом кесарей. Оттуда пришла его религия: Византия спасла его от католицизма и римского права; Византия, погибая под ударами османов, передала России своего двуглавого орла, орла двойной империи, как приданое одной из Палеологов, ставшей супругой первого московского царя. Петр I и его преемники не могли спать спокойно, им нужен был Константинополь. Окровавленные клочья Ливонии, Эстонии, Финляндии и, наконец, Польши не удовлетворили их. Целью их стремлений, их утопией, их идеалом является Константинополь. Екатерина II дала имя Константина своему второму сыну*. Одного из сыновей Николая, генерал-адмирала, также зовут Константином.</p>
+<p>Время для ведения войны выбрано неплохо, и, быть может, мы увидим, как двуглавый орел, покинув северные льдины, воссядет на полумесяц, венчающий христианские куполы Святой Софии*. Стамбул падет, Византия возродится! Да свершится судьба!</p>
+<p>Что же означает этот инстинкт, это вечное и роковое стремление славянороссов к Византии, начиная с варягов, начиная с Олега и Святослава, отправившихся прибить щит варварства и язычества к стенам Восточной империи, и вплоть до императора Николая? Природный ли это инстинкт, физиологический закон или, если хотите, предопределение?</p>
+<p>В интересах императора я посоветовал бы ему однако не решаться на эту войну и зрело поразмыслить, прежде чем предпринять ее.</p>
+<p>Вы воображаете, быть может, что я хотел бы отвратить его от войны, пугая тем, что его войска будут разбиты? Нет, русская армия одержит победу.</p>
+<p>Вы воображаете, быть может, что Европа не допустит этого? Вовсе нет; Европа допустит всё.</p>
+<p>Я знаю очень хорошо, что подобная война вызовет много шуму. Разошлют дипломатические ноты; командируют видных дипломатов; отправят какой-нибудь армейский корпус на маневры; на другие маневры пошлют морской флот. Этим предлогом воспользуются, чтобы вотировать дополнительные кредиты. В парламентах произнесут великолепные речи, которые опрокинут министерства. На улицах будут устраивать сборища. В газетах напечатают громовые статьи и воззвания к народу. Испробуют мирные манифестации, которые дадут возможность сторонникам порядка расстрелять и сослать своих врагов. Потом министры объявят, что русский император представил чистосердечные и удовлетворительные объяснения ; что он не намерен расширять свои владения; что война с Турцией направлена только против пагубных и разрушительных учений; что вопрос идет лишь о нанесении удара социализму в Константинополе, -- и воцарится тишина. Помешала ли Европа России поглотить Польшу, опустошить Венгрию и <emphasis>покровительствовать </emphasis>Молдавии и Валахии?</p>
+<p>И кто мог бы произнести это вето?</p>
+<p>Франция, быть может? Франция, как леди Макбет, не так-то скоро смоет кровавые пятна со своих братоубийственных рук. Франция слишком виновна, чтоб осмелиться поднять голос против чужого беззакония*.</p>
+<p>Англия, быть может? Она сильна, но с ней договорятся. Ей отдадут Египет. Ей можно было бы отдать Петербург, не потерпев убытка на этой сделке! Между тем, она сожжет корабли, принадлежащие каким-нибудь русским купцам, заключит с огромными выгодами торговый договор и займет на время несколько островов, которые позабудет возвратить.</p>
+<p>Австрия? Но разве существует Австрия? Это историческая реминисценция, географическое понятие, труп, который еще не успели похоронить.</p>
+<p>Не сделает ли это случайно русский паша в Берлине?* Но может ли это правительство быть чем-нибудь иным, как не русским?</p>
+<p>И тем не менее я не советовал бы императору Николаю ехать греться на солнышке, сияющем над берегами Босфора. В Петербурге холодней, но там безопаснее. В случае завоевания Константинополя железный скипетр Петра I переломится при попытке растянуться до Дарданелл; в случае завоевания Константинополя династия Романовых становится невозможной, бесполезной и теряет всякое значение.</p>
+<p>Династия Романовых начинает клониться к гибели со времени пробуждения русской народности в 1812 году, со времени проклятого Священного союза, со времени подъема политического сознания в 1825 году. Императорская власть больше ничего не создает, она потеряла всякую инициативу и силится лишь удержаться, подавляя всякое движение, противодействуя всякому прогрессу; ее дело имеет чисто отрицательный характер.</p>
+<p>Россия, полная жизни и сил, отступает или стоит неподвижно. Абсолютизм, желая все поглотить и всего боясь, стесняет движение России. Это тяжелый, прикрепленный к колесам повозки <emphasis>тормоз, </emphasis>давление которого увеличивается с каждым шагом и который в конце концов остановит машину, разобьет ее вдребезги или разобьется сам.</p>
+<p>Посмотрите на поведение петербургского правительства после 24 февраля. Алчно помышляя об увеличении своей территории, оно не сводит глаз с Галиции, с великого герцогства Познанского и с дунайских княжеств. С беспокойной жадностью оно взвешивает шансы на овладение австрийскими славянами; но у него не хватает решимости!-- так оно боится привить революцию России и увидеть, как рушится, при первом же движении, это тяжелое и бесформенное здание военного деспотизма и немецкой бюрократии. Петр I нашел хорошее средство покинуть колею старой России; но он не указал своим преемникам пути, по которому можно было бы покинуть сумрачный петербургский период.</p>
+<p><emphasis>Прошедшее </emphasis>связывает и стесняет русское правительство.. Оно, прошедшее, всегда с ним, живя в его крови и мозгу. Прошедшее вселяет в сердце беспокойство и ужас и омрачает мысль; оно существует как воспоминание и как угрызения совести, а угрызения совести на троне выражаются в двух формах: в страхе и в жестокости. Совершенные ошибки искупаются преступлениями и апофеозом преступления. Если гениальный человек*, чтобы стать революционером, сделался деспотом, то его племянник пишет на своем знамени "Самодержец", как будто форма правления, особенно абсолютизм, может быть всем для народа.</p>
+<p>Славянский мир ничего другого не желает, как объединения в свободную федерацию; Россия -- это организованный славянский мир, это славянское <emphasis>государство. </emphasis>Именно ей должна принадлежать <emphasis>гегемония, </emphasis>но царь отталкивает ее. Вместо того чтобы призвать к себе народы, являющиеся братьями его парода, он предает их; вместо того чтобы стать во главе славянского движения, он предоставляет помощь и золото палачам славян. Он боится всякого движения, всякой жизни; он боится национального сознания, он боится пропаганды, он боится армии, которая не захочет возвратиться к своим очагам и взбунтуется... армии, которая отважна, но не преданна, которая не бежит от противника, но дезертирует в мирное время, которая устала от дурного обращения и невыносимых тягот и несет в себе отчаяние погубленного существования!</p>
+<p>Русский солдат вынужден служить пятнадцать и даже семнадцать лет, и этим хотят добиться того, чтоб он перестал быть человеком, сделался орудием в руках правительства. Он начинает однако понимать эту чудовищную несправедливость; он ропщет, и правительство глядит с унылым беспокойством на мрачное и зловещее настроение своих полков, не зная, как поправить дело. Если оно уменьшит численность армии, оно не сможет более удержать страну; если оно сократит непомерный срок службы и будет отправлять ежегодно в деревню множество молодых людей, владеющих оружием, крестьяне подымутся сплошной массой; это будет сигналом к <emphasis>Жакерии.</emphasis></p>
+<p>А между тем, как вы знаете, русские крестьяне не имеют недостатка в земле и обладают общинной организацией, делающей невозможным существование пролетариата; почему же восстанут они сплошной массой? Потому что Романовы, вместо того чтобы быть реформаторами, цивилизаторами, вместо того чтоб отменить унизительное крепостное состояние крестьянства, расширили и освятили его; потому что они сами пользовались и пользуются еще варварским правом помещика над крестьянином; потому что они узаконили злоупотребления, распространили жестокие нравы, чтобы привлечь к себе дворян и приобрести хоть какую-либо опору в нации. Они создали дворянство, предназначая его для цивилизации и рабства, и, начав его подкупать, привели его к повиновению.</p>
+<p>Несчастные русские крестьяне, что было сделано для вас с начала восемнадцатого века? Не друг ли Вольтера, Екатерина II, мать отечества, ввела в Малороссии крепостное право, обратив в рабов украинских казаков?</p>
+<p>Казаки, несчастные солдаты-землепашцы, волей злого рока или невежественной прихоти, сделались пугалом для Европы, в то время как постоянные армии, которые должны были бы служить предметом ужаса, отнюдь не мнимого, оставались размещенными в Малороссии, чтоб обеспечить выполнение этого императорского безумства. Екатерина II ограбила монастыри центральной России, чтобы раздать принадлежавшие им общины в награду своим друидам; и среди столь благородных забот она находила в себе достаточно игривости, чтобы в своих письмах в Ферней вышучивать казака-варвара Пугачева. Ее сын, коронованный маньяк, накануне XIX века, награждал раболепие своих придворных, даря их тысячами крепостных, и покупал таким образом возможность продлить еще на несколько дней свое существование.</p>
+<p>Когда правительство заметило всю несправедливость или, вернее, все безумие этой грабительской политики в пользу одной касты, -- было уже слишком поздно. Дворянство не захотело отказаться от своей добычи, не завоевав по крайней мере политических прав. Оторванное от народа и действиями правительства поставленное в оппозицию к нему, вовлекаемое на путь официальной цивилизации, дворянство сделалось самой прочной опорой трона и императорской фамилии; и все же оно первое оторвалось от правительства; и если между ними еще сохраняется связующая нить, то это власть, осуществляемая ими, с обоюдной выгодой, над крестьянами. Чудовищное сообщничество! Правительство заметило это и вознегодовало на неблагодарность дворянства; оно полагало, что сможет играть с цивилизацией, но забыло, что последнее слово цивилизации называется <emphasis>революцией!</emphasis></p>
+<p>Тогда правительство повело глухую войну против законов о дворянстве; оно подрывает их, делая вид, будто укрепляет; оно намерено раскрепостить общины помещичьих крестьян и не смеет приняться за это дело, и оно карает всякое народное освободительное движение с жестокостью, почти равной той, которую проявили недавно в Кефалонии англичане*. Правительство колеблется между страхом перед Жакерией и опасностью революции; оно рекомендует дворянам освобождение крестьян (манифест от 12 апреля 1842 года) и предписывает крестьянам немое и пассивное послушание; оно желает освобождения общин помещичьих крестьян и обращает освобожденные общины в рабов ведомства государственных имуществ.</p>
+<p>Смятение и хаос! Русское правительство, недоверчивое и нерешительное, более грубое, чем твердое, окруженное продажной и вероломной бюрократией, обманутое обеими своими полициями, проданное друзьями, находится в безвыходном положении. Представляя собой деспотизм, ограниченный лихоимством, онЪ иногда желает облегчить тягости народные, но это ему не удается; оно иногда хотело бы приостановить организованный грабеж, но грабеж сильнее, чем правительство. Унылое, желчное, ожесточенное, оно имеет прочную и незыблемую поддержку лишь в армии. А что, если вдруг и армия окажется не столь <emphasis>непоколебима, </emphasis>как оно это себе представляет?</p>
+<p>Физиология истории, естественная органическая телеология учит нас, что самое ненавистное правительство может существовать, пока ему есть еще что делать, но всякому правительству приходит конец, когда оно уже не в состоянии ничего делать или делает одно лишь зло, когда все, что является прогрессом, превращается для него в опасность, когда оно боится всякого движения. Движение -- это жизнь; бояться его значит находиться в агонии. Подобное правительство нелепо; оно должно погибнуть.</p>
+<p>Когда императорский орел возвратится на свою древнюю-родину, он уже более не появится в России. Взятие Константинополя явилось бы началом новой России, началом славянской федерации, <emphasis>демократической и социальной.</emphasis></p>
+<empty-line/>
+<p>Братский привет.</p>
+<empty-line/>
+<empty-line/>
+<p>Лондон*, 20 ноября 1849 г.</p>
+<empty-line/>
+<empty-line/>
+<p>ВАРИАНТЫ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ПРИНЯТЫЕ СОКРАЩЕНИЯ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>В разделах "Варианты" и "Комментарии" приняты следующие условные сокращения:</p>
+<empty-line/>
+<empty-line/>
+<p>1. Архивохранилища</p>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<p><emphasis>ЛБ -- </emphasis>Отдел рукописей Государственной библиотеки СССР имени В. И. Ленина. Москва.</p>
+<p><emphasis>ГИМ </emphasis>-- Государственный исторический музей. Москва.</p>
+<p><emphasis>ПД </emphasis>-- Рукописный отдел Института русской литературы (Пушкинский Дом) Академии наук СССР. Ленинград.</p>
+<p><emphasis>ЦГАЛИ -- </emphasis>Центральный Государственный архив литературы и искусства. Москва.</p>
+<p><emphasis>ЦГАОР -- </emphasis>Центральный Государственный архив Октябрьской (революции и социалистического строительства. Москва.</p>
+<empty-line/>
+<empty-line/>
+<p>2. Печатные источники</p>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<p><emphasis>Л </emphasis>(в сопровождении римской цифры, обозначающей номер тома) -- А. И. Герцен. Полное собрание сочинений и писем под редакцией М. К. Лемке. П., 1919--1925, тт. I--XXII.</p>
+<p><emphasis>ЛН </emphasis>-- сборники "Литературное наследство".</p>
+<empty-line/>
+<empty-line/>
+<p>Lettre d'un Russe à Mazzini</p>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<p><emphasis>ВАРИАНТЫ НЕМЕЦКОГО ИЗДАНИЯ </emphasis>"VOM <emphasis>ANDEREN UFER", HAMBURG, 1850</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<p><emphasis>Стр. 224 (231)</emphasis></p>
+<p><emphasis>После заглавия, вместо сноски;</emphasis><emphasis></emphasis></p>
+<p>1(1) Fortsetzung des Briefes an Georg Herwegh &lt;Продолжение письма к Георгу Гервегу&gt;</p>
+<p><emphasis>Стр. 226 (233)</emphasis></p>
+<p>29 <emphasis>После: </emphasis>sur ses mains fratricides </p>
+<p><emphasis>Стр. 228 (</emphasis><emphasis>2</emphasis><emphasis>35</emphasis><emphasis>)</emphasis></p>
+<p>23 <emphasis>Вместо: </emphasis>il murmure &lt;он ропщет&gt; // Die Armee, welche Polen und die-westlichen Provinzen besetzt hält, ist unzufrieden &lt;Армия, занявшая Польшу и западные области, недовольна&gt;</p>
+<p>25 <emphasis>После: </emphasis>de l'armée &lt;армии&gt; // von 600 000 Mann &lt;в 600 000 человек&gt;.</p>
+<p><emphasis>Стр. 230 (238)</emphasis></p>
+<p>27 <emphasis>После: </emphasis>périr &lt;погибнуть&gt; // Die Einnahme von Konstantinopel würde die letzte Anstrengung, der letzte Aufschwung einer Macht sein, die am Verlöschen ist. &lt;3анятие Константинополя было бы последним усилием, последним подъемом близкой к угасанию власти).</p>
+<p>32 <emphasis>Слова: </emphasis>Salut fraternel &lt;братский привет&gt; -- <emphasis>отсутствуют.</emphasis></p>
+<p>33 <emphasis>Вместо: </emphasis>20 novembre &lt;20 ноября&gt; // 10 November &lt;10 ноября&gt;.</p>
+<empty-line/>
+<empty-line/>
+<p>КОММЕНТАРИИ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Шестой том собрания сочинений А. И. Герцена содержит произведения 1847--1851 годов, за исключением "Писем из Франции и Италии", составляющих V том настоящего издания.</p>
+<p>Центральное место в томе принадлежит книге "С того берега" (1847 -- 1850).</p>
+<p>Впервые публикуются (в разделе "Другие редакции") ранние редакции некоторых глав "С того берега": "Прощайте!" ("Addio!"), "Перед грозой", "После грозы", "Донозо Кортес...", источниками которых по большей части являются авторизованные и современные Герцену авторитетные копии. Эти редакции, а также варианты других списков, первого (немецкого) издания "С того берега" (1850) и журнальных публикаций отдельных глав на иностранных языках по-новому освещают существенные моменты идейного развития и деятельности Герцена и весьма важны для творческой истории этой книги.</p>
+<p>Заметка "Вместо предисловия или объяснения к сборнику" посвящена вопросу о создании вольной русской печати за границей.</p>
+<p>Статьи "La Russie" ("Россия") и "Lettre d'un Russe à Mazzini" ("Письмо русского к Маццини"), опубликованные автором в 1849 г. на французском, немецком и итальянском языках, представляют собою первые сочинения Герцена о России, обращенные к западноевропейскому читателю.</p>
+<p>Впервые публикуется в настоящем томе ранее неизвестная театральная рецензия Герцена на пьесу Ф. Понсара "Шарлотта Корде", появившаяся в парижской газете "La Voix du Peuple" 26 марта 1850 г. Обоснование ее авторства явилось итогом разысканий, производившихся Л. Р. Ланским для "Литературного наследства".</p>
+<p>Заключает том повесть "Долг прежде всего" (1847--1851). Из статей Герцена, относящихся к 1847--1851 годам, остаются неразысканными шутливый набросок "На пароходе" (см. письмо Герцена из Ниццы к Г. И. Ключареву от 20 ноября 1847 г.), который иногда совершенно неосновательно смешивают с "Перед грозой" (см. об этом <emphasis>ЛН, </emphasis>т. 39-40, стр. 203), и неоконченный памфлет "Эмиль Жирарден и Эммануил Кант", о работе над которым Герцен сообщал Гервегу весной 1850 г.</p>
+<empty-line/>
+<empty-line/>
+<p>LETTRE D'UN RUSSE A MAZZINI</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>&lt;ПИСЬМО РУССКОГО К МАЦЦИНИ&gt;</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Печатается по тексту газеты "La Voix du Peuple", No 181 от 1 апреля 1850 г., где появилось за подписью : <emphasis>Un Russe </emphasis><emphasis>(Русский) </emphasis>и с примечанием: "Извлечено из No 6 "Italia del Popolo"". Автограф неизвестен.</p>
+<p>Впервые опубликовано на немецком языке в издании "С того берега" 1850 г. с подзаголовком "Продолжение письма к Георгу Гервегу" и с датой: Лондон, 10 ноября 1849 г. (см. стр. 478).</p>
+<p>Итальянский перевод напечатан в газете Д. Маццини "Italia del Popolo", No 6 за 1849 г. (,77V, 529).</p>
+<p>При жизни Герцена на русском языке напечатано не было.</p>
+<p>В текст "La Voix du Peuple" и в перевод внесено следующее исправление:</p>
+<p><emphasis>Стр. 230, строка 20 (перевод: стр. 237, строка 34): </emphasis>théléologie &lt;телеология&gt; <emphasis>вместо: </emphasis>théologie &lt;богословие&gt; <emphasis>(см. контекст).</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>-----</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Статья Герцена, написанная в виде открытого письма к Д. Маццини, дополняет и развивает, в связи с новыми обстоятельствами международной политической жизни, мысли о будущих судьбах России, высказанные в написанной несколькими месяцами ранее статье "Россия" (см. выше).</p>
+<p>Международные события осени 1849 г., о которых Герцен упоминает в начале своей статьи, заключались в следующем. 25 августа 1849 г. Николай I потребовал от турецкого правительства выдачи четырех поляков (Бема, Высоцкого, Дембинского и Замойского), участников восстания 1830--1831 гг., в 1849 г. служивших в революционной венгерской армии. Русский посланник в Турции В. П. Титов ультимативно заявил, что в случае отказа Россия начнет военные действия против Турции. Аналогичную ноту, но в более сдержанных тонах, предъявило и австрийское правительство, требуя выдачи ряда венгерских революционеров, бежавших в Турцию. Султан Абдула-Меджид под воздействием английских и французских дипломатов ответил отказом. Война казалась неотвратимой. Однако Николай I, обеспокоенный военными мероприятиями Англии, решил временно отказаться от каких-либо действий против Турции.</p>
+<p>В этой связи Герцен и ставил вопрос о том, как русско-турецкая война могла бы отразиться на будущности России и славянства. Герцен резко клеймит русский абсолютизм, стеснявший развитие как самой! России, так и всех славянских народов, оказывавший поддержку не славянам, а их палачам, и предсказывает ему скорую и неотвратимую гибель.</p>
+<p>Герцен высказывает убеждение в том, что в будущем вокруг России как "организованного славянского мира" сложится "свободная федерация" славянских народов. Вместе с тем статья показывает, до каких ошибочных предположений способен был дойти Герцен, обосновывая свою веру в великое будущее России. Ему представлялось, что взятие Константинополя царскими войсками привело бы в конечном счете к краху самодержавия и явилось бы "началом новой России, началом славянской федерации, демократической и социальной", столицей которой должен был явиться Константинополь. Герцен высказывает предположение, что царизм доказал бы в этом случае свою полную неспособность справиться с задачей объединения славянских народов, что и обусловило бы его конец. Эти взгляды были впоследствии развиты Герценом гораздо более подробно в статье "Старый мир и Россия" (1854).</p>
+<p>К каким бы ошибочным и иллюзорным выводам ни приходил Герцен, вера его в Россию и славянство в основном и главном была верой революционера и демократа</p>
+<empty-line/>
+<empty-line/>
+<p>-----</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Стр. 231. ...<emphasis>моему письму о России, опубликовав его перевод в </emphasis><emphasis>"Italia del </emphasis><emphasis>РороШ...--</emphasis> Статья "Россия" (см. стр. 187 наст. тома), перепечатанная в NoNo 11--12 газеты "Italia del Popolo" за 1849 г.</p>
+<p>...<emphasis>прибавлении к </emphasis><emphasis>"La Voix du Peuple".</emphasis>-- Принадлежит ли это примечание Герцену или же редакции -- не выяснено.</p>
+<p><emphasis>Превзойденный в жестокости июньскими расстрелами...--</emphasis> Имеется в виду жестокая расправа, осуществлявшаяся генералом Кавеньяком над участниками июньского восстания 1848 г.</p>
+<p>...<emphasis>своего соседа...--</emphasis> Вероятно, речь идет о прусском короле Фридрихе-Вильгельме IV.</p>
+<p>...<emphasis>своей соседки...--</emphasis> Повидимому, Герцен говорит здесь о матери австрийского императора Франца Иосифа -- эрцгерцогине Софье. Вступив на престол в 1848 г. восемнадцатилетним юношей, Франц Иосиф вскоре приобрел известность жестокими репрессиями по отношению к венгерским революционерам.</p>
+<p>Стр. 232. ...<emphasis>не является ни христианской, ни цивилизованной </emphasis>~ <emphasis>расстрелять...</emphasis>-- В ответ на требование о выдаче польских революционеров (см. вступительную заметку) турецкий султан, как сообщалось в газетах, заявил русскому посланнику: "Я не христианский государь, чтобы выдавать своих гостей".</p>
+<p>...<emphasis>второму сыну.</emphasis>-- Ошибка: речь идет о внуке Екатерины II -- Константине Павловиче.</p>
+<p><emphasis>Святая София </emphasis>-- храм в Константинополе.</p>
+<p>Стр. 233. ...<emphasis>Франция слишком виновна </emphasis>со <emphasis>против чужого беззакония.</emphasis>-- Намек на вооруженную интервенцию Франции против революционного Рима.</p>
+<p>Стр. 234. ..<emphasis>.русский паша в Берлине? -- </emphasis>Прусский король Фридрих Вильгельм IV.</p>
+<p>Стр. 235. <emphasis>Если гениальный человек...</emphasis>-- Наполеон I.</p>
+<p>...<emphasis>то его племянник...</emphasis>-- Президент Французской республики Луи Наполеон, вскоре провозгласивший себя императором.</p>
+<p>Стр. 237. ...<emphasis>жестокостью </emphasis>~ в <emphasis>Кефалонии англичане.</emphasis>-- См. примеч. к стр. 107.</p>
+<p>Стр. 238. <emphasis>Лондон...-- </emphasis>Указание на то, что статья написана в Лондоне, сделано Герценом с конспиративной целью. См. примечание к стр. 223.</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

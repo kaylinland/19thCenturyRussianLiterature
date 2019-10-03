@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Александрович</middle-name>
+			<last-name>Бестужев-Марлинский</last-name>
+		</author>
+		<book-title>На Казбек слетелись тучи</book-title>
+<annotation></annotation>		<date value="2008-10-10">10/10/2008</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 01:44:10</date>
+		<src-url>http://az.lib.ru/b/bestuzhewmarlins_a_a/text_0310.shtml</src-url>
+		<id>samlib58f49c7b08ebf4.66629597</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Бестужев-Марлинский Александр Александрович</p>
+	<empty-line/>
+	<p>На Казбек слетелись тучи</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>А. Бестужев-Марлинский</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>НА КАЗБЕК СЛЕТЕЛИСЬ ТУЧИ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>На Казбек слетелись тучи,</p>
+<empty-line/>
+<p>Словно горные орлы...</p>
+<empty-line/>
+<p>Им навстречу, на скалы</p>
+<empty-line/>
+<p>Узденей отряд летучий</p>
+<empty-line/>
+<p>Выше, выше, круче, круче</p>
+<empty-line/>
+<p>Скачет, русскими разбит:</p>
+<empty-line/>
+<p>След их кровью кипит.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>На хвостах полки погони;</p>
+<empty-line/>
+<p>Занесен и штык, и меч;</p>
+<empty-line/>
+<p>Смертью сеется картечь...</p>
+<empty-line/>
+<p>Нет спасенья в силе, в броне...</p>
+<empty-line/>
+<p>"Бегу, бегу, кони, кони!"</p>
+<empty-line/>
+<p>Пали вы, - а далека</p>
+<empty-line/>
+<p>Крепость горного леска!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Сердце наших - русских мета...</p>
+<empty-line/>
+<p>На колена пал мулла -</p>
+<empty-line/>
+<p>И молитва, как стрела,</p>
+<empty-line/>
+<p>До пророка Магомета,</p>
+<empty-line/>
+<p>В море света, в небо света,</p>
+<empty-line/>
+<p>Полетела, понеслась:</p>
+<empty-line/>
+<p>"Иль-Алла, не выдай нас!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Нет спасенья ниоткуда!</p>
+<empty-line/>
+<p>Вдруг, по манию небес,</p>
+<empty-line/>
+<p>Зашумел далекий лес:</p>
+<empty-line/>
+<p>Веет, плещет, катит грудой,</p>
+<empty-line/>
+<p>Ниже, ближе, чудо, чудо!..</p>
+<empty-line/>
+<p>Мусульмане спасены</p>
+<empty-line/>
+<p>Средь лесистой крутизны!</p>
+<empty-line/>
+<empty-line/>
+<p>1832</p>
+</section>
+
+</body>
+</FictionBook>

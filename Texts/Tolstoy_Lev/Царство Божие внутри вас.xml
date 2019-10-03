@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>religion</genre>
+		<author>
+			<first-name>Лев</first-name>
+			<middle-name>Николаевич</middle-name>
+			<last-name>Толстой</last-name>
+		</author>
+		<book-title>Царство Божие внутри вас...</book-title>
+<annotation></annotation>		<date value="2004-09-23">23/09/2004</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 08:52:23</date>
+		<src-url>http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_0450.shtml</src-url>
+		<id>samlib58f500d77cfb75.54007298</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Толстой Лев Николаевич</p>
+	<empty-line/>
+	<p>Царство Божие внутри вас...</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+ 
+ 
+
+
+</p>
+<empty-line/>
+<p>Смотри: <a xlink:href="http://az.lib.ru/editors/t/tolstoj_lew_nikolaewich/text_1260.shtml">http://az.lib.ru/editors/t/tolstoj_lew_nikolaewich/text_1260.shtml</a></p>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Сергеевич</middle-name>
+			<last-name>Пушкин</last-name>
+		</author>
+		<book-title>Г. Раич счел за нужное...</book-title>
+<annotation></annotation>		<date value="2011-12-23">23/12/2011</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 06:53:43</date>
+		<src-url>http://az.lib.ru/p/pushkin_a_s/text_1830_g_raich.shtml</src-url>
+		<id>samlib58f4e5075a4cf4.28842223</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Пушкин Александр Сергеевич</p>
+	<empty-line/>
+	<p>Г. Раич счел за нужное...</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<p>Пушкин А. С. <strong>Г. Раич счел за нужное... </strong>// Пушкин А. С. Полное собрание сочинений: В 16 т. -- М.; Л.: Изд-во АН СССР, 1937--1959.</p>
+<p>Т. 11. Критика и публицистика, 1819--1834. -- <strong>1949</strong>. -- С. 128.</p>
+<p><a xlink:href="http://feb-web.ru/feb/pushkin/texts/push17/vol11/y11-128-.htm"><strong>http://feb-web.ru/feb/pushkin/texts/push17/vol11/y11-128-.htm</strong></a></p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Г. РАИЧ СЧЕЛ ЗА НУЖНОЕ ...</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Г. Раич счел за нужное ответить критикам, непризнававшим в нем таланта. Он напечатал в 8-м No <emphasis>Галатеи</emphasis> нынешнего года, следующее примечание:</p>
+<p>"Чтобы вывести некоторых из заблуждения, представляю здесь <emphasis>перечень</emphasis> моих сочинений:</p>
+<p>1. Грусть на пиру.</p>
+<p>2. Прощальная песнь в кругу друзей.</p>
+<p>3. Перекати-поле.</p>
+<p>10 4. Друзьям.</p>
+<p>5. Амела.</p>
+<p>6. Петроний к друзьям.</p>
+<p>7. Вечер в Одессе.</p>
+<p>Прочие мелкие стихотворения мои -- переводы. В чем же obtrectatores {Завистники (латин.)} нашли вялость воображения, щепетильную жеманность чувства и (просим покорно найти толк в следующих словах!) недостаток воображения".</p>
+<p>Мы принуждены признать неоспоримость сего возражения.</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Г. РАИЧ СЧЕЛ ЗА НУЖНОЕ...</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Впервые опубликован в "Литературной газете" 1830, No 13, 2 марта, стр. 106, без подписи. С именем Пушкина -- В. В. Виноградовым в сб. "Пушкин. Временник Пушкинской комиссии" 1933, N 4--5, стр. 472.</p>
+<empty-line/>
+<p>В собрание сочинений А. С. Пушкина входит впервые.</p>
+<empty-line/>
+<p>Датируется 1830, февраль.</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

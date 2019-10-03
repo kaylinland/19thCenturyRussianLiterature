@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Евгений</first-name>
+			<middle-name>Иванович</middle-name>
+			<last-name>Замятин</last-name>
+		</author>
+		<book-title>Жорж Дюамель. Кирасир Кювелье</book-title>
+<annotation><p>Рассказ в переводе А. Кугеля</p></annotation>		<date value="2013-09-06">06/09/2013</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 09:42:07</date>
+		<src-url>http://az.lib.ru/z/zamjatin_e_i/text_1922_duamel.shtml</src-url>
+		<id>samlib58f50c7fd249c3.46603221</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Замятин Евгений Иванович</p>
+	<empty-line/>
+	<p>Жорж Дюамель. Кирасир Кювелье</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Е. И. Замятин</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Жорж Дюамель. Кирасир Кювелье</p>
+<p>Рассказ в переводе А. Кугеля</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Замятин Е. И. Собрание сочинений: В 5 т. Т. 4. Беседы еретика</p>
+<p>М., "Дмитрий Сечин", "Республика", 2010.</p>
+<empty-line/>
+<p>Жорж Дюамель (Georges Duhamel) вместе с Жюлем Роменом и Шарлем Вильдраком стоит во главе одной из наиболее влиятельных групп современных французских поэтов -- так называемых -- "унанимистов". Философия их, приемлющая весь мир, со всем темным и светлым, малым и великим -- стоит в некотором родстве с философией Уолта Уитмена. Особенно выделился Дюамель после опубликования четырех его книг из эпохи последней мировой войны: "Жизнь жертв", "Принадлежащие миру", "Цивилизация" и "Разговоры в сутолоке". Сам участник и очевидец войны, Дюамель дает в этих книгах материал, документирующий войну не меньше, чем известные романы Барбюса, но художественные средства Дюамеля богаче и тоньше.</p>
+<p>Печатающийся ниже рассказ взят из книги Дюамеля "Civilisation".</p>
+<empty-line/>
+<p><emphasis>1922</emphasis></p>
+<empty-line/>
+<p>КОММЕНТАРИИ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Впервые: Современный Запад. 1922. No 1. С. 6 (подпись: Е. З.).</p>
+<p>Жорж Дюамель (1884-1966) -- французский писатель; член Французской академии с 1935 г.; примыкал к литературному течению унанимизма, которое провозглашало единение всех людей, а в литературе -- простоту формы, отказ от символизма, доступность широким массам. Автор многих сборников стихов, романов, рассказов. За сборник рассказов "Цивилизация" (1918) был удостоен Гонкуровской премии. В этом сборнике нашел отражение его опыт участия в Первой мировой войне.</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Всеволод</first-name>
+			<middle-name>Михайлович</middle-name>
+			<last-name>Гаршин</last-name>
+		</author>
+		<book-title>Обзор детской литературы. Выпуск II. Книги, изданные в 1884 году</book-title>
+<annotation></annotation>		<date value="2019-01-31">31/01/2019</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2019-01-31">2019-01-31 08:16:57</date>
+		<src-url>http://az.lib.ru/g/garshin_w_m/text_1886_obzor_detskoy_litry_oldorfo.shtml</src-url>
+		<id>samlib5c52aef9364f63.06215978</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Гаршин Всеволод Михайлович</p>
+	<empty-line/>
+	<p>Обзор детской литературы. Выпуск II. Книги, изданные в 1884 году</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<p> <strong>Обзоръ дѣтской литературы. Выпускъ II. Книги, изданныя въ 1884 году</strong>. Составленъ кружкомъ учащихъ, подъ редакціею В. М. Гаршина и А. Я. Герда. Спб., 1886 г. Въ нашемъ журналѣ въ прошломъ году былъ уже данъ отзывъ о первомъ выпускѣ <emphasis>Обзора дѣтской литературы.</emphasis> Второй выпускъ не менѣе заслуживаетъ вниманія со стороны лицъ, нуждающихся въ компетентныхъ совѣтникахъ при выборѣ книгъ для дѣтскаго чтенія. Читая эти отзывы, можно, на основаніи ихъ, довольно основательно познакомиться съ характерными чертами многихъ изъ нашихъ книжныхъ фирмъ и изданій. Между прочимъ, обращаемъ вниманіе на справедливый отзывъ о дѣятельности извѣстнаго "общества распространенія полезныхъ книгъ". Рецензентъ отмѣчаетъ небрежность и неразборчивость отношенія "общества распространенія полезныхъ книгъ" къ своему дѣлу и даетъ вѣрную характеристику произведеній, издаваемыхъ подъ фирмою этого "общества". Въ концѣ этого <emphasis>Обзора</emphasis> приведенъ списокъ книгъ, <emphasis>особенно рекомендуемыхъ</emphasis> составителями <emphasis>Обзора</emphasis>, что очень практично.</p>
+<empty-line/>
+<p><emphasis>"Русская мысль", No VII, 1886</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>children</genre>
+		<author>
+			<first-name>Федор</first-name>
+			<middle-name>Николаевич</middle-name>
+			<last-name>Глинка</last-name>
+		</author>
+		<book-title>Письмо к П. Е. Фан-дер-Флиту</book-title>
+<annotation></annotation>		<date value="2007-01-17">17/01/2007</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 03:34:22</date>
+		<src-url>http://az.lib.ru/g/glinka_f_n/text_0030.shtml</src-url>
+		<id>samlib58f4b64e84eb37.01152182</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Глинка Федор Николаевич</p>
+	<empty-line/>
+	<p>Письмо к П. Е. Фан-дер-Флиту</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>[Глинка Ф. Н.] Письмо Ф. Н. Глинки от 27 авг. 1830 г. к П. Е. Фан-дер-Флиту / [Публ. И. А. Шляпкина] // Пушкин и его современники: Материалы и исследования / Комис. для изд. соч. Пушкина при Отд-нии рус. яз. и словесности Имп. акад. наук. - Спб., 1913. - Вып. 16. - С. 105-106.</p>
+<p>http://next.feb-web.ru/feb/pushkin/serial/psg/psg21055.htm</p>
+<empty-line/>
+<p>Письмо Ѳ. Н. Глинки, отъ 27 августа 1830 г., къ П. Е. Фанъ-деръ-Флиту1).</p>
+<empty-line/>
+<p>"Въ Твери... заѣзжаютъ и очень часто прежніе мои знакомые и друзья. У меня уже были и видѣлись со мною Генералъ Данилевскій, Генералъ Сакенъ, прославившіеся оба въ послѣднюю кампанію, литтераторы: Александръ Пушкинъ, князь Вяземскій и другіе. Всѣ, навѣщая меня, изъявляютъ знакъ нелестной пріязни".</p>
+<empty-line/>
+<p>Сноски</p>
+<empty-line/>
+<p>1) Подлинное письмо было въ рукахъ слушательницы С.-Пб. В. Ж. К. г-жи Мушниковой, разрѣшившей мнѣ сдѣлать изъ него эту выписку. Вѣроятно, посѣщеніе Пушкинымъ Глинки было проѣздомъ съ княземъ Вяземскимъ черезъ Тверь 12-13 августа 1830 г. (Н. О. Лернеръ, Труды и дни Пушкина, С.-Пб. 1910, стр. 217).</p>
+</section>
+
+</body>
+</FictionBook>

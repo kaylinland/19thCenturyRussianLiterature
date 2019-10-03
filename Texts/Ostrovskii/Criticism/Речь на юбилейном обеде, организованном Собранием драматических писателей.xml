@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Николаевич</middle-name>
+			<last-name>Островский</last-name>
+		</author>
+		<book-title>Речь на юбилейном обеде, организованном Собранием драматических писателей</book-title>
+<annotation></annotation>		<date value="2018-06-08">08/06/2018</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-06-08">2018-06-08 12:31:40</date>
+		<src-url>http://az.lib.ru/o/ostrowskij_a_n/text_1872_rech_na_obede.shtml</src-url>
+		<id>samlib5b1a4cfcc1c7f6.43725559</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Островский Александр Николаевич</p>
+	<empty-line/>
+	<p>Речь на юбилейном обеде, организованном Собранием драматических писателей</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<p> </p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>А. Н. Островский</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Речь на юбилейном обеде, организованном Собранием драматических писателей</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p> Речи 1859-1886</p>
+<p> ГИХЛ, М., 1952</p>
+<p> Составитель тома Г. И. Владыкин</p>
+<p> Подготовка текста и комментарии К. Д. Муратовой</p>
+<p> </p>
+<empty-line/>
+<p><emphasis>14 марта 1872 г.</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p> Милостивые государи! Благодарю вас за честь, которой вы меня удостаиваете, и за радость, которую вы мне доставляете. Наши труды, при условиях, как вы знаете, не всегда благоприятных, не особенно способствуют веселому настроению духа в человеке. Ощущение чистой радости, которое я испытываю теперь и которым я обязан вашему добродушию, вообще очень редко для людей, в особенности для людей трудящихся. Забыть прожитые неудачи, огорчения и тяжесть труда, весьма часто соединенного с лишениями, и помнить только светлые минуты своей жизни труженик может только тогда, когда хорошие и дельные люди скажут ему, что он трудился недаром, что он деятельностью своею заслужил себе уважение. Пусть это будет после двадцати пяти лет тяжелой работы, пусть это будет один раз в жизни, но этой награды довольно: она наполняет душу чистою радостью и неотравленным счастьем. Этою радостью я обязан вам, господа, и прошу вас поверить мне, что благодарность за эту радость я чувствую глубоко, и прошу извинить меня, если я свою благодарность недостаточно выражаю.</p>
+<p> </p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>КОММЕНТАРИИ</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p> Печатается по тексту газеты "Русский мир", 1872, No 71, 18 марта.</p>
+<p> Литературная и театральная общественность широко отметили 25-летний юбилей драматургической деятельности А. Н. Островского. На юбилейном обеде Островскому был преподнесен альбом, посвященный его деятельности.</p>
+<p> </p>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

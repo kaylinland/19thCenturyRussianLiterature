@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Валерий</first-name>
+			<middle-name>Яковлевич</middle-name>
+			<last-name>Брюсов</last-name>
+		</author>
+		<book-title>Анкета о Некрасове</book-title>
+<annotation></annotation>		<date value="2015-04-11">11/04/2015</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 01:53:48</date>
+		<src-url>http://az.lib.ru/b/brjusow_w_j/text_1902_anketa_o_nekrasove.shtml</src-url>
+		<id>samlib58f49ebc989b68.05888118</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Брюсов Валерий Яковлевич</p>
+	<empty-line/>
+	<p>Анкета о Некрасове</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>В. Я. Брюсов</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Анкета о <a xlink:href="http://az.lib.ru/n/nekrasow_n_a/">Некрасове</a></strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>"Мне борьба мешала быть поэтом" -- вот слова, в которых Некрасов определил свою судьбу. Но несмотря на все помехи, какие он сам ставил своему творчеству, не быть поэтом он не мог. Слова Тургенева, что в стихах Некрасова "ее-то, поэзии-то и нет ни на грош", грубая несправедливость. У Некрасова самобытный склад стихотворной речи, свои, ему одному свойственные размеры и рифмы: это внешние, но безошибочные признаки истинного дарования. Некрасовские стихи легко узнать без подписи: у него свое лицо; это не безличный стих нынешних эпигонов гражданской поэзии. После Пушкина и Лермонтова Некрасов запел на особый лад, не подражая своим учителям, -- что тоже доступно только большим дарованиям. Некрасов сумел найти красоту в таких областях, перед которыми отступали его предшественники. Его сумрачные картины северного города могут посоперничать с лучшими страницами Бодлера (и вообще в его даровании, как ни странно такое сближение, есть доля чего-то бодлеровского). Как никто, умеет Некрасов пользоваться образами русского сказочного мира. В описаниях природы он достигает иногда почти тютчевской зоркости. Поэзия Некрасова до сих пор не оценена справедливо, и, конечно, первая причина тому -- его "гражданское служение". Оно сделало из его стихов предмет партийных споров и лишило их спокойных читателей и критиков.</p>
+<empty-line/>
+<p><emphasis>1902</emphasis></p>
+<empty-line/>
+<p><emphasis>--</emphasis><emphasis>-</emphasis>-----------------------------------------------------------------------------</p>
+<empty-line/>
+<empty-line/>
+<p><emphasis>Впервые опубликовано: "Новости дня", 1902, 27 декабря. </emphasis></p>
+<p><emphasis>Оригинал здесь: </emphasis><emphasis>http://dugward.ru/library/brusov/brusov_anketa_o_nekrasove.html</emphasis><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

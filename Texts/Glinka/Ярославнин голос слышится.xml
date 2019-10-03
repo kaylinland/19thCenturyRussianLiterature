@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Федор</first-name>
+			<middle-name>Николаевич</middle-name>
+			<last-name>Глинка</last-name>
+		</author>
+		<book-title>Ярославнин голос слышится...</book-title>
+<annotation></annotation>		<date value="2007-11-22">22/11/2007</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-12-29">2017-12-29 11:51:10</date>
+		<src-url>http://az.lib.ru/g/glinka_f_n/text_0100.shtml</src-url>
+		<id>samlib5a4601fe410883.13333716</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Глинка Федор Николаевич</p>
+	<empty-line/>
+	<p>Ярославнин голос слышится...</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Федор Глинка
+
+                        Ярославнин голос слышится...
+
+----------------------------------------------------------------------------
+     Слово о полку Игореве.
+     "Библиотека поэта". Малая серия.
+     Л., Советский писатель", 1990
+----------------------------------------------------------------------------
+
+                         Ярославнин голос слышится
+                         На стене Путивля-города:
+                         "Полечу я,- говорит она,-
+                         По реке Дунаю зёгзицей,
+                         Омочу рукав бобровый мой
+                         Во струях Каялы быстрыя,
+                         Раны оботру кровавые
+                         Я на теле друга милого!"
+                         Ярославнин голос слышится
+                         На стене Путивля-города:
+                         "О ветрила, ветры буйные!
+                         Вы к чему так сильно веете?
+
+                         Вы бушуйте средь песков и вод,
+                         Корабли носите по морю,
+                         Но зачем мое веселие,
+                         Как ковыль-траву, развеяли?
+                         Быстротечный и преславный Днепр!
+                         Принеси скорей назад ко мне
+                         Моего супруга милого.
+                         Я бы рано посылать к нему
+                         Перестала слезы по морю!.."
+
+                         &lt;1816&gt;</p>
+</section>
+
+</body>
+</FictionBook>

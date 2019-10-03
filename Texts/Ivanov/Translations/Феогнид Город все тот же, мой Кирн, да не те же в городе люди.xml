@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Вячеслав</first-name>
+			<middle-name>Иванович</middle-name>
+			<last-name>Иванов</last-name>
+		</author>
+		<book-title>Феогнид. Город все тот же, мой Кирн, да не те же в городе люди...</book-title>
+<annotation></annotation>		<date value="2007-11-14">14/11/2007</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 04:11:26</date>
+		<src-url>http://az.lib.ru/i/iwanow_w_i/text_0190.shtml</src-url>
+		<id>samlib58f4befeea3855.80367331</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Иванов Вячеслав Иванович</p>
+	<empty-line/>
+	<p>Феогнид. Город все тот же, мой Кирн, да не те же в городе люди...</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Феогнид</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Город все тот же, мой Кирн, да не те же в городе люди...</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Перевод Вяч. Иванова</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>x x x</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Город все тот же, мой Кирн, да не те же в городе люди.</p>
+<empty-line/>
+<p>Встарь ни законов они не разумели, ни тяжб.</p>
+<empty-line/>
+<p>Козьими шкурами плечи покрыв, за плугом влачились,</p>
+<empty-line/>
+<p>Стадо дубравных лосей прочь от ворот городских</p>
+<empty-line/>
+<p>В страхе шарахалось... Ныне рабы - народ-самодержец,</p>
+<empty-line/>
+<p>Челядь - кто прежде был горд доблестных предков семьей.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

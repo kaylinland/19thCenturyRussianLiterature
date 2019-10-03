@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Евгений</first-name>
+			<middle-name>Иванович</middle-name>
+			<last-name>Замятин</last-name>
+		</author>
+		<book-title>Для сборника о книге</book-title>
+<annotation></annotation>		<date value="2013-01-22">22/01/2013</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 09:41:48</date>
+		<src-url>http://az.lib.ru/z/zamjatin_e_i/text_1928_dlya_sbornika.shtml</src-url>
+		<id>samlib58f50c6c713353.20962095</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Замятин Евгений Иванович</p>
+	<empty-line/>
+	<p>Для сборника о книге</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+<p>Евгений Замятин</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Для сборника о книге</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Евгений Замятин. Сочинения.</p>
+<p>М., "Книга", 1988</p>
+<empty-line/>
+<p>-- Когда мои дети выходят на улицу дурно одетыми -- мне за них обидно; когда мальчишки швыряют в них камнями из-за угла -- мне больно; когда лекарь подходит к ним с щипцами или ножом -- мне кажется, лучше бы резали меня самого.</p>
+<p>Мои дети -- мои книги; других у меня нет.</p>
+<p>-- Есть книги такого же химического состава, как динамит. Разница только в том, что один кусок динамита взрывается один раз, а одна книга -- тысячи раз.</p>
+<p>-- Человек перестал быть обезьяной, победил обезьяну в тот день, когда написана была первая книга. Обезьяна не забыла этого до сих пор: попробуйте, дайте ей книгу -- она сейчас же ее испортит, изорвет, изгадит.</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>23.</emphasis><emphasis>XII</emphasis><emphasis>.1928</emphasis></p>
+<empty-line/>
+<p>ПРИМЕЧАНИЯ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Впервые // Лица. С. 257. Авторский текст -- в парижском архиве (АР. Р. 249); дата -- 23.XII. 1928 г.). Печатается по тексту книги.</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

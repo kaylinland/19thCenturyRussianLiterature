@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Николаевич</middle-name>
+			<last-name>Островский</last-name>
+		</author>
+		<book-title>Речь на вечере, организованном в честь А. Н. Островского грузинской труппой в театре Арцруни в Тифлисе</book-title>
+<annotation></annotation>		<date value="2018-07-24">24/07/2018</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-07-24">2018-07-24 09:48:56</date>
+		<src-url>http://az.lib.ru/o/ostrowskij_a_n/text_1883_rech_na_vechere.shtml</src-url>
+		<id>samlib5b56f6081991d8.87148989</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Островский Александр Николаевич</p>
+	<empty-line/>
+	<p>Речь на вечере, организованном в честь А. Н. Островского грузинской труппой в театре Арцруни в Тифлисе</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<p> </p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>А. Н. Островский</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Речь на вечере, организованном в честь А. Н. Островского грузинской труппой в театре Арцруни в Тифлисе</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p> Речи 1859-1886</p>
+<p> ГИХЛ, М., 1952</p>
+<p> Составитель тома Г. И. Владыкин</p>
+<p> Подготовка текста и комментарии К. Д. Муратовой</p>
+<p> </p>
+<p> Я и прежде слышал, что у грузин есть хорошая труппа, а сегодня сам убедился, что вы действительно хорошо играете. Мое удивление тем более велико, что вы так прекрасно разыграли пьесу, составленную не из ваших нравов. От души вас благодарю за честь и хорошую игру.</p>
+<p> </p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>КОММЕНТАРИИ</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p> Печатается по тексту газеты "Кавказ", 1883, No 237, 22 октября.</p>
+<p> В сентябре -- октябре 1883 г. А. Н. Островский принял участие в поездке своего брата, министра государственных имуществ М. Н. Островского, на Кавказ. В письме к Ф. А. Бурдину драматург писал: "Поездка доставила мне много удовольствия".</p>
+<p> На вечере в честь Островского был исполнен на грузинском языке второй акт "Доходного места". В дневниковой записи от 20 октября 1883 г. Островский рассказывает о празднестве, организованном в его честь (см. т. 13 наст, издания).</p>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>children</genre>
+		<author>
+			<first-name>Владимир</first-name>
+			<middle-name>Федорович</middle-name>
+			<last-name>Одоевский</last-name>
+		</author>
+		<book-title>В. Ф. Одоевский - Лермонтову М. Ю</book-title>
+<annotation></annotation>		<date value="2007-04-16">16/04/2007</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-06-10">2017-06-10 11:53:39</date>
+		<src-url>http://az.lib.ru/o/odoewskij_w_f/text_0510-1.shtml</src-url>
+		<id>samlib593bb39390f877.80706674</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Одоевский Владимир Федорович</p>
+	<empty-line/>
+	<p>В. Ф. Одоевский - Лермонтову М. Ю</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>В. Ф. Одоевский -- Лермонтову М. Ю.</p>
+<p>&lt;Не ранее 5 августа 1839 г.&gt;</p>
+<empty-line/>
+<empty-line/>
+<p> Лермонтов М. Ю. Сочинения: В 6 т. -- М.; Л.: Изд-во АН СССР, 1954--1957. Т. 6. Проза, письма. -- 1957. -- С. 471.</p>
+<p> "Im Werden Verlag". Некоммерческое электронное издание. Мюнхен. 2006</p>
+<p> http://imwerden.de</p>
+<p> </p>
+<p> Ты узнаешь, кто привез тебе эти две вещи -- одно прекрасное и редкое издание мое любимое -- читай Его. О другом напиши, что почувствуешь прочитавши. Может быть сегодня еще раз заеду.</p>
+<empty-line/>
+<p>Одоевский.</p>
+<empty-line/>
+<empty-line/>
+<p> Жена была со мною и кланяется тебе, жалела что не застали.</p>
+<p> </p>
+<empty-line/>
+<p>Комментарий</p>
+<empty-line/>
+<empty-line/>
+<p> </p>
+<p> Печатается по автографу -- ИРЛИ, оп. 1, N 13, л. 14 об.</p>
+<p> Впервые опубликовано в издании: Полное собрание сочинений М. Ю. Лермонтова, под ред. Д. И. Абрамовича, т. 5, изд. Академической библиотеки русских писателей, 1913, с. 30. Записано на обороте последнего листа тетради с автографом поэмы "Мцыри", с первоначальным названием "Бэри". На первой странице тетради стоит дата: "1839 года. Августа 5".</p>
+<p> Очевидно, тетрадь эта лежала на столе поэта, когда В. Ф. Одоевский и его жена Ольга Степановна (1797--1872), приехав к нему, не застали его дома. Вероятно, не имея под руками отдельного листка бумаги, Одоевский написал записку на обороте тетради, следовательно, она может быть датирована 1839 г., не ранее 5 августа.</p>
+<p> Какие книги привез Лермонтову Одоевский -- установить трудно. Об одной из них Одоевский пишет с большой буквы: "читай Его". Возможно, что это или Евангелие, или особенно дорогой Одоевскому и Лермонтову автор.</p>
+<p> </p>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

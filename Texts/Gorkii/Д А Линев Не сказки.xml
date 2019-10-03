@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Максим</first-name>
+			<last-name>Горький</last-name>
+		</author>
+		<book-title>Д. А. Линев. &quot;Не сказки&quot;</book-title>
+<annotation></annotation>		<date value="2008-10-20">20/10/2008</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-08-17">2017-08-17 10:52:21</date>
+		<src-url>http://az.lib.ru/g/gorxkij_m/text_0450.shtml</src-url>
+		<id>samlib59954b35240026.96186128</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Горький Максим</p>
+	<empty-line/>
+	<p>Д. А. Линев. &quot;Не сказки&quot;</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<p> </p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Д.А.ЛИНЕВ (ДАЛИН).</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>"НЕ СКАЗКИ"</strong><strong></strong></p><strong></strong>
+<p>Издание 2-е. Петербург, 1895 г., издание Ф. С. Хесина</p>
+<empty-line/>
+</title>
+<empty-line/>
+<p> </p>
+<p> Уже один тот факт, что первое издание этой книги разошлось в течение двух с половиной месяцев в количестве 2200 экземпляров, -- ясно свидетельствует о её достоинствах. Представляя из себя ряд маленьких фельетонных набросков, немногословных, но всегда нервных и горячих, изложенных языком, может быть, несколько манерным, но всегда ясным и простым, -- эти картинки русской жизни то полны глубокой печали, то пропитаны горькой иронией, всегда будят ум, всегда трогают сердце и о многом заставляют глубоко подумать, многое пожалеть, многое вспомнить. Конечно, в полуторастах строк не исследуешь описываемое явление всесторонне, но можно указать его существо и наметить ряд причин, вызвавших его к жизни. Господину Далину всегда почти удаётся это, он обладает редкой особенностью для фельетониста -- у него есть тонкое гражданское чутьё, позволяющее ему сразу открывать в глухих зарослях нашей тьмы и невежества разнообразную дичь, и он умеет бить её верно и метко. Ещё раз, книга Далина -- хорошая книга, и если она не доставит читателю эстетического наслаждения, то заставит его стать ближе к жизни и серьёзно подумать о ней.</p>
+<p> </p>
+<empty-line/>
+<p>ПРИМЕЧАНИЕ</p>
+<empty-line/>
+<empty-line/>
+<p> Впервые напечатано в "Самарской газете", 1895, номер 261, 3 декабря, в отделе "Библиография". Подпись: "И.Х." (т.е. Иегудиил Хламида).</p>
+<p> Рецензия печатается по тексту "Самарской газеты".</p>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

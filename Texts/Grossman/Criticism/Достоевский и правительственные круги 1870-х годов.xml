@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Леонид</first-name>
+			<middle-name>Петрович</middle-name>
+			<last-name>Гроссман</last-name>
+		</author>
+		<book-title>Достоевский и правительственные круги 1870-х годов</book-title>
+<annotation><p>Публикация "Литературное наследние", том 15, 1934 г.</p></annotation>		<date value="2012-08-29">29/08/2012</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 03:54:45</date>
+		<src-url>http://az.lib.ru/g/grossman_l_p/text_1934_dostoevskiy-i-pravitelstvennye_krugi-1870.shtml</src-url>
+		<id>samlib58f4bb15a16a13.53294894</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Гроссман Леонид Петрович</p>
+	<empty-line/>
+	<p>Достоевский и правительственные круги 1870-х годов</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

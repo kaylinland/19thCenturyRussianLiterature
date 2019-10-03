@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Лев</first-name>
+			<middle-name>Николаевич</middle-name>
+			<last-name>Толстой</last-name>
+		</author>
+		<book-title>Сведения из столицы</book-title>
+<annotation></annotation>		<date value="2016-03-18">18/03/2016</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 08:57:32</date>
+		<src-url>http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1905_svedenia_iz_stolitzy.shtml</src-url>
+		<id>samlib58f5020ca30f49.24361303</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Толстой Лев Николаевич</p>
+	<empty-line/>
+	<p>Сведения из столицы</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Сведения из столицы</strong></p><strong></strong>
+<p><strong></strong>(От нашего корреспондента)</p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>По сообщению лиц, на днях вернувшихся из Ясной Поляны, Л. Н. Толстой в последнее время совсем отказался от чтения газет, довольствуясь теми сведениями, которыми делятся с ним близкие лица. На решение нашего великого писателя, несомненно, повлияло содержание газет, наполненных кровавыми ужасами войны.</p>
+<p>-- Свет увидел с тех пор, как перестал читать эти вещи, -- шутя говорит Толстой.</p>
+<p>Он много гуляет, преимущественно по лесу. Нога, ушибленная при падении с лошади, зажила. Писатель, несмотря на годы, чувствует себя так бодро, как никогда. Много работает.</p>
+<p>Из беллетристических вещей, кроме "Хаджи-Мурата", содержание которого излагалось в печати. Толстой закончил и отделывает еще два произведения: "После бала" и "Божеское и человеческое" (*1*). Во втором из этих произведений фигурирует, между прочим, государственный преступник Лизогуб (*2*), обращающийся в тюрьме в верующего христианина и отправляющийся на казнь с Евангелием в руках. Все три вещи предназначены к напечатанию только после смерти писателя.</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Комментарии</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Сведения из столицы (От нашего корреспондента). -- Забайкалье, 1905, 6 марта.</p>
+<empty-line/>
+<p>1* Над рассказом "После бала" Толстой работал в 1903 г., над произведением "Божеское и человеческое" -- в 1903-1906 гг.</p>
+<p>2* Революционный народник Дмитрий Андреевич Лизогуб (1849-1879) послужил Толстому прототипом его героя Синегуба.</p>
+<empty-line/>
+<empty-line/>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

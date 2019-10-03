@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Петр</first-name>
+			<middle-name>Андреевич</middle-name>
+			<last-name>Вяземский</last-name>
+		</author>
+		<book-title>Стансы</book-title>
+<annotation><p>(<a xlink:href="http://az.lib.ru/g/gotowcewa_a_i"></a>Анне Ивановне Готовцевой.)</p></annotation>		<date value="2008-12-23">23/12/2008</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 09:29:49</date>
+		<src-url>http://az.lib.ru/w/wjazemskij_p_a/text_0540oldorfo.shtml</src-url>
+		<id>samlib58f5099d60b604.44048293</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Вяземский Петр Андреевич</p>
+	<empty-line/>
+	<p>Стансы</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+ 
+ 
+
+
+</p>
+<empty-line/>
+<empty-line/>
+<p>Сѣверные цвѣты на 1829. СПб, 1828</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><a xlink:href="mailto:bmn@lib.ru">OCR Бычков М. Н.</a></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><a xlink:href="http://az.lib.ru">http://az.lib.ru</a></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>                              СТАНСЫ.</p>
+<p>                    <emphasis>(Аннѣ Ивановнѣ Готовцовой.)</emphasis></p>
+<empty-line/>
+<p>                    Благоуханіемъ души</p>
+<p>                    И прелестью подобно розѣ,</p>
+<p>                    И безъ поэзіи, и въ прозѣ,</p>
+<p>                    Вы достовѣрно хороши.</p>
+<empty-line/>
+<p>                    Но мало было вамъ тревожитъ</p>
+<p>                    Въ насъ вдохновительные сны:</p>
+<p>                    Вы захотѣли ихъ умножить</p>
+<p>                    Дарами счастливой весны.</p>
+<empty-line/>
+<p>                    Вы захотѣли примирить</p>
+<p>                    Существенность съ воображеньемъ;</p>
+<p>                    За вдохновенье вдохновеньемъ,</p>
+<p>                    За пѣсни пѣснями платить.</p>
+<empty-line/>
+<p>                    Дается рѣдкому поэту</p>
+<p>                    Быть поэтическимъ лицемъ:</p>
+<p>                    Въ гостиной смотритъ сентябремъ,</p>
+<p>                    Кто чародѣй по кабинету.</p>
+<empty-line/>
+<p>                    Но въ вась, любимицѣ наукъ,</p>
+<p>                    Съ плодомъ цвѣтъ свѣжій неразлученъ:</p>
+<p>                    Съ улыбкой вашею созвученъ</p>
+<p>                    И стихъ вашъ, сердца чистый звукъ.</p>
+<empty-line/>
+<p>                                                  <emphasis>Кн. Вяземскій.</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

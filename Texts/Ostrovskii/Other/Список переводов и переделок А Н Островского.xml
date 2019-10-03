@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>adventure</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Николаевич</middle-name>
+			<last-name>Островский</last-name>
+		</author>
+		<book-title>Список переводов и переделок А. Н. Островского</book-title>
+<annotation></annotation>		<date value="2019-01-05">05/01/2019</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2019-01-05">2019-01-05 03:45:19</date>
+		<src-url>http://az.lib.ru/o/ostrowskij_a_n/text_1978_spisok_perevodov.shtml</src-url>
+		<id>samlib5c30d10f766024.15996049</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Островский Александр Николаевич</p>
+	<empty-line/>
+	<p>Список переводов и переделок А. Н. Островского</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<p> Островский A. H. Полное собрание сочинений. В 12-ти т.</p>
+<p> Т. 9. Переводы и переделки. (1865-1886).</p>
+<p> М., "Искусство", 1978.</p>
+<p> </p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>СПИСОК ПЕРЕВОДОВ И ПЕРЕДЕЛОК А. Н. ОСТРОВСКОГО</strong></p>
+<empty-line/>
+</title>
+<p>
+
+</p>
+<p> Шекспир У.
+
+</p>
+<p> "Укрощение злой жены" ("The Таming of the Shrew"); прозаический перев. с англ. <emphasis>(ПК</emphasis>, <emphasis>ЛГТБ)</emphasis>
+
+</p>
+<empty-line/>
+<p>1850</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Плавт Т.
+
+</p>
+<p> "Азинария" ("Ослы") ("Asinaria"); перев. с латин. В полном виде не сохранился. <emphasis>(ЧА, ЦГАЛИ)</emphasis>
+
+</p>
+<empty-line/>
+<p>1850</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Сенека Л.
+
+</p>
+<p> "Ипполит" ("Hippolitus"); перев. с латин. Незавершен. <emphasis>(ЧА</emphasis>, <emphasis>ЦГАЛИ)</emphasis>
+
+</p>
+<empty-line/>
+<p>б/д</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Квитко-Основьяненко Г. Ф.
+
+</p>
+<p> "Искренняя любовь, или Милый дороже счастья" ("Щира любов"); перевод-переделка с укр. Перевод не найден.
+
+</p>
+<empty-line/>
+<p>1852</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Теренций П.
+
+</p>
+<p> "Гецыра" ("Свекровь") ("Несуга"); перев. с латин. Не завершен.</p>
+<p> <emphasis>(ЧА</emphasis>, <emphasis>ПД)</emphasis>
+
+</p>
+<empty-line/>
+<p>1858</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Шекспир У.
+
+</p>
+<p> "Усмирение своенравной" ("The Tarai ng of the Shrew"); стихотворный перев. с англ.
+
+</p>
+<empty-line/>
+<p>1865</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Стихотворения
+
+</p>
+<p> Перевод четырех романсов для "Сборника 50 романсов и песен Баха, Бетховена, Генделя и др. с сохранением оригинальных текстов и прибавлением русских переводов"
+
+</p>
+<empty-line/>
+<p>1866</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Чикони Т.
+
+</p>
+<p> "Заблудшие овцы" ("Женатые овечки") ("Le pecorelle smarrite"); перевод-переделка с итал.
+
+</p>
+<empty-line/>
+<p>1867</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Франки И.
+
+</p>
+<p> "Великий банкир, или Уплата миллиона по предъявлению" ("L'Origine di un Gran Banchiere о un Milione Pagabile a Vista"); перев. с итал.
+
+</p>
+<empty-line/>
+<p>1867</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Маллиан М. и Нормой Э.
+
+</p>
+<p> "Бродяга" ("Le Vagabond"); перев. с франц. Перевод не найден.
+
+</p>
+<empty-line/>
+<p>1867</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Автор не определен.
+
+</p>
+<p> "Честь" ("Onore"); перев. с итал. Перевод не найден.
+
+</p>
+<empty-line/>
+<p>1867</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Гольдопи К.
+
+</p>
+<p> "Обманщик" ("Raggeratore"); перев. с итал. Перевод не найден.
+
+</p>
+<empty-line/>
+<p>1867</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Гольдони К.
+
+</p>
+<p> "Истинный друг" ("Il vero amico"); перев. с итал. Перевод не найден.
+
+</p>
+<empty-line/>
+<p>1867</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Гольдони К.
+
+</p>
+<p> "Порознь скучно, а вместе тошно"; перев. с итал. Не завершен. <emphasis>(ЧА</emphasis> -- фрагмент, <emphasis>ЦГАЛИ).</emphasis>
+
+</p>
+<empty-line/>
+<p>1867</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Де Лери А.
+
+</p>
+<p> "Рабство мужей" ("Les maris sont esclaves"); перевод-переделка с франц.
+
+</p>
+<empty-line/>
+<p>1870</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Джакометти П.
+
+</p>
+<p> "Семья преступника" ("Гражданская смерть") ("La morte civile"); перев. с итал.
+
+</p>
+<empty-line/>
+<p>1870</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Гольдони К.
+
+</p>
+<p> "Кофейная" ("La bottega del caffè"); перев. с итал.
+
+</p>
+<empty-line/>
+<p>б/д</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Баррьер и Капандю
+
+</p>
+<p> "Мнимые добряки" ("Les faux bonshommes"); перев. с франц. Не завершен.
+
+</p>
+<empty-line/>
+<p>1870--</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1871?</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Баяр, Фуше, Арвер
+
+</p>
+<p> "Пока" ("En attendant"); перевод- переделка с франц.
+
+</p>
+<empty-line/>
+<p>1872</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Монтиньи
+
+</p>
+<p> "Бал в провинции" ("Un mariage en Province"); перев. с франц. Не окончен.
+
+</p>
+<empty-line/>
+<p>1873</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Паришурама
+
+</p>
+<p> "Дэвадасси" ("Баядерка"); перев. с франц., который в свою очередь был сделан Л. Жакоми с тамильского. <emphasis>(ЧА</emphasis>, <emphasis>ПД)</emphasis>
+
+</p>
+<empty-line/>
+<p>1874-</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1875</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Граццинп А.
+
+</p>
+<p> "Выдумщик" ("Арцигоголо") ("Arzigogolo"); перев. с итал. Перевод не найден.
+
+
+
+
+
+</p>
+<p> Делилиа А. и Ле-Сенна Ш.
+
+</p>
+<p> "Добрый барин" ("Un bonne à Venture"); перевод-переделка с франц.
+
+</p>
+<empty-line/>
+<p>1875</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Фелье О.
+
+</p>
+<p> "Хорошо в гостях, а дома лучше" ("Хорошо там, где нас нет"); "Славны бубны за горами"; "Деревня" ("Le Village"); перев. с франц. Не окончен.
+
+</p>
+<empty-line/>
+<p>1877</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Кастельвеккио Р.
+
+</p>
+<p> "Фрина" ("Frina"); перев. с итал. Перевод не завершен. <emphasis>(ЧК, </emphasis><emphasis>ПД)</emphasis>
+
+</p>
+<empty-line/>
+<p>1878</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Косса П.
+
+</p>
+<p> "Нерон" ("Nerone"); перев. с итал. Не завершен. <emphasis>(ЧА</emphasis> -- фрагмент, <emphasis>ЦГАЛИ)</emphasis>
+
+</p>
+<empty-line/>
+<p>конец 70-х гг.</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Гоцци К.
+
+</p>
+<p> "Женщина, истинно любящая" ("La donna innamorata da vero"); перев. с итал. Перевод не завершен.
+
+</p>
+<empty-line/>
+<p>конец 70-х гг.</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Сервантес М.
+
+</p>
+<p> "Интермедии" ("Entremeses") Девять интермедий, перев. с исп.
+
+</p>
+<empty-line/>
+<p>1879</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Гевара Л.
+
+</p>
+<p> "Хромой бес" ("El diablo cojuelo"); перев. с исп. Перевод не найден.
+
+</p>
+<empty-line/>
+<p>1883</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Макиавелли Н.
+
+</p>
+<p> "Мандрагора" ("Mandragola"); перев. с итал.
+
+</p>
+<empty-line/>
+<p>1884</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Шиллер Ф,
+
+</p>
+<p> "Гимн искусству"; перев. с нем.
+
+</p>
+<empty-line/>
+<p>1884</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> феерия
+
+</p>
+<p> "Аленький цветочек"; перев. с англ. Перевод не найден.
+
+</p>
+<empty-line/>
+<p>1885</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Шекспир У.
+
+</p>
+<p> "Антоний и Клеопатра" ("Anthony and Cleopater"); перев. с англ. Перевод не окончен. <emphasis>(ЧА, ИД)</emphasis>
+
+</p>
+<empty-line/>
+<p>1885--</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1886</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> феерия
+
+</p>
+<p> "Синяя борода" (Blue Beard); перев. с англ. Перевод не найден.
+
+</p>
+<empty-line/>
+<p>1886</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Кальдерон П.
+
+</p>
+<p> "Вера и крест" ("La devoción do la Cruz"); перев. с испан. Перевод не окончен.
+
+</p>
+<empty-line/>
+<p>б/д</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Кальдерон П.
+
+</p>
+<p> "Дом с двумя входами" ("Casa de dos puertas mala es de guardar"); перев. с исп. Перевод не окончен.
+
+</p>
+<empty-line/>
+<p>б/д</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Роман
+
+</p>
+<p> Перев. с франц.; автор и название не установлено. <emphasis>(ЧА</emphasis> -- фрагмент, <emphasis>ЦГАЛИ)</emphasis>
+
+</p>
+<empty-line/>
+<p>б/д</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Статья
+
+</p>
+<p> "Ярмарочный театр во Франции"; перев. [с франц.]. Перевод не завершен <emphasis>(ЧА, ЦГАЛИ)</emphasis>
+
+</p>
+<empty-line/>
+<p>б/д</p>
+<empty-line/>
+<p>
+
+
+</p>
+<p> Мольер Ж.
+
+</p>
+<p> перевести всего Мольера -- замысел.
+
+
+
+
+</p>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

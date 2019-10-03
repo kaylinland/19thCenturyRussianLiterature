@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>prose_contemporary</genre>
+		<author>
+			<first-name>Алексей</first-name>
+			<middle-name>Николаевич</middle-name>
+			<last-name>Плещеев</last-name>
+		</author>
+		<book-title>Вильям Завоеватель</book-title>
+<annotation></annotation>		<date value="2017-05-22">22/05/2017</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-07-07">2017-07-07 10:42:03</date>
+		<src-url>http://az.lib.ru/p/plesheew_a_n/text_1867_villiam_oldorfo.shtml</src-url>
+		<id>samlib595f3b4b832ee9.90776595</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Плещеев Алексей Николаевич</p>
+	<empty-line/>
+	<p>Вильям Завоеватель</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<p> </p>
+<p>           <strong>ВИЛЬЯМЪ ЗАВОЕВАТЕЛЬ.</strong></p>
+<p>                     (съ англійскаго).</p>
+<p> </p>
+<p>           Свои и несмѣтныя богатства</p>
+<p>           Обозрѣваетъ властелинъ.</p>
+<p>           Предъ нимъ алмазы дорогіе,</p>
+<p>           И жемчугъ крупный, и рубинъ,</p>
+<p>           И груды золота сверкаютъ;</p>
+<p>           Но онъ глядитъ на нихъ съ тоской.</p>
+<p>           "Я васъ купилъ, мои богатства,</p>
+<p>           "Заботъ тяжелою цѣной!</p>
+<p>           "Ко мнѣ питаютъ люди зависть;</p>
+<p>           "Твердятъ: богатъ и счастливъ онъ...</p>
+<p>           "Но промѣнялъ бы я охотно</p>
+<p>           "Васъ на безпечный, дѣтскій сонъ!"</p>
+<p> </p>
+<p>           Труба звучитъ, знамена вѣютъ.</p>
+<p>           Мечи сверкаютъ здѣсь и тамъ.</p>
+<p>           На жаркій бой -- съ высокой башни</p>
+<p>           Бросаетъ взоръ -- король Вильямъ.</p>
+<p>           Его испытанное войско</p>
+<p>           Давно въ бояхъ закалено;</p>
+<p>           И знаетъ онъ, что предъ врагами</p>
+<p>           Не дрогнетъ вѣрное оно.</p>
+<p>           Но онъ не радъ побѣдѣ близкой...</p>
+<p>           "О рать покорная моя!</p>
+<p>           "За сердце преданное друга</p>
+<p>           "Тебя сейчасъ бы отдалъ л!</p>
+<p> </p>
+<p>           Король Вильямъ стоитъ въ Виндзорѣ.</p>
+<p>           Изъ оконъ замка онъ глядитъ,</p>
+<p>           Какъ безконечныя равнины</p>
+<p>           Лучъ ранній солнца золотитъ.</p>
+<p>           Предъ нимъ лѣса, поля и горы</p>
+<p>           И льется свѣтлая волна...</p>
+<p>           И говоритъ онъ: "какъ прекрасна</p>
+<p>           "Ты -- побѣжденная страна!</p>
+<p>           "Да! ты моя... ты мнѣ подвластна!</p>
+<p>           "Чегожь-бы мнѣ еще желать?</p>
+<p>           "Но все, что есть въ тебѣ -- готовъ я</p>
+<p>           "За совѣсть чистую отдать!"</p>
+<p>                                                             <strong>А. Плещеевъ.</strong></p>
+<empty-line/>
+<p><emphasis>"Дѣло", No 7, 1867</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Аноним</first-name>
+			<last-name>Г</last-name>
+		</author>
+		<book-title>А. А. Фомин. Поэт и король, или история одной дружбы. Переписка В. А. Жуковского с королем прусским Фридрихом-Вильгельмом IV</book-title>
+<annotation></annotation>		<date value="2018-02-07">07/02/2018</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-02-07">2018-02-07 11:28:55</date>
+		<src-url>http://az.lib.ru/z/zhukowskij_w_a/text_1913_perepiska_s_vilgelmom_oldorfo.shtml</src-url>
+		<id>samlib5a7ab8c783de50.54639224</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Г.</p>
+	<empty-line/>
+	<p>А. А. Фомин. Поэт и король, или история одной дружбы. Переписка В. А. Жуковского с королем прусским Фридрихом-Вильгельмом IV</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<p> <strong>А. А. Ѳоминъ. Поэтъ и король, или исторія одной дружбы</strong>. Переписка В. А. Жуковскаго съ королемъ прусскимъ Фридрихомъ-Вильгельмомъ IV. СПБ. 1913.</p>
+<p> Писемъ Фридриха-Вильгельма пять, Жуковскаго пятнадцать. Всѣ они писаны по-французски, кромѣ одного, но приведены въ книгѣ въ подлинникѣ и переводѣ. Письма короля были найдены г. Ѳоминымъ у сына поэта, Павла Васильевича Жуковскаго, недавно скончавшагося, письма поэта -- въ библіотекѣ германскаго императора. Всѣ они представляютъ большой историко-литературный интересъ.</p>
+<p> Романтизмъ, сантиментальность и вмѣстѣ съ тѣмъ глубокая жизненная практичность и тонкое пониманіе людей,-- вотъ письма Жуковскаго. Читая ихъ, понимаешь, почему онъ былъ такимъ неизмѣннымъ другомъ королей и въ то же время "вольнодумцевъ" Тургеневыхъ. Весьма интересны и письма Фридриха-Вильгельма, чувствовавшаго къ Жуковскому самыя неподдѣльныя симпатіи и довѣріе. Особенно интересны тѣ мѣста писемъ, которыя касаются революціи 48 года, когда королю, другу поэтовъ и ученыхъ, пришлось услышать суровый и нелицепріятный голосъ народа. Письма снабжены примѣчаніями издателя, портретами и снимками съ рисунковъ Жуковскаго.</p>
+<empty-line/>
+<p><strong>Г.</strong></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>"Современникъ", кн. V. 1913 г.</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

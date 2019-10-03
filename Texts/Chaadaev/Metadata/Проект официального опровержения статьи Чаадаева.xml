@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Петр</first-name>
+			<middle-name>Яковлевич</middle-name>
+			<last-name>Чаадаев</last-name>
+		</author>
+		<book-title>Проект официального опровержения статьи Чаадаева</book-title>
+<annotation></annotation>		<date value="2008-04-11">11/04/2008</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-11-20">2018-11-20 09:22:04</date>
+		<src-url>http://az.lib.ru/c/chaadaew_p_j/text_0170.shtml</src-url>
+		<id>samlib5bf3d23c1d0a79.38497181</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Чаадаев Петр Яковлевич</p>
+	<empty-line/>
+	<p>Проект официального опровержения статьи Чаадаева</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Проект официального опровержения статьи Чаадаева</strong>*</p>
+<empty-line/>
+</title>
+<empty-line/>
+<p> Статья, в недавнем времени напечатанная в одном из московских журналов, направление коей ближе означать мы себе не дозволяем, возбудила во всех благомыслящих чувство негодования. Нетрудно указать на все ошибки против логики и против здравого рассудка, на все погрешности против истории -- словом, на глубокое невежество, коим наполнена сия статья, если б другое чувство, более живое, более сродное сердцу русскому, не препятствовало хладнокровному разбору подобной пьесы. Отвечать на произведения такого рода -- было бы унизить священное дело нашей народности. Кто уважил впечатление, произведенное этой пьесой над читателями, тот, конечно, убедится в бесполезности опровержения и будет смотреть с молчанием презрения на тщетное покушение ума нездравого и сожаления достойного. Благомыслящие удовольствуются извещением, что мера справедливого наказания обращена уже на ответствующих по закону в издании подобной статьи.</p>
+<p> Мы можем быть уверены, что бдительность Правительства равняется его твердости и что во всех, даже в малейших, отношениях честь народная всегда найдет в нем вернейшего стража и лучшего из сподвижников своих.</p>
+<p> </p>
+<p> *  На полях карандашом рукой Уварова: "оставлено".</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Евгений</first-name>
+			<middle-name>Иванович</middle-name>
+			<last-name>Замятин</last-name>
+		</author>
+		<book-title>Густав Мейринк. Игра цикад</book-title>
+<annotation></annotation>		<date value="2013-09-04">04/09/2013</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 09:42:07</date>
+		<src-url>http://az.lib.ru/z/zamjatin_e_i/text_1922_meirink.shtml</src-url>
+		<id>samlib58f50c7f6ecc27.51046319</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Замятин Евгений Иванович</p>
+	<empty-line/>
+	<p>Густав Мейринк. Игра цикад</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Е. И. Замятин</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Густав Мейринк. Игра цикад</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Новелла в переводе Э. Ш.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Замятин Е. И. Собрание сочинений: В 5 т. Т. 4. Беседы еретика</p>
+<p>М., "Дмитрий Сечин", "Республика", 2010.</p>
+<empty-line/>
+<p>Мировая война и социальные перевороты последних лет разрушили устоявшийся прочный быт, внесли в жизнь элемент неожиданности, фантастики. Совершенно естественно, что и современная литература от простого, реалистического изображения быта перешла к иным формам, где реальность сочетается с фантастикой, с философским синтезом, иногда даже с мистикой. За последние годы западные беллетристы и драматурги дали целый ряд таких произведений (пьеса Верфеля "Человек из зеркала", роман Фаррера "Присужденные к смерти", серия романов Мак-Орлана, "Атлантида" Бенуа, роман Берже "Боги трепещут", пьеса "Назад к Мафусаилу" Шо и др.).</p>
+<p>К этой полосе примыкает и Мейринк, автор романов "Голем" и "Зеленый лик", а также ряда новелл.</p>
+<p>В формальном отношении критика относит Мейринка к новейшей немецкой литературной школе "экспрессионистов"; характеристику всех особенностей этой школы читатель найдет ниже в статьях Н. Радлова "Современное искусство Франции и Германии" и А. Гвоздева "Экспрессионизм в немецкой драме".</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>1922</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>КОММЕНТАРИИ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Впервые: Современный Запад. 1922. No 1. С. 54 (подпись: Е. З.).</p>
+<p>Густав Мейринк (1868-1932) -- немецкий писатель, в его творчестве сильны традиции Э. По и Э. Т. Гофмана; в свою очередь, он оказал заметное влияние на Ф. Кафку.</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>children</genre>
+		<author>
+			<first-name>Владимир</first-name>
+			<middle-name>Федорович</middle-name>
+			<last-name>Одоевский</last-name>
+		</author>
+		<book-title>Письма С. А. Рачинскому</book-title>
+<annotation></annotation>		<date value="2006-08-24">24/08/2006</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-06-10">2017-06-10 11:51:23</date>
+		<src-url>http://az.lib.ru/o/odoewskij_w_f/text_0250oldorfo.shtml</src-url>
+		<id>samlib593bb30b7d7602.25722691</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Одоевский Владимир Федорович</p>
+	<empty-line/>
+	<p>Письма С. А. Рачинскому</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Одоевскiй В. Ѳ.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Письма С. А. Рачинскому</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1864--1868</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Из книги: Е. А. Боратынский: Материалы к его биографии. Из Татевского архива Рачинских /</p>
+<p>С введением и примеч. Ю. Н. Верховского. -- Пг.: Тип. Имп. акад. наук, 1916. -- С. 123--124.</p>
+<p>"Im Werden Verlag". Некоммерческое электронное издание. Мюнхен. 2006</p>
+<p><a xlink:href="http://imwerden.de">http://imwerden.de</a></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1. Письмо Рачинскому С. А.,</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>8 декабря 1864</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Почтеннѣйшій и любезнѣйшій Сергій Александровичъ!</p>
+<p>По субботамъ у меня бываетъ содóмно, -- нêкогда и побесѣдовать всласть. Я не множко нездоровъ и сижу дома, -- пріѣзжайте-ка ко мнѣ завтра обѣдать -- самое удобное средство для бесѣды, въ 5 часовъ, безъ рецемоній, въ сертукѣ. Не такъ-ли?</p>
+<p>Васъ душевно уважающій</p>
+<empty-line/>
+<p>Кн. В. Одоевской.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Вторникъ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>8 Дек. 1864.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>На оборотѣ:</p>
+<p>Его Высокоблагородію Сергѣю Александровичу Рачинскому <emphasis>На Остоженкѣ въ</emphasis></p>
+<p><emphasis>Штатномъ переулкѣ въ </emphasis>д. <emphasis>Романовской </emphasis>[ниже:] отъ Кн. Одоевскаго.</p>
+<empty-line/>
+<empty-line/>
+<p>2. Письмо Рачинскому С. А.,</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>18 февраля 1868</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Позвольте Вамъ напомнить многоуважаемый Сергѣй Александровичъ, что сегодня у меня чествуется канунъ 19 февраля по примѣру прошлыхъ лѣтъ -- и мы пьемъ зá просто здоровье Государя.</p>
+<p>Вашъ душой К. В. Одоевск<emphasis>....</emphasis></p>
+<empty-line/>
+<p>18-е Февр. 1868</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Воскресенье.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Между 9 и 11 ти и по образу <emphasis>сертучнаго </emphasis>хожденія.</p>
+<empty-line/>
+<empty-line/>
+<p>На оборотѣ:</p>
+<p>Его Высокоблагородію Сергѣю Александровичу Рачинскому отъ Кн. Одоевскаго.</p>
+<p><emphasis>Карандашомъ приписано</emphasis>:</p>
+<p>У Страстнаго Монастыря въ д. Воейкова.</p>
+<empty-line/>
+<empty-line/>
+<p>__________</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1. Автографъ -- въ собраніи писемъ разныхъ лицъ къ С. А. Рачинскому, въ томѣ 1863--1867 гг., No 51.</p>
+<p>О "субботахъ" кн. Одоевскаго, учреждённыхъ ещё въ Петербургскій періодъ его жизни, вскорѣ послѣ его женитьбы, см. между прочимъ въ <emphasis>Литературныхъ воспоминаніяхъ </emphasis>И. И. Панаева. СПб. 1876, стр. 114 и слѣд.</p>
+<p>2. Автографъ -- въ собраніи писемъ разныхъ лицъ къ С. А. Рачинскому, въ томѣ 1868-- 1869 гг., No 2.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

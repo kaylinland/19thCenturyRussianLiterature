@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Федор</first-name>
+			<middle-name>Михайлович</middle-name>
+			<last-name>Достоевский</last-name>
+		</author>
+		<book-title>Историко-критический комментарий к сочинениям Ф. М. Достоевского. Составил Зелинский. М.,1885 г</book-title>
+<annotation></annotation>		<date value="2018-07-05">05/07/2018</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-11-16">2018-11-16 08:10:19</date>
+		<src-url>http://az.lib.ru/d/dostoewskij_f_m/text_1885_ist_krit_kommentary_oldorfo.shtml</src-url>
+		<id>samlib5bee7b6b0d59d6.25554977</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Достоевский Федор Михайлович</p>
+	<empty-line/>
+	<p>Историко-критический комментарий к сочинениям Ф. М. Достоевского. Составил Зелинский. М.,1885 г</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<p> <strong>Историко-критическій комментарій къ сочиненіямъ Ѳ. М. Достоевскаго</strong>. Составилъ Зелинскій. М.,1885 г. Два выпуска. Сравнительный успѣхъ <emphasis>Собранія критическихъ матеріаловъ для изученія произведеній И. С. Тургенева</emphasis> побудилъ составителя издать такой же сборникъ къ сочиненіямъ Достоевскаго. "Цѣль настоящаго <emphasis>Историко-критическаго комментарія</emphasis>,-- говоритъ г. Зелинскій,-- разъяснить главный смыслъ произведеній Ѳ. М. Достоевскаго путемъ объективнаго сопоставленія различныхъ критическихъ о нихъ отзывовъ". Для читателя представляется возможнымъ, сравнивая мнѣнія критиковъ, принадлежащихъ къ разнымъ направленіямъ, выработать самостоятельный взглядъ какъ на отдѣльныя сочиненія Достоевскаго, такъ и на всю его литературную и публицистическую дѣятельность. Въ <emphasis>Комментарій</emphasis> вошли біографическія свѣдѣнія объ авторѣ <emphasis>Преступленія и наказанія.</emphasis> Къ нему приложенъ портретъ (довольно плохой). Ѳ. М. Достоевскаго.</p>
+<empty-line/>
+<p><emphasis>"Русская Мысль", кн. IX, 1885</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

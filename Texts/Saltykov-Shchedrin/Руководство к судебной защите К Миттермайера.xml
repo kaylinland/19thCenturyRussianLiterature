@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Михаил</first-name>
+			<middle-name>Евграфович</middle-name>
+			<last-name>Салтыков-Щедрин</last-name>
+		</author>
+		<book-title>&quot;Руководство к судебной защите...&quot; К. Миттермайера</book-title>
+<annotation></annotation>		<date value="2015-01-22">22/01/2015</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 07:18:08</date>
+		<src-url>http://az.lib.ru/s/saltykow_m_e/text_1863_rukovodstvo.shtml</src-url>
+		<id>samlib58f4eac0cf3af4.15053317</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Салтыков-Щедрин Михаил Евграфович</p>
+	<empty-line/>
+	<p>&quot;Руководство к судебной защите...&quot; К. Миттермайера</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong><emphasis>РУКОВОДСТВО К СУДЕБНОЙ ЗАЩИТЕ ПО УГОЛОВНЫМ ДЕЛАМ </emphasis></strong><strong>К. Ю. А. Миттермайера. Издание А. Унковского. Москва. 1863 г.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>М. Е. Салтыков-Щедрин. Собрание сочинений в 20 т. М.: Художественная литература, 1966. Т. 5</p>
+<empty-line/>
+<p>Переводом этого руководства начинается ряд изданий, предпринятых А. М. Унковским ввиду ожидаемых Россиею преобразований по судебной части. Практическая польза подобного предприятия слишком очевидна, чтобы нужно было много распространяться об этом предмете: оно отвечает настоятельной потребности публики, и притом отвечает в такую минуту, когда эта потребность всего живее чувствуется. Руководствуясь этим соображением и имея притом в виду, что сделанный г. Унковским выбор сочинений вполне соответствует своему назначению, мы смело рекомендуем его издания всем желающим ознакомиться с характером и подробностями гласного уголовного суда, совершаемого при участии присяжных, обвинителей и защитников.</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>ПРИМЕЧАНИЯ</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>"Совр.", 1863, No 10, отд. II, стр. 326.</p>
+<p>Рекомендуемая в этой краткой заметке книга профессора законоведения в Гендельбергском университете содержала характеристику средств судебной защиты и "правил, выведенных для нее из всемирного опыта" (стр. IV). Книга была издана Л. М. Унковским -- другом Салтыкова и будущим известным адвокатом, в связи с интересом русского общества к осуществлявшейся тогда судебной реформе, завершенной в 1864 г. (введение суда присяжных, института адвокатуры и т. д.).</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

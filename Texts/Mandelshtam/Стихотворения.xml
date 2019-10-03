@@ -1,0 +1,1505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Юрий</first-name>
+			<middle-name>Владимирович</middle-name>
+			<last-name>Мандельштам</last-name>
+		</author>
+		<book-title>Стихотворения</book-title>
+<annotation><p>"Гомеровским стихом священным..."</p>
+<p>Два ноктюрна (1-2)</p>
+<p>1. "Неполный месяц, желтый и смешной..."</p>
+<p>2. "Какая грусть на площади ночной!.."</p>
+<p>"Предчувствовало сердце: безразличен..."</p>
+<p>"Я внутри совершенно пустой..."</p>
+<p>"Что этот мир? Мы так различны в нем..."</p>
+<p>"Как просто жить, ходить на службу..."</p>
+<p>"Как жить на земле? Человек не знает..."</p>
+<p>"В житейской тине счастья не найти..."</p>
+<p>"Ты говорил - я долго слушал..."</p>
+<p>"Сначала весна, и томленья..."</p>
+<p>"Все то же - люди, имена и лица..."</p>
+<p>"Как неожиданны и редки..."</p>
+<p>"Бывало - с полузвука, с полуслова..."</p>
+<p>"- Электрический запах озона..."</p>
+<p>"Сколько нежности грустной..."</p>
+<p>"Ты знаешь ли это мученье?.."</p>
+<p>"Ни радости, ни скорби нет конца..."</p>
+<p>"Поля без конца, без предела..."</p>
+<p>"Ну что мне в том, что ветряная мельница..."</p>
+<p>"Налетает беда, налетает..."</p>
+<p>"Нет, не воем полночной сирены..."</p>
+<p>"Какая ночь! Какая тишина!.."</p>
+<p>"Мы с тобою - в трагическом мире..."</p>
+<p>"Как Пушкин, в снежном сугробе..."</p>
+<p>Тебе</p>
+<p>Зимой в бараке АТП</p>
+<p>Дорога в Каргополь</p></annotation>		<date value="2017-01-23">23/01/2017</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 06:04:48</date>
+		<src-url>http://az.lib.ru/m/mandelxshtam_j_w/text_1942_poe.shtml</src-url>
+		<id>samlib58f4d99158cfb5.13230744</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Мандельштам Юрий Владимирович</p>
+	<empty-line/>
+	<p>Стихотворения</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Юрий Мандельштам</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Стихотвоения</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>---------------------------------------------------------------------------</p>
+<empty-line/>
+<p>"Мы  жили  тогда  на  планете  другой...":  Антология  поэзии  русского</p>
+<empty-line/>
+<p>зарубежья. 1920-1990: В 4 кн. Кн. 3</p>
+<empty-line/>
+<p>М., "Московский рабочий", 1994.</p>
+<empty-line/>
+<p>---------------------------------------------------------------------------</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>"Гомеровским стихом священным..."</p>
+<empty-line/>
+<p>Два ноктюрна (1-2)</p>
+<empty-line/>
+<p>1. "Неполный месяц, желтый и смешной..."</p>
+<empty-line/>
+<p>2. "Какая грусть на площади ночной!.."</p>
+<empty-line/>
+<p>"Предчувствовало сердце: безразличен..."</p>
+<empty-line/>
+<p>"Я внутри совершенно пустой..."</p>
+<empty-line/>
+<p>"Что этот мир? Мы так различны в нем..."</p>
+<empty-line/>
+<p>"Как просто жить, ходить на службу..."</p>
+<empty-line/>
+<p>"Как жить на земле? Человек не знает..."</p>
+<empty-line/>
+<p>"В житейской тине счастья не найти..."</p>
+<empty-line/>
+<p>"Ты говорил - я долго слушал..."</p>
+<empty-line/>
+<p>"Сначала весна, и томленья..."</p>
+<empty-line/>
+<p>"Все то же - люди, имена и лица..."</p>
+<empty-line/>
+<p>"Как неожиданны и редки..."</p>
+<empty-line/>
+<p>"Бывало - с полузвука, с полуслова..."</p>
+<empty-line/>
+<p>"- Электрический запах озона..."</p>
+<empty-line/>
+<p>"Сколько нежности грустной..."</p>
+<empty-line/>
+<p>"Ты знаешь ли это мученье?.."</p>
+<empty-line/>
+<p>"Ни радости, ни скорби нет конца..."</p>
+<empty-line/>
+<p>"Поля без конца, без предела..."</p>
+<empty-line/>
+<p>"Ну что мне в том, что ветряная мельница..."</p>
+<empty-line/>
+<p>"Налетает беда, налетает..."</p>
+<empty-line/>
+<p>"Нет, не воем полночной сирены..."</p>
+<empty-line/>
+<p>"Какая ночь! Какая тишина!.."</p>
+<empty-line/>
+<p>"Мы с тобою - в трагическом мире..."</p>
+<empty-line/>
+<p>"Как Пушкин, в снежном сугробе..."</p>
+<empty-line/>
+<p>Тебе</p>
+<empty-line/>
+<p>Зимой в бараке АТП</p>
+<empty-line/>
+<p>Дорога в Каргополь</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Гомеровским стихом священным,</p>
+<empty-line/>
+<p>Античной, строгой красотою</p>
+<empty-line/>
+<p>Еще полна душа Елены,</p>
+<empty-line/>
+<p>В веках не позабывшей Трою.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>А голова Софии мудрой -</p>
+<empty-line/>
+<p>В ней глубоко таится знанье</p>
+<empty-line/>
+<p>И посыпает белой пудрой</p>
+<empty-line/>
+<p>Упорных мыслей сочетанья.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И всех прекрасней и нежнее,</p>
+<empty-line/>
+<p>Как позабытых стран равнины,</p>
+<empty-line/>
+<p>И сердце радовать умеют</p>
+<empty-line/>
+<p>Любовь и скорбь Екатерины.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Но даже их не променяю</p>
+<empty-line/>
+<p>На случай радостный и странный.</p>
+<empty-line/>
+<p>В любви внезапной забываю</p>
+<empty-line/>
+<p>Тоску, и мудрость, и обманы.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Часами ласково и дико</p>
+<empty-line/>
+<p>Я славлю северное имя,</p>
+<empty-line/>
+<p>О счастьи думаю великом,</p>
+<empty-line/>
+<p>Не замечаемом другими.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Я предугадываю встречи -</p>
+<empty-line/>
+<p>- Ведь у влюбленных столько дела -</p>
+<empty-line/>
+<p>И дома вспоминаю вечер,</p>
+<empty-line/>
+<p>Когда душа стрелой запела.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Моя веселая измена!</p>
+<empty-line/>
+<p>Предчувствую: тебе единой</p>
+<empty-line/>
+<p>Простят София и Елена,</p>
+<empty-line/>
+<p>И скорбная Екатерина.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ДВА НОКТЮРНА</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Неполный месяц, желтый и смешной,</p>
+<empty-line/>
+<p>И редкие зарницы за спиной.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Казалось, ночь июльская была</p>
+<empty-line/>
+<p>Из тонкого, волнистого стекла.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Неясная печаль издалека...</p>
+<empty-line/>
+<p>Как больно сжалась теплая рука!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>2</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Какая грусть на площади ночной!</p>
+<empty-line/>
+<p>В угарном и безрадостном весельи</p>
+<empty-line/>
+<p>О чем-то горьком, как июльский зной,</p>
+<empty-line/>
+<p>Скрипят неугомонно карусели.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>А в комнате беспомощный рояль</p>
+<empty-line/>
+<p>Дрожит и стонет под рукой неровной,</p>
+<empty-line/>
+<p>И жалуется душная печаль,</p>
+<empty-line/>
+<p>Прикрытая усмешкой хладнокровной.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И только там - на белом потолке,-</p>
+<empty-line/>
+<p>Где тихо бродят ласковые тени,</p>
+<empty-line/>
+<p>Нет ни упорных мыслей о тоске,</p>
+<empty-line/>
+<p>Ни медленных, назойливых сомнений.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Предчувствовало сердце: безразличен.</p>
+<empty-line/>
+<p>И как надеяться любимым быть!</p>
+<empty-line/>
+<p>Поэты обожают Беатриче,</p>
+<empty-line/>
+<p>Но Беатриче их не полюбить.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>А я - последний в неземной плеяде,</p>
+<empty-line/>
+<p>Любовник скучный и плохой поэт.</p>
+<empty-line/>
+<p>Не мне искать таких противоядий,</p>
+<empty-line/>
+<p>Которых вовсе не было и нет.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Но мой некрепкий голос напрягая,</p>
+<empty-line/>
+<p>- Его бессмертным пеньем не зови -</p>
+<empty-line/>
+<p>Я верю: ты услышишь, ты узнаешь,</p>
+<empty-line/>
+<p>Ты будешь плакать о моей любви.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Я внутри совершенно пустой,</p>
+<empty-line/>
+<p>Даже сердце как будто не бьется.</p>
+<empty-line/>
+<p>Только память о жизни простой -</p>
+<empty-line/>
+<p>- Как на дне векового колодца.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Так, наверное, новый мертвец,</p>
+<empty-line/>
+<p>В первый раз выходя из могилы,</p>
+<empty-line/>
+<p>Все не верит, что жизни конец,</p>
+<empty-line/>
+<p>Смотрит в небо и пробует силы.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Влад. Смоленскому</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Что этот мир? Мы так различны в нем:</p>
+<empty-line/>
+<p>Я расточителен, ты скуп и беден.</p>
+<empty-line/>
+<p>Но мы от одиночества умрем,</p>
+<empty-line/>
+<p>И нам скучна земля, и поддень бледен.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Мы устаем от ветреных друзей.</p>
+<empty-line/>
+<p>Но чем нужней, чем ближе мы с тобою,</p>
+<empty-line/>
+<p>Тем больше слов ничтожных и людей</p>
+<empty-line/>
+<p>Нас разделяют бездною морскою.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Как просто жить, ходить на службу.</p>
+<empty-line/>
+<p>Мне так легко: покой в крови.</p>
+<empty-line/>
+<p>Не верю в длительную дружбу,</p>
+<empty-line/>
+<p>Не знаю тягостной любви.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И дни проходят в мирной скуке.</p>
+<empty-line/>
+<p>Но по ночам - к чему скрывать -</p>
+<empty-line/>
+<p>Все та же ты, и те же муки</p>
+<empty-line/>
+<p>Хранит безмолвная кровать.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Так море бури забывает,</p>
+<empty-line/>
+<p>Качает лодку на волне,</p>
+<empty-line/>
+<p>И на песке с детьми играет,</p>
+<empty-line/>
+<p>А бури спят на самом дне.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И пусть в моей душевной лени</p>
+<empty-line/>
+<p>Нет места памяти твоей,</p>
+<empty-line/>
+<p>В тревоге мутных сновидений</p>
+<empty-line/>
+<p>Все ближе ты, и все нужней.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Как жить на земле? Человек не знает.</p>
+<empty-line/>
+<p>Человек рождается, человек умирает.</p>
+<empty-line/>
+<p>Сгнивает тело в плотной земле.</p>
+<empty-line/>
+<p>Летает душа в поднебесной мгле.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Поэт, послушай, не думай о многом!</p>
+<empty-line/>
+<p>Ты - человек, ты не станешь Богом.</p>
+<empty-line/>
+<p>Послушай - не твой ли голос поет:</p>
+<empty-line/>
+<p>Человек родился, человек умрет.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>В житейской тине счастья не найти...</p>
+<empty-line/>
+<p>Но и взлетев в небесные пространства,</p>
+<empty-line/>
+<p>Мы не забудем прежние пути,</p>
+<empty-line/>
+<p>Простую грусть, простое постоянство.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И стоит ли смотреть за облака</p>
+<empty-line/>
+<p>Нам, обреченным смерть принять оттуда,</p>
+<empty-line/>
+<p>Пока еще прекрасна и легка</p>
+<empty-line/>
+<p>Земная жизнь, где нам не надо чуда.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Юрию Терапиано</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ты говорил - я долго слушал.</p>
+<empty-line/>
+<p>О, я согласен был во всем:</p>
+<empty-line/>
+<p>Сомненье не спасает душу</p>
+<empty-line/>
+<p>Опустошительным огнем.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И горе не изменит света -</p>
+<empty-line/>
+<p>- Все так же солнце греет нас,</p>
+<empty-line/>
+<p>И столько радостных ответов</p>
+<empty-line/>
+<p>Хранит хотя бы этот час.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ты говорил, и все казалось</p>
+<empty-line/>
+<p>Неизмеримо и светло,</p>
+<empty-line/>
+<p>Но что-то смутное осталось</p>
+<empty-line/>
+<p>И там, за памятью, легло.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Все это так: и мир без края</p>
+<empty-line/>
+<p>И жизнь прекрасна и чиста;</p>
+<empty-line/>
+<p>Но только знаешь ли, какая</p>
+<empty-line/>
+<p>Бывает в сердце пустота!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Сначала весна, и томленья,</p>
+<empty-line/>
+<p>И небо в закатном огне.</p>
+<empty-line/>
+<p>Потом тишина, и сомненья,</p>
+<empty-line/>
+<p>И нежность в ночной тишине.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Потом - удивленье, и жадность,</p>
+<empty-line/>
+<p>И радость, и мука моя.</p>
+<empty-line/>
+<p>Потом - пустота, беспощадность.</p>
+<empty-line/>
+<p>Безжалостность небытия.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И все. Даже трудно поверить,</p>
+<empty-line/>
+<p>Что это любовь. Пустота.</p>
+<empty-line/>
+<p>Быть может, любовь, да не та...</p>
+<empty-line/>
+<p>Что, если еще раз проверить?</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Все то же - люди, имена и лица.</p>
+<empty-line/>
+<p>Неясный свет, обыкновенный свет.</p>
+<empty-line/>
+<p>Беспутная Лилит, почти блудница,</p>
+<empty-line/>
+<p>Какой ты можешь обещать ответ?</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ночной кабак, безлюбое веселье.</p>
+<empty-line/>
+<p>Тебе - угар, а мне - чужой позор.</p>
+<empty-line/>
+<p>Туманит отвратительное зелье</p>
+<empty-line/>
+<p>Поклонников неискушенных взор.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Но как проста пустая мелодрама -</p>
+<empty-line/>
+<p>Кто с этой страстью не знаком!</p>
+<empty-line/>
+<p>Зачем ты уходила от Адама,</p>
+<empty-line/>
+<p>Чтобы вернуться в облике таком?</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Я сам беспутный, но совсем иначе.</p>
+<empty-line/>
+<p>Тебе хоть блуд, а мне жестокий стыд.</p>
+<empty-line/>
+<p>В случайном счастьи, в лепсой неудаче</p>
+<empty-line/>
+<p>Ты ничего не объяснишь, Лилит.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>В любви, как в злобе, верь, Тамара...</p>
+<empty-line/>
+<p>М. Лермонтов</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Как неожиданны и редки</p>
+<empty-line/>
+<p>Такие встречи. Первый зов</p>
+<empty-line/>
+<p>Прелестней венской оперетки</p>
+<empty-line/>
+<p>И безошибочней стихов.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Но самые скупые строфы</p>
+<empty-line/>
+<p>От перебоев не спасут,</p>
+<empty-line/>
+<p>И реет отзвук катастрофы</p>
+<empty-line/>
+<p>В сладчайшей музыке минут.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Не уклоняйся от удара.</p>
+<empty-line/>
+<p>Душа права и жизнь права.</p>
+<empty-line/>
+<p>"В любви, как в злобе, верь, Тамара"...</p>
+<empty-line/>
+<p>Но распыляются слова.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Пред ослепленными глазами</p>
+<empty-line/>
+<p>Светилась синяя звезда.</p>
+<empty-line/>
+<p>Н. Гумилев</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Бывало - с полузвука, с полуслова</p>
+<empty-line/>
+<p>Рождалась музыка твоих стихов.</p>
+<empty-line/>
+<p>Ты вспоминал зачем-то Гумилева,</p>
+<empty-line/>
+<p>Но был тебе не нужен Гумилев.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Над островами солнечной пустыни,</p>
+<empty-line/>
+<p>Над радостью неопытных страстей,</p>
+<empty-line/>
+<p>Твоя звезда - ничем не хуже Синей -</p>
+<empty-line/>
+<p>Тебе светила золотом лучей.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Как было тяжело с таким сияньем</p>
+<empty-line/>
+<p>Тебе расстаться. Наступила ночь</p>
+<empty-line/>
+<p>С отчаяньем, сомненьем и незнаньем.</p>
+<empty-line/>
+<p>Ты плачешь, но тебе нельзя помочь.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Теперь узнаешь ты, что боль напрасна,</p>
+<empty-line/>
+<p>Что есть любовь, но счастья нет в любви,</p>
+<empty-line/>
+<p>Что даже музыка не так прекрасна,</p>
+<empty-line/>
+<p>Как верил ты.</p>
+<empty-line/>
+<p>И все-таки живи.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Электрический запах озона,</p>
+<empty-line/>
+<p>Вдалеке нарастающий гром,</p>
+<empty-line/>
+<p>И огромные, в полнебосклона,</p>
+<empty-line/>
+<p>Черно-синие тучи кругом.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ты, я знаю, грозы не боялась</p>
+<empty-line/>
+<p>И теперь, со слезами в глазах,</p>
+<empty-line/>
+<p>Не в испуге ко мне прижималась,</p>
+<empty-line/>
+<p>Не защиты просила в слезах.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Никому не расскажешь словами</p>
+<empty-line/>
+<p>Про молчание, нежность и стыд,</p>
+<empty-line/>
+<p>И тоща разорвался над нами</p>
+<empty-line/>
+<p>Ослепительный метеорит.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Я проснулся от ливня и грома.</p>
+<empty-line/>
+<p>Сон счастливый был все-таки сном.</p>
+<empty-line/>
+<p>В одиночестве сонного дома</p>
+<empty-line/>
+<p>Отзывался насмешливый гром.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Сколько нежности грустной</p>
+<empty-line/>
+<p>В безмятежной Савойе!</p>
+<empty-line/>
+<p>Реет вздох неискусный</p>
+<empty-line/>
+<p>В тишине и покое.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Над полями, в сияньи</p>
+<empty-line/>
+<p>Тишины беспредельной,</p>
+<empty-line/>
+<p>Реет вздох неподдельный,</p>
+<empty-line/>
+<p>Как мечта о свиданьи.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Этой грусти без края</p>
+<empty-line/>
+<p>Я значенья не знаю,</p>
+<empty-line/>
+<p>Забываю названье</p>
+<empty-line/>
+<p>В тишине и сияньи.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Реет легкая птица,</p>
+<empty-line/>
+<p>Синий воздух тревожит.</p>
+<empty-line/>
+<p>Если что-то свершится...</p>
+<empty-line/>
+<p>Но свершиться не может.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Что же, будем мириться</p>
+<empty-line/>
+<p>С тишиною и светом</p>
+<empty-line/>
+<p>Этой грусти бесцельной,</p>
+<empty-line/>
+<p>С этим летом и счастьем</p>
+<empty-line/>
+<p>Тишины беспредельной.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Молчите, проклятые книги,</p>
+<empty-line/>
+<p>Я вас не писал никогда.</p>
+<empty-line/>
+<p>А. Блок</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ты знаешь ли это мученье?</p>
+<empty-line/>
+<p>Один, у чужого окна,</p>
+<empty-line/>
+<p>Молчанье и сердцебиенье,</p>
+<empty-line/>
+<p>И там, за окном - тишина.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Я сердце сжимаю руками.</p>
+<empty-line/>
+<p>О, как неразборчивы мы!</p>
+<empty-line/>
+<p>Отчаяньем, болью, стихами -</p>
+<empty-line/>
+<p>Но только бы прочь из тюрьмы.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И вот я накликал свиданье.</p>
+<empty-line/>
+<p>Любовь. Но поют петухи.</p>
+<empty-line/>
+<p>И разве мое ожиданье</p>
+<empty-line/>
+<p>Похоже еще на стихи?</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Уже приближаются сроки.</p>
+<empty-line/>
+<p>О, как неразборчив я стал!</p>
+<empty-line/>
+<p>Молчите, проклятые строки:</p>
+<empty-line/>
+<p>Я вас никогда не писал.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ни радости, ни скорби нет конца.</p>
+<empty-line/>
+<p>Любовь и смерть всегда в единоборстве.</p>
+<empty-line/>
+<p>Пускай черты любимого лица</p>
+<empty-line/>
+<p>Стирает смерть в медлительном упорстве -</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Любовь их снова к жизни призовет</p>
+<empty-line/>
+<p>Движеньем памяти, простым и верным.</p>
+<empty-line/>
+<p>И наш союз незыблем. Он живет.</p>
+<empty-line/>
+<p>Он светит мне лучом нелицемерным.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Поля без конца, без предела,</p>
+<empty-line/>
+<p>Где ночью рождаются сны,</p>
+<empty-line/>
+<p>А днем пролегает несмело</p>
+<empty-line/>
+<p>Граница соседней страны,</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Где пахнет цветами, и летом,</p>
+<empty-line/>
+<p>И сеном, и свежестью рос,</p>
+<empty-line/>
+<p>И душным июльским ответом</p>
+<empty-line/>
+<p>На робкий весенний вопрос...</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Гляжу в безграничные дали,</p>
+<empty-line/>
+<p>В мерцанье зеленых полей,</p>
+<empty-line/>
+<p>Лежу в синеве и печали,</p>
+<empty-line/>
+<p>В тоске благодатной моей.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Я слышу жужжанье, и шепот,</p>
+<empty-line/>
+<p>И шорох, и легкий полет,</p>
+<empty-line/>
+<p>И горький бессмысленный ропот</p>
+<empty-line/>
+<p>В усталой душе не встает.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Сюда приходил я и прежде</p>
+<empty-line/>
+<p>От пыльной суцьбы городской,</p>
+<empty-line/>
+<p>В неясной и чудной надежде,</p>
+<empty-line/>
+<p>В желанный, но смутный покой.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И даже в полях бесконечных,</p>
+<empty-line/>
+<p>В июльский торжественный зной</p>
+<empty-line/>
+<p>Лишь звук обещаний сердечных</p>
+<empty-line/>
+<p>Миражем парил предо мной.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Теперь я вернулся на волю,</p>
+<empty-line/>
+<p>Но только вернулся другим -</p>
+<empty-line/>
+<p>И легче беседовать полю</p>
+<empty-line/>
+<p>С внимательным сердцем моим.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ну что мне в том, что ветряная мельница</p>
+<empty-line/>
+<p>Там на пригорке нас манит во сне?</p>
+<empty-line/>
+<p>Ведь все равно ничто не переменится</p>
+<empty-line/>
+<p>Здесь, на чужбине, и в моей стране.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И оттого, что у чужого домика,</p>
+<empty-line/>
+<p>Который, может быть, похож на мой,</p>
+<empty-line/>
+<p>Рыдая надрывается гармоника,-</p>
+<empty-line/>
+<p>Я все равно не возвращусь домой.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>О, я не меньше чувствую изгнание,</p>
+<empty-line/>
+<p>Бездействием не меньше тягощусь,</p>
+<empty-line/>
+<p>Храню надежды и воспоминания,</p>
+<empty-line/>
+<p>Коплю в душе раскаянье и грусть.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Но отчего неизъяснимо-русское,</p>
+<empty-line/>
+<p>Мучительно-родное бытие</p>
+<empty-line/>
+<p>Мне иногда напоминает узкое,</p>
+<empty-line/>
+<p>Смертельно ранящее лезвие?</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Налетает беда, налетает</p>
+<empty-line/>
+<p>Черной тучей удушливых снов.</p>
+<empty-line/>
+<p>В сердце хрупкое счастье растает -</p>
+<empty-line/>
+<p>Я очнусь безотраден и вдов.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Без любви, без друзей, на чужбине,</p>
+<empty-line/>
+<p>Не считая обид и утрат,</p>
+<empty-line/>
+<p>Настоящим изгнанником ныне,</p>
+<empty-line/>
+<p>Без надежды на близкий возврат.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Все проиграно в жизненном споре.</p>
+<empty-line/>
+<p>Замолчали живые ручьи.</p>
+<empty-line/>
+<p>Не хочу я удерживать горе</p>
+<empty-line/>
+<p>И холодные слезы мои.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Нет, не воем полночной сирены,</p>
+<empty-line/>
+<p>Не огнем, не мечом, не свинцом,</p>
+<empty-line/>
+<p>Не пальбой, сотрясающей стены,</p>
+<empty-line/>
+<p>Не угрозой, не близким концом -</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ты меня побеждаешь иначе,</p>
+<empty-line/>
+<p>Беспросветное время войны:</p>
+<empty-line/>
+<p>Содроганьем в безропотном плаче</p>
+<empty-line/>
+<p>Одинокой сутулой спины,</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Отворотом солдатской шинели,</p>
+<empty-line/>
+<p>Заколоченным наспех окном,</p>
+<empty-line/>
+<p>Редким звуком шагов на панели</p>
+<empty-line/>
+<p>В наступившем молчаньи ночном.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Какая ночь! Какая тишина!</p>
+<empty-line/>
+<p>Над спящею столицею луна</p>
+<empty-line/>
+<p>Торжественною радостью сияет.</p>
+<empty-line/>
+<p>Вдали звезда неясная мерцает</p>
+<empty-line/>
+<p>Зеленым, синим, розовым огнем.</p>
+<empty-line/>
+<p>И мы у темного окна, вдвоем,</p>
+<empty-line/>
+<p>В торжественном спокойствии молчанья -</p>
+<empty-line/>
+<p>Как будто нет ни горя, ни войны -</p>
+<empty-line/>
+<p>Внимаем вечной песне мирозданья,</p>
+<empty-line/>
+<p>Блаженству без конца обручены.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Мы с тобою - в трагическом мире,</p>
+<empty-line/>
+<p>В том, который Шекспиром воспет...</p>
+<empty-line/>
+<p>- Нет, уж лучше молчи о Шекспире,</p>
+<empty-line/>
+<p>Ни Полоний, ни леди Макбет.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Даже Яго, приспешник презренный,</p>
+<empty-line/>
+<p>Даже гений предательства, Брут,</p>
+<empty-line/>
+<p>Не дошли до пределов измены,</p>
+<empty-line/>
+<p>До бесчестья последних минут.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Их, по крайности, мучила совесть,</p>
+<empty-line/>
+<p>По ночам не давала им спать.</p>
+<empty-line/>
+<p>Их печальную, мрачную повесть</p>
+<empty-line/>
+<p>Осеняла порой благодать.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Перед смертью им ангелы пели</p>
+<empty-line/>
+<p>О свободе, любви, чистоте,</p>
+<empty-line/>
+<p>О надежде, о белой метели,</p>
+<empty-line/>
+<p>О далекой заветной мечте.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>А теперь - не любовь, не свобода,</p>
+<empty-line/>
+<p>Не раскаянье сердца, не честь...</p>
+<empty-line/>
+<p>Только рабская подлость народа</p>
+<empty-line/>
+<p>И трусливых сановников лесть.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Как легко пережить униженье:</p>
+<empty-line/>
+<p>Лишь бы нас не коснулась беда.</p>
+<empty-line/>
+<p>О, безумной Офелии пенье,</p>
+<empty-line/>
+<p>О, живая речная вода!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Как Пушкин, в снежном сугробе</p>
+<empty-line/>
+<p>Сжимающий пистолет -</p>
+<empty-line/>
+<p>В последней напрасной злобе</p>
+<empty-line/>
+<p>На столько бесцельных лет...</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Как Лермонтов на дуэли,</p>
+<empty-line/>
+<p>Не отвернув лица...</p>
+<empty-line/>
+<p>Как Гоголь в своей постели,</p>
+<empty-line/>
+<p>Измучившись до конца...</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Как Тютчев, в поздней печали,</p>
+<empty-line/>
+<p>С насмешливой простотой...</p>
+<empty-line/>
+<p>На позабытом вокзале,</p>
+<empty-line/>
+<p>В беспамятстве, как Толстой...</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Не стоит думать об этом -</p>
+<empty-line/>
+<p>Может быть, пронесет!</p>
+<empty-line/>
+<p>Или ничто не спасет</p>
+<empty-line/>
+<p>Того, кто рожден поэтом!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ТЕБЕ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Когда я буду умирать,</p>
+<empty-line/>
+<p>Тебе - последний вздох и слово.</p>
+<empty-line/>
+<p>Пока я жив - молчи, не трать</p>
+<empty-line/>
+<p>Сокровищ сердца для чужого!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Не надо ни добра, ни зла.</p>
+<empty-line/>
+<p>Ни ласки их, ни беззаконий.</p>
+<empty-line/>
+<p>Я больше не хочу тепла,</p>
+<empty-line/>
+<p>Чем ты хранишь в своей ладони.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ни горьких слов, ни нежных слов</p>
+<empty-line/>
+<p>Я говорить чужим не буду.</p>
+<empty-line/>
+<p>И тот не знает про любовь,</p>
+<empty-line/>
+<p>Кто расточал ее повсюду.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И ненависть тому чужда,</p>
+<empty-line/>
+<p>Кто пил ее из каждой лужи,</p>
+<empty-line/>
+<p>Как конь, сорвавший удила,</p>
+<empty-line/>
+<p>Или невольник неуклюжий.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Но если я приду домой,</p>
+<empty-line/>
+<p>Как зверь, ушедший от погони,</p>
+<empty-line/>
+<p>Без слов - в молчаньи - головой</p>
+<empty-line/>
+<p>Я припаду к твоей ладони.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И если есть бесслезный плач,</p>
+<empty-line/>
+<p>Ты все поймешь в минуту встречи,</p>
+<empty-line/>
+<p>Смотря на согнутые плечи,</p>
+<empty-line/>
+<p>Где знак поставил мне палач.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ЗИМОЙ В БАРАКЕ АТП</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Сосед случайный, я уйду</p>
+<empty-line/>
+<p>Из горизонта твоего.</p>
+<empty-line/>
+<p>Верь, в наступающем году</p>
+<empty-line/>
+<p>Не обойдут нас никого.</p>
+<empty-line/>
+<p>Придет и наш конец страданий.</p>
+<empty-line/>
+<p>В каком раю или аду? -</p>
+<empty-line/>
+<p>О том не думаю заране.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Я думаю о том, сосед,</p>
+<empty-line/>
+<p>Что не вернуть нам этих лет,</p>
+<empty-line/>
+<p>И каждый год вдет бесследно,</p>
+<empty-line/>
+<p>И не узнаем никогда,</p>
+<empty-line/>
+<p>Как много в жизни нашей бедной</p>
+<empty-line/>
+<p>Было сердечного труда</p>
+<empty-line/>
+<p>И кладов мысли заповедной</p>
+<empty-line/>
+<p>Под маской холода и льда.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>И думаю о том, сосед,</p>
+<empty-line/>
+<p>Что эти строки холодны,</p>
+<empty-line/>
+<p>Как зов неузнанного брата:</p>
+<empty-line/>
+<p>На языке чужой страны</p>
+<empty-line/>
+<p>Чужая горесть и утрата.</p>
+<empty-line/>
+<p>Но тянет нас по временам</p>
+<empty-line/>
+<p>Дать волю сердцу - выход снам.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Зимой в бараке АТП,</p>
+<empty-line/>
+<p>Случайно встреченный в толпе,</p>
+<empty-line/>
+<p>Товарищ лагерной недоли! -</p>
+<empty-line/>
+<p>Есть на земле и рай и ад,-</p>
+<empty-line/>
+<p>Об этом годы говорят,</p>
+<empty-line/>
+<p>В тоске прожитые и боли,</p>
+<empty-line/>
+<p>И слово "друг" и слово "брат",</p>
+<empty-line/>
+<p>И нас враги не побороли.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Так пусть же хоть из этих слов</p>
+<empty-line/>
+<p>К тебе прорвется дальний зов</p>
+<empty-line/>
+<p>На память дружбы безымянной-</p>
+<empty-line/>
+<p>Как в ночь полярных холодов</p>
+<empty-line/>
+<p>Доходит с южных берегов</p>
+<empty-line/>
+<p>Привет по радио нежданный.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ДОРОГА В КАРГОПОЛЬ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Вор смотрел немигающим взглядом</p>
+<empty-line/>
+<p>На худые пожитки мои,</p>
+<empty-line/>
+<p>А убийца, зевая, лег рядом</p>
+<empty-line/>
+<p>Толковать о продажной любви.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Дождь сочился сквозь крышу сарая,</p>
+<empty-line/>
+<p>Где легли голова к голове,-</p>
+<empty-line/>
+<p>И всю ночь пролежал до утра я</p>
+<empty-line/>
+<p>В лихорадке на мокрой листве.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Снились мне поезда и свобода,</p>
+<empty-line/>
+<p>Средиземный простор голубой.</p>
+<empty-line/>
+<p>На рассвете стоял я у входа</p>
+<empty-line/>
+<p>В белый дом, ще мы жили с тобой.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Но рука моя долго медлила</p>
+<empty-line/>
+<p>Постучать у закрытой двери,</p>
+<empty-line/>
+<p>Точно вражья свинцовая сила</p>
+<empty-line/>
+<p>Уцепилась за полы мои.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Вьщь навстречу, пока еще время.</p>
+<empty-line/>
+<p>Помоги, оттяни за порог!</p>
+<empty-line/>
+<p>Видишь, плечи согнуло мне бремя,</p>
+<empty-line/>
+<p>Ноги в ранах от русских дорог.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Исходил я широко Рассею,</p>
+<empty-line/>
+<p>Но последний тяжел переход.</p>
+<empty-line/>
+<p>И открыть я дверей - не успею.</p>
+<empty-line/>
+<p>На рассвете бригада идет.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>"Подымайся!" - За хриплой командой</p>
+<empty-line/>
+<p>Подымайся и стройся в ряды.</p>
+<empty-line/>
+<p>Пайка хлеба и миска с баландой</p>
+<empty-line/>
+<p>И - поход до вечерней звезды.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>МАНДЕЛЬШТАМ  Юрий  Владимирович  (25  сентября  1908,  Москва  - 1943).</p>
+<empty-line/>
+<p>Выехал  из  России  вместе  с родителями в 1920 г. Жил во Франции. В 1925 г.</p>
+<empty-line/>
+<p>окончил  русскую  гимназию  в Париже, а в 1929 г. - филологический факультет</p>
+<empty-line/>
+<p>Сорбонны.   10   марта   1942   г.   был  арестован  (как  еврей)  немецкими</p>
+<empty-line/>
+<p>оккупационными  властями  и  в  июле  1943  г.  вывезен  в Германию. Погиб в</p>
+<empty-line/>
+<p>немецком концлагере.</p>
+<empty-line/>
+<p>Первые  публикации стихов Ю. Мандельштама появились в 1929 г. Печатался</p>
+<empty-line/>
+<p>в  журналах  "Возрождение",  "Числа", альманахе "Круг" и др. Был близок к В.</p>
+<empty-line/>
+<p>Ходасевичу  н  группе  "Перекресток".  Автор  ряда критических статей и эссе</p>
+<empty-line/>
+<p>(например,  "О  любви"  в сборнике "Литературный смотр"; Париж, 1931). Стихи</p>
+<empty-line/>
+<p>Ю.  Мандельштама  были  включены  в  антологии  "Якорь",  "На Западе", "Муза</p>
+<empty-line/>
+<p>Диаспоры".</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>БИБЛИОГРАФИЯ:   "Остров"   (Париж,  1930);  "Верность"  (Париж,  1932);</p>
+<empty-line/>
+<p>"Третий  час"  (Берлин,  1935); "Годы" (Париж, 1950); Собрание стихотворений</p>
+<empty-line/>
+<p>(Гаага, "Лёксенхофф", 1990).</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Тебе.  Это стихотворение (как и два следующих) были написаны в немецком</p>
+<empty-line/>
+<p>концлагере, где поэт и погиб.</p>
+<empty-line/>
+<p>Зимой в бараке ATП. АТП - аббревиатура не расшифрована.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

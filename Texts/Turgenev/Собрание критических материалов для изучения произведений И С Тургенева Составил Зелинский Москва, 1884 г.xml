@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Иван</first-name>
+			<middle-name>Сергеевич</middle-name>
+			<last-name>Тургенев</last-name>
+		</author>
+		<book-title>Собрание критических материалов для изучения произведений И. С. Тургенева. Составил Зелинский. Москва, 1884 г</book-title>
+<annotation></annotation>		<date value="2018-07-06">06/07/2018</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-07-06">2018-07-06 10:37:47</date>
+		<src-url>http://az.lib.ru/t/turgenew_i_s/text_1885_zelinsky_oldorfo.shtml</src-url>
+		<id>samlib5b3f467bd1b5d2.45937474</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Тургенев Иван Сергеевич</p>
+	<empty-line/>
+	<p>Собрание критических материалов для изучения произведений И. С. Тургенева. Составил Зелинский. Москва, 1884 г</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<p> Собраніе критическихъ матеріаловъ для изученія произведеній И. С. Тургенева. Составилъ Зелинскій. Москва, 1884 г. Два выпуска. Эти двѣ книги, конечно, могутъ принести значительную пользу тѣмъ читателямъ произведеній Тургенева, которые захотятъ вполнѣ сознательно отнестись къ этимъ произведеніямъ. Не слѣдовало только назначать дорогую. цѣну за <emphasis>Собраніе критическихъ матеріаловъ</emphasis> (по два рубля за выпускъ), потому что такая цѣна неизбѣжно поведетъ къ малому распространенію сборника. Во второмъ выпускѣ своего труда г. Зелинскій помѣстилъ описаніе похоронъ Тургенева и нѣсколько рѣчей, произнесенныхъ надъ его могилою. Въ сборникъ вошли почти всѣ выдающіеся отзывы о произведеніяхъ великаго писателя, но мы замѣтили пропускъ (вѣроятно, не единственный): не приведена талантливая статья <emphasis>Моск. Вѣд.,</emphasis> послѣ смерти Тургенева, характеризовавшая его сочиненія. Спѣшимъ прибавить, чтобы предупредить недоразумѣнія, что мы имѣемъ въ виду, конечно, не передовую статью газеты, возбудившую справедливое негодованіе лучшей части общества, а корреспонденцію изъ Петербурга.</p>
+<empty-line/>
+<p><emphasis>"Русская Мысль", кн. IX, 1885</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

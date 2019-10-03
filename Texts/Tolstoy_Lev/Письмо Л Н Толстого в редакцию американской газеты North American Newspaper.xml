@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>children</genre>
+		<author>
+			<first-name>Лев</first-name>
+			<middle-name>Николаевич</middle-name>
+			<last-name>Толстой</last-name>
+		</author>
+		<book-title>Письмо Л. Н. Толстого в редакцию американской газеты &quot;North American Newspaper&quot;</book-title>
+<annotation></annotation>		<date value="2009-04-28">28/04/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-26">2017-04-26 11:01:13</date>
+		<src-url>http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1590.shtml</src-url>
+		<id>samlib590053c941ce02.53467120</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Толстой Лев Николаевич</p>
+	<empty-line/>
+	<p>Письмо Л. Н. Толстого в редакцию американской газеты &quot;North American Newspaper&quot;</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Письмо Л. Н. Толстого в редакцию американской газеты "North American Newspaper" / Публ., [вступ. ст. и примеч.] Ф. А. Петрова // Российский Архив: История Отечества в свидетельствах и документах XVIII--XX вв.: Альманах. -- М.: Студия ТРИТЭ: Рос. Архив, 1992. -- С. 246--248. -- [Т.] II--III.</p>
+<p><a xlink:href="http://feb-web.ru/feb/rosarc/ra2/ra2-246-.htm">http://feb-web.ru/feb/rosarc/ra2/ra2-246-.htm</a></p>
+<empty-line/>
+<empty-line/>
+<p>Письмо Л. Н. Толстого</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>в редакцию американской газеты</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>"North American Newspaper"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>В коллекции документальных материалов ОПИ ГИМ по истории науки и культуры России XVIII--XX вв. хранится письмо Л. Н. Толстого в редакцию американской газеты "North American Newspaper" {ОПИ ГИМ, ф. 281, оп. 2, ед. хр. 91, л. 2.}. Письмо написано рукой Толстого на английском языке, чернилами, на листе бумаги, 4R.</p>
+<p>Это письмо было ответом на телеграмму из американской газеты от 1 (14) февраля 1904 г., в которой Толстого спрашивали в связи с началом русско-японской войны: "Сочувствуете ли Вы России, Японии или никому?" В полном собрании сочинений Толстого письмо было опубликовано по копировальной книге (No 6, л. 63), с датой "1904. Февраля 9/22" {<emphasis>Толстой Л. Н.</emphasis> Полн. собр. соч., т. 75, с. 37--38}. Текст был написан рукой Григория Моисеевича Беркенгейма (1872--1919), который в 1903--1904 гг. жил в Ясной Поляне в качестве личного врача семьи Толстых.</p>
+<p>Сравнение этого текста с автографом письма Толстого из собрания ОПИ ГИМ обнаруживает весьма существенные, на наш взгляд, разночтения. Так, в опубликованном варианте написано:</p>
+<p>"I am neither for Russia, nor for Japan, but for labouring people of both, deceived by governments...", т. е. "Я ни за Россию, ни за Японию, а за рабочий народ обеих стран, обманутый правительствами..."</p>
+<p>Между тем, как явствует из подлинника письма Толстого, он был "not for Russian nor Japanese governments", то есть "ни за русское, ни за японское <emphasis>правительства</emphasis>" (курсив наш. -- <emphasis>Ф. П.</emphasis>).</p>
+<empty-line/>
+<empty-line/>
+<p>Л. Н. Толстой -- в редакцию</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>"North American Newspaper"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Philadelphia</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>North American</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Newspaper.</p>
+<empty-line/>
+<empty-line/>
+<p>I am not for Russian nor Japanese governments, but for deceived labouring people of both country, obliged to fight against their welfare, conscience and religion.</p>
+<empty-line/>
+<p>Tolstoy</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>Перевод</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Филадельфия</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>"Норт Америкэн Ньюспейпер".</p>
+<empty-line/>
+<empty-line/>
+<p>Я ни за русское, ни за японское правительства, но за обманутый рабочий народ обеих стран, вынужденный воевать против своего благополучия, совести и религии.</p>
+<empty-line/>
+<p>Толстой</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>Сообщил Ф. А. Петров</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

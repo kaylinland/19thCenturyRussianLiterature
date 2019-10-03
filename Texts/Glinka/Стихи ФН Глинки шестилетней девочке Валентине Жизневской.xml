@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Федор</first-name>
+			<middle-name>Николаевич</middle-name>
+			<last-name>Глинка</last-name>
+		</author>
+		<book-title>Стихи Ф.Н. Глинки шестилетней девочке Валентине Жизневской</book-title>
+<annotation><p>при посылке ей кабинетнаго портрета</p></annotation>		<date value="2009-06-09">09/06/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 03:34:59</date>
+		<src-url>http://az.lib.ru/g/glinka_f_n/text_0170.shtml</src-url>
+		<id>samlib58f4b6731d7499.34200459</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Глинка Федор Николаевич</p>
+	<empty-line/>
+	<p>Стихи Ф.Н. Глинки шестилетней девочке Валентине Жизневской</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>Глинка Ф.Н. Стихии Ф.Н. Глинки шестилетней девочке Валентине Жизневской, при посылке ей кабинетнаго портрета // Русская старина, 1900. - Т. 101. - No 3. - С. 688.</p>
+<empty-line/>
+<empty-line/>
+<p>Стихии Ф.Н. Глинки шестилетней девочке Валентине Жизневской, при посылке ей кабинетнаго портрета</p>
+<p>23-го августа 1877 г.</p>
+<empty-line/>
+<p>И певунье и плясунье,</p>
+<p>Милой девочке,</p>
+<p>Посылаю мою карточку,</p>
+<p>С пожеланием:</p>
+<p>"Вырастай, моя малютка,</p>
+<p>"Все такою ж, как теперь;</p>
+<p>"Жизнь,- узнаешь ты,- не шутка.</p>
+<p>"Но молись, люби и верь!</p>
+<p>"В суете и смуте светской,</p>
+<p>"Где туман страстей и мгла,</p>
+<p>"Как теперь, с душою детской,</p>
+<p>"Будь, как Божий день, светла!"</p>
+<empty-line/>
+<p>Федор Глинка.</p>
+</section>
+
+</body>
+</FictionBook>

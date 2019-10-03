@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sf</genre>
+		<author>
+			<first-name>Евгений</first-name>
+			<middle-name>Иванович</middle-name>
+			<last-name>Замятин</last-name>
+		</author>
+		<book-title>Верешки</book-title>
+<annotation></annotation>		<date value="2013-08-02">02/08/2013</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 09:41:54</date>
+		<src-url>http://az.lib.ru/z/zamjatin_e_i/text_1918_vereshki.shtml</src-url>
+		<id>samlib58f50c72a29425.40273905</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Замятин Евгений Иванович</p>
+	<empty-line/>
+	<p>Верешки</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Е. И. Замятин</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Верешки</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Замятин Е. И. Собрание сочинений: В 5 т. Т. 1. Уездное</p>
+<p>М., "Русская книга", 2003.</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>На диване</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Внизу, по обе стороны рельс, врезана лента синего неба: река. И в синем -- глиняно-красные от солнца адамы и кони: бух! -- и брызжет взорванная радуга, водяные верешки сверкают и слепят, и от дерзкого ржанья -- как от кнута -- красный след через все небо.</p>
+<p>А мы -- на диване. Удобные, одинаковые люди; удобные диваны; чуть душный, чуть надушенный, удобный воздух.</p>
+<p>Господи, если бы свихнулся с рельс поезд, если бы торчмя головой чебурахнулся вниз, к глиняно-красным коням и адамам!</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Зверята</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Медленно и неуклонно ползут каменные здания, как стадо черепах. Осенний ветер оплетает свои мокрые волосы вокруг решетки с копьями наверху.</p>
+<p>А за решеткой -- представление в зверинце. Вертятся фонари, погремушки, морды и лица. За решеткой -- зверята. Жарит музыка плясовую.</p>
+<p>-- А ну, как веселые ребята пляшут? А ну, как молодухи зубы скалят?</p>
+<p>Пляшут, зубы скалят, веселье.</p>
+<p>А когда уйдут все -- просунут зверята меж прутьев морды, смотрят вдаль -- на далекий огонь, и осенний ветер хлещет их мокрыми волосами в глаза.</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Трамвай</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Сверкает, гремит трамвай, народу полнехонек, едут в театр.</p>
+<p>А у самой двери -- сидит мальчишечка, хорошенький такой, голубоглазенький. И у него -- ухо надорвано, кровь из мочки бежит. Нет-нет да и вытрет грязным платком то ухо, то глаза, то опять ухо.</p>
+<p>Смирнехонько сидит голубоглазый мальчишка -- так смирно, что никто его и не видит.</p>
+<p>И сверкает трамвай, полон народу: едут в театр.</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Снег</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Всю ночь -- снег с неба. К утру -- земля вылечится. К утру из насквозь процелованной -- снова станет застенчивой синеглазкой с длинной косой, и все -- удивленное, новое, все -- сначала; только дожить до утра.</p>
+<p>Утро. Синий снег -- весь изляпан сапожищами.</p>
+<empty-line/>
+<p><emphasis>&lt;1916, 1918&gt;</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>КОММЕНТАРИИ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Впервые: Пг.: Артель художников "Сегодня", 1918. Печатается по: Замятин Е. Сочинения. Т. 3. München, 1986.</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

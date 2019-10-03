@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>prose_contemporary</genre>
+		<author>
+			<first-name>Валерий</first-name>
+			<middle-name>Яковлевич</middle-name>
+			<last-name>Брюсов</last-name>
+		</author>
+		<book-title>Из Янки Купалы</book-title>
+<annotation><p>По лесам как зацветали</p>
+<p>На Купалье</p></annotation>		<date value="2008-08-12">12/08/2008</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 01:53:31</date>
+		<src-url>http://az.lib.ru/b/brjusow_w_j/text_0560.shtml</src-url>
+		<id>samlib58f49eab55f4b8.69630355</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Брюсов Валерий Яковлевич</p>
+	<empty-line/>
+	<p>Из Янки Купалы</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Из Янки Купалы</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Оригинал здесь - http://www.russianresources.lt/archive/Briusov/Briusov_0.html</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>По лесам как зацветали</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>По лесам как зацветали</p>
+<empty-line/>
+<p>Липа да калина,</p>
+<empty-line/>
+<p>Золотые сны сплетали</p>
+<empty-line/>
+<p>Мы с тобой, девчина,</p>
+<empty-line/>
+<p>Колыхалися, шумели</p>
+<empty-line/>
+<p>Вольныя березы,</p>
+<empty-line/>
+<p>Нам шептали, шелестели</p>
+<empty-line/>
+<p>Тростники да лозы.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Как колосья шелестели</p>
+<empty-line/>
+<p>Ржи изгибно-длинной,</p>
+<empty-line/>
+<p>Повстречались, обнялися</p>
+<empty-line/>
+<p>Мы с тобой, девчина,</p>
+<empty-line/>
+<p>И мелькали и сверкали</p>
+<empty-line/>
+<p>На покосах косы,</p>
+<empty-line/>
+<p>Цветы, травы замирали,</p>
+<empty-line/>
+<p>Замирали росы.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Как, доспев, почервонела</p>
+<empty-line/>
+<p>Ягода-рябина,</p>
+<empty-line/>
+<p>Оглянулись вкруг несмело</p>
+<empty-line/>
+<p>Мы с тобой, девчина.</p>
+<empty-line/>
+<p>Верески под листвьем спали,</p>
+<empty-line/>
+<p>Бор зеленый гнулся,</p>
+<empty-line/>
+<p>Где-то ныли в темной дали</p>
+<empty-line/>
+<p>Журавли да гуси.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>На Купалье</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>На Купалье, на святое,</p>
+<empty-line/>
+<p>Мать, рви зелье роковое,</p>
+<empty-line/>
+<p>Папоротник что зовется</p>
+<empty-line/>
+<p>И счастливым признается.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Как нарвешь его на воле</p>
+<empty-line/>
+<p>В темном лесе, в чистом поле, -</p>
+<empty-line/>
+<p>Положи за образами,</p>
+<empty-line/>
+<p>Освяти его слезами.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Дважды, трижды - многоразно</p>
+<empty-line/>
+<p>Окропи слезой алмазной,</p>
+<empty-line/>
+<p>Счастья жди - его приплода -</p>
+<empty-line/>
+<p>От восхода до захода.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Как цветы его проглянут,</p>
+<empty-line/>
+<p>Детям счастья дни настанут,</p>
+<empty-line/>
+<p>Будем мы под кровом хаты,</p>
+<empty-line/>
+<p>Мать, счастливы и богаты.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

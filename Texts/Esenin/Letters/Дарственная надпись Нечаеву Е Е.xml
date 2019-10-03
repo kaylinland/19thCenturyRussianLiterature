@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>humor</genre>
+		<author>
+			<first-name>Сергей</first-name>
+			<middle-name>Александрович</middle-name>
+			<last-name>Есенин</last-name>
+		</author>
+		<book-title>Дарственная надпись Нечаеву Е. Е.</book-title>
+<annotation></annotation>		<date value="2009-07-30">30/07/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 03:05:05</date>
+		<src-url>http://az.lib.ru/e/esenin_s_a/text_0590.shtml</src-url>
+		<id>samlib58f4af71a70169.62889138</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Есенин Сергей Александрович</p>
+	<empty-line/>
+	<p>Дарственная надпись Нечаеву Е. Е.</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+ 
+ 
+
+
+</p>
+<empty-line/>
+<empty-line/>
+<p>Дарственная надпись Нечаеву Е. Е. [1920]</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>90. Е. Е. НЕЧАЕВУ</p>
+<empty-line/>
+<empty-line/>
+<p>На кн. "Преображение". [М.]: Имажинисты, 1921:</p>
+<p>Дорогому Егору Ефимовичу</p>
+<p>   Нечаеву</p>
+<p>     с любовью</p>
+<p>С.  Есенин.</p>
+<p>  1920 г.  дек.</p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Примечания</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>-- 
+90. <emphasis>Е</emphasis><emphasis>. </emphasis><emphasis>Е</emphasis><emphasis>. </emphasis><emphasis>Нечаеву</emphasis> (с. 114). -- Печатается и датируется по копии, снятой с оригинала В. Н. Виноградовым.</p>
+<p>Книга с надписью хранилась в частном собрании (г. Москва). Местонахождение ее в настоящее время неизвестно.</p>
+<p>Опубликовано: Юсов-96, с. 149.</p>
+<p>-- 
+<emphasis>Нечаев</emphasis> Егор Ефимович (1859--1925) -- поэт и беллетрист.</p>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

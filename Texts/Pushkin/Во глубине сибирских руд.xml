@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Сергеевич</middle-name>
+			<last-name>Пушкин</last-name>
+		</author>
+		<book-title>Во глубине сибирских руд...</book-title>
+<annotation><p>Послание декабристам, сосланным в Сибирь на каторгу.</p></annotation>		<date value="2009-05-14">14/05/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-12-26">2017-12-26 02:50:35</date>
+		<src-url>http://az.lib.ru/p/pushkin_a_s/text_0370.shtml</src-url>
+		<id>samlib5a42378bc63902.50608514</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Пушкин Александр Сергеевич</p>
+	<empty-line/>
+	<p>Во глубине сибирских руд...</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+ 
+ 
+
+
+</p>
+<empty-line/>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_20_dekabristam.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<p>           <strong>* * *</strong></p>
+<empty-line/>
+<empty-line/>
+<p id="lvox"></p>
+<empty-line/>
+<p>Во глубине сибирских руд</p>
+<p>Храните гордое терпенье,</p>
+<p>Не пропадет ваш скорбный труд</p>
+<p>И дум высокое стремленье.</p>
+<empty-line/>
+<p>Несчастью верная сестра,</p>
+<p>Надежда в мрачном подземелье</p>
+<p>Разбудит бодрость и веселье,</p>
+<p>Придет желанная пора:</p>
+<empty-line/>
+<p>Любовь и дружество до вас</p>
+<p>Дойдут сквозь мрачные затворы,</p>
+<p>Как в ваши каторжные норы</p>
+<p>Доходит мой свободный глас.</p>
+<empty-line/>
+<p>Оковы тяжкие падут,</p>
+<p>Темницы рухнут -- и свобода</p>
+<p>Вас примет радостно у входа,</p>
+<p>И братья меч вам отдадут.</p>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_20_dekabristam.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Примечания</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<empty-line/>
+<p>"Во глубине сибирских руд..." (стр. 165). Послание декабристам, сосланным в Сибирь на каторгу. Очень многих из них Пушкин знал лично. Двое -- Пущин и Кюхельбекер -- были его лицейскими товарищами. В словах "Храните гордое терпенье" они могли услышать отзвук лицейской "Прощальной песни воспитанников Царскосельского лицея" Дельвига, исполнявшейся лицеистами хором на акте по случаю первого выпуска. В песне были такие слова:</p>
+<empty-line/>
+<p>Храните, о друзья, храните</p>
+<p>Ту ж дружбу с тою же душой,</p>
+<p>То ж к славе сильное стремленье,</p>
+<p>То ж правде -- да, неправде -- нет,</p>
+<p>В несчастье гордое терпенье,</p>
+<p>И в счастье -- всем равно привет!</p>
+<empty-line/>
+<p>Свое послание декабристам Пушкин вручил жене одного из них, А. Г. Муравьевой, уезжавшей из Москвы в начале января 1827 г. к мужу -- Никите Муравьеву -- в Сибирь. В своем ответе Пушкину декабрист А. И. Одоевский писал:</p>
+<empty-line/>
+<p>Струн вещих пламенные звуки</p>
+<p>До слуха нашего дошли,</p>
+<p>К мечам рванулись наши руки,</p>
+<p>И -- лишь оковы обрели.</p>
+<empty-line/>
+<p>Но будь покоен, бард, цепями,</p>
+<p>Своей судьбой гордимся мы</p>
+<p>И за затворами тюрьмы</p>
+<p>В душе смеемся над царями.</p>
+<empty-line/>
+<p>Наш скорбный труд не пропадет:</p>
+<p>Из искры возгорится пламя, --</p>
+<p>И просвещенный наш народ</p>
+<p>Сберется под святое знамя.</p>
+<empty-line/>
+<p>Мечи скуем мы из цепей</p>
+<p>И пламя вновь зажжем свободы,</p>
+<p>Она нагрянет на царей,</p>
+<p>И радостно вздохнут народы.</p>
+<empty-line/>
+<p>Стихи Пушкина и ответ Одоевского ходили в многочисленных списках по рукам и имели огромное революционизирующее значение. Слова Одоевского "Из искры возгорится пламя" В. И. Ленин взял эпиграфом для газеты "Искра".</p>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_20_dekabristam.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

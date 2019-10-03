@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Федор</first-name>
+			<middle-name>Михайлович</middle-name>
+			<last-name>Достоевский</last-name>
+		</author>
+		<book-title>Krotka&#239;a. Th. Dosto&#239;ewcky. Traduit du russe par E. Halp&#233;rine. Paris</book-title>
+<annotation></annotation>		<date value="2019-03-06">06/03/2019</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2019-03-06">2019-03-06 07:55:54</date>
+		<src-url>http://az.lib.ru/d/dostoewskij_f_m/text_1886_krotkaya_oldorfo.shtml</src-url>
+		<id>samlib5c7f7d0ad07a06.61194805</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Достоевский Федор Михайлович</p>
+	<empty-line/>
+	<p>Krotka&#239;a. Th. Dosto&#239;ewcky. Traduit du russe par E. Halp&#233;rine. Paris</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<p> <strong>Krotkaïa. Th. Dostoïewcky. Traduit du russe par E. Halpérine</strong>. Paris. Повѣсть <emphasis>Кроткая</emphasis> принадлежитъ къ числу позднѣйшихъ произведеній Ѳ. М. Достоевскаго и была напечатана въ его <emphasis>Дневникѣ писателя;</emphasis> потомъ она вошла въ полное собраніе его сочиненій. Кромѣ этой повѣсти, въ лежащей передъ нами книжкѣ напечатаны: <emphasis>L'arbre de Noël (Елка),</emphasis> въ переводѣ того же г. Е. Галперина, и <emphasis>Le petit héros (Маленькій герой),</emphasis> въ переводѣ г-жи Ея. Фетисовой. Мы считаемъ излишнимъ говорить объ этихъ произведеніяхъ знаменитаго романиста, хорошо извѣстныхъ всей читающей Россіи, и остановимся лишь на ихъ переводахъ. Г. Галперинъ поступилъ, по нашему мнѣнію, неосновательно, переписавши русское заглавіе повѣсти французскими буквами. Для французовъ слово <emphasis>Krotkaïa</emphasis> не имѣетъ никакого значенія, и мы нисколько не удивимся, если въ какой-нибудь повѣсти изъ русской жизни, написанной развязнымъ французомъ, встрѣтимъ героиню съ именемъ Krotkaïa Iwanowna; была же въ одномъ разсказѣ героиня Ванда Прасковна, а въ одномъ романѣ "изъ русскихъ нравовъ" было разсказано, какъ офицеръ за чаемъ "отрѣзалъ кусокъ <emphasis>самовара</emphasis> и съѣлъ его съ большимъ аппетитомъ". Переводчикъ на 5 стр. сдѣлалъ такое примѣчаніе: "Krotkaïa, la douce, la bénigne*; такъ бы и слѣдовало озаглавить повѣсть. Переводъ вообще сдѣланъ не дурно, но только не дурно, и даетъ лишь приблизительное понятіе о подлинникѣ. Такъ, напримѣръ, чисто русскую фразу: "Батюшки мои, какъ вспыхнула!" г. Галперинъ перевелъ: "Monpetit père, quelle rougeur!"... Этого "petit père" могъ бы, безъ всякаго ущерба, замѣнить простымъ восклицаніемъ. Въ другомъ мѣстѣ г. Галперинъ пишетъ про икону: "Je la mettrai par là avec les miennes sous cette lampe d'image"... и дѣлаетъ такое примѣчаніе: "Je s'agit ici d'un usage russe qui consiste à laisser une lampe allumée au-dessus d'images pieuses*; въ обратномъ переводѣ на русскій языкъ это будетъ значить: "Я поставлю вашу икону съ моими подъ этою лампой"... и примѣчаніе: "Здѣсь говорится о русскомъ обычаѣ держать зажженную лампу надъ священными изображеніями". Изъ приведенныхъ фразъ французы получатъ очень неясное и совсѣмъ невѣрное понятіе о "русскомъ обычаѣ". Укажемъ еще на одну неправильность: "Et "cette dot, c'est moi qui l'ai constituée"... Constituer une dot, по французскимъ обычаямъ и законамъ, значитъ обезпечить жену на случай смерти, у Достоевскаго же'рѣчь идетъ только о покупкѣ приданаго. Такихъ погрѣшностей не мало въ переводѣ г. Галпери на, что, однако же, отнюдь не помѣшаетъ французамъ понять сущность повѣсти и вынести изъ нея то же тяжелое впечатлѣніе, которое такъ знакомо русскимъ читателямъ. Переводъ г-жи Фетисовой лучше; но надо и то сказать, что разсказъ <emphasis>Маленькій герой</emphasis> представляетъ для переводчика неизмѣримо меньше трудностей, чѣмъ <emphasis>Кроткая.</emphasis></p>
+<empty-line/>
+<p><emphasis>"Русская Мысль", кн. </emphasis><emphasis>IX, </emphasis><emphasis>1886</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

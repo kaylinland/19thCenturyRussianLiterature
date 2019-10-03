@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>children</genre>
+		<author>
+			<first-name>Федор</first-name>
+			<middle-name>Николаевич</middle-name>
+			<last-name>Глинка</last-name>
+		</author>
+		<book-title>Письмо к Чаадаеву</book-title>
+<annotation></annotation>		<date value="2007-01-17">17/01/2007</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-03-02">2018-03-02 01:58:42</date>
+		<src-url>http://az.lib.ru/g/glinka_f_n/text_0070.shtml</src-url>
+		<id>samlib5a992e62a3e044.61283341</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Глинка Федор Николаевич</p>
+	<empty-line/>
+	<p>Письмо к Чаадаеву</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>Письмо Ф. Н. Глинки к Чаадаеву</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Памятники философской мысли</p>
+<p>П. Я. Чаадаев. Полное собрание сочинений и избранные письма. Том 2</p>
+<p>Письма П. Я. Чаадаева и комментарии к ним. Письма разных лиц к П. Я. Чаадаеву. Архивные документы. Именной указатель к 1 и 2 томам.</p>
+<p>М., "Наука", 1991</p>
+<p>Новые переводы с французского Д. И. Шаховского, Л. З. Каменской, В. В. Сапова</p>
+<p>Составление и комментарии С. Г. Блинова, Л. З. Каменской, З. А. Каменского, М. П. Лепехина, В. В. Сапова, М. И. Чемерисской</p>
+<p>Ответственный редактор доктор философских наук З. А. Каменский</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(6-го марта 1852)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Прекрасно, многоуважаемый Петр Яковлевич! прекрасно написано письмо Ваше. Я читал его с тройным удовольствием, как чистую русскую прозу, как поучение и, наконец, как очерк современных нравов и литературы. В этом очерке так много истины и самой животрепещущей истины! - Впрочем, письмо Ваше перенесло меня далеко в отдаленность времен. Мне показалось, что я слышу Гостомысла, <emphasis>вызывающего </emphasis>Рурика. Так и слышешь слова: "Земля наша пространна и богата, да нет в ней <emphasis>порядка"</emphasis>!</p>
+<p>Будете ли Вы так счастливы, как Гостомысл, приедет ли Рурик из Баден-Бадена володати русскою землею, т. е. литературою? - А худо без Рурика! Что разговор, то спор, что спор, то ссора, а дело от этого не выигрывает. Петербургские нахалы бьют московскую усобицу по носам, и набегают как <emphasis>половцы, </emphasis>пользуясь семейными раздорами. Авторитет великое дело: он ставит все на свое место. Теперь у нас: "кто раньше встал, тот и капрал!"</p>
+<p>Все колеса спрыгнули с осей и всякому колесу хочется <emphasis>на чужой </emphasis>оси повертеться. Вот наше положение. Вызывайте же, вызывайте Рурика из Баден-Бадена и напечатайте, непременно напечатайте Ваше мастерское письмо, - извините, гости приехали, писать больше некогда.</p>
+<empty-line/>
+<empty-line/>
+<p>Ваш покорный Ф. Глинка.</p>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<p><emphasis>Русское обозрение. 1897. Т. 45, июнь. С. 903. </emphasis>Написано по поводу письма Чаадаева к В. А. Жуковскому от 27 мая 1851 г. (N 179).</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

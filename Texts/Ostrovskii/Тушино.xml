@@ -1,0 +1,6914 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>love_short</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Николаевич</middle-name>
+			<last-name>Островский</last-name>
+		</author>
+		<book-title>Тушино</book-title>
+<annotation><p>Драматическая хроника в стихах</p>
+<p>(Сентябрь и октябрь 1608 года).</p></annotation>		<date value="2006-05-17">17/05/2006</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 06:27:03</date>
+		<src-url>http://az.lib.ru/o/ostrowskij_a_n/text_0104.shtml</src-url>
+		<id>samlib58f4decc676278.76488484</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Островский Александр Николаевич</p>
+	<empty-line/>
+	<p>Тушино</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+ 
+ 
+
+
+</p>
+<empty-line/>
+<p>По изд. А. Н. Островский. Собрание сочинений в 10 томах. Под общ. ред. Г. И. Владыкина, А. И. Ревякина, В. А. Филиппова. -- М.: Гос. изд-во худ. лит-ры, 1960. -- Том 5. -- Комментарии Г. П. Пирогова.</p>
+<p>OCR: Piter.</p>
+<empty-line/>
+<p><strong>А. Н. Островский</strong></p>
+<p><strong><emphasis>ТУШИНО (1866)</emphasis></strong></p>
+<p>Драматическая хроника в стихах</p>
+<p>(Сентябрь и октябрь 1608 года)</p>
+<empty-line/>
+<p><strong>СЦЕНА ПЕРВАЯ</strong></p>
+<empty-line/>
+<p>ЛИЦА:</p>
+<empty-line/>
+<p>Князь Третьяк Федорович Сеитов, ростовский воевода.</p>
+<p>Людмила, дочь его.</p>
+<p>Дементий Редриков, московский дворянин.</p>
+<p>Старуха, жена его.</p>
+<p>Максим, Николай, их дети,</p>
+<p>Савлуков, переяславский дворянин.</p>
+<p>Хозяин постоялой избы.</p>
+<p>Дворецкий Сеитова.</p>
+<p>Нянька Людмилы.</p>
+<p>Слуги и сенные девки.</p>
+<empty-line/>
+<p>Сени постоялой избы на владимирской дороге. Деревянный стол, скамья, разная домашняя утварь.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Входят Савлуков, Дементий Редриков, жена его и хозяин.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(хозяину)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Вина давай!</p>
+<empty-line/>
+<p>Хозяин</p>
+<empty-line/>
+<empty-line/>
+<p>Да где же взять, родимый!</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Далёко ты от Тушина, а то бы</p>
+<p>Тотчас нашел; а коль и вправду нету,</p>
+<p>Так затереть и выкурить заставят</p>
+<p>И самому отведать не дадут.</p>
+<p>А брага есть?</p>
+<empty-line/>
+<p>Хозяин</p>
+<empty-line/>
+<empty-line/>
+<p>И браги нет.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Ты, видно,</p>
+<p>Гостей не ждешь!</p>
+<empty-line/>
+<p>Хозяин</p>
+<empty-line/>
+<empty-line/>
+<p>Бог милостив, не слышно</p>
+<p>Воров у нас.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Не слышно, так услышишь.</p>
+<empty-line/>
+<p>Хозяин</p>
+<empty-line/>
+<empty-line/>
+<p>Не приведи Господь.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Уходит.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>А ты слыхал ли</p>
+<p>Когда-нибудь, что есть Лисовский пан?</p>
+<p>Тому везде дорога.</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Под Коломной,</p>
+<p>Мы слышали, его побили больно.</p>
+<p>Дивимся мы не мало, что за время</p>
+<p>Пришло на нас. Не диво бы чужие,</p>
+<p>А то своя же братья, нашей веры;</p>
+<p>Крещеные,-- идут с Лисовским паном:</p>
+<p>Не то что сброд, голодные холопья,</p>
+<p>В них Бога нет и с них взыскать нельзя,</p>
+<p>А свой же брат -- дворяне.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Разве тоже</p>
+<p>Ты дворянин?</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>По милости господней.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>А что же ты одет не по-дворянски?</p>
+<p>Аль не с чего?</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Достатки не велики.</p>
+<p>А ты-то кто?</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Я тоже дворянин.</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Челом тебе!</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Ну, здравствуй!</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Благодарствуй!</p>
+<p>Вот видишь, друг, детей везу царю,</p>
+<p>Робят одел, а сам во что попало.</p>
+<p>Кому меня смотреть!</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Что правда -- правда.</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Москва кругом обложена ворами,</p>
+<p>Украины все мятутся, в людях шатость:</p>
+<p>Теперь царю народ служилый нужен.</p>
+<p>Ну, сам я стар и в битвах изувечен,</p>
+<p>Не в силах стал; так детки подросли --</p>
+<p>Пора служить; а царь за то поместья</p>
+<p>Прибавит нам и жалованье даст.</p>
+<p>Поправимся житьем.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>В Москву собрались?</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>По списку я московскому считаюсь.</p>
+<p>Коль приведет Господь царя увидеть,</p>
+<p>Скажу ему: надёжа-государь,</p>
+<p>Я вырастил из крох своих последних</p>
+<p>И снарядил конями, ратной сбруей</p>
+<p>Богатырей тебе для царской службы.</p>
+<p>Освободи меня домой, на пашню,</p>
+<p>На сенную косьбу; прибавь землицы,</p>
+<p>Чтоб было чем кормиться со старухой</p>
+<p>И молодцов кормить и одевать.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>А где ж твои богатыри?</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>С конями</p>
+<p>Замешкались. Один-то весь в меня:</p>
+<p>И драться зол, и ростом, и дородством,</p>
+<p>Как вылитый. Себя не пожалеет,</p>
+<p>Да и другим не спустит; с ним столкнешься,</p>
+<p>Так ты его уж лучше обходи.</p>
+<p>Я смолоду такой же был разбойник;</p>
+<p>В меня дался. Другого-то и рано б,</p>
+<p>Он матушкин сынок, за печкой вырос,</p>
+<p>На калачах да сырниках вскормлен;</p>
+<p>Да кстати уж везти обоих вместе.</p>
+<empty-line/>
+<p>Старуха</p>
+<empty-line/>
+<empty-line/>
+<p>Ох, жалко мне Николушку, он смирный,</p>
+<p>Как девушка, и мухи не обидит.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Ты что же, мать, детей-то, как баранов,</p>
+<p>Без жалости пускаешь на убой?</p>
+<p>Война не та, что прежде, брат на брата</p>
+<p>С ножом идет, пощады не проси.</p>
+<p>Озлобились сердца, один другого</p>
+<p>Зубами ест, с живых сдирают кожу.</p>
+<p>На воротах гвоздями прибивают,</p>
+<p>Огнем палят.</p>
+<empty-line/>
+<p>Старуха</p>
+<empty-line/>
+<empty-line/>
+<p>О Господи, помилуй!</p>
+<p>Не рада я, да воля не моя.</p>
+<p>Что ж делать-то, родимый!</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Что ты, дура!</p>
+<p>За что же нас и хлебом-то кормить!</p>
+<p>Мы царское едим за нашу службу,</p>
+<p>На царское добро детей вскормили,</p>
+<p>Его они, не шипи.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Ты толкуешь,</p>
+<p>Что царские мы слуги, да царя-то</p>
+<p>Которого?</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Один у нас, Василий</p>
+<p>Иванович.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>А у других Димитрий</p>
+<p>Иванович. Вот у тебя один,</p>
+<p>И у других один, и стало двое.</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Мне дела нет, я знаю одного.</p>
+<p>Таких царей, что в Тушине, десяток</p>
+<p>У казаков найдется.</p>
+<empty-line/>
+<p>Входят Максим и Николай Редриковы.</p>
+<empty-line/>
+<empty-line/>
+<p>Вот и дети!</p>
+<p>Поужинать теперь да спать.</p>
+<empty-line/>
+<p>Старуха</p>
+<empty-line/>
+<empty-line/>
+<p>Садитесь!</p>
+<p>Покормимся чем Бог послал.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Меньшого</p>
+<p>Кормите вы послаще! Вы не девку ль</p>
+<p>На службу-то ведете вместо сына?</p>
+<p>Народ хитер, оденут девку парнем,</p>
+<p>Чтоб выпросить поместного в придачу.</p>
+<empty-line/>
+<p>Старуха</p>
+<empty-line/>
+<empty-line/>
+<p>Николушка, ты кушай.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Савлукову.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Будет время.</p>
+<p>Оправится.</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Такой же воин будет,</p>
+<p>Ничем тебя не хуже.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Ну, робята!</p>
+<p>Ты мать пусти на службу вместе с ними,</p>
+<p>Чтоб утирать им губы после каши.</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Ты губы-то свои побсрегал бы!</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Обрубишь, что ль?</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Руками оторву.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Встает из-за стола.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(останавливая сына)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Потише ты! Пущай его смеется!</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Ты, батюшка, не трожь! Ему в обиду</p>
+<p>Не отдавай! Я спесь ему собью.</p>
+<p>По-своему, под ножку, да и оземь.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Деревня ты! И склад-то деревенский</p>
+<p>Весь у тебя. Пока ты обрусеешь,</p>
+<p>Тебя семь лет в котле варить придется.</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Начну ломать, так кости загремят!</p>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Отцу.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Посторонись!</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Не заводить же драку</p>
+<p>Из малости с проезжим челонеком!</p>
+<p>Остынь, остынь!</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>А почто пристает!</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Ты к Шуйскому своих молокососов</p>
+<p>В Москву вези; я в Тушино поеду</p>
+<p>К Димитрию, природному царю,</p>
+<p>А с молодцом не раз еще сойдемся</p>
+<p>На берегах Ходынки под Москвой,</p>
+<p>Увидим мы, чьи губы будут целы.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Уходит.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Гляди-ка ты, среди большой дороги</p>
+<p>На тушинца наткнулись! Не боится,</p>
+<p>А хвалится еще, как добрым делом,</p>
+<p>Изменою.</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Ему бы не доехать</p>
+<p>До Тушина, -- переломал бы ноги</p>
+<p>И руки я -- и не было б ответу.</p>
+<p>Зачем держал? За что сносить бесчестье</p>
+<p>От всякого? Такие ж мы дворяне;</p>
+<p>Хоть бедные, да честь нам дорога.</p>
+<p>Я, батюшка, скажу тебе заране</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(стучит кулаком по столу)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>И напрямик отрежу: я не баба,</p>
+<p>Не маленький робенок; я не стану</p>
+<p>Сносить обид ни от кого на свете.</p>
+<p>Ты выкормил, ты выхолил меня</p>
+<p>И вырастил на всей дворянской воле,</p>
+<p>Великое тебе спасибо, земко</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(кланяется в ноги)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Я кланяюсь! Теперь меня оставь!</p>
+<p>Я сам большой, я сам себе хозяин!</p>
+<p>Я, батюшка, неволи не люблю.</p>
+<p>Моя душа давно на волю рвется!</p>
+<p>Ни равному не дам себя обидеть,</p>
+<p>Ни старшему, хоть он боярин будь,</p>
+<p>На нож пойду за честь свою и вашу,</p>
+<p>Уж разве сил не хватит.</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(вставая)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Твердо знаешь</p>
+<p>Пословицу, что честь свою беречь</p>
+<p>Мы смолоду должны. Пойдем к повозке</p>
+<p>Повыберем мы рухлядь, что помягче,</p>
+<p>Постелем здесь, соснемте до зари,</p>
+<p>А там и в путь.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Уходит. Максим Редриков за ним.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Старуха</p>
+<empty-line/>
+<empty-line/>
+<p>Сынок ты мой любимый,</p>
+<p>Победная головушка твоя!</p>
+<p>Ты прошеный у господа, моленый!</p>
+<p>На старость лет старухе в утешенье,</p>
+<p>За много слез, послал тебя Господь!</p>
+<p>Но уберечь тебя я не умела.</p>
+<p>Не слушай ты отца, не слушай брата!</p>
+<p>И без тебя удалых ратных много.</p>
+<p>Пускай их бьют; поберегай себя</p>
+<p>От смертных ран, от лютого железа!</p>
+<p>Не рвись вперед! Ты помни, мой родимый,</p>
+<p>Что боль твоя мне в сердце отзовется.</p>
+<p>Не погонись за почестью воинской!</p>
+<p>На что она! Одно проси у Бога.</p>
+<p>Чтоб к матери под крылышко вернуться.</p>
+<p>Сама тебе я выберу невесту,</p>
+<p>Красавицу, и буду ждать внучат.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Стелет одежду на лавке.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Ложись, сынок! Усни до белой зорьки,</p>
+<p>А я тихонько буду в изголовье</p>
+<p>Молить тебе у Господа здоровья</p>
+<p>И шепотом старушечьим навею</p>
+<p>Покой тебе и ангельские сны.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(ложась на скамью)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Мне, матушка, хотелось бы увидеть</p>
+<p>Красавицу во сне.</p>
+<empty-line/>
+<p>Старуха</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(садясь подле него)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Ну, что ж, увидишь.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Ты помнишь ли, мы видели в Ростове,</p>
+<p>Когда с тобой на богомолье были,</p>
+<p>Боярышню.</p>
+<empty-line/>
+<p>Старуха</p>
+<empty-line/>
+<empty-line/>
+<p>Ну, как же, помню, помню.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Ее бы мне во сне теперь увидеть,</p>
+<p>А наяву уж не придется.</p>
+<empty-line/>
+<p>Старуха</p>
+<empty-line/>
+<empty-line/>
+<p>Полно!</p>
+<p>Гора с горой не сходится...</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>В соборе</p>
+<p>Молились мы с тобой одни у гроба</p>
+<p>Угодника.</p>
+<empty-line/>
+<p>Старуха</p>
+<empty-line/>
+<empty-line/>
+<p>Ну да, молились.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Слышим</p>
+<p>Мы шум в дверях. Боярышня в повозке</p>
+<p>Подъехала; за ней такие злые</p>
+<p>И все верхом наехали старухи</p>
+<p>И стали гнать меня.</p>
+<empty-line/>
+<p>Старуха</p>
+<empty-line/>
+<empty-line/>
+<p>Тебя погнали.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Погнали бы, да не велела.</p>
+<empty-line/>
+<p>Старуха</p>
+<empty-line/>
+<empty-line/>
+<p>Помню.</p>
+<p>Он млад и глуп, боярышня сказала,</p>
+<p>От матери его не оторвешь.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>И на меня все время проглядела,</p>
+<p>На выходе тронула по плечу</p>
+<p>И за щеку меня щипнула.</p>
+<empty-line/>
+<p>Старуха</p>
+<empty-line/>
+<empty-line/>
+<p>Знамо,</p>
+<p>Без матери балуется. Отец-то</p>
+<p>Не чает в ней души.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Он воевода?</p>
+<empty-line/>
+<p>Старуха</p>
+<empty-line/>
+<empty-line/>
+<p>Не он, она в Ростове воевода.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Я, матушка, когда ее увижу,</p>
+<p>Я ей скажу...</p>
+<empty-line/>
+<p>Старуха</p>
+<empty-line/>
+<empty-line/>
+<p>А что, сынок родимый?</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Что не было еще в роду боярском,</p>
+<p>Ни в княжеском, красавицы такой,</p>
+<p>Что не видал никто, и нет на свете</p>
+<p>Белей ее, румяней, точно цветик</p>
+<p>Махровенький, цветет она.</p>
+<empty-line/>
+<p>Старуха</p>
+<empty-line/>
+<empty-line/>
+<p>Чай, знает</p>
+<p>Сама про то, и сказывать не надо.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(в полусне)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Что полюбил ее я больше жизни</p>
+<p>И матери родной.</p>
+<empty-line/>
+<p>Старуха</p>
+<empty-line/>
+<empty-line/>
+<p>Да что ты, что ты!</p>
+<p>Не бредишь ли?</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Я умереть готов,</p>
+<p>Чтоб только раз еще тебя увидеть!</p>
+<empty-line/>
+<p>Старуха</p>
+<empty-line/>
+<empty-line/>
+<p>И то во сне. Ну спи, Христос с тобой!</p>
+<p>Пускай тебе во сне хоть счастье снится;</p>
+<p>Придет пора, натерпишься всего</p>
+<p>И сладких снов уж больше не увидишь.</p>
+<empty-line/>
+<p>Входят Дементий и Максим Редриковы и хозяин.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Куда же нам, не в хлев же убираться?</p>
+<p>Ну, сам в избе, для дочери светелка,</p>
+<p>А мы в сенях, -- на всех достанет места.</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Скажи ему, что не пойдем отсюда.</p>
+<empty-line/>
+<p>Хозяин</p>
+<empty-line/>
+<empty-line/>
+<p>Да смилуйтесь! Холопы изувечат,</p>
+<p>Замучают, захлещут кнутьем.</p>
+<empty-line/>
+<p>Старуха</p>
+<empty-line/>
+<empty-line/>
+<p>Кто же</p>
+<p>Наехал-то?</p>
+<empty-line/>
+<p>Хозяин</p>
+<empty-line/>
+<empty-line/>
+<p>Ростовский воевода</p>
+<p>Третьяк Сеитов с дочерью, проездом</p>
+<p>Из вотчины.</p>
+<empty-line/>
+<p>Старуха</p>
+<empty-line/>
+<empty-line/>
+<p>Сынок мой бедный! Горе!</p>
+<p>И отдохнуть с дороги не придется.</p>
+<p>Ужли же нам в овраге ночевать!</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Не выдем мы отсюда. Убирайся!</p>
+<p>Скажи ему, что старого отца</p>
+<p>И мать мою я трогать не позволю,</p>
+<p>Что им самим покой и отдых нужен.</p>
+<empty-line/>
+<p>Хозяин</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(идет к двери)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Беда моей головушке!</p>
+<empty-line/>
+<p>Входят дворецкий и несколько слуг.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Дворецкий</p>
+<empty-line/>
+<empty-line/>
+<p>Проворней!</p>
+<p>Не ждать же вас боярину в повозке!</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Хозяину.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Мечи на двор весь хлам чужой! Очисти</p>
+<p>И вымети избу.</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>С тобой, холопом,</p>
+<p>Я говорить не стану долго. Слышишь!</p>
+<p>Довольно места здесь: избу, светелку</p>
+<p>Пусть их займут; а мы в сенях семьею</p>
+<p>Останемся.</p>
+<empty-line/>
+<p>Дворецкий</p>
+<empty-line/>
+<empty-line/>
+<p>Чего ты захотел!</p>
+<p>С боярином стоять в одних покоях!</p>
+<p>Велика честь!</p>
+<empty-line/>
+<p>Хозяин</p>
+<empty-line/>
+<empty-line/>
+<p>Боярин сам идет.</p>
+<empty-line/>
+<p>Входит Сеитов, все кланяются.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(слугам)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Дождусь ли я! Чего же вы стоите!</p>
+<empty-line/>
+<p>Дворецкий</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(кланяясь в ноги)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Противятся, нейдут.</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Здесь места много</p>
+<p>И про тебя, боярин, и про нас.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(дворецкому)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Ты чей холоп? Кому слуга?</p>
+<empty-line/>
+<p>Дворецкий</p>
+<empty-line/>
+<empty-line/>
+<p>Боярин,</p>
+<p>Навеки твой слуга и раб до гроба.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Я что велел?</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Куда ж деваться ночью!</p>
+<p>Мы старые с женой.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(дворецкому)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Я слова дважды</p>
+<p>Не говорю.</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Он гнать меня не смеет,</p>
+<p>Дворяне мы.</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Вы честью попросите.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(дворецкому)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Чтоб духу их не пахло! Слышал!</p>
+<empty-line/>
+<p>Николай Редриков прячется за дверь.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Дворецкий</p>
+<empty-line/>
+<empty-line/>
+<p>Слышал.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Редриковым.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Подите вон!</p>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Слугам.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Тащи на двор хобСтье</p>
+<p>Дворянское, бросай куда попало!</p>
+<p>Да в шею их.</p>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Хватает старика и старуху.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Не трогайте, убью!</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Связать его! Держите руки крепче!</p>
+<p>Гоните их плетьми!</p>
+<empty-line/>
+<p>Максима схватывают за руки.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Ужли ж на свете</p>
+<p>Перевелись и суд, и правда вовсе.</p>
+<p>Ну, батюшка и матушка, терпите!</p>
+<p>Клянуся вам я головой своею</p>
+<p>И вашими седыми головами,</p>
+<p>Придет пора, я вымещу за вас.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Сеитову.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Не оставляй меня живого! Лучше</p>
+<p>Тебе и мне! Убейте вы меня!</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Терплю, сынок, позор за гордость нашу,</p>
+<p>Забыли мы, что с сильным не борись,</p>
+<p>С богатым не тянись.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Уходит, отбиваясь и защищая старуху.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>С двора гоните</p>
+<p>И выбейте на улицу его.</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Ну, знай же ты, ростовский воевода,</p>
+<p>Что я твоей обиды не забуду!</p>
+<p>Для памяти и днем и ночью буду</p>
+<p>Я руки грызть свои, пока по локоть</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(отталкивает холопов, вынимает саблю; те окружают Сеитова)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Не отгрызу. И если уж придется</p>
+<p>Нам встретиться, я старое припомню.</p>
+<p>Прощай теперь! Ходи по богомольям,</p>
+<p>Молебны пой, проси в слезах у Бога,</p>
+<p>Чтоб не пришлось мне свидеться с тобой!</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Уходит.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>С двора долой плетьми, да не жалейте</p>
+<p>Плетей моих, в Ростове новых купим.</p>
+<p>Пугните так, чтоб за версту бежал.</p>
+<empty-line/>
+<p>Несколько слуг уходят.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Дворецкий</p>
+<empty-line/>
+<empty-line/>
+<p>Боярышня идет.</p>
+<empty-line/>
+<p>Хозяин</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(кланяясь)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>В светлице чисто,</p>
+<p>Простор, прохлад для милости боярской.</p>
+<empty-line/>
+<p>Входит Людмила, за ней няньки и сенные девки.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Людмилушка, тяжелая дорога</p>
+<p>Умаяла тебя и укачала;</p>
+<p>Я сам устал; ложись, Господь с тобою,</p>
+<p>В светелочке, подушку под ушко,</p>
+<p>И почивай, пока сама проснешься.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Нянькам.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Вы, чучелы, боярышню покойте!</p>
+<p>Помягче ей перины постелите,</p>
+<p>Пуховые, лебяжье изголовье,</p>
+<p>Одеть ее, окутать соболями.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Ты, батюшка родименький, себя-то</p>
+<p>Поберегай, ты старенький старик.</p>
+<p>Ты спи поди, а мы побалагурим</p>
+<p>Часок-другой, пока не зазеваем</p>
+<p>И глазоньки смыкаться не начнут.</p>
+<p>Поди, поди, сердитый.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Не сердиться</p>
+<p>Нельзя никак, не слушают.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Ты злой!</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>С другими зол, перед тобою кроток.</p>
+<empty-line/>
+<p>Нянька</p>
+<empty-line/>
+<empty-line/>
+<p>Боярыня, ты не жури отца --</p>
+<p>Родителя! Ты гневайся уж лучше</p>
+<p>На нас, рабынь твоих и слуг покорных.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Молчи, раба! Между отцом и мною</p>
+<p>Ты не судья. Ты старая старуха,</p>
+<p>За старость лет тебя я чту, но все же</p>
+<p>Я государыня твоя. Ты помни</p>
+<p>И не гневи меня.</p>
+<empty-line/>
+<p>Нянька</p>
+<empty-line/>
+<empty-line/>
+<p>Не прогневлю.</p>
+<p>Смири тебя Господь! Твой гнев боярский</p>
+<p>Грознее мне грозы на небесах.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Прощай, дитя мое.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Прощай, родитель!</p>
+<empty-line/>
+<p>Сеитов уходит в избу, за ним идет дворецкий с фонарем и затворяет дверь, за которою спрятался Николай Редриков.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Нянька</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(с фонарем)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Пойдемте! Ах!</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Хочет идти в светелку и встречается с Николаем Редриковым.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Чтоб гром тебя расшиб!</p>
+<p>Перепугал до смерти, окаянный!</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Откуда ты взялся?</p>
+<empty-line/>
+<p>Нянька</p>
+<empty-line/>
+<empty-line/>
+<p>Гоните, девки,</p>
+<p>Его скорей! Беда, коли увидят!</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Потише вы, отца не потревожьте!</p>
+<p>Зачем ты здесь?</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Отца и мать прогнали,</p>
+<p>А я за дверь от страха схоронился.</p>
+<p>Хотел бежать, да увидал тебя,</p>
+<p>На красоту твою я загляделся</p>
+<p>И простоял как вкопанный!</p>
+<empty-line/>
+<p>Нянька</p>
+<empty-line/>
+<empty-line/>
+<p>Пошел!</p>
+<p>Пошел скорей! Беды с тобой дождешься!</p>
+<p>Увидит сам, тогда хоть в гроб ложись.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Некстати ты разговорилась много.</p>
+<p>Задуй фонарь, и не увидят.</p>
+<empty-line/>
+<p>Нянька</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(задувает)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Дело.</p>
+<p>И то задуть.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Постойте, не гоните!</p>
+<p>Позволь сказать тебе одно лишь слово!</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Ну, говори скорее!</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Вот что горе:</p>
+<p>Сказал бы я, да слов таких не знаю, --</p>
+<p>Не приберу по красоте твоей.</p>
+<p>Что ни скажи тебе, все будет мало.</p>
+<p>Да и сказать всего тебе не смею.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Ты глуп еще и молод. Ты не знаешь</p>
+<p>Цены себе. Уж если ты не смеешь</p>
+<p>Сказать девице ласковое слово,</p>
+<p>Кому ж и сметь! Вот я не побоюся</p>
+<p>Сказать тебе: ты писаный красавец,</p>
+<p>Неслыханный! Всю ночку мне не спать,</p>
+<p>Все о тебе гадать и думать буду,</p>
+<p>Твои сокольи очи вспоминать.</p>
+<p>Беги скорей! Нам больше не видаться.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>А свидимся?</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Дай Бог не разлучаться.</p>
+<empty-line/>
+<p>Нянька</p>
+<empty-line/>
+<empty-line/>
+<p>Ступай, ступай! В потемках не заметят.</p>
+<empty-line/>
+<p>Николай Редриков уходит.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Вы, нянюшки и девушки сенные,</p>
+<p>Ищите вы потешных слов и сказок</p>
+<p>И присказок, -- утешьте вы меня!</p>
+<p>Теперь всю ночь до бела дня мне плакать,</p>
+<p>А вам всю ночь сидеть да утешать!</p>
+<empty-line/>
+<p>Уходят в светелку.</p>
+<empty-line/>
+<empty-line/>
+<p><strong>СЦЕНА ВТОРАЯ</strong></p>
+<empty-line/>
+<p>ЛИЦА:</p>
+<empty-line/>
+<p>Царь Василий Иванович Шуйский.</p>
+<p>Князь Дмитрий Иванович Шуйский.</p>
+<p>Князь Михайло Васильевич Скопин-Шуйский, воевода Большого полка на Ходынском поле.</p>
+<p>Спальник.</p>
+<p>Дементий Редриков.</p>
+<p>Максим Редриков.</p>
+<p>Николай Редриков.</p>
+<p>Бояре, воеводы и войско.</p>
+<empty-line/>
+<p>Царская палата в стану, на берегу Пресни.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Входят царь Василий Иванович и спальник.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Спальник</p>
+<empty-line/>
+<empty-line/>
+<p>Сегодня в ночь приехала корела</p>
+<p>Поморская, ведунью привезла.</p>
+<empty-line/>
+<p>Царь</p>
+<empty-line/>
+<empty-line/>
+<p>Грядущее темно, его загадки</p>
+<p>Отгадывать не нам. Святые люди</p>
+<p>Имеют дар пророчества, -- мы грешны.</p>
+<p>Служители подземных сил к нам ближе;</p>
+<p>И в этой темной богоборной силе</p>
+<p>Есть знание. В глухих лесах поморья,</p>
+<p>Среди корел, где идольские требы</p>
+<p>Свершаются тайком, под кровом ночи,</p>
+<p>Мудреные таятся ведуны.</p>
+<p>Подчинены им страшные виденья</p>
+<p>Ночных часов. И грешный царь Василий,</p>
+<p>Как царь Саул к колдунье аэндорской,</p>
+<p>К волхвам идет за спросом и советом.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Спальнику.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Привесть ко мне сегодня ночью ведьму,</p>
+<p>Ту старую, что привезли корелы.</p>
+<empty-line/>
+<p>Спальник</p>
+<empty-line/>
+<empty-line/>
+<p>Князь Михаил Васильевич Скопин</p>
+<p>Пожаловал. Пришел и князь Димитрий</p>
+<p>Иванович.</p>
+<empty-line/>
+<p>Царь</p>
+<empty-line/>
+<empty-line/>
+<p>Ну, пусть они войдут.</p>
+<empty-line/>
+<p>Спальник уходит. Входят князья Скопин-Шуйский и Дмитрий Шуйский.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Царь</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Скопину)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Бегут?</p>
+<empty-line/>
+<p>Скопин-Шуйский</p>
+<empty-line/>
+<empty-line/>
+<p>Бегут. Что день, то убывает</p>
+<p>В моем Большом полку детей боярских.</p>
+<empty-line/>
+<p>Царь</p>
+<empty-line/>
+<empty-line/>
+<p>А что за сласть им в Тушине?</p>
+<empty-line/>
+<p>Скопин-Шуйский</p>
+<empty-line/>
+<empty-line/>
+<p>Свобода,</p>
+<p>Гульба, разбой. А тем, кто познатней,</p>
+<p>Боярский сан.</p>
+<empty-line/>
+<p>Царь</p>
+<empty-line/>
+<empty-line/>
+<p>От беглого дьячка!</p>
+<p>Велика честь! Рожинский и Сапега</p>
+<p>В своей земле от виселиц бежали,</p>
+<p>А наши к ним с поклоном за боярством!</p>
+<p>Хоть лыком шит, а все-таки боярин.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Дмитрию Шуйскому.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>А что Москва?</p>
+<empty-line/>
+<p>Дмитрий Шуйский</p>
+<empty-line/>
+<empty-line/>
+<p>Пустеет. Из приказов</p>
+<p>Подьячие бегут, купцы из лавок,</p>
+<p>Бегут князья, бояре, воеводы</p>
+<p>И ратники.</p>
+<empty-line/>
+<p>Царь</p>
+<empty-line/>
+<empty-line/>
+<p>И как не разбежаться</p>
+<p>От воевод таких!</p>
+<empty-line/>
+<p>Дмитрий Шуйский</p>
+<empty-line/>
+<empty-line/>
+<p>А чем мы плохи?</p>
+<empty-line/>
+<p>Царь</p>
+<empty-line/>
+<empty-line/>
+<p>Чем плохи-то? А тем, что воеводы.</p>
+<p>Вот если б вам с Голицыным Васильем</p>
+<p>Коров пасти, на это дело хватит</p>
+<p>Ума у вас; а вас судьба в бояре</p>
+<p>Поставила, вам войска подавай!</p>
+<p>Нарядится, всего себя обвесит</p>
+<p>Доспехами, саженные набаты</p>
+<p>Везут за ним, стотысячное войско</p>
+<p>Кругом его, и шум, и звон оружий;</p>
+<p>Гроза грозой идет на супостата,</p>
+<p>А только лишь сойдется с горстью ляхов --</p>
+<p>И побежит в одном лишь зипунишке</p>
+<p>Для легкости. Наряд тяжелый бросит</p>
+<p>И рать свою; домой и прямо на печь,</p>
+<p>И там дрожит, боится, что догонят.</p>
+<p>А царь не смей его и пальцем тронуть,</p>
+<p>Боярин он большой, особь статья.</p>
+<p>Вот мне Господь каких послал стратигов!</p>
+<p>Одна у нас надежда ты, Михайло.</p>
+<empty-line/>
+<p>Дмитрий Шуйский</p>
+<empty-line/>
+<empty-line/>
+<p>Я плох тебе, ну есть Иван Никитич,</p>
+<p>Иван Куракин, Лыков-Оболенский!</p>
+<p>А ты коришь мальчишкой белогубым</p>
+<p>В его глазах.</p>
+<empty-line/>
+<p>Царь</p>
+<empty-line/>
+<empty-line/>
+<p>Мальчишка белогубый</p>
+<p>И в воеводах, и в совете ратном</p>
+<p>Таких голов, как ваши, стоит сотни.</p>
+<p>Я в Новгород его пошлю, помоги</p>
+<p>У Свейского просить. С ученым войском</p>
+<p>Он разом Русь очистит от воров.</p>
+<empty-line/>
+<p>Скопин-Шуйский</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(кланяясь)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Ты, дядюшка и государь, в остуду</p>
+<p>Введешь меня с дядьми; кого постарше</p>
+<p>Отправь туда.</p>
+<empty-line/>
+<p>Дмитрий Шуйский</p>
+<empty-line/>
+<empty-line/>
+<p>Ему Господь послал,</p>
+<p>По глупости и молодости, счастье,</p>
+<p>А ты его к большим делам приставил.</p>
+<p>Посмотрим мы, каков-то твой Михайло!</p>
+<p>Возьми его себе, целуйся с ним!</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Уходит.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Скопин-Шуйский</p>
+<empty-line/>
+<empty-line/>
+<p>Нам пуще бы всего беречь от вора</p>
+<p>Владимирским и ярославский путь.</p>
+<empty-line/>
+<p>Царь</p>
+<empty-line/>
+<empty-line/>
+<p>Там Сергиев стоит оплотом твердым.</p>
+<empty-line/>
+<p>Скопин-Шуйский</p>
+<empty-line/>
+<empty-line/>
+<p>А Сергиев и запереть легко,</p>
+<p>И обойти с Калязина не долго.</p>
+<p>Чуть держится Ростов с Переяславлем,</p>
+<p>Обсыпались валы, и городьба</p>
+<p>От ветхости едва стоит. Владимир</p>
+<p>Не крепок нам с Иваном Годуновым.</p>
+<p>Нельзя ему в такое время верить,</p>
+<p>Того гляди сворует.</p>
+<empty-line/>
+<p>Царь</p>
+<empty-line/>
+<empty-line/>
+<p>Годунова</p>
+<p>Отправлю я на воеводство в Нижний,</p>
+<p>И стены там, и люди крепче. Князя</p>
+<p>Сеитова пошлем ему на смену,</p>
+<p>Велим ему собрать детей боярских</p>
+<p>Из городов: оберегать Владимир,</p>
+<p>Ростов и Суздаль, Шую, Юрьев, Муром</p>
+<p>И Переяславль. И грамота готова.</p>
+<empty-line/>
+<p>Молчание.</p>
+<empty-line/>
+<empty-line/>
+<p>Поди, вели собрать у нашей ставки</p>
+<p>Со всех полков голов и воевод,</p>
+<p>Я буду речь держать.</p>
+<empty-line/>
+<p>Скопин-Шуйский</p>
+<empty-line/>
+<empty-line/>
+<p>Исполню тотчас.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Уходит.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Царь</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(один)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Моя судьба -- мудреная загадка,</p>
+<p>От плахи я перешагнул на трон,</p>
+<p>На грозном троне я сижу без власти!</p>
+<p>Без власти царь московский! Это дело</p>
+<p>Не слыхано! Орлу парить высоко</p>
+<p>Без крыл нельзя! А я орел без крыльев.</p>
+<p>Для мира я желал венца; покоя</p>
+<p>Земле родной, своей душе усталой</p>
+<p>Хотелось мне; и только я на царство</p>
+<p>Ступить успел, вся Русь заволновалась.</p>
+<p>По городам украинским измена,</p>
+<p>В самом дворце боярская крамола,</p>
+<p>По всей земле свободно воры ходят.</p>
+<p>Одна беда уляжется, другая,</p>
+<p>Как вал морской, встает за ней и пухнет,</p>
+<p>Растет горой, пугает потопленьем!</p>
+<p>Без недругов и царство не стоит.</p>
+<p>Не страшен враг! Пошли, Творец небесный,</p>
+<p>Мне равного и честного врага!</p>
+<p>Ведут войну цари с царями, идут</p>
+<p>На честный бой пытать и гнев, и милость</p>
+<p>Твою, Господь! И ты даешь победу</p>
+<p>Достойному, а гордого смиряешь.</p>
+<p>А я борюсь, а я воюю, Боже!</p>
+<p>С холопами, с ворами, с беглецами!</p>
+<p>Обругано твое святое имя,</p>
+<p>Обругано помазанье твое.</p>
+<p>Заведомо берут цепною вора,</p>
+<p>Порфирою со смехом облачат,</p>
+<p>Зовут меня на суд с шутом потешным,</p>
+<p>Его царем законным величают, --</p>
+<p>Изменником помазанника божья</p>
+<p>Ты, Господи, во гневе рек народам:</p>
+<p>Пошлю на вас язык лицом бесстыдный,</p>
+<p>Пошлю на вас ругателей толпу!</p>
+<p>Уж если ты казнишь за грех народа</p>
+<p>Меня, царя, -- иль за меня народ,</p>
+<p>Пошли нам мор и голод иль проказу!</p>
+<p>Но от воров, ругателей помилуй!</p>
+<empty-line/>
+<p>Входит спальник.</p>
+<empty-line/>
+<empty-line/>
+<p>Открыть шатер!</p>
+<empty-line/>
+<p>Шатер открывается. Входят воеводы, головы; другие стоят у входа.</p>
+<empty-line/>
+<empty-line/>
+<p>В моем благочестивом</p>
+<p>И благоверном воинстве измена.</p>
+<p>Изменники! Я с вами говорю!</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Указывая на воевод.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Их много здесь. Не помня крестной клятвы</p>
+<p>И не щадя души, сегодня к вору</p>
+<p>Бежать хотят, украдкой, воровски.</p>
+<p>Таясь людей, боясь дневного света,</p>
+<p>Ночной порой ползком, дрожа, как Каин!</p>
+<p>Жалеючи их душ, я объявляю,</p>
+<p>Что если кто служить захочет вору,</p>
+<p>Пускай идет открыто, днем, не станем</p>
+<p>Удерживать. Господь дает на волю</p>
+<p>Добро и зло, на выбор -- рай и муку.</p>
+<p>Кто в Тушино? Ну, что же вы нейдете?</p>
+<p>Вам совестно? Ну, я смотреть не буду,</p>
+<p>Отворочусь! Идите! Ночью хуже,</p>
+<p>Бесчестнее тайком ползти в крапиве.</p>
+<p>Не нужно мне рабов лукавых! Лучше</p>
+<p>С немногими, да верными останусь.</p>
+<p>Я все сказал. Кто хочет оставаться --</p>
+<p>Целуйте крест; а кто идти -- иди.</p>
+<empty-line/>
+<p>Войско</p>
+<empty-line/>
+<empty-line/>
+<p>Мы все с тобой! -- Священников ведите!</p>
+<p>Несите крест честной! -- Мы все целуем</p>
+<p>Служить тебе и, не жалея жизни,</p>
+<p>Идти войной на тушинского вора.</p>
+<empty-line/>
+<p>Скопин-Шуйский</p>
+<empty-line/>
+<empty-line/>
+<p>Великий царь и государь, Василий</p>
+<p>Иванович, тебе слуга твой старый</p>
+<p>Дементий Редриков челом ударить</p>
+<p>И сыновей отдать желает. Можно ль</p>
+<p>Поставить их перед тобой?</p>
+<empty-line/>
+<p>Царь</p>
+<empty-line/>
+<empty-line/>
+<p>Поставь!</p>
+<empty-line/>
+<p>Входят Дементий, Максим и Николай Редриковы и кланяются в землю.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Челом тебе, великий государь!</p>
+<p>За старостью, недугами, увечьем</p>
+<p>Я не слуга на жалованье царском,</p>
+<p>Я вырастил детей тебе на службу.</p>
+<p>Возьми двоих за старого меня.</p>
+<p>За старшего оставь ты мне поместье,</p>
+<p>А младшего, что милость будет, дай!</p>
+<p>Я их учил закон Господень помнить,</p>
+<p>Царю прямить, служить ему со страхом</p>
+<p>И заповедь отцовскую блюсти,</p>
+<p>Послушают, -- навеки нерушимо</p>
+<p>Над ними будь мое благословенье;</p>
+<p>На зло пойдут, -- в твоих глазах царевых</p>
+<p>Я им сулю проклятье вековое</p>
+<p>Из рода в род, на чады их и внуки.</p>
+<p>Учил добру, а жить своя им воля.</p>
+<p>За чем пойдешь, то и найдешь.</p>
+<empty-line/>
+<p>Царь</p>
+<empty-line/>
+<empty-line/>
+<p>Спасибо</p>
+<p>Тебе, старик! Детей твоих устрою,</p>
+<p>В жильцы возьму. Большой на ратном поле</p>
+<p>Покажет нам и удаль, и дородство,</p>
+<p>А младшему найдем работу легче,</p>
+<p>Он юн еще. Вот с грамотой поедет</p>
+<p>К Сеитову, в Ростов, по силам служба.</p>
+<p>Да кстати уж свезет от патриарха</p>
+<p>Он грамоту к ростовскому владыке.</p>
+<p>Пусть бегает покуда на посылках.</p>
+<empty-line/>
+<p>Редриковы кланяются в землю.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Скопин-Шуйский</p>
+<empty-line/>
+<empty-line/>
+<p>Великий царь, священство в облаченье</p>
+<p>Кресты несут, поставлены налои.</p>
+<p>От воинов тебе сказать я послан,</p>
+<p>Что поголовно, все без принужденья,</p>
+<p>Целуют крест тебе своею волей.</p>
+<empty-line/>
+<p>Царь</p>
+<empty-line/>
+<empty-line/>
+<p>Пойдем смотреть, как лгут царю и Богу.</p>
+<empty-line/>
+<p>Уходят.</p>
+<empty-line/>
+<empty-line/>
+<p><strong>СЦЕНА ТРЕТЬЯ</strong></p>
+<empty-line/>
+<p>ЛИЦА:</p>
+<empty-line/>
+<p>Максим Редриков.</p>
+<p>Николай Редриков.</p>
+<p>Савлуков.</p>
+<p>Подьячий Василий Скурыгин.</p>
+<p>Боярский сын.</p>
+<p>Посадский.</p>
+<p>Торговые и всякие люди.</p>
+<empty-line/>
+<p>У Никольских ворот, в Москве.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Входит Скурыгин, к нему подходят: боярский сын, посадский, потом приходящие и торговцы из лавок.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>Ай, воры! Ну! Хорош народ московский!</p>
+<empty-line/>
+<p>Посадский</p>
+<empty-line/>
+<empty-line/>
+<p>Ты что кричишь?</p>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>А то кричу: мы воры!</p>
+<p>Мы воры все. Я вас не обижаю.</p>
+<p>Чего еще, какого нам царя!</p>
+<p>Благочестивый царь и богомольный.</p>
+<p>Когда бы мы царю служили правдой,</p>
+<p>Давно бы вор из Тушина бежал,</p>
+<p>А воры мы. Ну да! Не обижайтесь!</p>
+<p>И про себя я то же говорю.</p>
+<empty-line/>
+<p>Посадский</p>
+<empty-line/>
+<empty-line/>
+<p>Ни Бога в нас, ни совести, ни правды!</p>
+<p>Вчера клялись и целовали крест,</p>
+<p>А нынче в ночь бежали.</p>
+<empty-line/>
+<p>Боярский сын</p>
+<empty-line/>
+<empty-line/>
+<p>Стыдно людям</p>
+<p>В глаза смотреть. Обманщиками стали</p>
+<p>Перед царем мы все. Один сворует,</p>
+<p>А стыд и срам на всех.</p>
+<empty-line/>
+<p>Первый из толпы</p>
+<empty-line/>
+<empty-line/>
+<p>А кто ж бежал?</p>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>Бежали те, кто больше всех божился</p>
+<p>Царю служить.</p>
+<empty-line/>
+<p>Боярский сын</p>
+<empty-line/>
+<empty-line/>
+<p>Из стольников бежали:</p>
+<p>Князь Трубецкой, князья Черкасский, Сицкий,</p>
+<p>Засекиных два брата, Бутурлин,</p>
+<p>Дворян, детей боярских нет и счету.</p>
+<empty-line/>
+<p>Посадский</p>
+<empty-line/>
+<empty-line/>
+<p>Бегут дьяки, бежит и ваша братья</p>
+<p>Подьячие.</p>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>И ваша братья тоже,</p>
+<p>Где есть барыш, так душу продадут.</p>
+<p>Такой базар, такая-то торговля</p>
+<p>Под Тушином, в подметки не годится</p>
+<p>Московский наш гостиный двор.</p>
+<empty-line/>
+<p>Посадский</p>
+<empty-line/>
+<empty-line/>
+<p>Ты, видно,</p>
+<p>Из Тушина недавно сам?</p>
+<empty-line/>
+<p>Первый из толпы</p>
+<empty-line/>
+<empty-line/>
+<p>Скурыгин?</p>
+<p>Он только что вернулся.</p>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>Это правда.</p>
+<p>Я не сержусь за правду. Точно, бегал</p>
+<p>Я в Тушино, да я уж повинился</p>
+<p>Великому царю и государю,</p>
+<p>И он меня простил за то.</p>
+<empty-line/>
+<p>Посадский</p>
+<empty-line/>
+<empty-line/>
+<p>Напрасно!</p>
+<p>В мешок зашить, да с камнем в воду. Грех</p>
+<p>Таких ворон прощать; тебя простили,</p>
+<p>А ты опять уйдешь.</p>
+<empty-line/>
+<p>Первый из толпы</p>
+<empty-line/>
+<empty-line/>
+<p>Уж это верно!</p>
+<p>И ворожить не надо.</p>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>Ну, навряд ли!</p>
+<empty-line/>
+<p>Второй из толпы</p>
+<empty-line/>
+<empty-line/>
+<p>Повадился кувшин...</p>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>Зачем бежать-то?</p>
+<p>Сулили мне и горы золотые,</p>
+<p>И почести, и думное дворянство.</p>
+<empty-line/>
+<p>Посадский</p>
+<empty-line/>
+<empty-line/>
+<p>Не жирно ли?</p>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>На месте провалиться!</p>
+<p>Вот прихожу я в Тушино. Явился</p>
+<p>Где следует: мол, вышел из Москвы</p>
+<p>На государево царево имя</p>
+<p>Димитрия Иваныча, желаю</p>
+<p>Служить ему; а сам держу на мысли,</p>
+<p>Чтоб поглядеть его в глаза. Наутро</p>
+<p>Поехал вор жену встречать Маринку.</p>
+<p>Как я взглянул!.. Как я взглянул! Потеха!</p>
+<p>Мужик простой, нетесаный, нескладный...</p>
+<p>Такой-то царь у вас! Такой-то!</p>
+<p>Я говорю. Да разве глаз-то нету</p>
+<p>Во лбу у вас?</p>
+<empty-line/>
+<p>Первый из толпы</p>
+<empty-line/>
+<empty-line/>
+<p>Ведь, может, ты и врешь?</p>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>Вот разрази Господь на этом месте!</p>
+<p>И тушинским царьком, и диким вором</p>
+<p>Уж я его ругал, ругал... Ну, в шею</p>
+<p>И выгнали из Тушина меня.</p>
+<empty-line/>
+<p>Входит Савлуков, одетый посадским.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Посадский</p>
+<empty-line/>
+<empty-line/>
+<p>Ты говоришь, Маринку; да когда же</p>
+<p>Она к нему бежала? В Ярославле</p>
+<p>Держали их с отцом назаперти.</p>
+<empty-line/>
+<p>Первый из толпы</p>
+<empty-line/>
+<empty-line/>
+<p>Удержишь их!</p>
+<empty-line/>
+<p>Второй</p>
+<empty-line/>
+<empty-line/>
+<p>Да вовсе в Ярославле</p>
+<p>И не было ее. Она сорокой</p>
+<p>На родину тогда же улетела.</p>
+<p>Все видели.</p>
+<empty-line/>
+<p>Первый</p>
+<empty-line/>
+<empty-line/>
+<p>Все дело волшебство.</p>
+<empty-line/>
+<p>Второй</p>
+<empty-line/>
+<empty-line/>
+<p>Расстрига был и сам-то чернокнижник,</p>
+<p>Так писано и в грамоте царевой.</p>
+<p>Когда его убили, объявились</p>
+<p>Его дела. Один из наших видел</p>
+<p>И книгу-то, вся черная.</p>
+<empty-line/>
+<p>Первый</p>
+<empty-line/>
+<empty-line/>
+<p>Один!</p>
+<p>Все видели, и доски по сажени,</p>
+<p>И пятеро поднять ее не могут!</p>
+<p>Вот дело-то какое!</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Полно, так ли?</p>
+<p>Убили-то его ли, не другого ль?</p>
+<empty-line/>
+<p>Посадский</p>
+<empty-line/>
+<empty-line/>
+<p>Толкуй еще! Москву-то не обманешь,</p>
+<p>У всех в глазах лежал убитый.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Точно,</p>
+<p>Не спорю я. Молчанова Михайла</p>
+<p>Не знал ли кто?</p>
+<empty-line/>
+<p>Первый</p>
+<empty-line/>
+<empty-line/>
+<p>Ну, как его не знать!</p>
+<p>Его кнутом за волшебство стегали!</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Стегали-то его при Годунове.</p>
+<p>В долгу за то он не остался -- Федор</p>
+<p>Борисович удавлен им. А после</p>
+<p>Он близким был приятелем расстриги.</p>
+<empty-line/>
+<p>Первый</p>
+<empty-line/>
+<empty-line/>
+<p>И вместе с ним по книгам ворожили.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Хитрей того, они лицом менялись</p>
+<p>С расстригою. Когда беда случилась,</p>
+<p>Расстрига с ним лицом и поменялся,</p>
+<p>А сам бежать. Молчанова убили,</p>
+<p>А он-то жив и в Тушине теперь.</p>
+<empty-line/>
+<p>Боярский сын</p>
+<empty-line/>
+<empty-line/>
+<p>Напрасно ты мутишь народ, пугаешь!</p>
+<p>И без того не тверды!</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Что пугать-то!</p>
+<p>Я правдою служу царю Василыо;</p>
+<p>А говорю, что знаю. Я за вора</p>
+<p>Не постою, царем не называю,</p>
+<p>Он вор и есть, да только вор мудреный.</p>
+<p>С ним воевать хитро, бесовской силой</p>
+<p>Он держится. Поди-ка повоюй!</p>
+<p>Он знает все: и что, и как творилось</p>
+<p>Здесь без него, и что у нас на мысли,</p>
+<p>Кто хорошо о нем, кто дурно думал.</p>
+<p>Из ведунов -- ведун.</p>
+<empty-line/>
+<p>Первый</p>
+<empty-line/>
+<empty-line/>
+<p>Вот времечко-то!</p>
+<empty-line/>
+<p>Второй</p>
+<empty-line/>
+<empty-line/>
+<p>Эх, страшно как, уж лучше отойти.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Отходит. )</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Третий</p>
+<empty-line/>
+<empty-line/>
+<p>Меня мороз вот так и пробирает.</p>
+<empty-line/>
+<p>Посадский</p>
+<empty-line/>
+<empty-line/>
+<p>Пойдемте прочь; некстати разговор</p>
+<p>Затеяли!</p>
+<empty-line/>
+<p>Первый</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(другому)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Вот ты теперь и думай.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(посадскому)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Не обессудь, без умысла сказалось.</p>
+<empty-line/>
+<p>Посадский</p>
+<empty-line/>
+<empty-line/>
+<p>Да Бог с тобой. Ты думаешь, мы сами</p>
+<p>Не знаем, что ль, того же? да молчим.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Отходит.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Сходит Максим Редриков и оглядывает проходящих.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Mаксим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Кажись, что здесь велел он дожидаться.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Ты что галдишь? Аль потерял кого?</p>
+<p>Аль узнаешь?</p>
+<empty-line/>
+<p>Mаксим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Я брата дожидаюсь.</p>
+<p>Проститься с ним пришел.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>А разве едет?</p>
+<p>Далеко ли?</p>
+<empty-line/>
+<p>Mаксим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>В Ростов. Пошел по лавкам</p>
+<p>Купить себе съестного на дорогу.</p>
+<p>Вот я и жду. Постой-ка, мне знакомо</p>
+<p>Лицо твое, а где встречал -- не помню.</p>
+<p>Уж не тебя ль я встретил на дороге.</p>
+<p>Кажись, что ты! Да нет...</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Узнаешь после.</p>
+<p>Я сам скажусь. Поговорим покуда.</p>
+<p>Без брата, чай, тебе скучненько будет,</p>
+<p>Тоска возьмет.</p>
+<empty-line/>
+<p>Mаксим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>О чем мне тосковать-то?</p>
+<p>Не маленький.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Я вижу, ты скучаешь,</p>
+<p>В лице сейчас заметно. Сердце ноет,</p>
+<p>Тоска сосет, уж ты не говори.</p>
+<empty-line/>
+<p>Mаксим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Сказать тебе по правде: сердце ноет,</p>
+<p>Сосет тоска, да только не от скуки.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>С зазнобы, что ль, сердечной?</p>
+<empty-line/>
+<p>Mаксим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Нет, со зла.</p>
+<p>Обижен я. Ни перенесть обиды,</p>
+<p>Ни позабыть ее я не могу.</p>
+<p>Грызет она, как лютый зверь, и гложет</p>
+<p>Всю нутренность. Хоть руки наложить, --</p>
+<p>Вот каково мне сладко.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Эко дело!</p>
+<p>А кто ж тебя обидел?</p>
+<empty-line/>
+<p>Mаксим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Он далеко.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Чай, близко был, как обижал. Зачем же</p>
+<p>Ты снес тогда?</p>
+<empty-line/>
+<p>М. Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Да руки коротки.</p>
+<p>Неровня мы.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Ну, если за обиду</p>
+<p>Считаешь ты, что старший поколотит,</p>
+<p>Так много ты обид таких увидишь,</p>
+<p>Притерпишься. У нас такой порядок.</p>
+<empty-line/>
+<p>М. Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Да что тебе за дело до меня?</p>
+<p>Поди ты прочь! Иди своей дорогой!</p>
+<empty-line/>
+<p>Садится на камень у ворот и тихонько напевает. Скурыгин и Савлуков подходят близко к нему и стараются говорить так, чтоб он слышал.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>А разве где другие есть порядки?</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Каб не было, так жить нельзя на свете.</p>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>А где же есть?</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Да в Тушине.</p>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>Ну, полно!</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Там все равны; живут по Божью слову,</p>
+<p>Боярину большому, дворянину</p>
+<p>И ратнику простому честь одна.</p>
+<p>Обидел кто тебя -- убей до смерти,</p>
+<p>Ответа нет.</p>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>Вот это хорошо.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>А если ты давнишнюю обиду,</p>
+<p>Хоть за десять годов, желаешь вспомнить</p>
+<p>И выместить, -- охотники сберутся,</p>
+<p>Товарищи, и вольною толпою</p>
+<p>Пойдут с тобой обидчика искать</p>
+<p>На дне морском, лишь покажи дорогу.</p>
+<empty-line/>
+<p>Mаксим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>И что ж потом?</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>И дом его сожгут,</p>
+<p>И самого на угольях изжарят,</p>
+<p>Разграбят все.</p>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>А где туда дорога?</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Я покажу.</p>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>Отец и благодетель!</p>
+<p>Дурак ли я, чтоб оставаться здесь.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Скурыгину тихо)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Еще один попался.</p>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>Ой, уйдет!</p>
+<p>Глядеть за ним.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Нет, этот не сорвется.</p>
+<empty-line/>
+<p>Входит Николай Редриков.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Mаксим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Ты, брат, совсем?</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Лишь сесть, да и поехать.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Кланяясь.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Приказывай, учи меня, ты старший,</p>
+<p>Родименький, ты мне в отцово место</p>
+<p>Я глуп еще и молод.</p>
+<empty-line/>
+<p>М. Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Эх, Никола!</p>
+<p>Живи себе как знаешь. Ты в Ростове</p>
+<p>Останешься надолго?</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Нет, я разом.</p>
+<p>Прощай, Максим.</p>
+<empty-line/>
+<p>Mаксим Редриков</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(обнимает)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Прощай, Никола.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Скоро</p>
+<p>Увидимся.</p>
+<empty-line/>
+<p>Mаксим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Ну, вряд ли!</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Ты на Пресню?</p>
+<empty-line/>
+<p>Mаксим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Я в Тушино.</p>
+<empty-line/>
+<p>Н. Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Господь с тобою, братец!</p>
+<p>Давно ль клялись служить мы государю,</p>
+<p>Давно ль отец проклятием грозил.</p>
+<p>Аль ты забыл? Подумай, образумься,</p>
+<p>Родимый мой.</p>
+<empty-line/>
+<p>Mаксим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Недавно мы клялися,</p>
+<p>Недавно мне отец грозил проклятьем,</p>
+<p>А я-то, брат, давно поклялся прежде.</p>
+<empty-line/>
+<p>H. Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Ты в чем же, брат, поклялся? Что за клятва</p>
+<p>Твоя была?</p>
+<empty-line/>
+<p>Mаксим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Что в Тушино уйду:</p>
+<p>Зачем уйду, про то узнаешь после.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Ну, как же быть-то, если по дороге</p>
+<p>Заеду я отца и мать проведать?</p>
+<p>Что я скажу? С каким лицом явиться</p>
+<p>Мне к матери-отцу? И ложь и правду</p>
+<p>Я вымолвить боюсь. Солгать грешно,</p>
+<p>А правда их сведет в могилу.</p>
+<empty-line/>
+<p>Mаксим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Вот что</p>
+<p>Скажи отцу: что я благословил</p>
+<p>Тебя служить царю Василью правдой,</p>
+<p>А сам пошел искать душе отрады,</p>
+<p>Свободушки плечам своим, простора</p>
+<p>И сердцу ретивому успокоя,</p>
+<p>Тоску свою, печаль по белу свету</p>
+<p>Размыкивать и вымещать обиды</p>
+<p>И старые и новые, большие</p>
+<p>И малые, свои и стариковы.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>А если мы с тобой на ратном поле</p>
+<p>Лицом к лицу сойдемся, как же руку</p>
+<p>Я подниму на кровного, родного!</p>
+<p>Родименький, подумай! Милый братец,</p>
+<p>Ты враг царю, ты враг земле родной.</p>
+<p>Щадить тебя грешно, убить -- так вдвое.</p>
+<empty-line/>
+<p>Mаксим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Да полно ты!</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Уж лучше ты при встрече</p>
+<p>Убей меня вперед.</p>
+<empty-line/>
+<p>Mаксим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Изволь, убью.</p>
+<p>Теперь прощай! И с Богом в путь-дорогу.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Уходит.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Остановись! Послушай! Братец, братец!</p>
+<p>Родимый мой! Меня-то на кого же</p>
+<p>Покинул ты!</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Становится на колени перед воротами.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>О Господи! за брата</p>
+<p>Молю тебя! Наставь его на разум!</p>
+<p>От гибели, от дьявольского кова</p>
+<p>Освободи заблудшую овцу!</p>
+<p>А если он злодейства не покинет,</p>
+<p>То не введи меня во искушенье,</p>
+<p>Ты разведи нас в разные концы</p>
+<p>И встретиться не дай на ратном поле!</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Встает.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>В Ростов теперь! Пошлет Господь, увижу</p>
+<p>Красавицу боярышню! Тоскует</p>
+<p>Душа по ней! Запрыгает сердечко</p>
+<p>От радости, когда из теремочка</p>
+<p>Хоть раз она приветно поглядит</p>
+<p>На бедного мальчишку-сиротинку.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Уходит в ворота.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Входят с разных сторон Максим Редриков и Савлуков.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Mаксим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Скажи ты мне, какой ты человек?</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>А помнишь ли, в дороге побранились</p>
+<p>И чуть с тобой не подрались.</p>
+<empty-line/>
+<p>Mаксим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Ну, помню.</p>
+<p>Считаться мы с тобой теперь не станем,</p>
+<p>А вот что, друг, ты будь мне вместо брата</p>
+<p>И всей семьи. Ты в Тушино когда же?</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Пойдем теперь. Мои коротки сборы.</p>
+<p>А ты готов ?</p>
+<empty-line/>
+<p>Mаксим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Готов хоть в преисподню,</p>
+<p>Хоть в Тушино, лишь только б не на Пресню.</p>
+<empty-line/>
+<p>Уходят.</p>
+<empty-line/>
+<empty-line/>
+<p><strong>СЦЕНА ЧЕТВЕРТАЯ</strong></p>
+<empty-line/>
+<p>ЛИЦА:</p>
+<empty-line/>
+<p>Предводители шаек под начальством пана Лисовского:</p>
+<p>Епифанец, атаман донской.</p>
+<p>Чика, прозванием "Четыре здоровья", атаман терский.</p>
+<p>Беспута, боярский сын.</p>
+<p>Асан-Ураз, романовский мурза.</p>
+<empty-line/>
+<p>Савлуков.</p>
+<p>Максим Редриков.</p>
+<p>Николай Редриков.</p>
+<p>Скурыгин.</p>
+<p>Старик священник.</p>
+<p>Тушинцы разных наций: венгры, поляки, немцы, запорожцы, казаки донские, боярские дети, холопы, крестьяне.</p>
+<empty-line/>
+<p>Часть тушинского стана. Плетневые сараи, землянки, избы, позади высокий вал. Несколько тушинцев сидят в кружке, посередине скоморох.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Скоморох</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(поет)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Напала пороша</p>
+<p>На талую землю,</p>
+<p>По той по пороше</p>
+<p>Что семеро саней,</p>
+<p>По семеро в санях.</p>
+<p>Как первые сани</p>
+<p>Ларька на Карьке.</p>
+<p>Вторые-то сани</p>
+<p>Гришка на Рыжке.</p>
+<empty-line/>
+<empty-line/>
+<p>Входят двое тушинцев.</p>
+<empty-line/>
+<empty-line/>
+<p>Первый тушинец</p>
+<p>С добычею вернулся Епифанец.</p>
+<p>Запас везут и полону пригнали.</p>
+<p>Второй тушинец</p>
+<p>Хорош полон! крестьянишек голодных,</p>
+<p>Пяток старух да старого попа.</p>
+<empty-line/>
+<p>Тушинцы расходятся. Входят Епифанец, Ураз, шайка разного сброда, связанные пленные крестьяне и старый священник.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>Беспуту вы не троньте, не будите!</p>
+<empty-line/>
+<p>Казак</p>
+<empty-line/>
+<empty-line/>
+<p>Проснулся он, ругается, что связан.</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>Так развязать скорее.</p>
+<empty-line/>
+<p>Казак</p>
+<empty-line/>
+<empty-line/>
+<p>Развязали.</p>
+<empty-line/>
+<p>Входит Беспута.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Жить не мило кому-то! Как посмели</p>
+<p>Связать меня?</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>А ты скажи спасибо.</p>
+<p>Я приказал, а то б не жить тебе,</p>
+<p>Болтаться бы на дереве, иль кожу</p>
+<p>Крестьянишки содрали. Ты, Беспута,</p>
+<p>Не бражничай! Сначала кончи дело,</p>
+<p>Потом гуляй!</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Велико дело грабить!</p>
+<p>Что пьянство, что грабеж -- одно и то же.</p>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<p>Не так сказал! Украл, когда не надо,</p>
+<p>Не хорошо! А нечего кусать,</p>
+<p>Воруй баран! Не грех!</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Тебе ль, татарин,</p>
+<p>Учить меня: какое дело грех</p>
+<p>И что не грех! Ты что мне за указчик!</p>
+<p>Собака ты, а я крещеной веры!</p>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<p>Не надо так! Наш Бог один!</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>Беспута,</p>
+<p>Ты сам себя и сотню всю погубишь.</p>
+<p>Коль хочешь пить, не пропивай ума.</p>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<p>Ума кончАл и голова кончАл.</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>А ты вчера и ум и память пропил.</p>
+<p>Мы далеко зашли, кругом чужие.</p>
+<p>Тут некогда копаться! Взял что надо,</p>
+<p>Беги домой, покуда не догнали,</p>
+<p>А ты резню и буйство затеваешь!</p>
+<p>Ненужное кроворазлитье деешь!</p>
+<p>Губил детей грудных, рубил на части,</p>
+<p>Как бешеный из дома в дом кидался,</p>
+<p>Избу зажег. Уж мы тебя связали</p>
+<p>Да увезли; а надо бы на муку</p>
+<p>Отдать тебя отцам и матерям.</p>
+<p>Ты берегись, дойдет до государя</p>
+<p>Димитрия Иваныча твое</p>
+<p>Дурачество, спасиба он не скажет.</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Не говори! В меня посажен дьявол,</p>
+<p>Да не один, а может, много их.</p>
+<p>В своем нутре я слышу разговоры,</p>
+<p>Я сам молчу, а он во мне хохочет.</p>
+<p>И в те поры зальется сердце кровью,</p>
+<p>По телу дрожь, а волос станет дыбом,</p>
+<p>В глазах круги зеленые и искры,</p>
+<p>И бесенята маленькие скачут;</p>
+<p>Мне кровь тогда, что пьяному похмелье;</p>
+<p>Готов пролить я реки алой крови.</p>
+<p>И чем слабей, чем ворог мой бессильней,</p>
+<p>Тем слаще мне губить его и мучить.</p>
+<p>Что ж делать мне!</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>Я сам врагов гублю,</p>
+<p>Да только тех, кто борется со мною.</p>
+<p>На то война! А безоружных мучить</p>
+<p>Лишь только грех один. Ведь мы не волки</p>
+<p>Голодные, не псы!</p>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<p>Бирюк -- не батырь.</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Я есть хочу.</p>
+<empty-line/>
+<p>Казак</p>
+<empty-line/>
+<empty-line/>
+<p>Барана облупили</p>
+<p>И на рожон воткнули.</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Епифанец,</p>
+<p>Садись за стол.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Уразу.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Садись, кочан капустный!</p>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<p>Не надо так! Такой не надо шутка!</p>
+<p>Я убивал за то!</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Вина бочонок</p>
+<p>Кати сюда! Налей в мою братину</p>
+<p>И ковш пусти.</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>Не пей вина, Беспута!</p>
+<p>Ты во хмелю нескладен.</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Ну, свяжите</p>
+<p>Опять меня! Давай полон разделим.</p>
+<p>Плакучих баб не надо мне. На долю</p>
+<p>Я мужиков возьму, к коням приставлю.</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>А я возьму товар дешевый -- баб;</p>
+<p>Придут мужья, дадут хоть по копейке.</p>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<p>А мне старик отдай!</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Тебе на что же?</p>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<p>Ходи-гуляй пущу. Он Богу служит.</p>
+<empty-line/>
+<p>Входит Скурыгин, за ним Чика и Николай Редриков связанный.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>Товариство почтенное! Грозится</p>
+<p>Убить меня!</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>За что? коли за дело,</p>
+<p>Пускай убьет.</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>Ты, атаман, не трогай</p>
+<p>Скурыгина. Он нам вперед годится</p>
+<p>В шишах служить.</p>
+<empty-line/>
+<p>Чика</p>
+<empty-line/>
+<empty-line/>
+<p>Ему нужна наука!</p>
+<p>Ты к лыцарству казацкому ни шагу!</p>
+<p>Ходи вокруг да около.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Садится, пьет и ест.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>Судите</p>
+<p>Вы, головы и атаманы, чем же</p>
+<p>Я лыцарей обидел? Говорю я,</p>
+<p>Что плохо мы царю и государю</p>
+<p>Димитрию Иванычу радеем!</p>
+<p>Пошли ему Господь в делах удачи,</p>
+<p>И счастия, и всякого талану,</p>
+<p>И дай ему Господь свой стол московский</p>
+<p>И родовые царства доступить,</p>
+<p>И дай ему победу, одоленье,</p>
+<p>Создай ему...</p>
+<empty-line/>
+<p>Чика</p>
+<empty-line/>
+<empty-line/>
+<p>Ты полно распинаться!</p>
+<p>Приказная, продажная душа!</p>
+<p>Не смеешь ты казакам-атаманам</p>
+<p>Указывать ни в чем.</p>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>Мое раденье</p>
+<p>Великое известно государю.</p>
+<p>Судите нас! Казаки изловили</p>
+<p>На троицкой дороге молодца.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Указывая на Николая Редрикова.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>А я божусь, сквозь землю провалиться,</p>
+<p>Что он гонец царев; его поймали,</p>
+<p>А грамоты царевой не нашли;</p>
+<p>А я его в Москве недавно видел,</p>
+<p>Сбирался он в Ростов, и верно знаю,</p>
+<p>Что грамоты он вез.</p>
+<empty-line/>
+<p>Чика</p>
+<empty-line/>
+<empty-line/>
+<p>Куда ж им деться?</p>
+<p>Где грамоты?</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Не знаю. Я, боярин,</p>
+<p>К родным бежал от службы из Москвы.</p>
+<p>Ты, дяденька, не обижай сиротку!</p>
+<p>Ты добренький!</p>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>Ты сказочник, я вижу.</p>
+<p>Пытать его!</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Пытайте, коль хотите,</p>
+<p>Невинного. Теперь я в вашей воле;</p>
+<p>В чужом стану, один, защиты нет,</p>
+<p>Одна защита -- матушки молитва</p>
+<p>Перед Творцом. Хоть до смерти замучьте,</p>
+<p>Родимые, а не в чем повиниться.</p>
+<p>Не стану лгать. За правду мне не страшно</p>
+<p>И умереть.</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>Вот молодец какой!</p>
+<p>А сколько лет тебе?</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Годков осьмнадцать.</p>
+<empty-line/>
+<p>Чика</p>
+<empty-line/>
+<empty-line/>
+<p>Ну, из тебя иль добрый парень выдет,</p>
+<p>Иль уж такой разбойник, что на диво.</p>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>Он вор прямой.</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>А вот мы завтра к князю</p>
+<p>Рощинскому сведем его. На дыбе</p>
+<p>Он скажет все.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Ведите, ваше дело.</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>Теперь пока в землянку запереть.</p>
+<empty-line/>
+<p>Николая Редрикова уводят казаки.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Чике)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Ты на слова мои не обижайся,</p>
+<p>Не про тебя я говорю, про всех.</p>
+<p>Зачем мы здесь стоим -- давно пора бы</p>
+<p>В Москве нам быть. Я сам вчера оттуда.</p>
+<p>В народе рознь, а мы сидим, зеваем.</p>
+<p>Стараюсь я один; уж я не мало</p>
+<p>По площадям московским надрывался,</p>
+<p>Уму учил и в чувство приводил.</p>
+<p>Хотят идти с повинной к государю</p>
+<p>Димитрию Иванычу. За службу</p>
+<p>Пожалуют иль нет,-- не знаю. Яну,</p>
+<p>Петр Павлычу Сапеге, нынче утром</p>
+<p>Докладывал, какие атаманы</p>
+<p>Нам Красное село сдадут, какие</p>
+<p>Провесть хотят за деревянный город</p>
+<p>Лазейка есть, лазейку мы сыскали.</p>
+<p>И кланялся я гетману и князю</p>
+<p>Явить мое раденье государю,</p>
+<p>Чтоб ведомо ему старанье было</p>
+<p>И неусыпный труд.</p>
+<empty-line/>
+<p>Чика</p>
+<empty-line/>
+<empty-line/>
+<p>Тебе бы встряску</p>
+<p>Хорошую задать, ты больше скажешь.</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>Ну, на тебе за службу ковш вина.</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Уразу)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Давай играть, татарин.</p>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<p>Деньга мало.</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>A денег нет, отдашь живым товаром,</p>
+<p>Возьму полон.</p>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<p>Якши! Давай играем!</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(вынимает деньги, играют в зернь)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Ведь знаю я, что некрещеным счастье,</p>
+<p>Талан во всем, а все с тобой играю,</p>
+<p>С татарином. Бери!</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Подвигает деньги.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<p>Играй еще!</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(играет)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Тащи опять!</p>
+<empty-line/>
+<p><emphasis>(Подвигает деньги.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<p>Играй еще!</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Сыграем!</p>
+<p>В последний раз.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Играют.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Подай сюда!</p>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<p>Еще!</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Опять мое.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Берет деньги.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<p>Играй еще!</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Да с чем же</p>
+<p>Играть тебе? На старика сыграем?</p>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<p>Играй, играй!</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Поди сюда, старик.</p>
+<p>Мы на тебя играем. Что, татарин!</p>
+<p>Он мой теперь.</p>
+<empty-line/>
+<p>Старик кланяется.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<p>Пожалуста, играй!</p>
+<p>Посля отдам.</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Без денег не играю.</p>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<p>Пожалуста.</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Пошел! Гулять хочу!</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Пьет.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>А ты, старик, нам песни пой, да громче!</p>
+<p>Плясать горазд, найдем тебе плясунью,</p>
+<p>И тешьте нас.</p>
+<empty-line/>
+<p>Священник</p>
+<empty-line/>
+<empty-line/>
+<p>Мирских не знаю песен.</p>
+<p>Мои уста поют Господню славу</p>
+<p>В святых церквах; в разбойничьем вертепе</p>
+<p>Не осквернюсь я срамным празднословьем.</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>Пусти его.</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Он будет петь, увидишь!</p>
+<p>Он мой теперь, я выиграл его!</p>
+<p>И что хочу, то и заставлю делать.</p>
+<p>Ну, пой, старик, а то убью!</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Вынимает пистолет.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Священник</p>
+<empty-line/>
+<empty-line/>
+<p>Ты глупый</p>
+<p>И жалости достойный человек!</p>
+<p>Я Господа боюсь, а ты не страшен.</p>
+<p>Я для тебя губить души не стану.</p>
+<p>А что мне смерть! Давно прошу у Бога</p>
+<p>От бренных уз, от старческою тела</p>
+<p>Освободить тоскующую душу,</p>
+<p>О житии небесном.</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Если просишь,</p>
+<p>Так ты давно б сказал.</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>Беги, спасайся!</p>
+<empty-line/>
+<p>Священник</p>
+<empty-line/>
+<empty-line/>
+<p>Куда бежать! От смерти не уйдешь.</p>
+<empty-line/>
+<p>Беспута стреляет. Старик падает.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<p>Зачем убил? Зачем убил? Не надо</p>
+<p>Убил его.</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>И ты того ж дождешься.</p>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Чике)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Хватай его!</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>Вяжите кушаками.</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Татарин, прочь! Убью тебя, собаку!</p>
+<empty-line/>
+<p>Чика</p>
+<empty-line/>
+<empty-line/>
+<p>Не вырвешься из наших рук железных.</p>
+<p>С татарином мы двое черта свяжем,</p>
+<p>Недаром мне прозвание "Четыре</p>
+<p>Здоровья". Так скрутим его, что любо.</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Дождусь же я, не все же буду связан.</p>
+<p>Из-за угла перестреляю всех.</p>
+<empty-line/>
+<p>Чика</p>
+<empty-line/>
+<empty-line/>
+<p>Доводишь сам. Проспишься, позабудешь.</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(лежит связанный)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Проклятые! Чтоб провалиться вам</p>
+<p>Со всем гнездом разбойничьим! Разверзись,</p>
+<p>Сыра-земля, до самой преисподней</p>
+<p>И поглоти воров проклятых стаю</p>
+<p>И первого меня!</p>
+<empty-line/>
+<p>Чика</p>
+<empty-line/>
+<empty-line/>
+<p>Вот это ладно,</p>
+<p>Что не забыл себя.</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Я околеть-то</p>
+<p>Давно бы рад, да только вместе с вами.</p>
+<p>Я рад кипеть в смоле, в горячей сере,</p>
+<p>Да только б знать, что ты сидишь со мною</p>
+<p>В одном котле. Я боль свою забуду.</p>
+<p>И дьяволов-мучителей потешу</p>
+<p>Я хохотом над мукою твоей.</p>
+<empty-line/>
+<p>Входят Савлуков и М. Редриков; Беспута скоро засыпает.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Товарищи, о чем шумите?</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Осматривается.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Мертвый</p>
+<p>И связанный! Не можем мы без драки</p>
+<p>И смертного убийства выпить чарку.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Редрикову.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Теперь и ты с волками вой по-волчьи.</p>
+<p>И сам дерись, и пей, и нашу волю</p>
+<p>Не осуждай.</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Мне это ничего!</p>
+<p>Я зарожден на зло. На свет с зубами</p>
+<p>Родился я, меня не испугаешь.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Вы, головы и атаманы, братья!</p>
+<p>Вот новый наш товарищ -- молодец!</p>
+<p>Покинул он изменнический город</p>
+<p>И целовал сегодня крест на службу</p>
+<p>Природному царю и государю</p>
+<p>Димитрию Иванычу.</p>
+<empty-line/>
+<p>Чика</p>
+<empty-line/>
+<empty-line/>
+<p>Откуда</p>
+<p>И кто таков ты?</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Редриков Максим.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Он дворянин московский.</p>
+<empty-line/>
+<p>Чика</p>
+<empty-line/>
+<empty-line/>
+<p>Ну и ладно.</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>Вот мы его пригоним в кашу веру</p>
+<p>И окрестим. Давайте ковш вина!</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Наливает.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Ну, пей, да только весь смотри!</p>
+<p>О здравье Царя Димитрия всея Руссии.</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>О здравии царя и государя</p>
+<p>Димитрия всея Руссии.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Верой</p>
+<p>И правдой служи царю и нам,</p>
+<p>Товарищам! Отца и мать покинуть</p>
+<p>И всю родню забыть, а доведется,</p>
+<p>Губить и их, как недругов царевых,</p>
+<p>Клянись!</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Клянусь!</p>
+<empty-line/>
+<p>Чика</p>
+<empty-line/>
+<empty-line/>
+<p>Ну, Бог тебе на помочь!</p>
+<p>Ты наш теперь!</p>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<p>Ни бачка нет, ни мачка.</p>
+<p>Твой бачка царь, а мачка нож-булат.</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>Мы наберем холопов беглых сотню,</p>
+<p>И в сотники тебя тотчас поставим.</p>
+<p>А вот тебе на первый раз и служба:</p>
+<p>Стеречь полон, всю ночь ходить дозором</p>
+<p>По куреням, чтоб стража не дремала.</p>
+<p>А молодца в землянке пуще глазу</p>
+<p>Ты береги, он завтра нужен нам.</p>
+<p>Ну, спать пора, пойдемте, атаманы.</p>
+<empty-line/>
+<p>Уходят.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Эх, волюшка! Кому ты не мила!</p>
+<p>Удалых ты до Тушина доводишь,</p>
+<p>По сердцу мне веселое житье!</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Поет.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Прикажи-ка нам, хозяин,</p>
+<p>Поскакать, поплясать,</p>
+<p>Поскакать, поплясать,</p>
+<p>Про все городы сказать!</p>
+<p>И про верхни городки,</p>
+<p>И про низовые.</p>
+<empty-line/>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis> (из землянки)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Максим! Максим!</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(оборачиваясь)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Чего? Знакомый голос,</p>
+<p>А никого не видно.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Я в землянке,</p>
+<p>Поди ко мне.</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(подходя)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Ты как сюда попал?</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Пусти, скажу.</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Тебя беречь велели.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Запрешь опять.</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Ну, выходи на волю.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Отворяет землянку. Николай Редриков выходит.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Рассказывай, потом опять в землянку</p>
+<p>Запру тебя, сиди да утра жди.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Попался я казакам на дороге.</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>А грамоты?</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>У Троицы теперь.</p>
+<p>Я отдал их старухам богомолкам,</p>
+<p>Зачуявши погоню. Завтра утром</p>
+<p>О грамотах сведут меня к допросу</p>
+<p>И накрепко пытать хотят.</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Что ж делать!</p>
+<p>Не будь дурак, вперед не попадайся!</p>
+<p>Садись опять в землянку, дожидайся</p>
+<p>Судьбы своей.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Садится к столу, берет кости, в которые играли.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Постой, я погадаю.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>О чем, Максим?</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Пустить тебя аль нет?</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Да как пустить! А крестно целованье!</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Толкуй еще! Уж за одно грешить,</p>
+<p>Я утверждался крестным целованьем</p>
+<p>Двоим царям служить: в Москве Василью,</p>
+<p>А в Тушине Димитрию. Василья</p>
+<p>Я обманул, а этот чем же лучше?</p>
+<p>Тебя-то жаль, ты больно молод, парень,</p>
+<p>И отпустить беда, спина в ответе,</p>
+<p>А неравно и голову долой.</p>
+<p>Поди садись в землянку, я опосле</p>
+<p>Поворожу, пустить тебя аль нет.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Запирает землянку и уходит.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p><strong>СЦЕНА ПЯТАЯ</strong></p>
+<empty-line/>
+<p>ЛИЦА:</p>
+<empty-line/>
+<p>Дмитрий, тушинский вор.</p>
+<p>Князь Рожинский, великий гетман.</p>
+<p>Ян Петр Павлович Сапега, начальник особого отряда.</p>
+<p>Князь Трубецкой.</p>
+<p>Князь Масальский.</p>
+<p>Максим Редриков.</p>
+<p>Сафонов, дьяк.</p>
+<p>Коморник.</p>
+<p>Свита самозванца из московских выходцев и поляков.</p>
+<empty-line/>
+<p>Передний покой в тушинском дворце. Входят Рожинский, Сапега и коморник.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Коморник</p>
+<empty-line/>
+<empty-line/>
+<p>Нельзя входить! Не велено!</p>
+<empty-line/>
+<p>Рожинский</p>
+<empty-line/>
+<empty-line/>
+<p>Холоп,</p>
+<p>С дороги прочь!</p>
+<empty-line/>
+<p>Коморник</p>
+<empty-line/>
+<empty-line/>
+<p>Не выходил из бани</p>
+<p>Великий царь.</p>
+<empty-line/>
+<p>Рожинский</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(толкая его)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Пошел! Я царский гетман,</p>
+<p>Когда входить к нему, я знаю сам.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Сапеге.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Пришли мы рано, в бане царь московский.</p>
+<empty-line/>
+<p>Сапега</p>
+<empty-line/>
+<empty-line/>
+<p>Трудов ему довольно по утрам,</p>
+<p>То молится, то в бане кости парит.</p>
+<p>Вот мы с тобой всю ночь гуляли-пили,</p>
+<p>А на ногах давно.</p>
+<empty-line/>
+<p>Рожинский</p>
+<empty-line/>
+<empty-line/>
+<p>Ты, пан Сапега,</p>
+<p>Не позабыл вчерашних разговоров?</p>
+<empty-line/>
+<p>Сапега</p>
+<empty-line/>
+<empty-line/>
+<p>Не позабыл.</p>
+<empty-line/>
+<p>Рожинский</p>
+<empty-line/>
+<empty-line/>
+<p>Хоть мы и побратались</p>
+<p>И саблями с тобою поменялись,</p>
+<p>А в Тушине двоим героям тесно,</p>
+<p>Соперников я не люблю, ты знаешь.</p>
+<p>Ходынское и Пресненское поле</p>
+<p>Прославлю я своим геройством; ты же</p>
+<p>Ищи себе урочища другие</p>
+<p>Для подвигов; Россия велика.</p>
+<empty-line/>
+<p>Сапега</p>
+<empty-line/>
+<empty-line/>
+<p>Уж я нашел. Не бойся, пан Рожинский,</p>
+<p>Друг другу мы с тобой не помешаем.</p>
+<p>Бери Москву, сажай царя на трон</p>
+<p>И управляй Московским государством!</p>
+<p>А я для вас возьму другие замки,</p>
+<p>Восточные, и путь к богатой Волге</p>
+<p>Очищу вам.</p>
+<empty-line/>
+<p>Рожинский</p>
+<empty-line/>
+<empty-line/>
+<p>Великою помехой</p>
+<p>Стоит гнездо монахов на дороге,</p>
+<p>Как вороны из каменного гроба,</p>
+<p>Они и днем и ночью стерегут</p>
+<p>И разбивают царские разъезды,</p>
+<p>И Шуйского обозы прикрывают.</p>
+<p>Под рясами седые старики</p>
+<p>Страшнее нам всей рати. Этот замок</p>
+<p>Должны мы взять.</p>
+<empty-line/>
+<p>Сапега</p>
+<empty-line/>
+<empty-line/>
+<p>Не замок, а лукошко</p>
+<p>Лубочное: я разорю его</p>
+<p>И выгоню ворон. Мы, князь Рожинский,</p>
+<p>Творим дела великие: мы царства</p>
+<p>Обширные берем, на трон сажаем</p>
+<p>Кого хотим, nostra armata manu</p>
+<p>Id facimus. Мы римляне, Рожинский;</p>
+<p>Romani sumus.</p>
+<empty-line/>
+<p>Рожинский</p>
+<empty-line/>
+<empty-line/>
+<p>Что romani! Дрянь!</p>
+<p>Мы лучше их! Однако, пан Сапега,</p>
+<p>Вчерашний хмель гуляет в голове.</p>
+<p>То у тебя, то у меня пиры;</p>
+<p>Ты уезжай скорей, а то сопьемся.</p>
+<empty-line/>
+<p>Сапега</p>
+<empty-line/>
+<empty-line/>
+<p>Пируем мы сегодня у царицы,</p>
+<p>Красавицы, моей богини.</p>
+<empty-line/>
+<p>Рожинский</p>
+<empty-line/>
+<empty-line/>
+<p>Что-то</p>
+<p>Не по нутру твоя богиня мне</p>
+<p>И льстивая родня ее.</p>
+<empty-line/>
+<p>Сапега</p>
+<empty-line/>
+<empty-line/>
+<p>Сегодня</p>
+<p>Последний пир, а завтра и в поход.</p>
+<p>Насмотримся, как Юрий Мнишек будет</p>
+<p>Перед царем хитрить и унижаться,</p>
+<p>И дочери кивать, и знаки делать,</p>
+<p>Чтобы была поласковее с мужем.</p>
+<p>Ведь ласки дочери царю он продал</p>
+<p>За триста тысяч, -- выгодная сделка!</p>
+<p>Послушаем, как царь устав церковный</p>
+<p>И весь псалтырь читает наизусть,</p>
+<p>И величает братом Сигизмунда.</p>
+<empty-line/>
+<p>Рожинский</p>
+<empty-line/>
+<empty-line/>
+<p>Мне мочи нет, я слышать не могу!</p>
+<p>Какой он брат ему! Такие речи</p>
+<p>На Господа хула. У Сигизмунда</p>
+<p>И конюхи его такого братства</p>
+<p>Не захотят.</p>
+<empty-line/>
+<p>Сапега</p>
+<empty-line/>
+<empty-line/>
+<p>Тихонько! Здесь бояре!</p>
+<empty-line/>
+<p>Входят князья Трубецкой и Масальский и прочие выходцы, подают Сапеге руки. Рожинский руки не дает, а слегка кивает головою. Входит Дмитрий; его ведут под руки двое московских выходцев из стольников.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Дмитрий</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(садясь на трон)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Нам сказывал наш гетман, князь Рожинский,</p>
+<p>Что Ян Сапега, староста Усвятский,</p>
+<p>Покинуть нас желает?</p>
+<empty-line/>
+<p>Рожинский</p>
+<empty-line/>
+<empty-line/>
+<p>Он для пользы</p>
+<p>Твоей идет, великий государь,</p>
+<p>Врагов твоих разить, громить твердыню</p>
+<p>Противников твоих.</p>
+<empty-line/>
+<p>Дмитрий</p>
+<empty-line/>
+<empty-line/>
+<p>Ты, князь Рожинский,</p>
+<p>Не так сказал. Идет громить Сапега</p>
+<p>Великую святыню православных,</p>
+<p>Святой оплот поборников Христовых,</p>
+<p>Воздвигнутый отцом моим Иваном..</p>
+<p>Мы, русские, святыню почитаем,</p>
+<empty-line/>
+<p>Рожинский</p>
+<empty-line/>
+<empty-line/>
+<p>Изменникам святыня не защита.</p>
+<empty-line/>
+<p>Дмитрий</p>
+<empty-line/>
+<empty-line/>
+<p>Желаю я в таком великом деле</p>
+<p>Своих бояр, природных русских, слышать</p>
+<p>Совет прямой! Скажите мне, бояре,</p>
+<p>Достойно ли московскому царю,</p>
+<p>Блюстителю единой, православной,</p>
+<p>Незыблемой и непорочной церкви,</p>
+<p>Отдать свою святыню вековую</p>
+<p>В разор и поруганье иноземцам?</p>
+<empty-line/>
+<p>Князь Масальский</p>
+<empty-line/>
+<empty-line/>
+<p>Не видано у нас такое дело</p>
+<p>Спокон веков.</p>
+<empty-line/>
+<p>Дмитрий</p>
+<empty-line/>
+<empty-line/>
+<p>Ты слышишь, князь Рожинский?</p>
+<empty-line/>
+<p>Трубецкой</p>
+<empty-line/>
+<empty-line/>
+<p>Не трогай Троицы Живоначальной</p>
+<p>Монастыря святого! Не милует</p>
+<p>Господень гнев за то. Побойся Бога,</p>
+<p>Великий царь и государь Димитрий</p>
+<p>Иванович.</p>
+<empty-line/>
+<p>Дмитрий</p>
+<empty-line/>
+<empty-line/>
+<p>Я слышу глас народа</p>
+<p>В речах бояр моих. Народ московский</p>
+<p>Заговорит, что я не чту святыни.</p>
+<empty-line/>
+<p>Рожинский</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(с нетерпением)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Сапега ждет приказа твоего.</p>
+<empty-line/>
+<p>Сапега</p>
+<empty-line/>
+<empty-line/>
+<p>Не двинусь я без воли государя.</p>
+<empty-line/>
+<p>Дмитрий</p>
+<empty-line/>
+<empty-line/>
+<p>Вы слышали. Какого вам приказа?</p>
+<p>И что еще сказать могу ?</p>
+<empty-line/>
+<p>Рожинский</p>
+<empty-line/>
+<empty-line/>
+<p>Ты скажешь,</p>
+<p>Чтоб собрался, не мешкая, Сапега</p>
+<p>К монастырю; своим боярам новым</p>
+<p>Молчать велишь, иль я молчать заставлю</p>
+<p>По-своему.</p>
+<empty-line/>
+<p>Дмитрий</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(обидевшись, боярам)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Мой гетман лучше знает,</p>
+<p>Что делать мне и говорить.</p>
+<empty-line/>
+<p>Рожинский</p>
+<empty-line/>
+<empty-line/>
+<p>Еще бы!</p>
+<p>Я знаю все. Ты царь благочестивый</p>
+<p>И Троицкий старинный монастырь</p>
+<p>Ты уберечь и сохранить желаешь.</p>
+<p>Да твой ли он? Он Шуйского покуда,</p>
+<p>И в нем враги твои сидят. Ты хочешь,</p>
+<p>Чтоб у тебя была святыня эта,</p>
+<p>Так надо взять ее -- и мы возьмем.</p>
+<p>Вот мысль твоя. Ну, с Богом, пан Сапега,</p>
+<p>Сбирайся в путь.</p>
+<empty-line/>
+<p>Дмитрий</p>
+<empty-line/>
+<empty-line/>
+<p>С тобой пойдут поляки?</p>
+<empty-line/>
+<p>Сапега</p>
+<empty-line/>
+<empty-line/>
+<p>И русские.</p>
+<empty-line/>
+<p>Дмитрий</p>
+<empty-line/>
+<empty-line/>
+<p>Не верю.</p>
+<empty-line/>
+<p>Сапега</p>
+<empty-line/>
+<empty-line/>
+<p>Пан Лисовский</p>
+<p>Идет со мной и с ним шесть тысяч русских,</p>
+<p>Да я возьму с собой людей охочих.</p>
+<empty-line/>
+<p>Дмитрий</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(с важностью)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Ну, если так, иди! Мы, царь Димитрий</p>
+<p>Иванович, московский и всей Руси,</p>
+<p>Всех царств и княжеств наших самодержец,</p>
+<p>Единый, Богом данный и хранимый,</p>
+<p>Помазанный и вознесенный Богом</p>
+<p>Над прочими царями и, подобно</p>
+<p>Израилю, ведомый высшей силой,</p>
+<p>Единый христианский царь с востока</p>
+<p>До запада, и многих государств</p>
+<p>Самодержавный повелитель, ныне</p>
+<p>Тебе, Ян Петр Сапега, указали</p>
+<p>Идти войной на царских супостатов,</p>
+<p>Сидельцев Троицы Живоначальной</p>
+<p>Монастыря, и промышлять над ними.</p>
+<p>Поди к руке моей.</p>
+<empty-line/>
+<p>Сапега кланяется.</p>
+<empty-line/>
+<empty-line/>
+<p>Повелеваем</p>
+<p>Тебе, наш думный дьяк Денис Сафонов.</p>
+<p>И написать, и в войске объявить</p>
+<p>Охочим людям, буде пожелают,</p>
+<p>Идти с Петром Сапегою на наших</p>
+<p>Изменников, которые доселе</p>
+<p>Челом мне, государю, не добили</p>
+<p>И вин своих не принесли; пусть идут,</p>
+<p>Надежные на милости господни</p>
+<p>И Богородицы его пречистой,</p>
+<p>Великого Николы-чудотворца,</p>
+<p>И жалованье царско неисчетно</p>
+<p>Великое мое.</p>
+<empty-line/>
+<p><emphasis>(Рожинскому.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Великий гетман.</p>
+<p>В моем стану и войске все ль спокойно?</p>
+<empty-line/>
+<p>Рожинский</p>
+<empty-line/>
+<empty-line/>
+<p>Великий царь, давно пора тебе</p>
+<p>Сидеть в Москве на дедовских престолах,</p>
+<p>А здесь пока во временном стоянье,</p>
+<p>Под Тушином селом, и день вчерашний,</p>
+<p>И ночь прошли, Бог дал, благополучно.</p>
+<p>Нельзя сказать, чтоб вовсе без греха,</p>
+<p>А не было беды большой. Казаки</p>
+<p>Московского гонца вчера поймали</p>
+<p>И отдали его на береженье</p>
+<p>Из выходцев московских дворянину,</p>
+<p>А тот его не устерег.</p>
+<empty-line/>
+<p>Дмитрий</p>
+<empty-line/>
+<empty-line/>
+<p>Повесить!</p>
+<empty-line/>
+<p>Рожинский</p>
+<empty-line/>
+<empty-line/>
+<p>Поссорился вчера Буявский ротмистр</p>
+<p>С товарищем за дружеской попойкой</p>
+<p>И во хмелю убил до смерти.</p>
+<empty-line/>
+<p>Дмитрий</p>
+<empty-line/>
+<empty-line/>
+<p>На-ко!</p>
+<empty-line/>
+<p>Рожинский</p>
+<empty-line/>
+<empty-line/>
+<p>Мы строгостью такою всех разгоним.</p>
+<p>Буявского, я думаю, простить.</p>
+<p>Поляки нам за жалованье служат,</p>
+<p>Они пришли на помощь -- наши гости,</p>
+<p>А не рабы, мы жалованье прежде</p>
+<p>Должны отдать.</p>
+<empty-line/>
+<p>Дмитрий</p>
+<empty-line/>
+<empty-line/>
+<p>И отдадим в Москве.</p>
+<empty-line/>
+<p>Рожинский</p>
+<empty-line/>
+<empty-line/>
+<p>О деньгах речь, так жди; а за провинность</p>
+<p>Казнить сейчас, -- какая ж будет правда!</p>
+<p>И кто ж служить поедет к нам из Польши?</p>
+<empty-line/>
+<p>Дмитрий</p>
+<empty-line/>
+<empty-line/>
+<p>А кто ж из русских в Тушино пойдет,</p>
+<p>Когда казнить мы будем только русских</p>
+<p>И миловать поляков виноватых.</p>
+<p>Полякам ты заступник, а за русских</p>
+<p>Не вымолвишь и слова. Виноваты</p>
+<p>Равно они, равно достойны казни;</p>
+<p>Коль миловать, так надобно обоих.</p>
+<empty-line/>
+<p>Сапега</p>
+<empty-line/>
+<empty-line/>
+<p>Рожинский-князь, проси за поляка,</p>
+<p>А я челом за русского ударю.</p>
+<p>Мне русские нужней; я в сердце Руси</p>
+<p>Веду войну; разведать путь-дорогу</p>
+<p>И корм найти свои скорее могут,</p>
+<p>И лишнему я рад. Не сотню тысяч</p>
+<p>Веду с собой, мне каждый ратник дорог.</p>
+<p>Великий царь, пусти его со мною</p>
+<p>Под Троицу!</p>
+<empty-line/>
+<p>Рожинский</p>
+<empty-line/>
+<empty-line/>
+<p>Ждут милости иль казни</p>
+<p>Буявский пан и Редриков Максим</p>
+<p>У твоего крыльца.</p>
+<empty-line/>
+<p>Дмитрий</p>
+<empty-line/>
+<empty-line/>
+<p>Привесть виновных.</p>
+<empty-line/>
+<p>Вводят Максима Редрикова и поляка.</p>
+<empty-line/>
+<empty-line/>
+<p>Хоть оба вы, за ваши воровства,</p>
+<p>И довелись до лютой смертной казни,</p>
+<p>Для радости свидания с женой,</p>
+<p>Мариной Юрьевной всея России,</p>
+<p>Прощаю вас.</p>
+<empty-line/>
+<p>Кланяются.</p>
+<empty-line/>
+<empty-line/>
+<p>Спроси его, Сафонов,</p>
+<p>Пойдет ли он под Троицу с Сапегой</p>
+<p>Охотою?</p>
+<empty-line/>
+<p>Сафонов</p>
+<empty-line/>
+<empty-line/>
+<p>По царскому указу</p>
+<p>Петр Павлович Сапега, царский ротмистр,</p>
+<p>Войной идет на недругов, сидельцев</p>
+<p>У Троицы в обители святой,</p>
+<p>И вольно звать ему людей охочих.</p>
+<p>Ты, Редриков, желаешь ли идти</p>
+<p>Под Троицу и крепко, нерушимо</p>
+<p>Стоять против врага, и всякий поиск,</p>
+<p>И тесноту чинить по силе-мочи?</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>А что ж нейти?</p>
+<empty-line/>
+<p>Сафонов</p>
+<empty-line/>
+<empty-line/>
+<p>Святыни не боишься?</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Уж заодно мне Богу отвечать.</p>
+<p>Коль в Тушино пошел, так, значит, Бога</p>
+<p>Не побоюсь.</p>
+<empty-line/>
+<p>Сафонов</p>
+<empty-line/>
+<empty-line/>
+<p>Молчи ты, смерд! Ты служишь</p>
+<p>Здесь, в Тушино, природному царю.</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>А разве я его не величаю</p>
+<p>Димитрием Иванычем, природным</p>
+<p>И подлинным царем? К нему на службу</p>
+<p>Я из Москвы пришел. Такая служба</p>
+<p>Мне по сердцу. Служа ему, мы грабить</p>
+<p>И разорять в Московском государстве</p>
+<p>Все города у Шуйского должны.</p>
+<p>А Сергиев, иной ли город грабить,</p>
+<p>Уж все одно.</p>
+<empty-line/>
+<p>Дмитрий</p>
+<empty-line/>
+<empty-line/>
+<p>Гоните вон его!</p>
+<p>Повесить бы его вернее было</p>
+<p>И Господу угодней! Вот разбойник!</p>
+<empty-line/>
+<p>Сапега</p>
+<empty-line/>
+<empty-line/>
+<p>Таких-то мне и нужно, государь!</p>
+<empty-line/>
+<p>Дмитрий</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(вставая)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Мне, право, жаль, что я его простил.</p>
+<empty-line/>
+<p>Все уходят.</p>
+<empty-line/>
+<empty-line/>
+<p><strong>СЦЕНА ШЕСТАЯ</strong></p>
+<empty-line/>
+<p>ЛИЦА:</p>
+<empty-line/>
+<p>Третьяк Сеитов, воевода.</p>
+<p>Людмила.</p>
+<p>Николай Редриков.</p>
+<p>Нянька и сенные девки.</p>
+<empty-line/>
+<p>В Ростове. Светлица в тереме воеводы.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Входят Людмила, нянька и две сенные девушки.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Нашелся он, мой суженый, желанный,</p>
+<p>Нашла его душа моя. По нем-то</p>
+<p>В глухой тиши полночной снов горячка</p>
+<p>Томит меня, а днем грызет тоска.</p>
+<p>Придет пора, и девушке не плакать</p>
+<p>Никак нельзя! Защемит ретивое,</p>
+<p>Тоски и слез любовных не минуешь.</p>
+<p>Я девушка, и плакать мне не диво;</p>
+<p>Но долго я не стану убиваться.</p>
+<p>Поплакала, и будет. Я на горе</p>
+<p>Связать себя с немилым не позволю.</p>
+<p>Ужели мне в одних забавах воля,</p>
+<p>А в муже нет! Кого отец укажет,</p>
+<p>За тем и жить! Отдать красу девичью</p>
+<p>Немилому, постылому! Потешить</p>
+<p>Родителя и погубить себя!</p>
+<p>Потешь меня, старик, свое ты отжил,</p>
+<p>И молодого счастья не губи!</p>
+<p>Вы, девки, что стоите?</p>
+<empty-line/>
+<p>Девки</p>
+<empty-line/>
+<empty-line/>
+<p>Ждем приказу.</p>
+<empty-line/>
+<p>Нянька</p>
+<empty-line/>
+<empty-line/>
+<p>Все дело их, что за тобой ходить.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Приказу ждете? Мой приказ короткий:</p>
+<p>Подите вон!</p>
+<empty-line/>
+<p>Девки уходят.</p>
+<empty-line/>
+<empty-line/>
+<p>А ты, старушка Божья,</p>
+<p>Поближе стань, поговори со мной.</p>
+<empty-line/>
+<p>Нянька</p>
+<empty-line/>
+<empty-line/>
+<p>Что, матушка боярышня, прикажешь</p>
+<p>Рабе твоей?</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Утешь меня, старуха!</p>
+<empty-line/>
+<p>Нянька</p>
+<empty-line/>
+<empty-line/>
+<p>Тебе, кажись, о чем бы тосковать!</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Ты видела мальчишку молодого,</p>
+<p>Московского гонца?</p>
+<empty-line/>
+<p>Нянька</p>
+<empty-line/>
+<empty-line/>
+<p>Не раз видала.</p>
+<p>Пригоженький мальчишка, вот и все.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Мальчишка, да! Ребенок-недоросток,</p>
+<p>А высушил и вызнобил он сердце</p>
+<p>Боярышни твоей.</p>
+<empty-line/>
+<p>Нянька</p>
+<empty-line/>
+<empty-line/>
+<p>Ах он разбойник!</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Рассказывай! Ты видела, ты знаешь,</p>
+<p>Пригож ли он, и вьются ль русы кудри,</p>
+<p>И ясны ли его сокольи очи,</p>
+<p>И весело ль глядят, или кручинны,</p>
+<p>И любит ли меня?</p>
+<empty-line/>
+<p>Нянька</p>
+<empty-line/>
+<empty-line/>
+<p>Ахти! Не знаю,</p>
+<p>Какую речь вести, боюсь тебя.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Не бойся, няня! Сядь со мной.</p>
+<empty-line/>
+<p>Нянька</p>
+<empty-line/>
+<empty-line/>
+<p>Не смею.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Садись, садись! Прилягу я легонько</p>
+<p>На грудь твою. Меня ты приголубишь.</p>
+<empty-line/>
+<p>Садятся.</p>
+<empty-line/>
+<empty-line/>
+<p>Тоскую я! Будь матушкой родимой,</p>
+<p>Утешь меня, девицу-сиротинку.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Прилегает к ней.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Рассказывай про молодца-детинку,</p>
+<p>Зазнобушку.</p>
+<empty-line/>
+<p>Нянька</p>
+<empty-line/>
+<empty-line/>
+<p>Не знаю, что и молвить.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(вставая)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Да говори же, старая карга!</p>
+<empty-line/>
+<p>Нянька</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(с испугом)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Хорош... пригож .. да только молод больно.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Ну, вот беда! Состариться успеет.</p>
+<p>За молодым-то веселее жить.</p>
+<p>Уж так-то люб, уж так-то люб он, няня...</p>
+<empty-line/>
+<p>Нянька</p>
+<empty-line/>
+<empty-line/>
+<p>А люб так люб. Не по-хорошу мил,</p>
+<p>А по-милу хорош, моя голубка!</p>
+<p>Да где ж его ты видела?</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Забыла</p>
+<p>Ты, старая! А помнишь, на дороге</p>
+<p>Мы съехались... А здесь в сенях отцовых</p>
+<p>Два раза я тихонько поджидала,</p>
+<p>Когда пойдет, и будто не нарочно</p>
+<p>Встречалась с ним, и речи говорила,</p>
+<p>И как зовут узнала: Николаем!</p>
+<empty-line/>
+<p>Нянька</p>
+<empty-line/>
+<empty-line/>
+<p>Никак, идет наш батюшка, боярин!</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Встает.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Входит Сеитов. Нянька уходит.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(кланяется низко отцу, он ее целует)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Хорош отец! О дочке и не вспомнит,</p>
+<p>Совсем забыл.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(садясь)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Заботы одолели</p>
+<p>Великие. По царскому указу</p>
+<p>Мне велено беречься от воров,</p>
+<p>К Владимиру идти, крепить осаду</p>
+<p>И воеводой быть во всем краю,</p>
+<p>По городам сбирать детей боярских,</p>
+<p>Из Суздали, из Юрьева, из Шуи,</p>
+<p>А скоро ль их сберешь! Сидят в поместьях,</p>
+<p>Не двинутся, как пни, покуда силой</p>
+<p>Не выбьют их на службу батожьем.</p>
+<p>Кругом мятеж, остроги наши плохи,</p>
+<p>Запасов нет и отсидеться не в чем.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Я дел твоих не знаю воеводских</p>
+<p>И знать-то не хочу. Ужли ты часу</p>
+<p>Не выберешь для дочери-сиротки?</p>
+<p>На возрасте, на выданье теперь</p>
+<p>Я, девушка, со скуки пропадаю,</p>
+<p>Одна как перст я у тебя,</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Родная,</p>
+<p>Прости меня! До солнышка проснулся</p>
+<p>Сегодня я. Все утро собирался</p>
+<p>Зайти к тебе, да не поспел; с делами</p>
+<p>Замешкался в избе приказной. Надо</p>
+<p>Московского гонца к царю отправить</p>
+<p>С отпискою о нашем утесненье,</p>
+<p>И скудости, и ветхости острогов,</p>
+<p>И осыпе валов по городам,</p>
+<p>Что зелья нет...</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Я вижу, ты, родимый,</p>
+<p>Состарился и выжил из ума.</p>
+<p>Ну, можно ли мальчишку с царским делом,</p>
+<p>С отписками, послать в такую пору</p>
+<p>Немирную? Пошли к царю другого,</p>
+<p>Постарше кто; его оставь.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Не смею</p>
+<p>Держать его, он прислан с оборотом.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>А если он отписки потеряет</p>
+<p>Иль воры их отнимут у него,</p>
+<p>Тогда-то что? При старости почтенной,</p>
+<p>Ты в грамоте царевой прочитаешь,</p>
+<p>Чтоб так тебе не дуровать вперед,</p>
+<p>Иль хуже что. И самого-то вором,</p>
+<p>Изменником перед царем поставят,</p>
+<p>Нашепчут в уши злые шептуны,</p>
+<p>Безбожные.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Ну что ты мне толкуешь!</p>
+<p>Перед царем в ответе я не буду.</p>
+<p>С кем прислано, я с тем и отпускаю.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Ты, батюшка родименький, не любишь</p>
+<p>Меня ничуть. Пойдешь ты на воров,</p>
+<p>Подумай сам, меня-то на кого же</p>
+<p>Покинешь ты!</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Тебе не привыкать,</p>
+<p>Не первый раз одна ты остаешься.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Тогда не то, теперь другое время:</p>
+<p>Я в Тушино попасться не желаю</p>
+<p>К мятежникам.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Храни тебя Господь!</p>
+<p>Оставлю я охрану понадежней.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Не верю я твоей охране.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Кто же</p>
+<p>Убережет тебя?</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Гонец московский.</p>
+<p>Его оставь.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>В уме ли ты, Людмила!</p>
+<p>Не ты ль сама сейчас же говорила,</p>
+<p>Что молод он и грамоты поверить</p>
+<p>Нельзя ему? А как же я поверю</p>
+<p>Тебя беречь!</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Ты вот что, мой родимый,</p>
+<p>Послушайся меня хоть в жизни раз,</p>
+<p>Не отпускай его в Москву.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Людмила,</p>
+<p>Не говори таких речей безумных!</p>
+<p>Ты дочь моя, Сеитова княжна.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>И он не смерд, слуга царю такой же.</p>
+<p>Ты погоди, не называй безумной,</p>
+<p>Я в разуме покуда. Если ж хочешь,</p>
+<p>Чтоб вправду я осталась без ума,</p>
+<p>Так отпусти его.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Молчи, Людмила!</p>
+<p>Не заставляй отца седого слушать</p>
+<p>Пустых речей твоих! Молчи, покуда</p>
+<p>Не понял я бесстыдного их смысла.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Ты любишь дочь иль нет? Моя погибель</p>
+<p>Нужна тебе иль ты желаешь счастья</p>
+<p>И радости для дочери твоей?</p>
+<empty-line/>
+<p>Сеитов встает.</p>
+<empty-line/>
+<empty-line/>
+<p>Уходишь ты?</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Прощай!</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Скажи мне толком,</p>
+<p>Отпустишь ты гонца иль нет?</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Не стоит</p>
+<p>И говорить с тобою, полоумной!</p>
+<p>Ты не стыди себя!</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>И это слово</p>
+<p>Последнее?</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Последнее. Прощай!</p>
+<empty-line/>
+<p>Уходит. Входят нянька и девушки.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Так вот она, неволя теремная!</p>
+<p>Так вот когда высокий, чистый терем</p>
+<p>Мне тесен стал и жизнь моя девичья</p>
+<p>Наскучила. Душа на волю рвется,</p>
+<p>Хочу любить, любить... Ты, злой старик,</p>
+<p>Ты баловал меня и тешил прежде!</p>
+<p>Ты вырастил на волюшке меня,</p>
+<p>И дай ты мне ту волю дорогую</p>
+<p>За милого пойти. Ты дашь мне волю!</p>
+<p>Не дашь ее, так я сама возьму.</p>
+<p>Ну, нянюшка, старушка, поживее</p>
+<p>Веди ко мне любезного дружка</p>
+<p>Николушку!</p>
+<empty-line/>
+<p>Нянька</p>
+<empty-line/>
+<empty-line/>
+<p>Ах, батюшки! Да в чью же</p>
+<p>Ты голову...</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Ступай без разговору!</p>
+<p>Приказано и кончено.</p>
+<empty-line/>
+<p>[Нянька уходит.]</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Девки</p>
+<empty-line/>
+<empty-line/>
+<p>Пропали</p>
+<p>Мы, бедные, несчастные...</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Завыли!</p>
+<p>На лестницу ступайте, стерегите,</p>
+<p>Чтоб не вошел боярин невзначай!</p>
+<empty-line/>
+<p>Девушки уходят.</p>
+<empty-line/>
+<empty-line/>
+<p>Пускай себе другие девки плачут</p>
+<p>По теремам высоким взаперти</p>
+<p>И ждут в слезах себе неволи злее:</p>
+<p>С немилым жить, с неровней вековать</p>
+<p>И девичьи коротенькие слезы</p>
+<p>Сменять на бабьи слезы без конца;</p>
+<p>Не стану я томить себя слезами,</p>
+<p>Ретивому сердечку волю дам</p>
+<p>И девичий обычай свой потешу!</p>
+<empty-line/>
+<p>Входят нянька и Николай Редриков.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Нянька</p>
+<empty-line/>
+<empty-line/>
+<p>Побережней иди! Вот видишь, глупый,</p>
+<p>Какая честь тебе! Ты не болтай,</p>
+<p>Не сказывай, что я тебя водила</p>
+<p>К боярышне, а то себя погубишь,</p>
+<p>Ее и нас.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Да ладно.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Ты не бойся!</p>
+<p>Поди ко мне, мой писаный красавчик!</p>
+<p>Бывал ли ты в девичьем терему?</p>
+<p>Ну, сказывай.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Ни разу не случалось,</p>
+<p>А хорошо у вас, как словно в сказке,</p>
+<p>Не вышел бы.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Ты любишь ли кого?</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Я всех люблю. У матушки учился</p>
+<p>Сыздетства я речам ее любовным</p>
+<p>И ласковым словам; она велела</p>
+<p>Мне всех любить и миленькими звать.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>А кто учил любить красу девичью?</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Своим умом дошел.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Меня ты любишь?</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Любить люблю, сказать боюсь; погонишь</p>
+<p>Из терема.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Не погоню, не бойся.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Так я скажу.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Ты говори, да больше!</p>
+<p>Любовных слов не слышим мы совсем,</p>
+<p>А сердце их желает.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Мне на свете</p>
+<p>Одна лишь ты и жизнь и радость. Знаю,</p>
+<p>Что ты неровня мне, а все тоскую</p>
+<p>И плачу по тебе. Со мной ты шутишь</p>
+<p>И посмеешься после надо мной,</p>
+<p>А мне в тоске сидеть да убиваться</p>
+<p>В своем углу.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Постой! Постой! Неправда!</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Тебе игра, а мне навеки мука,</p>
+<p>И все-таки люблю тебя.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Постой!</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Протягивает руку.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Возьми себе на память перстенечек!</p>
+<p>Бери любой!</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Вот этот дай!</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Изволь!</p>
+<empty-line/>
+<p>Редриков берет перстень.</p>
+<empty-line/>
+<empty-line/>
+<p>Ну, что же ты стоишь? Иль не умеешь</p>
+<p>Благодарить?</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Умею, да не смею.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Благодари.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(целует ее)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Спасибо! Мой возьми!</p>
+<p>Серебряный и плохенький, а дорог,</p>
+<p>Он матушкин подарок.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Вот спасибо!</p>
+<empty-line/>
+<p>Нянька</p>
+<empty-line/>
+<empty-line/>
+<p>Боярышня, беда! Отец идет!</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Редрикову)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Беги скорей ко мне в опочивальню</p>
+<p>И спрячься там! Не выходи, покуда</p>
+<p>Не позову сама.</p>
+<empty-line/>
+<p>Николай Редриков уходит. Входит Сеитов.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Послушай, дочка!</p>
+<p>Немного мне на свете жить осталось.</p>
+<p>Последних дней срамить я не хочу.</p>
+<p>Давал тебе я волю и поблажку,</p>
+<p>Но с той поры, когда в девичий терем,</p>
+<p>Забывши стыд, водить ты парней стала,</p>
+<p>Запру тебя и сторожей поставлю</p>
+<p>С дубинами у окон и дверей.</p>
+<p>И всякого, кто в терем твой заглянет,</p>
+<p>В тюрьме сгною, тебя в монастыре.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Мне поздно в монастырь, теперь я замуж</p>
+<p>Задумала, ты раньше бы хватился.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Где Редриков?</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>В моей опочивальне.</p>
+<p>И выйдет он со мной оттуда в церковь</p>
+<p>Иль в озеро.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Не выйдете вы вовсе</p>
+<p>Из терема; кругом законопатить</p>
+<p>Все выходы велю, и умирайте</p>
+<p>С любовником голодной смертью оба.</p>
+<p>Мне вас не жаль.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Тебе меня не жаль?</p>
+<p>Ты что сказал? Морить голодной смертью</p>
+<p>Родную дочь? Спасибо! Вот спасибо!</p>
+<p>Любовь твою я вижу. Эка дура!</p>
+<p>За что же я любила старика!</p>
+<p>За что же я его любила столько!</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Отворяет опочивальню.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Поди сюда, благодари отца!</p>
+<empty-line/>
+<p>Редриков входит.</p>
+<empty-line/>
+<empty-line/>
+<p>Скорей ко мне бегите, няньки, мамки!</p>
+<empty-line/>
+<p>Входят нянька и сенные девушки.</p>
+<empty-line/>
+<empty-line/>
+<p>Боярина благодарить за милость!</p>
+<p>Челом ему! валитесь в ноги все!</p>
+<p>Послушайте, как дочь свою он любит!</p>
+<p>Прошу его: родитель-государь,</p>
+<p>Дозволь ты мне, девице-сиротинке,</p>
+<p>За рабскую мою тебе покорность,</p>
+<p>За скучное сиденье теремное,</p>
+<p>За слезные молитвы по тебе,</p>
+<p>Позволь ты мне пойти, девице, замуж</p>
+<p>За милого, -- мне Бог его послал;</p>
+<p>Отдай ты мне, рабе твоей, на выбор:</p>
+<p>Иль с милым жить тебе и нам на радость,</p>
+<p>Иль умереть с моим желанным вместе!</p>
+<p>И батюшка пожаловал меня:</p>
+<p>Он, государь, на милость тороватый,</p>
+<p>Родную дочь и зятя запереть</p>
+<p>И уморить сулит голодной смертью,</p>
+<p>И закопать в одну могилу вместе.</p>
+<p>Ну, кланяйтесь ему, благодарите.</p>
+<p>Я говорить не стану с ним. Не долго</p>
+<p>На свете жить, наговориться с милым</p>
+<p>Потороплюсь.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Редрикову.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Ты смерти не боишься?</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Чего же мне бояться! Я с тобою</p>
+<p>Увидел рай; еще такой отрады</p>
+<p>Мне в жизни не видать, зачем и жить!</p>
+<p>Умрем с тобой, друг другу в очи глядя,</p>
+<p>Целуяся, милуяся любовно.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Упряма ты! Упряма, как железо.</p>
+<p>Лукавая лиса!</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Послушай, милый!</p>
+<p>Не верит он, что мы друг друга любим,</p>
+<p>А то бы нас жалел он погубить.</p>
+<p>А видит Бог, тебя я полюбила --</p>
+<p>Я так любила только одного,</p>
+<p>Один лишь был на белом свете дорог</p>
+<p>И так же мил -- седой старик, отец,</p>
+<p>Пока моим он не был душегубом.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Ну, Бог с тобой! Забудь мою обиду,</p>
+<p>Поди ко мне.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Мы неразлучны стали;</p>
+<p>Я не пойду одна.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Подите оба!</p>
+<p>Не жаль тебя мне, девки полоумной,</p>
+<p>А жаль любви твоей. Пускай же дочка</p>
+<p>Сеитова смеется над отцом,</p>
+<p>Да только бы не назвала злодеем.</p>
+<p>Благословлю и обвенчаю вас</p>
+<p>И на воров пойду. Живите с Богом.</p>
+<p>Пойдемте вниз, пошлемте за попом.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Теперь опять тебя я полюбила,</p>
+<p>Упрямого и злого старика.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Редрикову)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>А ты горазд на девок! Как сошелся</p>
+<p>И видел где ты дочь мою?</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Расскажем</p>
+<p>Мы после все.</p>
+<empty-line/>
+<p>Hиколай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Я, батюшка боярин,</p>
+<p>Давно люблю ее. Не погнушайся</p>
+<p>И прикажи, боярин, мне, холопу,</p>
+<p>Любить тебя.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Люби и почитай,</p>
+<p>Отцом родным зови меня, разбойник,</p>
+<p>И всякого приказу слушай!</p>
+<empty-line/>
+<p>Hиколай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Ладно!</p>
+<empty-line/>
+<p>Уходят.</p>
+<empty-line/>
+<empty-line/>
+<p><strong>СЦЕНА СЕДЬМАЯ</strong></p>
+<empty-line/>
+<p>ЛИЦА:</p>
+<empty-line/>
+<p>Епифанец.</p>
+<p>Чика.</p>
+<p>Асан-Ураз.</p>
+<p>Беспута.</p>
+<p>Максим Редриков.</p>
+<p>Савлуков.</p>
+<p>Казаки.</p>
+<empty-line/>
+<p>Окопы Лисовского под Троицким монастырем. Земляной вал; за валом вдали видны стены монастыря. Ненастные осенние сумерки; дождь и сильный ветер.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(12 октября 1608 года)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Епифанец лежит у костра. Есаул и несколько казаков поддерживают огонь. Вдали музыка и пальба из пушек и ружей. На валу казаки.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(громко)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Смотреть с валов, не видно ли чего</p>
+<p>В монастыре.</p>
+<empty-line/>
+<p>Казак</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(с валу)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Покуда не видали.</p>
+<p>Светлеет что-то!</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>Господи, помилуй</p>
+<p>Рабов твоих!</p>
+<empty-line/>
+<p>Казак</p>
+<empty-line/>
+<empty-line/>
+<p>Сиянье по стенам.</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>Смотри верней, да с верою, со страхом,</p>
+<p>А после нам скажи, коль что увидишь.</p>
+<empty-line/>
+<p>Входит Чика с казаками.</p>
+<empty-line/>
+<empty-line/>
+<p>Присядь к огню, погрейся, обсушись.</p>
+<empty-line/>
+<p>Чика</p>
+<empty-line/>
+<empty-line/>
+<p>И холодно, и вьюга-непогода</p>
+<p>Слепит глаза, и угощают знатно</p>
+<p>Калеными орехами со стен.</p>
+<p>С добра-ума убрался с казаками</p>
+<p>Целехонек от келаревой башни,</p>
+<p>Из-под огня, и больше не пойду.</p>
+<empty-line/>
+<p>Есаул</p>
+<empty-line/>
+<empty-line/>
+<p>Помилуй Бог! помилуй Бог! Охота ль</p>
+<p>На драку лезть ни с чем.</p>
+<empty-line/>
+<p>Чика</p>
+<empty-line/>
+<empty-line/>
+<p>Поляки бойки,</p>
+<p>Ну, пусть они и бьются в стены лбом!</p>
+<p>Не прошибить -- крепки, да и толсты:</p>
+<p>Сажен пяти от низу до зубцов,</p>
+<p>А в толщину -- где три, а где и больше;</p>
+<p>Попрыгают поляки на бахметях,</p>
+<p>Полаются на каменные стены,</p>
+<p>Как пес на месяц -- съел бы, да высоко,</p>
+<p>И с тем уйдут.</p>
+<empty-line/>
+<p>Есаул</p>
+<empty-line/>
+<empty-line/>
+<p>Не мало их поляжет!</p>
+<p>Монахи им живые не дадутся.</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>Монахи что! Угодники Господни</p>
+<p>Монастырю дают святую помощь;</p>
+<p>Мы с музыкой идем, с гуденьем, с вопом,</p>
+<p>Пьянехоньки, -- а там святые старцы</p>
+<p>Молитвою укреплены, постом,</p>
+<p>И ратники с благословеньем божьим</p>
+<p>Отпор дают под звоном колокольным.</p>
+<p>Я сунулся, да тоже взял назад,</p>
+<p>Бежал, как вор, дрожа как лист, как Каин</p>
+<p>От Господа. Повел свои я сотни,</p>
+<p>Когда совсем стемнело. Вот идем,</p>
+<p>Потупившись, глаза поднять боимся</p>
+<p>На темную ограду, что-то давит,</p>
+<p>Гнетет тебя. Я раз взглянул и два --</p>
+<p>И помертвел: в сиянии небесном</p>
+<p>Угодники со стен на нас грозятся</p>
+<p>И от врагов обитель ограждают</p>
+<p>Каждением и крестным осененьем.</p>
+<p>Святой водой кропят. Великий трепет</p>
+<p>Объял меня! Махнул своим казакам</p>
+<p>Скорей назад, назад, давай бог ноги.</p>
+<p>Да вот и здесь еще лежу, трясусь</p>
+<p>И думаю: да что мы, черти, что ли,</p>
+<p>Что воевать пришли святое место.</p>
+<p>Немного тут возьмешь! Сбираться на Дон,</p>
+<p>Домой идти, покаяться скорее,</p>
+<p>Замаливать свой грех, покуда жив.</p>
+<p>Ведь есть одно у нас святое дело --</p>
+<p>Крушить татар ногайских; мало нам!</p>
+<p>Епитимью возьму себе на сотню, --</p>
+<p>Ты думаешь поклонов? нет, голов</p>
+<p>Татар поганых, -- может, Бог простит.</p>
+<empty-line/>
+<p>Входит Ураз с татарами, за ним раненый Беспута.</p>
+<empty-line/>
+<empty-line/>
+<p>Ну, что, Асан, не много взял?</p>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<p>Молчи!</p>
+<p>Аллах! Аллах! Такой война не нада!</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(грозит кулаком монастырю)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Дождетесь вы! Молитвы не помогут</p>
+<p>И не спасут колокола. Беспута</p>
+<p>Заплатит вам за раны и увечье</p>
+<p>Сторицею! Пробьем до вас дорогу,</p>
+<p>Не пушками, так саблями продолбим,</p>
+<p>Натешится душа моя.</p>
+<empty-line/>
+<p>Чика</p>
+<empty-line/>
+<empty-line/>
+<p>Беспута,</p>
+<p>Ты о каком увечье говоришь?</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Нога болит, рукою не владею,</p>
+<p>Я в ров упал; стрелою угодили</p>
+<p>Под левое плечо.</p>
+<empty-line/>
+<p>Чика</p>
+<empty-line/>
+<empty-line/>
+<p>А, видно, ловко</p>
+<p>Попал тебе; кольчугу продавило,</p>
+<p>И хмель прошел!</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Мы двигали тарасы</p>
+<p>И лестницы, вдруг свистнуло в ушах,</p>
+<p>И я, как сноп, лечу.</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>Щиты, тарасы</p>
+<p>К монастырю свезли, а сами прочь</p>
+<p>Ни с чем ушли. Спасибо завтра скажут</p>
+<p>Монахи вам, -- им топки на две будет,</p>
+<p>На братский хлеб, на монастырский квас.</p>
+<p>К монастырю тарасы! Пан Лисовский</p>
+<p>С Сапегою и на небо полезут</p>
+<p>По лестницам.</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>До неба нам высоко,</p>
+<p>А монастырь возьмем. Не отсидятся</p>
+<p>Монахи в нем, хотя бы на защиту</p>
+<p>К ним ангелы явились.</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>Ошибетесь.</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Спалим огнем его, порубим ратных,</p>
+<p>Мучительски монахов перемучим</p>
+<p>И поживем награбленным добром</p>
+<p>До сытости и до отвалу.</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>Будто?</p>
+<p>Поди-ка ты, какой проворный стал.</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>А вы зачем бежали?</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>Надо было.</p>
+<p>Не твоему уму про это ведать.</p>
+<p>Без нужды я не побегу.</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Вы трусы!</p>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<p>Болтай, болтай! Бежал, боялся Бога.</p>
+<p>А ты пошел, рука-нога болит,</p>
+<p>Еще пошел, совсем кончал.</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>Робятки!</p>
+<p>Давайте нам поесть чего-нибудь.</p>
+<empty-line/>
+<p>Входит Максим Редриков.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Хвастливое-то слово гнило. Утром</p>
+<p>Хвалились нам паны, что монастырь</p>
+<p>Возьмут они взятьем; что мы недолго</p>
+<p>Под Троицей в окопах простоим</p>
+<p>И двинемся к Переяславлю ратью,</p>
+<p>Потом в Ростов и дальше.</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>Не поверить</p>
+<p>Панам нельзя, поверишь -- ошибешься.</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Придется нам зазимовать.</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>Пробьемся</p>
+<p>И год, и два, и больше. Хорошенько</p>
+<p>Насмотримся на каменные стены</p>
+<p>Издалека, а близко не подпустят,</p>
+<p>И прочь пойдем.</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Утеха не велика.</p>
+<p>Тоска возьмет и совесть одолеет.</p>
+<p>Я по себе скажу: по воле царской</p>
+<p>Стоим мы здесь; да, видно, Бог не хочет</p>
+<p>В разор отдать святыни монастырской.</p>
+<p>Зараз бы взять, и разговор короткий,</p>
+<p>Покаялся б уж после заодно</p>
+<p>За все грехи. А год бороться с Богом</p>
+<p>И каждый день, вставая и ложась,</p>
+<p>На те ж кресты молиться, по которым</p>
+<p>Из пушек бьем; сшибать колокола</p>
+<p>И с музыкой ходить против святыни,</p>
+<p>Разбойником быть мало, -- окаянным</p>
+<p>Быть надобно.</p>
+<empty-line/>
+<p>Епифанец</p>
+<empty-line/>
+<empty-line/>
+<p>Что правда, друг, то правда.</p>
+<p>Они поют молебны, по стенам</p>
+<p>С иконами, с крестами, с водосвятьем,</p>
+<p>А мы по них стреляем из наряда.</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Ползи к стене в потемках, не защита</p>
+<p>Железная кольчуга от пищалей.</p>
+<p>Убьют тебя -- не страшно: умирать же</p>
+<p>Когда-нибудь, от смерти не уйдешь;</p>
+<p>А вот беда: Господь-то запятнает</p>
+<p>Да жизнь продлит; всего поискалечит,</p>
+<p>Сведет дугой, отнимет ноги-руки</p>
+<p>И знаменье положит на челе.</p>
+<p>Живи потом на свете, людям на смех,</p>
+<p>Калекою, детям на поруганье,</p>
+<p>Отмеченный, что ты боролся с Богом.</p>
+<p>Готов служить царю я, государю</p>
+<p>Димитрию Иванычу, и буду</p>
+<p>Изменников его и жечь и грабить,</p>
+<p>Да только укажи другое место.</p>
+<p>Хоть свой же дом спалю, а здесь неволей</p>
+<p>Опустишь руки, голову повесишь.</p>
+<empty-line/>
+<empty-line/>
+<p>Входит Савлуков.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Несколько голосов</p>
+<empty-line/>
+<empty-line/>
+<p>Здорово, брат! -- Откуда?</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>В Переславле</p>
+<p>Замешкался. Работы много было.</p>
+<p>Да труд зато недаром; переславцы</p>
+<p>Взялись за ум, в измене повинились</p>
+<p>И в Тушино отправили гонца</p>
+<p>С повинною. Сбираются к Ростову</p>
+<p>Отплачивать старинные обиды</p>
+<p>И приводить ростовцев ко кресту</p>
+<p>Природному царю и государю</p>
+<p>Димитрию. Мне гетман пан Лисовский</p>
+<p>Приказывал собрать людей немногих,</p>
+<p>Кому стоять под Троицкою скучно,</p>
+<p>В Ростов вести, на помощь переславцам.</p>
+<p>Пожива есть; кто хочет, собирайся</p>
+<p>В Ростов идти.</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>На свадьбу, на веселье</p>
+<p>Зови меня, так, может, не пойду;</p>
+<p>А вот в Ростов, так полечу на крыльях.</p>
+<p>Давно я жду отрады, добираюсь</p>
+<p>До города Ростова. Ну, Беспута,</p>
+<p>Ты жечь и грабить лют; тебя беру я</p>
+<p>В товарищи. Ростовским воеводой</p>
+<p>Обижен я, пойдем считаться с ним!</p>
+<p>Я головы жалеть не буду, только б</p>
+<p>Сойтиться с ним лицом к лицу, напомнить</p>
+<p>Про старое. Недаром я божился,</p>
+<p>Зарок давал его обиды кровной</p>
+<p>Не забывать.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Ты мне скажи спасибо,</p>
+<p>Что я тебя и в Тушино привел</p>
+<p>И указал в Ростов дорогу.</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>После.</p>
+<p>Душа горит теперь, и сплю и вижу</p>
+<p>В Ростове быть, в гостях у воеводы</p>
+<p>Сеитова, незваным и нежданным,</p>
+<p>И задушить хозяина руками,</p>
+<p>И на ветер пустить его хоромы;</p>
+<p>Тогда тебе я в ножки поклонюсь.</p>
+<empty-line/>
+<p>Савлуков</p>
+<empty-line/>
+<empty-line/>
+<p>Соснем часок и, чуть забрезжит утро,</p>
+<p>Сбираться в путь, в Ростов.</p>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<p>Айда в Ростов!</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Идем! Идем! За мной не станет дело!</p>
+<empty-line/>
+<p>Беспута и Чика</p>
+<empty-line/>
+<empty-line/>
+<p>И мы пойдем, товарищу поможем.</p>
+<empty-line/>
+<p>Все уходят.</p>
+<empty-line/>
+<empty-line/>
+<p><strong>СЦЕНА ВОСЬМАЯ</strong></p>
+<empty-line/>
+<p>ЛИЦА:</p>
+<empty-line/>
+<p>Сеитов.</p>
+<p>Дементий Редриков.</p>
+<p>Николай Редриков.</p>
+<p>Людмила, жена его.</p>
+<p>Максим Редриков.</p>
+<p>Беспута.</p>
+<p>Ураз.</p>
+<p>Скурыгин.</p>
+<p>Стрелецкий сотник.</p>
+<p>Боярский сын.</p>
+<p>Нянька.</p>
+<p>Лисовский.</p>
+<p>Слуги воеводские.</p>
+<p>Стрельцы.</p>
+<empty-line/>
+<p>Терем в доме Сеитова, в Ростове.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Входят Дементий Редриков, Николай Редриков и Людмила.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Вот, батюшка, ты радости дождался:</p>
+<p>Сынка женил и дочку взял.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Родимый,</p>
+<p>По сердцу ли тебе моя женитьба?</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Чего ж еще? По сыну мне почет,</p>
+<p>По дочери защита, от приказных</p>
+<p>Ее отец, мой сват, оборонит.</p>
+<p>Домой приехать да сказать старухе, --</p>
+<p>Не вспомнится от радости.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Мы вместе</p>
+<p>Поехали б; сбираемся в Москву,</p>
+<p>Дорог-то нет, заложены ворами.</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Проселками проедем. Все дорожки</p>
+<p>Мне ведомы лесные. Ты старуху</p>
+<p>Полюбишь ли? Она простая баба,</p>
+<p>А ты княжна и дочка воеводы,</p>
+<p>Богатая и знатная.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Да если</p>
+<p>Ее сынка любимого люблю я,</p>
+<p>Так как же мать не полюбить!</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Ну то-то!</p>
+<p>Люби ее, хорошая старуха!</p>
+<p>Добра, кротка и терпелива. Сына</p>
+<p>Ты любишь ли?</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(обнимая Николай Редрикова)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Его-то не любить!</p>
+<p>Он жизнь моя, одна отрада, душу</p>
+<p>Я за него отдам.</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Ну, так и надо,</p>
+<p>Закон велит. Он тоже парень тихий,</p>
+<p>Незлобивый, он матушкин сынок</p>
+<p>И весь в нее. А ты, Никола, любишь</p>
+<p>Жену свою?</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Спроси у вольной птички,</p>
+<p>Мила ли ей свобода в поднебесье;</p>
+<p>Потом спроси, мила ли мне жена.</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Не гневайтесь на старика. Привязчив,</p>
+<p>Пытлив старик и любит приказать;</p>
+<p>Хоть дети уж давно его умнее,</p>
+<p>А все ж нельзя, такой порядок. Право,</p>
+<p>Не гневайтесь.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Помилуй Бог! За что же?</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Приказывай!</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Да только и приказу</p>
+<p>Услышите: любите нас с старухой,</p>
+<p>И меж собой живите поладней!</p>
+<p>Ты думала, какой приказ мудреный,</p>
+<p>А вот и все!</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Послушаем приказу.</p>
+<p>Друг друга нам любить и так уж сладко,</p>
+<p>А по приказу слаще будет.</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Ну-ка,</p>
+<p>Невестушка! я не видал покуда,</p>
+<p>Ты как его целуешь?</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Ох, уж стыдно;</p>
+<p>А для тебя изволь.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Целует мужа.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>А ты, Никола,</p>
+<p>Целуешь ли жену когда?</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Бывает,</p>
+<p>Что изредка, для вида, поцелую.</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Не постыдись отца, целуй.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Из воли</p>
+<p>Не выходить отцовской. Что же делать!</p>
+<p>Уж как ни горько, надо целовать!</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Веселые вы детки. Утешайтесь!</p>
+<p>Пошли Господь вам горя не видать!</p>
+<empty-line/>
+<p>Входит Сеитов.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Дурная весть пришла. Переяславцы,</p>
+<p>Забыв Господень гнев, заворовали</p>
+<p>И таборскому вору отдались.</p>
+<p>Идут в Ростов.</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Крепить осаду надо</p>
+<p>И расписать людей по башням.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Сват,</p>
+<p>Родня ты мне, а все же погодил бы</p>
+<p>Указывать! В Ростове воеводой</p>
+<p>Покамест я, а ты припека сбоку.</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Не обессудь! Тебе я не указчик,</p>
+<p>Ни по родству, ни по чему. Сказалось</p>
+<p>От жалости, мне дороги родные</p>
+<p>Ростовские, и сын, и дочка.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Знаю.</p>
+<p>И мне они родные. Что с тобою</p>
+<p>И толковать! Крепить осаду нечем;</p>
+<p>Не слушают, нейдет никто. Навстречу</p>
+<p>Ворам пойду я в поле.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Ты давно уж</p>
+<p>Сбираешься, а все нейдешь; дождешься,</p>
+<p>Что нас они врасплох застанут.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Дочка,</p>
+<p>Уж не тебя ль поставить воеводой!</p>
+<p>Ты разом бы вскочила на коня</p>
+<p>И прямо в бой.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Мне жаль, что я не парень!</p>
+<p>Не завелись бы воры вкруг Ростова,</p>
+<p>Когда б не ты, а я на воеводстве</p>
+<p>Сидела здесь.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Отцу митрополиту</p>
+<p>Я сказывал, что здесь сиденье плохо,</p>
+<p>И в Ярославль с собою звал, нейдет.</p>
+<p>Посадские туда бегут.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>А мы-то</p>
+<p>Чего же ждем?</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Бегите в Ярославль!</p>
+<p>А я сберусь, пойду не нынче-завтра</p>
+<p>Воров громить.</p>
+<empty-line/>
+<p>Входит стрелецкий сотник.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Сотник</p>
+<empty-line/>
+<empty-line/>
+<p>Поймали перелета;</p>
+<p>Мутит народ. Его было связали</p>
+<p>И в озеро хотели с камнем бросить,</p>
+<p>Да не дал я. Кричит, чтоб к воеводе</p>
+<p>Вели его; желает повиниться</p>
+<p>И замыслы воров, переяславцев.</p>
+<p>Открыть тебе. Он здесь.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Сюда ведите.</p>
+<empty-line/>
+<p>Сотник отворяет дверь; двое стрельцов вводят Скурыгина.</p>
+<empty-line/>
+<empty-line/>
+<p>Ты кто таков?</p>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>Подьячий из Москвы.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Зачем в Ростов попал?</p>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>На богомолье</p>
+<p>К Леонтию-угоднику.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>За что же</p>
+<p>Топить тебя, святого человека,</p>
+<p>Народ хотел, не скажешь ли?</p>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>Не знаю,</p>
+<p>Народ такой нескладный.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Ты не знаешь?</p>
+<p>Ну, жаль тебя; пришел на богомолье,</p>
+<p>А попадешь в застенок.</p>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>Ой! Что нужно,</p>
+<p>Я так скажу.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Далеко ль переславцы?</p>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>Сбираются. Гляди, на той неделе</p>
+<p>Пожалуют к Ростову. Берегитесь,</p>
+<p>Не мало их, и с ними воры, Дон</p>
+<p>Иванович Крузатов.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Вот спасибо!</p>
+<p>А все-таки в застенок отведите.</p>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>Постой, не всё! Я полагаю так,</p>
+<p>Что неравно они и раньше придут.</p>
+<p>Вы ждите их! Оплошно вы живете.</p>
+<p>Крепить острог скорее.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>Эй! В застенок!</p>
+<p>Пытать его, да крепче.</p>
+<empty-line/>
+<p>Скурыгин</p>
+<empty-line/>
+<empty-line/>
+<p>Ой! Всю правду</p>
+<p>Скажу сейчас! Сегодня дожидайтесь!</p>
+<p>Круг озера идут, лесами.</p>
+<empty-line/>
+<p>Вбегает боярский сын, за ним нянька и несколько прислуги.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Боярский сын</p>
+<empty-line/>
+<empty-line/>
+<p>Воры</p>
+<p>Со всех сторон!</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<p>И близко?</p>
+<empty-line/>
+<p>Боярский сын</p>
+<empty-line/>
+<empty-line/>
+<p>Близко.</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis> (боярскому сыну)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>На конь.</p>
+<p>Садитесь все! Сбирай детей боярских!</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis> (Сотнику.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Стрельцов скорей расставить по острогу!</p>
+<p>С посаду всех, от мала до велика,</p>
+<p>Сбивайте в город; пусть с дубьем иль с вилой</p>
+<p>По городу становятся порядком,</p>
+<p>Кто с чем попало. Ну, прощайте, дети!</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Обнимает детей.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>И я с тобой!</p>
+<empty-line/>
+<p>Сеитов</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis> (сотнику)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Подьячего повесить!</p>
+<empty-line/>
+<p>Стрельцы уводят Скурыгина.</p>
+<empty-line/>
+<empty-line/>
+<p>Посад зажечь! Кольчугу мне! Коня!</p>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Уходит.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(обнимая Людмилу)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Прощай, жена!</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Прощай!</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Не лей напрасно</p>
+<p>Горючих слез, меня ты не удержишь.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Я не держу тебя.</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Теперь я воин,</p>
+<p>Я лютый зверь. Гнездо мое родное!</p>
+<p>Гнездо мое! Жена моя! Отец!</p>
+<p>Иду за вас! Иду! В огонь пойду,</p>
+<p>Доколе силы хватит буду биться.</p>
+<p>На тысячу смертей пойду без страха!</p>
+<p>Мне умереть легко: я умираю</p>
+<p>За родину, за милую жену!</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Мой милый друг, ты жизни не жалей</p>
+<p>И за жену не бойся! Я живая</p>
+<p>Врагам моим не дамся в руки! Помни!</p>
+<p>Иди скорей!</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Прощай же!</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Отцу.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Сколько силы</p>
+<p>В твоей руке осталось, защищай</p>
+<p>Жену мою и дочь свою; не сможешь, --</p>
+<p>Убей ее!</p>
+<empty-line/>
+<p><emphasis>(Убегает.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Нянька</p>
+<empty-line/>
+<empty-line/>
+<p>Боярыня, куда бы</p>
+<p>Укрыться нам?</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Куда укрыться? Ножик</p>
+<p>Подай сюда, другой себе возьми.</p>
+<empty-line/>
+<p>Нянька</p>
+<empty-line/>
+<empty-line/>
+<p>Не можем мы оборониться.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Сможем</p>
+<p>Себя убить -- вот бабья оборона,</p>
+<p>Надежная и верная.</p>
+<empty-line/>
+<p>Нянька</p>
+<empty-line/>
+<empty-line/>
+<p>И вправду.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Уходит.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Какой-то шум! Не слышишь ты?</p>
+<empty-line/>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Не слышу.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Разбей окно, послушаем.</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(выбивая раму)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Набаты,</p>
+<p>Стрельба кругом и крик, народ толпится,</p>
+<p>Сюда бегут.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Свои или чужие?</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Не разберу. Никак, чужие! Воры!</p>
+<p>Ну, дочушка, они и есть!</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(ломая руки)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Где ж наши?</p>
+<p>Где муж, отец?</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Не знаю, воля Божья.</p>
+<p>Бог милостив! Не плачь! За дело взяться!</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Снимает бердыш со стены.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Мне, старому, остался старый бердыш,</p>
+<p>Заржавленный, изрубленный, как я.</p>
+<p>Пришел к рукам.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(К бердышу.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Давай сослужим службу</p>
+<p>Последнюю.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Вперед меня убей.</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Постой-ка ты! Тебя убить поспею,</p>
+<p>Ты дай царю немного послужить,</p>
+<p>Воров его убавить.</p>
+<empty-line/>
+<p>Слышны шаги.</p>
+<empty-line/>
+<empty-line/>
+<p>Ну-ка, первый!</p>
+<p>Благослови Господь!</p>
+<empty-line/>
+<p><emphasis>(Замахивается. )</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Вбегает Максим Редриков и несколько времени отражает удары.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Отец!</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Максим!</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Зачем ты здесь?</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Ростов святое место,</p>
+<p>Не Тушино.</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Не вовремя приехал</p>
+<p>Молиться ты; с ростовским воеводой</p>
+<p>Я счет веду за старую обиду</p>
+<p>И головы его ищу.</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Обижен</p>
+<p>Не ты один, я тоже; только скоро</p>
+<p>Простил ему; мы сваты с ним. Коль хочешь</p>
+<p>Ты зло сорвать свое, убей уж вместе:</p>
+<p>Его, меня и братнину жену.</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Ах, батюшка, зачем ты породнился</p>
+<p>С врагом моим!</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Мы все твои враги!</p>
+<p>Ты тушинец, мы слуги государя</p>
+<p>Василия Иваныча; ты вору,</p>
+<p>А мы царю-помазаннику служим.</p>
+<p>Скажи ты мне: неволей иль охотой</p>
+<p>Ты к тушинцам пристал?</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Своей охотой.</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Да будет же...</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Постой! Не проклинай!</p>
+<p>Я пригожусь! Ничем не виноваты</p>
+<p>Ни ты, ни дочь Сеитова, ни брат,</p>
+<p>Я вас спасу.</p>
+<empty-line/>
+<p>Нянька</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(выбегает из опочивальни)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Горим, горим! Спасайтесь!</p>
+<p>Боярыня, твою опочивальню</p>
+<p>И девичью зажгли со всех углов.</p>
+<empty-line/>
+<p>Людмила уходит в опочивальню, нянька -- к выходу.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Приставлю к вам десяток молодцов</p>
+<p>Оберегать тебя с сестрой! Скорее!</p>
+<p>Пожар в дому.</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(оглядываясь )</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>А где ж она?</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Я после</p>
+<p>Найду ее и приведу.</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(громко)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Людмила!</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Скорей иди, а то сгоришь.</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(громко)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Людмила!</p>
+<empty-line/>
+<p>Максим Редриков насильно уводит его. Людмила выбегает из опочивальни, преследуемая Уразом.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<p>Ты, девка, мой!</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Не тронь меня!</p>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<p>Послушай,</p>
+<p>Не бойсь мене, я добрый!</p>
+<empty-line/>
+<p>Входит Беспута с награбленной парчой.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(бросая парчу)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Стой, татарин!</p>
+<p>Она моя! Твоей ли образине</p>
+<p>Красавица такая!</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Отнимает Людмилу.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<p>Девка мой!</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Уйди добром!</p>
+<empty-line/>
+<p>Ураз</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(бросается на него с саблею)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Башка долой!</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Далеко</p>
+<p>До головы моей тебе, татарин!</p>
+<p>Твоя скорей слетит!</p>
+<empty-line/>
+<p>Дерутся. Ураз падает.</p>
+<empty-line/>
+<empty-line/>
+<p>Лежи, собака!</p>
+<p>Сгореть тебе в хоромах воеводских!</p>
+<p>Не сжалюсь я, ты лучше не проси,</p>
+<p>Не вытащу.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Спасите, Бога ради!</p>
+<p>В огонь! В огонь меня!</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Я не расстанусь</p>
+<p>С тобой теперь! Уж только разве руки</p>
+<p>Мне по локоть отрубят. Ты утешься,</p>
+<p>Красавицу такую не обижу.</p>
+<p>Я в бархаты, в парчу тебя одену;</p>
+<p>Награблено в монастырях довольно.</p>
+<empty-line/>
+<empty-line/>
+<p>Вбегает Максим Редриков, за ним Дементий Редриков.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Остановись! Она сестра моя!</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Ну, вот беда! С тобою породниться</p>
+<p>За честь сочту!</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Не спорь со мной, Беспута!</p>
+<p>В последний раз прошу: оставь ее!</p>
+<p>Сказал -- оставь, я не шучу с тобой.</p>
+<p>Оставишь ты? А то возьму насильно!</p>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Пугай других, а мне тебя не страшно!</p>
+<p>Асан убит, с тобою будет то же.</p>
+<empty-line/>
+<p>Николай Редриков с ножом показывается в окне.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Я породню тебя с моею саблей,</p>
+<p>Разбойника!</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Убивает Беспуту.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Беспута</p>
+<empty-line/>
+<empty-line/>
+<p>Будь проклят!</p>
+<empty-line/>
+<p>Максим Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Издыхай же!</p>
+<p>Она моя!</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(ударяя его ножом)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>И не твоя, а Божья!</p>
+<empty-line/>
+<p>Максим Редриков падает.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Кого убил ты, погляди! Максима!</p>
+<p>Родной тебе!</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Туда ему дорога,</p>
+<p>Изменнику!</p>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>От Божьего суда</p>
+<p>Ты не ушел, Максим! Отцову руку</p>
+<p>Отвел Господь; рукой родного брата</p>
+<p>Отмстил тебе за крестопреступленье.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Отец? Отец?</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>В плену с митрополитом.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<p>Спасенья нет?</p>
+<empty-line/>
+<p>Николай Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>Все улицы ворами</p>
+<p>Наполнились. Куда бежать с тобой?</p>
+<p>Разлучат нас, разлука хуже смерти.</p>
+<empty-line/>
+<p>Людмила</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(подходит к Дементию Редрикову)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Благослови, отец, на жизнь иную,</p>
+<p>На вечное житье твоих детей!</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Показывает на огонь.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Спасенье там! Туда я с милым мужем</p>
+<p>Без трепета пойду.</p>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>(Подходит к горящим покоям.)</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Дементий Редриков</p>
+<empty-line/>
+<empty-line/>
+<p>И я за вами.</p>
+<p>Зачем мне жить? Что видеть? Святотатство,</p>
+<p>Грабеж церквей! Мученье беззащитных!</p>
+<p>Девиц и жен позор! И поруганье</p>
+<p>Святынею и иноческим чином!</p>
+<p>Детей, убийц своих отцов седых!</p>
+<p>Все лютости ужасной той годины,</p>
+<p>Предсказанной пророками издревле,</p>
+<p>Когда идет с ножом на брата брат!</p>
+<empty-line/>
+<p>Николай Редриков и Людмила становятся на колени.</p>
+<empty-line/>
+<empty-line/>
+<p>Да будет вам мое благословенье!</p>
+<empty-line/>
+<p><strong><emphasis>Комментарии</emphasis></strong></p>
+<p>Впервые пьеса была опубликована в журнале "Всемирный труд", 1867, No 1.</p>
+<p>Эта историческая хроника была задумана Островским в августе, начата 29 сентября и окончена 5 ноября 1866 г. 7 января 1867 г. "Тушино" одобрено Театрально-литературным комитетом, а 23 января разрешено драматической цензурой.</p>
+<p>Консервативные круги встретили новую историческую пьесу Островского нападками. Рецензент "Сына отечества" даже утверждал, что жанр исторической драмы вообще не является призванием Островского ("Сын отечества", 1867, No 20, 24 января). П. Д. Боборыкин несколько лет спустя в статье "Островский и его сверстники" писал о "Тушине": "Это смесь историко-бытовых картин с очень рыхлой любовной интригой... народно-государственная драма низводится на степень жанровых картинок, производящих даже в печати весьма низменное действие" ("Слово", 1878, No 8, отд. II, стр. 35). Но подобные крайние оценки не были приняты прогрессивной общественностью, хроника Островского была в общем встречена одобрением и в театральном мире.</p>
+<p>Островский читал "Тушино" в Артистическом кружке (16 февраля 1867 г.) и других местах. На одном из таких чтении присутствовал музыкальный критик Н. Д. Кашкин. "Тушино", -- вспоминал он, -- мне чрезвычайно понравилось необыкновенной силой и жизненностью картин, быстро сменяющих одна другую" ("Русские ведомости", 1895, No 23, 23 января). Критик либеральной газеты "Голос" писал: "В обществе и в печати довольно распространено мнение, что "Тушино" -- слабейшая из драматических хроник г. Островского. Мы не разделяем этого мнения... действительно, эпоха тушинского вора начерчена автором мастерски... Что касается Василия Шуйского и тушинского вора, то характеры их изображены совершенно верно истории..." Главное достоинство хроники критик видел в "эпическом изображении эпохи" и с похвалой отзывался о колоритности и "определенности" характеров Николая и Максима Редриковых. "Рядом с братьями Редриковыми на ту же ступень главного действующего лица поставлена дочь ростовского воеводы Сеитова, Людмила -- новая попытка со стороны г. Островского нарисовать идеальную русскую женщину. Людмила -- натура блестящая в полном смысле этого слова: своевольная, капризная, но умная, способная, страстная, великодушная..." ("Голос", 1867, No 156, 8 июня).</p>
+<p>В композиции "Тушина" критика отмечала соединение двух линий -- исторической и вымышленной ("Русское слово", 1895, No 27, 28 января).</p>
+<p>На сцене хроника была одновременно поставлена в Москве и в Петербурге: 23 ноября 1867 г. В Малом театре (в бенефис В. И. Живокини) роли исполняли: П. М. Садовский -- Сеитов, Г. Н. Федотова -- Людмила, И. В. Самарин -- Дементий Редриков, Н. В. Рыкалоиа -- его жена, П. Г. Степанов -- Шуйский, В. И. Живокини -- Скуратов, и др. В Александринском театре (в бенефис Л. Л. Леонидова) в спектакле выступили: П. И. Григорьев 1-й -- Сеитов, Е. В. Владимирова -- Людмила, Л. Л. Леонидов -- Дементий Редриков. П. К. Громова -- его жена, П. В. Васильев -- Шуйский, П. И. Зубров -- Скуратов, и др. Н. Ф. Сазонов, по оценке самого драматурга, "в роли молодого Редрикова (Николая -- <emphasis>Г. П.</emphasis>) ...обнаружил много нежности, много искреннего чувства" (т. XII, стр. 223). "Тушино" редко ставилось на сцене, так, в период с 1875 по 1917 г. шло всего пять раз.</p>
+<p>Воспользовавшись фабулой и стихами "Тушина", композитор П. И. Бларамберг написал оперу в четырех действиях "Тушинцы". В московском Большом театре опера была поставлена 24 января 1895 г.</p>
+<p>Критик Н. Д. Кашкин считал, что наибольший успех принесли опере исполнители мужских партий, среди которых "Максим Редриков имеет... первенствующую роль". "В "Тушине" Островского Максим... выступает яснее и полнее, нежели в опере, рамки которой заставили исключить некоторые сцены. Но и в опере его неукротимый нрав, приводящий к гибели и его собственной и всех близких ему, выражается достаточно ясно..." ("Русские ведомости", 1895, No 33, 2 февраля). Музыковед В. Яковлев отмечал, что в опере "было несколько народных сцен, которые представляли собой как бы слабые отзвуки сцен из Мусоргского, находившегося фактически долгое время под запретом". Но хотя в опере был "ряд удачных музыкально-сценических моментов", "весьма пестрый музыкальный стиль и недостатки технических приемов автора были отчасти причиной того, что опера не удержалась в репертуаре и не возобновлялась" (сб. "А. Н. Островский и русские композиторы", М. -- Л. 1937, стр. 40).</p>
+<p>В июле 1903 г. опера шла в Петербурге.</p>
+<empty-line/>
+<p>своею вооруженною рукою мы это делаем (<emphasis>лат</emphasis>.).</p>
+<p>Мы римляне (<emphasis>лат.</emphasis>).</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

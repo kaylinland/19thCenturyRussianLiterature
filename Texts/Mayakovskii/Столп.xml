@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Владимир</first-name>
+			<middle-name>Владимирович</middle-name>
+			<last-name>Маяковский</last-name>
+		</author>
+		<book-title>Столп</book-title>
+<annotation></annotation>		<date value="2009-05-15">15/05/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-12-27">2018-12-27 07:54:41</date>
+		<src-url>http://az.lib.ru/m/majakowskij_w_w/text_0940.shtml</src-url>
+		<id>samlib5c24854205b6d4.88883910</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Маяковский Владимир Владимирович</p>
+	<empty-line/>
+	<p>Столп</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<p>                         <strong>Владимир Маяковский</strong></p><strong></strong>
+<p><strong></strong></p>
+<p><strong>                                   СТОЛП</strong></p>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_1928_stolp.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<empty-line/>
+<p>                      Товарищ Попов</p>
+<p>                                    чуть-чуть не от плуга.</p>
+<p>                      Чуть</p>
+<p>                           не от станка</p>
+<p>                                        и сохи.</p>
+<p>                      Он -</p>
+<p>                            даже партиец,</p>
+<p>                                          но он</p>
+<p>                                                перепуган,</p>
+<p>                   10 брюзжит</p>
+<p>                              баритоном сухим:</p>
+<p>                      "Раскроешь газетину -</p>
+<p>                                            в критике вся, -</p>
+<p>                      любая</p>
+<p>                            колеблется</p>
+<p>                                       глыба.</p>
+<p>                      Кроют.</p>
+<p>                             Кого?</p>
+<p>                                   Аж волось_я_</p>
+<p>                   20 встают</p>
+<p>                             от фамилий</p>
+<p>                                        дыбом.</p>
+<p>                      Ведь это -</p>
+<p>                                 подрыв,</p>
+<p>                                         подкоп ведь это...</p>
+<p>                      Критику</p>
+<p>                              осторожненько</p>
+<p>                                            д_о_лжно вести.</p>
+<p>                      А эти -</p>
+<p>                   30         критикуют,</p>
+<p>                                         не щадя авторитета,</p>
+<p>                      ни чина,</p>
+<p>                               ни стажа,</p>
+<p>                                         ни должности.</p>
+<p>                      Критика</p>
+<p>                              снизу -</p>
+<p>                                       это яд.</p>
+<p>                      Сверху -</p>
+<p>                                вот это лекарство!</p>
+<p>                   40 Ну, можно ль</p>
+<p>                                   позволить</p>
+<p>                                             низам,</p>
+<p>                                                    подряд,</p>
+<p>                      всем! -</p>
+<p>                              заниматься критиканством?</p>
+<p>                      О мерзостях</p>
+<p>                                  наших</p>
+<p>                                        трубим и поем.</p>
+<p>                      Иди</p>
+<p>                   50     и в газетах срамись я!</p>
+<p>                      Ну, я ошибся...</p>
+<p>                                      Так в тресте ж,</p>
+<p>                                                      в моем,</p>
+<p>                      имеется</p>
+<p>                              ревизионная комиссия.</p>
+<p>                      Ведь можно ж,</p>
+<p>                                     не задевая столпов,</p>
+<p>                      в кругу</p>
+<p>                              своих,</p>
+<p>                   60                братишек, -</p>
+<p>                      вызвать,</p>
+<p>                               сказать:</p>
+<p>                                        - Товарищ Попов,</p>
+<p>                      орудуй...</p>
+<p>                                тово...</p>
+<p>                                        потише... -</p>
+<p>                      Пристали</p>
+<p>                               до тошноты,</p>
+<p>                                           до рвот...</p>
+<p>                   70 Обмазывают</p>
+<p>                                 кистью густою.</p>
+<p>                      Товарищи,</p>
+<p>                                ведь это же ж</p>
+<p>                                              подорвет</p>
+<p>                      государственные устои!</p>
+<p>                      Кого критикуют? -</p>
+<p>                                        вопит, возомня,</p>
+<p>                      аж голос</p>
+<p>                               визжит</p>
+<p>                   80                 тенорком. -</p>
+<p>                      Вчера -</p>
+<p>                              Иванова,</p>
+<p>                                       сегодня -</p>
+<p>                                                  меня,</p>
+<p>                      а завтра -</p>
+<p>                                  Совнарком!"</p>
+<empty-line/>
+<p>                      Товарищ Попов,</p>
+<p>                                     оставьте скулеж.</p>
+<p>                      Болтовня о подрывах -</p>
+<p>                   90                       ложь!</p>
+<p>                      Мы всех зовем,</p>
+<p>                                     чтоб в лоб,</p>
+<p>                                                 а не пятясь,</p>
+<p>                      критика</p>
+<p>                               дрянь</p>
+<p>                                     косила.</p>
+<p>                      И это</p>
+<p>                            лучшее из доказательств</p>
+<p>                      нашей</p>
+<p>                  100       чистоты и силы.</p>
+<empty-line/>
+<p>      [<emphasis>1928</emphasis>]</p>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_1928_stolp.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

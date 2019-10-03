@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Евгений</first-name>
+			<middle-name>Иванович</middle-name>
+			<last-name>Замятин</last-name>
+		</author>
+		<book-title>&quot;Трехмерный фильм&quot;</book-title>
+<annotation></annotation>		<date value="2013-09-22">22/09/2013</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 09:42:10</date>
+		<src-url>http://az.lib.ru/z/zamjatin_e_i/text_1933_trehmerny_film.shtml</src-url>
+		<id>samlib58f50c8262e1c4.55207437</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Замятин Евгений Иванович</p>
+	<empty-line/>
+	<p>&quot;Трехмерный фильм&quot;</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Е. И. Замятин</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>"Трехмерный фильм"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Замятин Е. И. Собрание сочинений: В 5 т. Т. 4. Беседы еретика</p>
+<p>М., "Дмитрий Сечин", "Республика", 2010.</p>
+<empty-line/>
+<p>Начало:</p>
+<p>Мужчины и женщины обнимают друг друга, колотятся сумасшедшие сердца, человека расстреливают, на снегу пятно крови, падает аэроплан, пилот выпрыгивает, спасен -- и мы радуемся, утираем слезы, смеемся, мы целых два часа заставляем этих людей жить на экране, мы два часа безжалостно играем их двухмерными сердцами, их непачкающей кровью, а потом мы выходим на улицу и возвращаемся к нашей трехмерной жизни -- без всяких угрызений совести, потому что ведь все-таки те, на экране, -- из ненастоящего, двухмерного мира...</p>
+<p><emphasis></emphasis></p>
+<p><emphasis>&lt;1933&gt;</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>КОММЕНТАРИИ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Публикуется впервые по рукописи, хранящейся в Бахметевском архиве Колумбийского университета.</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

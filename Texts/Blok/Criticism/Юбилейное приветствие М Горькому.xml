@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Александрович</middle-name>
+			<last-name>Блок</last-name>
+		</author>
+		<book-title>Юбилейное приветствие М. Горькому</book-title>
+<annotation></annotation>		<date value="2015-04-08">08/04/2015</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 01:47:45</date>
+		<src-url>http://az.lib.ru/b/blok_a_a/text_1919_privetstvie_m_gorkogo.shtml</src-url>
+		<id>samlib58f49d516af593.12924284</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Блок Александр Александрович</p>
+	<empty-line/>
+	<p>Юбилейное приветствие М. Горькому</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>А. А. Блок</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>&lt;Юбилейное приветствие М. Горькому&gt;</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Судьба возложила на Максима Горького, как на величайшего художника наших дней, великое бремя. Она поставила его посредником между народом и интеллигенцией, - между двумя станами, которые оба еще не знают ни себя, ни друг друга. Так случилось недаром: чего не сделает в наши дни никакая политика, ни наука, то может сделать музыка. Позвольте пожелать Алексею Максимовичу сил, чтобы не оставлял его суровый, гневный, стихийный, но и милостивый дух музыки, которому он, как художник, верен. Ибо, повторяю слова Гоголя, если и музыка нас покинет, что будет тогда с нашим миром? Только музыка способна остановить кровопролитие, которое становится тоскливою пошлостью, когда перестает быть священным безумием.</p>
+<empty-line/>
+<p><emphasis>30 марта 1919</emphasis></p>
+<empty-line/>
+<p>-------------------------------------------------------------------------------------</p>
+<empty-line/>
+<empty-line/>
+<p><emphasis>Впервые опубликовано: "Жизнь искусства", 1919, 2 апреля (репортерский отчет). </emphasis></p>
+<p><emphasis>Оригинал здесь: </emphasis><emphasis>http://dugward.ru/library/blok/blok_ubileynoe_privetstvie_m_gorkogo.html</emphasis><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Евгений</first-name>
+			<middle-name>Абрамович</middle-name>
+			<last-name>Баратынский</last-name>
+		</author>
+		<book-title>Эпиграммы на Е. А. Баратынского</book-title>
+<annotation></annotation>		<date value="2009-12-29">29/12/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 01:30:22</date>
+		<src-url>http://az.lib.ru/b/baratynskij_e_a/text_0170.shtml</src-url>
+		<id>samlib58f4993e39b250.95226895</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Баратынский Евгений Абрамович</p>
+	<empty-line/>
+	<p>Эпиграммы на Е. А. Баратынского</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>НА Е. А. БОРАТЫНСКОГО</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>----------------------------------------------------------------------------</p>
+<empty-line/>
+<p>Эпиграмма и сатира: Из истории литературной борьбы XIX века.</p>
+<empty-line/>
+<p>М.; Л.: Academia, 1931-1932.</p>
+<empty-line/>
+<p>OCR Бычков М. Н. mailto:bmn@lib.ru</p>
+<empty-line/>
+<p>----------------------------------------------------------------------------</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Надпись к портрету</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Он щедро награжден судьбой,</p>
+<empty-line/>
+<p>Рифмач безграмотный, но Дельвигом прославлен!</p>
+<empty-line/>
+<p>Он унтер-офицер, но от побой</p>
+<empty-line/>
+<p>Дворянской грамотой избавлен.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>[Аноним]</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Завещание Боратынского</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Долги на память о поэте</p>
+<empty-line/>
+<p>Заимодавцам я дарю,</p>
+<empty-line/>
+<p>Мундир мой унтерский - царю,</p>
+<empty-line/>
+<p>Стихотворенья - доброй Лете.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>[Аноним]</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Из савана оделся он в ливрею,</p>
+<empty-line/>
+<p>На ленту променял свой лавровый венец,</p>
+<empty-line/>
+<p>Не подражая больше Грею,</p>
+<empty-line/>
+<p>С указкой втерся во дворец.</p>
+<empty-line/>
+<p>И там, пред знатными сгибая шею,</p>
+<empty-line/>
+<p>Он руку жмет каммер-лакею,</p>
+<empty-line/>
+<p>Бедный певец!</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>[А. Бестужев?]</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>В стане русских певец</p>
+<empty-line/>
+<p>Удалой молодец,</p>
+<empty-line/>
+<p>Хоть и иного он пьет,</p>
+<empty-line/>
+<p>А ни слова не врет.</p>
+<empty-line/>
+<p>Но в Кремле наш певец.</p>
+<empty-line/>
+<p>Что болтливый скворец,</p>
+<empty-line/>
+<p>Хоть ни капли не пьет,</p>
+<empty-line/>
+<p>А что слово, то врет.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Н. Шатров</p>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

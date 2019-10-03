@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>children</genre>
+		<author>
+			<first-name>Федор</first-name>
+			<last-name>Сологуб</last-name>
+		</author>
+		<book-title>Письмо Г. И. Чулкову</book-title>
+<annotation></annotation>		<date value="2012-11-07">07/11/2012</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 08:08:15</date>
+		<src-url>http://az.lib.ru/s/sologub_f/text_1911_pismo_k_chulkovu.shtml</src-url>
+		<id>samlib58f4f67fd5df73.74124162</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Сологуб Федор</p>
+	<empty-line/>
+	<p>Письмо Г. И. Чулкову</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+<p>Сологуб Ф. Творимая легенда. Кн. 2.</p>
+<p>М., "Художественная литература", 1991. (Забытая книга).</p>
+<empty-line/>
+<p>"6 февраля 1911.</p>
+<empty-line/>
+<empty-line/>
+<p>Дорогой Георгий Иванович,</p>
+<empty-line/>
+<empty-line/>
+<p>Я с большим огорчением узнал, что Вы продолжаете поддерживать отношения с гр&lt;афом&gt; Алексеем Ник&lt;олаевичем&gt; Толстым. Образ действий графа Ал&lt;ексея&gt; Ник&lt;олаевича&gt; Толстого вынуждает меня не посещать тех домов, где он принят.</p>
+<empty-line/>
+<p>Преданный Вам</p>
+<p>Федор Тетерников".</p>
+<empty-line/>
+<empty-line/>
+<p><emphasis>ГБЛ, </emphasis>ф. 371, карт. 4, ед. хр. 76, л. 34.</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

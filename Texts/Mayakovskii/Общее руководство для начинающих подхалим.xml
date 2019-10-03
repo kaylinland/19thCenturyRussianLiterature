@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Владимир</first-name>
+			<middle-name>Владимирович</middle-name>
+			<last-name>Маяковский</last-name>
+		</author>
+		<book-title>Общее руководство для начинающих подхалим</book-title>
+<annotation></annotation>		<date value="2009-05-05">05/05/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-12-27">2018-12-27 07:53:48</date>
+		<src-url>http://az.lib.ru/m/majakowskij_w_w/text_0920.shtml</src-url>
+		<id>samlib5c24850c941533.11005296</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Маяковский Владимир Владимирович</p>
+	<empty-line/>
+	<p>Общее руководство для начинающих подхалим</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>          <strong>ОБЩЕЕ РУКОВОДСТВО      </strong></p><strong></strong>
+<p><strong>     ДЛЯ НАЧИНАЮЩИХ ПОДХАЛИМ</strong></p>
+<empty-line/>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_1927_obshee_rukovodstvo_dlya_podhalim.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<empty-line/>
+<p></p>
+<p id="lvox"></p>
+<p>В любом учреждении</p>
+<empty-line/>
+<p>                   есть подхалим.</p>
+<empty-line/>
+<p>Живут подхалимы,</p>
+<empty-line/>
+<p>                    и неплохо им.</p>
+<empty-line/>
+<p>Подчас молодежи,</p>
+<empty-line/>
+<p>                   на них глядя,</p>
+<empty-line/>
+<p>хочется</p>
+<empty-line/>
+<p>      устроиться -</p>
+<empty-line/>
+<p>                   как устроился дядя.</p>
+<empty-line/>
+<p>Но как</p>
+<empty-line/>
+<p>         в доверие к начальству влезть?</p>
+<empty-line/>
+<p>Ответственного</p>
+<empty-line/>
+<p>                   не возьмешь на низкую лесть.</p>
+<empty-line/>
+<p>Например,</p>
+<empty-line/>
+<p>         распахивать перед начальством</p>
+<empty-line/>
+<p>                                             двери -</p>
+<empty-line/>
+<p>не к чему.</p>
+<empty-line/>
+<p>         Начальство тебе не поверит,</p>
+<empty-line/>
+<p>не оценит</p>
+<empty-line/>
+<p>         энергии</p>
+<empty-line/>
+<p>                   излишнюю трату -</p>
+<empty-line/>
+<p>подумает,</p>
+<empty-line/>
+<p>         что это</p>
+<empty-line/>
+<p>                  ты -</p>
+<empty-line/>
+<p>                              по штату.</p>
+<empty-line/>
+<p>Или вот еще</p>
+<empty-line/>
+<p>          способ</p>
+<empty-line/>
+<p>                  очень грубый:</p>
+<empty-line/>
+<p>трубить</p>
+<empty-line/>
+<p>         начальству</p>
+<empty-line/>
+<p>                    в пионерские трубы.</p>
+<empty-line/>
+<p>Еще рассердится:</p>
+<empty-line/>
+<p>                  - Чего, мол, ради</p>
+<empty-line/>
+<p>ежесекундные</p>
+<empty-line/>
+<p>         праздники</p>
+<empty-line/>
+<p>                  у нас</p>
+<empty-line/>
+<p>                              в отряде? -</p>
+<empty-line/>
+<p>Надо</p>
+<empty-line/>
+<p>            льстить</p>
+<empty-line/>
+<p>                  умело и тонко.</p>
+<empty-line/>
+<p>Но откуда</p>
+<empty-line/>
+<p>         тонкость</p>
+<empty-line/>
+<p>                  у подростка и ребенка?!</p>
+<empty-line/>
+<p>И мы,</p>
+<empty-line/>
+<p>         желанием помочь палимы,</p>
+<empty-line/>
+<p>выпускаем</p>
+<empty-line/>
+<p>          "Руководство</p>
+<empty-line/>
+<p>                  для молодого подхалимы".</p>
+<empty-line/>
+<p>Например,</p>
+<empty-line/>
+<p>           начальство</p>
+<empty-line/>
+<p>                         делает доклад -</p>
+<empty-line/>
+<p>выкладывает канцелярской премудрости</p>
+<empty-line/>
+<p>                                       клад.</p>
+<empty-line/>
+<p>Стакан</p>
+<empty-line/>
+<p>         ко рту</p>
+<empty-line/>
+<p>                  поднесет рукой</p>
+<empty-line/>
+<p>и опять</p>
+<empty-line/>
+<p>          докладывает час-другой.</p>
+<empty-line/>
+<p>И вдруг</p>
+<empty-line/>
+<p>         вопль посредине доклада:</p>
+<empty-line/>
+<p>- Время</p>
+<empty-line/>
+<p>         докладчику</p>
+<empty-line/>
+<p>                     ограничить надо! -</p>
+<empty-line/>
+<p>Тогда</p>
+<empty-line/>
+<p>      ты,</p>
+<empty-line/>
+<p>          сотрясая здание,</p>
+<empty-line/>
+<p>требуй:</p>
+<empty-line/>
+<p>          - Слово</p>
+<empty-line/>
+<p>                  к порядку заседания!</p>
+<empty-line/>
+<p>Доклад -</p>
+<empty-line/>
+<p>           звезда средь мрака и темени.</p>
+<empty-line/>
+<p>Требую</p>
+<empty-line/>
+<p>          продолжать</p>
+<empty-line/>
+<p>                         без ограничения времени! -</p>
+<empty-line/>
+<p>И будь уверен -</p>
+<empty-line/>
+<p>                  за слова за эти</p>
+<empty-line/>
+<p>начальство запомнит тебя</p>
+<empty-line/>
+<p>                              и заметит.</p>
+<empty-line/>
+<p>Узнав,</p>
+<empty-line/>
+<p>         что у начальства</p>
+<empty-line/>
+<p>                           сочинения есть,</p>
+<empty-line/>
+<p>спеши</p>
+<empty-line/>
+<p>         печатный отчетишко прочесть.</p>
+<empty-line/>
+<p>При встрече</p>
+<empty-line/>
+<p>               с начальством,</p>
+<empty-line/>
+<p>                             закатывая глазки,</p>
+<empty-line/>
+<p>скажи ему</p>
+<empty-line/>
+<p>            голосом,</p>
+<empty-line/>
+<p>                        полным ласки:</p>
+<empty-line/>
+<p>- Прочел отчет.</p>
+<empty-line/>
+<p>                  Не отчет, а роман!</p>
+<empty-line/>
+<p>У вас</p>
+<empty-line/>
+<p>      стихи бы</p>
+<empty-line/>
+<p>                   вышли задарма!</p>
+<empty-line/>
+<p>Скажите,</p>
+<empty-line/>
+<p>         не вы ли</p>
+<empty-line/>
+<p>                  автор "Антидюринга"?</p>
+<empty-line/>
+<p>Тоже</p>
+<empty-line/>
+<p>     написан</p>
+<empty-line/>
+<p>                  очень недурненько. -</p>
+<empty-line/>
+<p>Уверен будь -</p>
+<empty-line/>
+<p>                  за оценки за эти</p>
+<empty-line/>
+<p>и начальство</p>
+<empty-line/>
+<p>              оценит тебя</p>
+<empty-line/>
+<p>                            и заметит.</p>
+<empty-line/>
+<p>Увидишь:</p>
+<empty-line/>
+<p>           начальство</p>
+<empty-line/>
+<p>                     едет пьяненький</p>
+<empty-line/>
+<p>в казенной машине</p>
+<empty-line/>
+<p>                  и в дамской компанийке.</p>
+<empty-line/>
+<p>Пиши</p>
+<empty-line/>
+<p>         в стенгазету,</p>
+<empty-line/>
+<p>                     возмущенный насквозь:</p>
+<empty-line/>
+<p>"Экономия экономии рознь.</p>
+<empty-line/>
+<p>Такую экономию -</p>
+<empty-line/>
+<p>                  высмейте смешком!</p>
+<empty-line/>
+<p>На что это похоже?!</p>
+<empty-line/>
+<p>                    Еле-еле</p>
+<empty-line/>
+<p>со службы</p>
+<empty-line/>
+<p>            и на службу,</p>
+<empty-line/>
+<p>                              таскаясь пешком,</p>
+<empty-line/>
+<p>начканц</p>
+<empty-line/>
+<p>         волочит свои портфели".</p>
+<empty-line/>
+<p>И ты</p>
+<empty-line/>
+<p>  преуспеешь на жизненной сцене -</p>
+<empty-line/>
+<p>начальство</p>
+<empty-line/>
+<p>           заметит тебя</p>
+<empty-line/>
+<p>                           и оценит.</p>
+<empty-line/>
+<p>А если</p>
+<empty-line/>
+<p>         не хотите</p>
+<empty-line/>
+<p>                  быть подхалимой,</p>
+<empty-line/>
+<p>сами</p>
+<empty-line/>
+<p>      себе</p>
+<empty-line/>
+<p>           не зажимайте рот:</p>
+<empty-line/>
+<p>увидев</p>
+<empty-line/>
+<p>         безобразие,</p>
+<empty-line/>
+<p>                    не проходите мимо</p>
+<empty-line/>
+<p>и поступайте</p>
+<empty-line/>
+<p>                не по стиху,</p>
+<empty-line/>
+<p>                           а наоборот.</p>
+<empty-line/>
+<p>[1927]</p>
+<empty-line/>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_1927_obshee_rukovodstvo_dlya_podhalim.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

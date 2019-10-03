@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Николай</first-name>
+			<middle-name>Гаврилович</middle-name>
+			<last-name>Чернышевский</last-name>
+		</author>
+		<book-title>Общий курс истории средних веков</book-title>
+<annotation><p>Сочинение М. Стасюлевича. СПб., 1856</p></annotation>		<date value="2016-09-14">14/09/2016</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 02:29:06</date>
+		<src-url>http://az.lib.ru/c/chernyshewskij_n_g/text_1856_obschi_kurs.shtml</src-url>
+		<id>samlib58f4a70252e654.81285642</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Чернышевский Николай Гаврилович</p>
+	<empty-line/>
+	<p>Общий курс истории средних веков</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+<p>Чернышевский Н. Г. Избранные педагогические сочинения</p>
+<p>М., "Педагогика", 1983.-- (Пед. б-ка).</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Общий курс истории средних веков</strong></p><strong></strong>
+<p><strong></strong>Сочинение М. Стасюлевича. СПб., 18561</p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Не отличаясь никакими положительными достоинствами, курс г. Стасюлевича, однако ж, заслуживает одобрения потому, что лучше многих других руководств, которыми пользуются преподаватели всеобщей истории, не имеющие возможности ввести в употребление между своими учениками сочинение г. Лоренца. Факты изложены у г. Стасюлевича сухо, бесцветно, но все-таки он сделал некоторое различие между мелочными подробностями и существенно важным и не слишком обременил свое руководство излишними именами и цифрами. Важные события выставлены у него не так рельефно и ясно, как того было бы можно требовать, но все-таки не совершенно закрыты длинными перечнями ничтожных походов и стычек. И если вообще "курс" г. Стасюлевича написан в той же неудовлетворительной системе, как прежние наши учебники всеобщей истории, то написан с несколько большим знанием и искусством. Многие из преподавателей, вероятно, будут и этим довольны.</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Комментарии</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>1 Впервые опубликован в "Современнике", 1856, No 7; печатается по тексту Полн. собр. соч., т. III, с. 551.</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

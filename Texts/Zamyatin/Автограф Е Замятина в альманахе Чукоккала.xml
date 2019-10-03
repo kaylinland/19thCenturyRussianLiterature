@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Евгений</first-name>
+			<middle-name>Иванович</middle-name>
+			<last-name>Замятин</last-name>
+		</author>
+		<book-title>Автограф Е. Замятина в альманахе &quot;Чукоккала&quot;</book-title>
+<annotation></annotation>		<date value="2007-05-17">17/05/2007</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 09:41:43</date>
+		<src-url>http://az.lib.ru/z/zamjatin_e_i/text_0460.shtml</src-url>
+		<id>samlib58f50c6771e153.95166125</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Замятин Евгений Иванович</p>
+	<empty-line/>
+	<p>Автограф Е. Замятина в альманахе &quot;Чукоккала&quot;</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+ 
+ 
+
+
+</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Автограф Е. Замятина в альманахе "Чукоккала"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>"Наше наследие", 1989, No 4</p>
+<p><a xlink:href="mailto:bmn@lib.ru">OCR Бычков М. Н.</a></p>
+<empty-line/>
+<p>Была у меня няня -- хорошая няня -- каждый вечер молилась: "Избави меня, Господи, От полного разума!"</p>
+<empty-line/>
+<p>Е. Замятин</p>
+<empty-line/>
+<empty-line/>
+<p>12--II--1919</p>
+<p>СПБ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

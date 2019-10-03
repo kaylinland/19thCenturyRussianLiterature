@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Константин</first-name>
+			<middle-name>Николаевич</middle-name>
+			<last-name>Батюшков</last-name>
+		</author>
+		<book-title>Мысли</book-title>
+<annotation></annotation>		<date value="2011-12-07">07/12/2011</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 01:31:19</date>
+		<src-url>http://az.lib.ru/b/batjushkow_k_n/text_1810_mysly_oldoro.shtml</src-url>
+		<id>samlib58f49977892731.19738183</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Батюшков Константин Николаевич</p>
+	<empty-line/>
+	<p>Мысли</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Мысли.</p>
+<empty-line/>
+<empty-line/>
+<p>Молчаніе есть украшеніе и щитъ юности.</p>
+<p>Скупые на похвалу доказываютъ, что они небогаты достоинствами.</p>
+<p>Путешественникъ имѣетъ много хозяевъ и мало друзей.</p>
+<p>Не дѣлай ничего такого, чегобъ не долженъ былъ знать твой непріятель.</p>
+<p>Если ты хочешь свѣсить услугу и обиду, то отними вѣсу у одной, прибавь отнятое къ другой -- и будешь справедливъ.</p>
+<p>Что есть бдагодарность? -- Память сердца.</p>
+<p>Добродѣтель идетъ мимо счастія и злополучія, на то и на другое бросая презрительные взоры.</p>
+<p>Боги! -- даруйте мнѣ мудрость, остальное -- все вамъ! --</p>
+<p>Философія господствуетъ надъ протекшимъ и будущимъ; настоящее убиваетъ ее.</p>
+<p>Любовь старѣется, почтеніе также.</p>
+<p>Великіе люди предпринимаютъ великія дѣла, потому что они велики; a дураки, потому что считаютъ ихъ бездѣлками.</p>
+<p>Великія мысли истекаютъ изъ сердца.</p>
+<p>Кондильякъ говоритъ, что чтеніе Стихотворцевъ образуетъ лучше способность мыслить вѣрно, нежели чтеніе философовъ. Въ трагедіяхъ Расиновыхъ болѣе логики, нежели въ Сенекѣ, и проч.</p>
+<empty-line/>
+<p><emphasis>Б. . . .</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><emphasis>"В</emphasis><emphasis>ѣ</emphasis><emphasis>стникъ Европы". Часть </emphasis><emphasis>LII</emphasis><emphasis>, No</emphasis><emphasis> </emphasis><emphasis>13, 1810</emphasis></p>
+<empty-line/>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

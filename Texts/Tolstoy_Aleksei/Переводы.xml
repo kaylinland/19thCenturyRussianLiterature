@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Алексей</first-name>
+			<middle-name>Константинович</middle-name>
+			<last-name>Толстой</last-name>
+		</author>
+		<book-title>Переводы</book-title>
+<annotation><p>Шотландская народная поэзия.</p></annotation>		<date value="2004-10-14">14/10/2004</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-05-23">2018-05-23 11:20:06</date>
+		<src-url>http://az.lib.ru/t/tolstoj_a_k/text_0150.shtml</src-url>
+		<id>samlib5b05243693e916.49162117</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Толстой Алексей Константинович</p>
+	<empty-line/>
+	<p>Переводы</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l0"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>Алексей Константинович Толстой. Переводы</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Шотландская народная поэзия</p>
+<empty-line/>
+<p>Эдвард</p>
+<empty-line/>
+<p>Шотландская народная поэзия</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l1354"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>ЭДВАРД</p>
+</title>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l1355"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>НАРОДНАЯ ШОТЛАНДСКАЯ БАЛЛАДА</p>
+</title>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l1356"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>1</p>
+</title>
+<empty-line/>
+<p>"Чьей кровию меч ты свой так обагрил?</p>
+<p>Эдвард, Эдвард?</p>
+<p>Чьей кровию меч ты свой так обагрил?</p>
+<p>Зачем ты глядишь так сурово?"</p>
+<p>"То сокола я, рассердяся, убил,</p>
+<p>Мать моя, мать,</p>
+<p>То сокола я, рассердяся, убил,</p>
+<p>И негде добыть мне другого!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l1357"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>2</p>
+</title>
+<empty-line/>
+<p>"У сокола кровь так красна не бежит,</p>
+<p>Эдвард, Эдвард!</p>
+<p>У сокола кровь так красна не бежит,</p>
+<p>Твой меч окровавлен краснее!"</p>
+<p>"Мой конь красно-бурый был мною убит,</p>
+<p>Мать моя, мать!</p>
+<p>Мой конь красно-бурый был мною убит,</p>
+<p>Тоскую по добром коне я!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l1358"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>3</p>
+</title>
+<empty-line/>
+<p>"Конь стар у тебя, эта кровь не его,</p>
+<p>Эдвард, Эдвард!</p>
+<p>Конь стар у тебя, эта кровь не его,</p>
+<p>Не то в твоем сумрачном взоре!"</p>
+<p>"Отца я сейчас заколол моего,</p>
+<p>Мать моя, мать!</p>
+<p>Отца я сейчас заколол моего,</p>
+<p>И лютое жжет меня горе!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l1359"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>4</p>
+</title>
+<empty-line/>
+<p>"А грех чем тяжелый искупишь ты свой,</p>
+<p>Эдвард, Эдвард?</p>
+<p>А грех чем тяжелый искупишь ты свой?</p>
+<p>Чем сымешь ты с совести ношу?"</p>
+<p>"Я сяду в ладью непогодой морской,</p>
+<p>Мать моя, мать!</p>
+<p>Я сяду в ладью непогодой морской,</p>
+<p>И ветру все парусы брошу!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l1360"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>5</p>
+</title>
+<empty-line/>
+<p>"А с башней что будет и с домом твоим,</p>
+<p>Эдвард, Эдвард?</p>
+<p>А с башней что будет и с домом твоим,</p>
+<p>Ладья когда в море отчалит?"</p>
+<p>"Пусть ветер и буря гуляют по ним,</p>
+<p>Мать моя, мать!</p>
+<p>Пусть ветер и буря гуляют по ним,</p>
+<p>Доколе их в прах не повалят!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l1361"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>6</p>
+</title>
+<empty-line/>
+<p>"Что ж будет с твоими с детьми и с женой,</p>
+<p>Эдвард, Эдвард?</p>
+<p>Что ж будет с твоими с детьми и с женой</p>
+<p>В их горькой, беспомощной доле?"</p>
+<p>"Пусть по миру ходят за хлебом с сумой,</p>
+<p>Мать моя, мать!</p>
+<p>Пусть по миру ходят за хлебом с сумой,</p>
+<p>Я с ними не свижуся боле!"</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l1362"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>7</p>
+</title>
+<empty-line/>
+<p>"А матери что ты оставишь своей,</p>
+<p>Эдвард, Эдвард?</p>
+<p>А матери что ты оставишь своей,</p>
+<p>Тебя что у груди качала?"</p>
+<p>"Проклятье тебе до скончания дней,</p>
+<p>Мать моя, мать!</p>
+<p>Проклятье тебе до скончания дней,</p>
+<p>Тебе, что мне грех нашептала!"</p>
+<empty-line/>
+<p>Конец 1871</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p id="l1450"></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<p>ШОТЛАНДСКАЯ НАРОДНАЯ ПОЭЗИЯ</p>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Эдвард.  -  Толстой  перевел  шотландскую балладу с  немецкого перевода</p>
+<p>Т.Фонтане;  уже  после  того,  как  перевод был  сделан,  ему  удалось найти</p>
+<p>оригинал,  и,  по-видимому,  в  связи с  этим он внес несколько исправлений.</p>
+<p>"Эдвард" произвел на Толстого огромное впечатление.  "Я был совсем подавлен,</p>
+<p>когда прочел его,  -  писал поэт  Маркевичу 13  декабря 1871 г.  -  ...Я  не</p>
+<p>поверю,  чтобы кто-нибудь мог  не  быть потрясен с  ног  до  головы.  Я  это</p>
+<p>чувствую до  сих  пор  всякий  раз,  как  я  его  перечитываю,  и  могу  его</p>
+<p>сопоставить только со сценой леди Макбет".  О  сильном впечатлении,  которое</p>
+<p>произвел "Эдвард" на Н.С.Лескова и др., сообщил Толстому Маркевич.</p>
+<empty-line/>
+<p><strong>И.Г.Ямпольский</strong></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Лев</first-name>
+			<middle-name>Николаевич</middle-name>
+			<last-name>Толстой</last-name>
+		</author>
+		<book-title>Московские новости</book-title>
+<annotation></annotation>		<date value="2015-12-09">09/12/2015</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 08:57:31</date>
+		<src-url>http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1895_moskovskie_novosti.shtml</src-url>
+		<id>samlib58f5020b8e0877.60384511</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Толстой Лев Николаевич</p>
+	<empty-line/>
+	<p>Московские новости</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong><emphasis>Московские новости</emphasis></strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Вчера в VII отделении Окружного суда в Москве, в среде немногочисленной публики, собравшейся слушать неинтересные дела о пустых кражах, был и граф Л. Н. Толстой. Наш маститый писатель был не в обычной блузе, каким его рисуют на портретах, а в костюме европейского покроя. Граф живо интересовался всем ходом судебного следствия, прений и даже формальностями по составлению присутствия суда. Все время у него в руках была записная книжка, куда он часто вносил свои заметки. Слух о пребывании графа Л. Н. Толстого быстро разнесся по всем коридорам суда, и в Митрофаниевскую залу то и дело заходили посмотреть известного писателя. Все удивлялись лишь тому, что граф Л. Н. выбрал так неудачно день, когда рассматривались совершенно неинтересные дела.</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Комментарии</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Московские новости. -- Новости дня, 1895, 12 апреля, No 4250. Толстой был в Московском окружном суде 11 апреля 1895 г. В дневнике он отметил: "За это время был в суде. Ужасно. Не ожидал такой неимоверной глупости" (т. 53, с. 23). В записной книжке Толстой сделал обширную запись, касающуюся процедуры судебного заседания, для романа "Воскресение", над которым в то время работал (т. 53, с. 245-247).</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

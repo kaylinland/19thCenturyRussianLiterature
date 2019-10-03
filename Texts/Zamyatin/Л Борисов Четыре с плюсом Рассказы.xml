@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Евгений</first-name>
+			<middle-name>Иванович</middle-name>
+			<last-name>Замятин</last-name>
+		</author>
+		<book-title>Л. Борисов. Четыре с плюсом. Рассказы</book-title>
+<annotation></annotation>		<date value="2013-09-24">24/09/2013</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 09:42:13</date>
+		<src-url>http://az.lib.ru/z/zamjatin_e_i/text_1924_borisov.shtml</src-url>
+		<id>samlib58f50c85b163c1.04950694</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Замятин Евгений Иванович</p>
+	<empty-line/>
+	<p>Л. Борисов. Четыре с плюсом. Рассказы</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Е. И. Замятин</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Л. Борисов. Четыре с плюсом. Рассказы</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Замятин Е. И. Собрание сочинений: В 5 т. Т. 4. Беседы еретика</p>
+<p>М., "Дмитрий Сечин", "Республика", 2010.</p>
+<empty-line/>
+<p>В сборнике -- четыре рассказа хороших: "Беспризорный Галка", "Известный вам Галка", "Экипаж для детей" и "Холодная кровь". Слабее -- "Птенец и флейта" и еще слабее -- "Суслик" и "Чужая". Но четыре праведника в этом сборнике, пожалуй, спасут грешников: печатать книгу стоит, особенно если учесть недостаток рукописей в изд-ве.</p>
+<p>В выгодах автора (и изд-ва) было бы поставить первым не рассказ "Чужая" -- один из слабых, а какой-нибудь другой.</p>
+<empty-line/>
+<p><emphasis>Евг. Замятин</emphasis></p>
+<p><emphasis>20.Х.1929</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>КОММЕНТАРИИ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Впервые: Рукописные памятники. Вып. 3, ч. 1. Рукописное наследие Евгения Ивановича Замятина. СПб., 1997. С. 436.</p>
+<p>Печатается по этому изданию.</p>
+<p>Отзыв на рукопись Леонида Ильича Борисова (1897--1972), известного к тому времени по сборнику стихов "По солнечной стороне" (1922) и детективному роману "Ход конем" (1927) (высоко оцененному М. Горьким), способствовал изданию книги, которая вышла в 1930 г. В дальнейшем Л. И. Борисов написал несколько увлекательных книг для юношества о писателях, композиторах (об А. Грине, Жюле Верне, Р. Л. Стивенсоне, Н. А. Римском-Корсакове и др.).</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

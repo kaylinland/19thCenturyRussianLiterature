@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Лев</first-name>
+			<middle-name>Николаевич</middle-name>
+			<last-name>Толстой</last-name>
+		</author>
+		<book-title>Л. Н. Толстой о сборнике &quot;Вехи&quot;</book-title>
+<annotation></annotation>		<date value="2015-05-07">07/05/2015</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 08:57:30</date>
+		<src-url>http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1909_vehi.shtml</src-url>
+		<id>samlib58f5020ad02ae1.24828206</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Толстой Лев Николаевич</p>
+	<empty-line/>
+	<p>Л. Н. Толстой о сборнике &quot;Вехи&quot;</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Л. Н. Толстой о сборнике "Вехи"</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Серия "Русский путь"</p>
+<p>Вехи: Pro et contra</p>
+<p>Антология. Издательство Русского Христианского гуманитарного института, Санкт-Петербург, 1998</p>
+<empty-line/>
+<p>Много нашумевший и вызвавший взаимные сердечные излияния между архиепископом волынским Антонием и П. Б. Струве сборник "Вехи" обратил на себя внимание и Л. Н. Толстого. В сборнике, как известно, разносится в пух и прах вся наша интеллигенция и "выясняется" или, сказать по-модному, "выявляется" ее не особенно красивая, с точки зрения авторов сборника, роль в освободительном движении.</p>
+<p>Внимание Л. Н. Толстого привлекла статья г. Булгакова "Героизм и подвижничество".</p>
+<p>У Л. Н. есть свое слово по этому поводу, которое он хочет высказать.</p>
+<p>Глубина и оригинальность его мысли дадут, конечно, ему возможность лучше оценить психологию героизма и подвижничества, чем это сделала компания беспрерывно во всем кающихся интеллигентов.</p>
+<p>Л. Н. заканчивает статью по упомянутому вопросу. Основные его мысли мы вскоре сообщим читателям.</p>
+<empty-line/>
+<p><emphasis>(Русское слово. 1909. </emphasis><emphasis>No</emphasis><emphasis> 106. 12 (25) мая. С. 4)</emphasis><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

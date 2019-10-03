@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Аполлон</first-name>
+			<middle-name>Николаевич</middle-name>
+			<last-name>Майков</last-name>
+		</author>
+		<book-title>У памятника Крылова</book-title>
+<annotation></annotation>		<date value="2015-12-14">14/12/2015</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 05:33:09</date>
+		<src-url>http://az.lib.ru/m/majkow_a_n/text_1874_poe_oldorfo.shtml</src-url>
+		<id>samlib58f4d225720521.94794981</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Майков Аполлон Николаевич</p>
+	<empty-line/>
+	<p>У памятника Крылова</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<p>Складчина. Литературный сборникъ составленный изъ трудовъ русскихъ литераторовъ въ пользу пострадавшихъ отъ голода въ Самарской губерніи</p>
+<p>С.-Петербургъ, 1874</p>
+<empty-line/>
+<p>                    <strong>У ПАМЯТНИКА КРЫЛОВА.</strong></p>
+<empty-line/>
+<p>          Вотъ дѣдушка Крыловъ... Всегда въ тотъ уголъ сада</p>
+<p>          Къ нему толпа идетъ; всегда веселье тамъ</p>
+<p>                    И смѣхъ. Старикъ какъ будто радъ гостямъ.</p>
+<p>          Съ улыбкой доброю, съ привѣтливостью взгляда,</p>
+<p>                    Co старческой неспѣшностью рѣчей,</p>
+<p>          Онъ точно говоритъ съ своихъ высокихъ креселъ</p>
+<p>          Про нравы странные и глупости звѣрей,</p>
+<p>          И всѣ смѣются вкругъ, и самъ онъ тихо-веселъ...</p>
+<p>          Но что-то странное въ немъ есть. Толпа уйдетъ,</p>
+<p>          И, кажется старикъ впадетъ сей-часъ же въ думу;</p>
+<p>          Улыбка добрая съ лица его спорхнетъ</p>
+<p>                    Вслѣдъ умолкающему шуму,</p>
+<p>          И лобъ наморщится, и скажетъ онъ, съ тоской,</p>
+<p>          Во слѣдъ намъ покачавъ маститой головой:</p>
+<p>          "Ахъ всѣ-то вы, какъ посмотрю я, дѣти!</p>
+<p>          Вотъ -- побасенками старикъ потѣшилъ васъ;</p>
+<p>          Вы посмѣялися и прочь пошли, смѣясь,--</p>
+<p>          Того не вѣдая, какъ побасенки эти</p>
+<p>          Достались старику, и какъ не разъ пришлось</p>
+<p>          Ему, слагая ихъ, смѣяться, но -- сквозь слезъ,</p>
+<p>          Ужъ жало испытавъ ехидны ядовитой,</p>
+<p>          И когти всяческихъ, большихъ и малыхъ птицъ,</p>
+<p>                    И язвины на пальцахъ отъ лисицъ,</p>
+<p>          И на спинѣ своей ослиное копыто...</p>
+<p>          И то, что кажется вамъ въ басенкѣ моей</p>
+<p>          Лишь шуткой -- отъ того во времена былыя,</p>
+<p>                    Вся, можетъ, плакала Россія,</p>
+<p>          Да плачетъ, можетъ быть, еще и до сихъ дней!..."</p>
+<p>                                                                                <strong>А</strong><strong>.</strong><strong> Май</strong><strong>к</strong><strong>овъ.</strong></p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

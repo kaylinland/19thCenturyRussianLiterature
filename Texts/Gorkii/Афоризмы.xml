@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>prose_contemporary</genre>
+		<author>
+			<first-name>Максим</first-name>
+			<last-name>Горький</last-name>
+		</author>
+		<book-title>Афоризмы</book-title>
+<annotation><p>Правила и изречения.</p>
+<p>Изречения и правила.</p>
+<p>Афоризмы и максимы.</p></annotation>		<date value="2015-09-04">04/09/2015</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 03:46:02</date>
+		<src-url>http://az.lib.ru/g/gorxkij_m/text_1906_aforizmy.shtml</src-url>
+		<id>samlib58f4b90b0261a1.93901388</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Горький Максим</p>
+	<empty-line/>
+	<p>Афоризмы</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>М. Горький</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Правила и изречения</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Если ты пойдёшь в Думу Государственную, помни, сидя там, что ты сидишь в кресле, которое стоит пятьдесят семь рублей, а потому - веди себя сообразно особенностям седалища своего.</p>
+<empty-line/>
+<p>Сколь туго не застёгивай штаны твои - всё едино: начальство выпорет тебя, если пожелает того.</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Изречения и правила</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Жаждешь свободы? Иди служить в полицию.</p>
+<p>Жаждешь абсолютной свободы? Поступи в агенты охранного отделения. Очень просто.</p>
+<empty-line/>
+<p>Будь милосерден - не убивай и блоху, раньше чем поймаешь ее.</p>
+<empty-line/>
+<p>Не всякий лысый брюнетом был. Это особенно нужно помнить теперь, когда многие считают себя героями только потому, что их казак нагайкой отхлестал.</p>
+<empty-line/>
+<p>Хотя у верблюда и длинная шея, однако не решайся утверждать, что верблюд подобен лебедю. Также и о генералах, ныне занятых упокоением страны: некоторые из них человекообразны, но как докажешь ты, что они не суть звери?</p>
+<empty-line/>
+<p>Самолюбие твое, подобно мозоли твоей, вызвано давлением извне, - знай это! Земля - это сердце Вселенной, искусство - сердце земли.</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Афоризмы и максимы</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Человек, который считает свою зубную боль несчастием всего мира, - явно склонен преувеличивать события.</p>
+<empty-line/>
+<p>Будучи подлецом, - не воображай, что это оригинально.</p>
+<empty-line/>
+<p>Речи правителей о желаниях народа подобны рассказам глухонемого о музыке.</p>
+<empty-line/>
+<p>Пли! И благо ти будет, но долголетен ли будеши на земле - кто скажет?</p>
+<empty-line/>
+<p>Если на похоронах играет музыка, - не думай, что покойник был отчаянный весельчак и умер с удовольствием; ты можешь ошибиться.</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Комментарии</strong><strong></strong></p><strong></strong>
+<p><emphasis>Правила и изречения</emphasis></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Впервые напечатаны в журнале "Адская почта", номер 1, СПБ, 1906.</p>
+<p>Подпись: Иегудиил Хламида.</p>
+<p>В собрания сочинений не включались.</p>
+<p>Печатаются по тексту журнала "Адская почта".</p>
+<empty-line/>
+<p><emphasis>Изречения и правила</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Впервые напечатаны в журнале "Адская почта", номер 1, СПБ, 1906.</p>
+<p>Подпись: Иегудиил Хламида.</p>
+<p>В собрания сочинений не включались.</p>
+<p>Печатается по тексту журнала "Адская почта".</p>
+<empty-line/>
+<p><emphasis>Афоризмы и максимы</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Впервые напечатаны в журнале "Жупел", СПБ, 1906, номер 3.</p>
+<p>Подпись: Иегудиил Хламида.</p>
+<p>В собрания сочинений не включались.</p>
+<p>Печатаются по тексту журнала "Жупел".</p>
+<empty-line/>
+<p>"Афоризмы и максимы" - так называлась книга А. Шопенгауэра (СПб, 1892).</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

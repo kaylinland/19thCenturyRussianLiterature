@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Федор</first-name>
+			<last-name>Сологуб</last-name>
+		</author>
+		<book-title>О врожденных и приобретенных свойствах детей как зачатков преступности взрослых. Ив. Гвоздева</book-title>
+<annotation></annotation>		<date value="2008-04-21">21/04/2008</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 08:08:02</date>
+		<src-url>http://az.lib.ru/s/sologub_f/text_0660.shtml</src-url>
+		<id>samlib58f4f672d35a92.61187521</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Сологуб Федор</p>
+	<empty-line/>
+	<p>О врожденных и приобретенных свойствах детей как зачатков преступности взрослых. Ив. Гвоздева</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+ 
+ 
+
+
+</p>
+<empty-line/>
+<empty-line/>
+<p>Ф. Сологуб</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>О врожденных и приобретенных свойствах детей как зачатков преступности взрослых. Ив. Гвоздева. 2-е изд. СПб. Ц. 50 к. 1896 г.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ежегодник Рукописного отдела Пушкинского дома на 1976 год.</p>
+<p>Л., "Наука", 1978</p>
+<p>OCR Бычков М. Н.</p>
+<empty-line/>
+<p>"О врожденных и приобретенных свойствах детей как зачатков преступности взрослых. Ив. Гвоздева. 2-е изд. СПб. Ц. 50 к. 1896 г. Книга содержит 36 страниц. Безграмотное заглавие может служить образчиком изложения всей книги. Содержание -- совершенно скудно. Оно сводится к тому, что на грудных детей нельзя оказывать нравственного воздействия, -- все равно не поймут, -- а потом воспитатели должны быть справедливы и позаботиться, чтоб дети не крали и не лгали; а если родители сами крадут и лгут, то это ужасно вредно для детской нравственности. Цитат немало, но по большей части они совершенно не нужны для взятой автором темы; тем же, что в литературе есть действительно ценного и поучительного по вопросу о детской порочности, автор и в малой степени не воспользовался. Удивительно, что эта совсем ни к чему не годная книга печатается вторым изданием. Федор Сологуб".</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

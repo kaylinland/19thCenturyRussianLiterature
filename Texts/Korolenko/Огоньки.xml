@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sf</genre>
+		<author>
+			<first-name>Владимир</first-name>
+			<middle-name>Галактионович</middle-name>
+			<last-name>Короленко</last-name>
+		</author>
+		<book-title>Огоньки</book-title>
+<annotation></annotation>		<date value="2006-04-27">27/04/2006</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-06-05">2017-06-05 12:38:53</date>
+		<src-url>http://az.lib.ru/k/korolenko_w_g/text_0280.shtml</src-url>
+		<id>samlib593526ae0346a8.69516307</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Короленко Владимир Галактионович</p>
+	<empty-line/>
+	<p>Огоньки</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Владимир Галактионович Короленко</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Огоньки</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Книга: В.Г.Короленко. "Избранное"</p>
+<p>Издательство "Просвещение", Москва, 1987</p>
+<p>OCR &amp; SpellCheck: Zmiy (zmiy@inbox.ru), 25 мая 2002 года</p>
+<empty-line/>
+<p>Как-то давно, темным осенним вечером, случилось мне плыть по угрюмой сибирской реке. Вдруг на повороте реки, впереди, под темными горами мелькнул огонек.</p>
+<p>Мелькнул ярко, сильно, совсем близко...</p>
+<p>- Ну, слава богу! - сказал я с радостью, - близко ночлег!</p>
+<p>Гребец повернулся, посмотрел через плечо на огонь и опять апатично налег на весла.</p>
+<p>- Далече!</p>
+<p>Я не поверил: огонек так и стоял, выступая вперед из неопределенной тьмы. Но гребец был прав: оказалось, действительно, далеко.</p>
+<p>Свойство этих ночных огней - приближаться, побеждая тьму, и сверкать, и обещать, и манить своею близостью. Кажется, вот-вот еще два-три удара веслом, - и путь кончен... А между тем - далеко!..</p>
+<p>И долго мы еще плыли по темной, как чернила, реке. Ущелья и скалы выплывали, надвигались и уплывали, оставаясь назади и теряясь, казалось, в бесконечной дали, а огонек все стоял впереди, переливаясь и маня, - все так же близко, и все так же далеко...</p>
+<p>Мне часто вспоминается теперь и эта темная река, затененная скалистыми горами, и этот живой огонек. Много огней и раньше и после манили не одного меня своею близостью. Но жизнь течет все в тех же угрюмых берегах, а огни еще далеко. И опять приходится налегать на весла...</p>
+<p>Но все-таки... все-таки впереди - огни!..</p>
+<empty-line/>
+<p><emphasis>1900</emphasis></p>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Примечания</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Произведение, близкое по жанру к "Стихотворениям в прозе" И.С.Тургенева, написано экспромтом 4 мая 1900 года в альбом писательницы М.В.Ватсон.</p>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

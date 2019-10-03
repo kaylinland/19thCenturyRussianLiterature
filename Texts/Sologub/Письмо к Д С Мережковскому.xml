@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>children</genre>
+		<author>
+			<first-name>Федор</first-name>
+			<last-name>Сологуб</last-name>
+		</author>
+		<book-title>Письмо к Д. С. Мережковскому</book-title>
+<annotation></annotation>		<date value="2014-03-26">26/03/2014</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 08:08:18</date>
+		<src-url>http://az.lib.ru/s/sologub_f/text_1922_pismo_merezhkovskomu.shtml</src-url>
+		<id>samlib58f4f682331507.39843751</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Сологуб Федор</p>
+	<empty-line/>
+	<p>Письмо к Д. С. Мережковскому</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+<p>Ф. Сологуб Д. С. Мережковскому</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>(Петроград, 9 мая 1922 г.):</p>
+<empty-line/>
+<empty-line/>
+<p>Неизданный Федор Сологуб. Москва: Новое литературное обозрение, 1997.</p>
+<empty-line/>
+<p>Дорогой Дмитрий Сергеевич,</p>
+<empty-line/>
+<empty-line/>
+<p>Вы, конечно, знаете о моей утрате. 23 сентября Анастасия Николаевна, заболевшая незадолго до того психастениею, ушла вечером из дому и бросилась в реку Ждановку. Слышали случайные прохожие ее последние слова: "Господи, прости мне". Пытались спасти ее, и не могли. Водолаз не нашел тела. 2 мая оно всплыло. 5 мая мы похоронили ее на Смоленском кладбище.-- Хочу написать Вам, как мне тяжело, и ничего не могу. Она отдала мне свою душу, и мою унесла с собою. Но как ни тяжело мне, я теперь знаю, что смерти нет. И она, любимая, со мною.</p>
+<p>Целую Вас, шлю Вам и Зинаиде Николаевне наш привет.</p>
+<empty-line/>
+<p><emphasis>Федор Сологуб</emphasis>1.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>1 Amherst Center for Russian Culture (Amherst College. Amherst, Mass., USA).</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

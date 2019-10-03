@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Василий</first-name>
+			<middle-name>Андреевич</middle-name>
+			<last-name>Жуковский</last-name>
+		</author>
+		<book-title>Запись на полях книги А. С. Шишкова &quot;Рассуждение о старом и новом слоге российского языка&quot;</book-title>
+<annotation></annotation>		<date value="2007-10-08">08/10/2007</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-11-30">2017-11-30 10:12:38</date>
+		<src-url>http://az.lib.ru/z/zhukowskij_w_a/text_0420.shtml</src-url>
+		<id>samlib5a1faf668b3bb9.30286986</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Жуковский Василий Андреевич</p>
+	<empty-line/>
+	<p>Запись на полях книги А. С. Шишкова &quot;Рассуждение о старом и новом слоге российского языка&quot;</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>В. А. ЖУКОВСКИЙ</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Запись на полях книги А. С. Шишкова "Рассуждение о старом и новом слоге российского языка"</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>Карамзин: pro et contra / Сост., вступ. ст. Л. А. Сапченко. -- СПб.: РХГА, 2006.</p>
+<empty-line/>
+<p>Карамзин не есть новомодный, а лучший русский прозаист. Он один у нас писал свое в прозе и так, как надобно1.</p>
+<empty-line/>
+<empty-line/>
+<p>ПРИМЕЧАНИЯ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Впервые: Библиотека В. А. Жуковского в Томске. Томск, 1978. Ч. 1. С. 111, 122. Печатается по этому изданию.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>children</genre>
+		<author>
+			<first-name>Афанасий</first-name>
+			<middle-name>Афанасьевич</middle-name>
+			<last-name>Фет</last-name>
+		</author>
+		<book-title>Записка к В. П. Гаевскому</book-title>
+<annotation></annotation>		<date value="2016-08-01">01/08/2016</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 03:13:25</date>
+		<src-url>http://az.lib.ru/f/fet_a_a/text_1872_zapiska_k_gaevskomy.shtml</src-url>
+		<id>samlib58f4b1653ec454.94375325</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Фет Афанасий Афанасьевич</p>
+	<empty-line/>
+	<p>Записка к В. П. Гаевскому</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+<p>НЕКРАСОВСКИЙ СБОРНИК. VIII</p>
+<p>Л., "НАУКА", 1983</p>
+<empty-line/>
+<p>&lt;...&gt; уместно привести здесь переданную мне Г. В. Красновым ранее неопубликованную записку Фета к Гаевскому, где упоминается и Некрасов. Датируется она предположительно по времени встреч Фета с Некрасовым и Гаевским -- 1862-1872 гг.:</p>
+<empty-line/>
+<p>"Добрейший Виктор Павлович!</p>
+<empty-line/>
+<empty-line/>
+<p>Я стою у Некрасова и его нет дома. Скука страшная. Как бы нам сегодня испить чай вместе. Или приезжайте ко мне, или я приеду к Вам делить Ваш досуг. Дайте отчет человеку, хоть на словах.</p>
+<empty-line/>
+<p>Преданный Вам А. Фет".22</p>
+<empty-line/>
+<empty-line/>
+<p>22 ГПБ, ф. 171, ед. хр. 295.</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Сергеевич</middle-name>
+			<last-name>Пушкин</last-name>
+		</author>
+		<book-title>Пророк</book-title>
+<annotation><p>"Духовной жаждою томим..."</p></annotation>		<date value="2009-05-06">06/05/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-12-26">2017-12-26 02:36:27</date>
+		<src-url>http://az.lib.ru/p/pushkin_a_s/text_0330.shtml</src-url>
+		<id>samlib5a42343bdcf204.82233494</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Пушкин Александр Сергеевич</p>
+	<empty-line/>
+	<p>Пророк</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+ 
+ 
+
+
+</p>
+<empty-line/>
+<p>                  <strong>ПРОРОК</strong></p>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_16_prorok.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<p>Духовной жаждою томим,</p>
+<p>В пустыне мрачной я влачился, --</p>
+<p>И шестикрылый серафим</p>
+<p>На перепутье мне явился.</p>
+<p>Перстами легкими как сон</p>
+<p>Моих зениц коснулся он.</p>
+<p>Отверзлись вещие зеницы,</p>
+<p>Как у испуганной орлицы.</p>
+<p>Моих ушей коснулся он, --</p>
+<p>И их наполнил шум и звон:</p>
+<p>И внял я неба содроганье,</p>
+<p>И горний ангелов полет,</p>
+<p>И гад морских подводный ход,</p>
+<p>И дольней лозы прозябанье.</p>
+<p>И он к устам моим приник,</p>
+<p>И вырвал грешный мой язык,</p>
+<p>И празднословный и лукавый,</p>
+<p>И жало мудрыя змеи</p>
+<p>В уста замершие мои</p>
+<p>Вложил десницею кровавой.</p>
+<p>И он мне грудь рассек мечом,</p>
+<p>И сердце трепетное вынул,</p>
+<p>И угль, пылающий огнем,</p>
+<p>Во грудь отверстую водвинул.</p>
+<p>Как труп в пустыне я лежал,</p>
+<p>И бога глас ко мне воззвал:</p>
+<p>"Восстань, пророк, и виждь, и внемли,</p>
+<p>Исполнись волею моей,</p>
+<p>И, обходя моря и земли,</p>
+<p>Глаголом жги сердца людей".</p>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_16_prorok.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Примечания</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p>* <emphasis>Пророк (стр. 149).</emphasis> В образе пророка, как и в "Подражаниях Корану" (см. выше) Пушкин разумел поэта. Картина, изображенная Пушкиным, в нескольких мелких деталях восходит к VI главе Книги Исаии в библии (шестикрылый Серафим с горящим углем в руке).</p>
+<p>Стихотворение первоначально представляло собою часть цикла из четырех стихотворений, под заглавием "Пророк", противоправительственного содержания, посвященных событиям 14 декабря. М. П. Погодин объяснял П. А. Вяземскому в письме от 29 марта 1837 г.: ""Пророк" он написал ехавши в Москву в 1826 г. Должны быть четыре стихотворения, первое только напечатано ("Духовной жаждою томим etc.")" ("Звенья", VI, 1936, стр. 153). Остальные три стихотворения были уничтожены и до нас не дошли.</p>
+<p>Вариант первого стиха "Пророка" -- "Великой скорбию томим", имеющийся в записи Пушкина, относится, по-видимому, к первоначальной редакции известного текста.</p>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_16_prorok.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

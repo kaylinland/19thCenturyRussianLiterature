@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>humor</genre>
+		<author>
+			<first-name>Иван</first-name>
+			<middle-name>Сергеевич</middle-name>
+			<last-name>Тургенев</last-name>
+		</author>
+		<book-title>Брачное свидетельство, выданное И. С. Тургеневым</book-title>
+<annotation></annotation>		<date value="2009-04-23">23/04/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 09:03:35</date>
+		<src-url>http://az.lib.ru/t/turgenew_i_s/text_0890.shtml</src-url>
+		<id>samlib58f50377b87ce2.42183799</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Тургенев Иван Сергеевич</p>
+	<empty-line/>
+	<p>Брачное свидетельство, выданное И. С. Тургеневым</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+ 
+ 
+
+
+</p>
+<empty-line/>
+<p>[Тургенев И. С.] Брачное свидетельство, выданное И. С. Тургеневым / Сообщ. [и примеч.] О. В. Николаевой // Российский Архив: История Отечества в свидетельствах и документах XVIII--XX вв.: Альманах. -- М.: Студия ТРИТЭ: Рос. Архив, 1992. -- С. 238--239. -- [Т.] II--III.</p>
+<p><a xlink:href="http://feb-web.ru/feb/rosarc/ra2/ra2-238-.htm">http://feb-web.ru/feb/rosarc/ra2/ra2-238-.htm</a></p>
+<empty-line/>
+<empty-line/>
+<p>Брачное свидетельство, выданное И. С. Тургеневым</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Свидетельство</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Спасской Главной Конторы</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Октября 18го дня 1853 года1</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Данное Предъявительнице сего Орловской Губернии Мценского Уезда села Спасского Коллежского Секретаря Ивана Сергеевича Тургенева, Крепостной Крестьянской девице Аграфене Антоновой, положенной по сказке в селе Спасском в том, что дозволяется ей от Господина ввойти в замужество по собственному согласию. Чернского Уезда в имение Надворного Советника Николая Сергеевича Тургенева2, Сельцо Слободку, за Крепостного Крестьянина Евсигнея Васильева, получившего от своего Господина на женитьбу дозволение. N 20 Удостоверение сего Спасская Главная Контора выдала Антоновой сие свидетельство за подписью и приложением Конторской печати для предъявления оного Села Тургенева Священно Церковно служителям, на законное право повенчать ея с сказанным Крестьянином буде не окажется между ими какого законного препятствия. Лет поименованная девица имеет 18ть 
+
+
+</p>
+<p>У сего печать 
+
+</p>
+<p>Иван Тургенев 
+
+
+</p>
+<p> </p>
+<empty-line/>
+<p>Примечания</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Документ хранится в Отделе рукописных фондов ГЛМ (ф. 17, РОФ 4149). Документ поступил в 1960 г.</p>
+<empty-line/>
+<p>1 В мае 1852 г. за публикацию в "Московских Ведомостях" (1852, 25 марта, No 32) "Письма из Петербурга (Памяти Н. В. Гоголя)", запрещенного Петербургским цензурным комитетом, И. С. Тургенев по "высочайшему повелению" был выслан на жительство в родовое имение Спасское. Ссылка продолжалась до октября 1853 г.</p>
+<p>2 Николай Сергеевич Тургенев (1816--1879), старший брат писателя.</p>
+<empty-line/>
+<p>Сообщила О. В. НИКОЛАЕВА</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

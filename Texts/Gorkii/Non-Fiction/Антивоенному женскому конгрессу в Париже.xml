@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Максим</first-name>
+			<last-name>Горький</last-name>
+		</author>
+		<book-title>Антивоенному женскому конгрессу в Париже</book-title>
+<annotation></annotation>		<date value="2012-01-27">27/01/2012</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 03:45:29</date>
+		<src-url>http://az.lib.ru/g/gorxkij_m/text_1934_antivoennomu_kongressu.shtml</src-url>
+		<id>samlib58f4b8e9727475.89979801</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Горький Максим</p>
+	<empty-line/>
+	<p>Антивоенному женскому конгрессу в Париже</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+<p>М. Горький</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>[Антивоенному женскому конгрессу в Париже]</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>М. Горький. Собрание сочинений в тридцати томах</p>
+<p>М., ГИХЛ, 1953</p>
+<p>Том 27. Статьи, доклады, речи, приветствия (1933--1936)</p>
+<empty-line/>
+<empty-line/>
+<p><emphasis>Париж. Антивоенный женский конгресс</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p>Горячо приветствую инициаторов великого дела сплочения трудящихся женщин на борьбу с военной опасностью и фашизмом. Пусть пример передовых тружениц науки [и] культуры, фабрик и заводов удвоит силы всего трудящегося человечества в его борьбе против темных сил реакции и белого террора. Желаю всяческого успеха вашему прекрасному начинанию.</p>
+<empty-line/>
+<p><emphasis>М. Горький</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>ПРИМЕЧАНИЯ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>В двадцать седьмой том вошли статьи, доклады, речи, приветствия, написанные и произнесенные М. Горьким в 1933--1936 годах. Некоторые из них входили в авторизованные сборники публицистических и литературно-критических произведений ("Публицистические статьи", издание 2-е -- 1933; "О литературе", издание 1-е -- 1933, издание 2-е -- 1935, а также в издание 3-е -- 1937, подготавливавшееся к печати при жизни автора) и неоднократно редактировались М. Горьким. Большинство же включенных в том статей, докладов, речей, приветствий были опубликованы в периодический печати и в авторизованные сборники не входили. В собрание сочинений статьи, доклады, речи, приветствия М. Горького включаются впервые.</p>
+<empty-line/>
+<empty-line/>
+<p>[АНТИВОЕННОМУ ЖЕНСКОМУ КОНГРЕССУ В ПАРИЖЕ]</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Впервые напечатано после смерти автора в сборнике "Горький против фашизма", издание "Советский писатель", Ташкент, 1942.</p>
+<p>Датируется предположительно концом августа -- началом сентября 1934 года.</p>
+<p>В авторизованные сборники не включалось.</p>
+<p>Печатается по авторизованной машинописи (Архив А. М. Горького).</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

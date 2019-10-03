@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Сергеевич</middle-name>
+			<last-name>Пушкин</last-name>
+		</author>
+		<book-title>Погасло дневное светило...</book-title>
+<annotation></annotation>		<date value="2009-03-14">14/03/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-12-17">2017-12-17 02:01:50</date>
+		<src-url>http://az.lib.ru/p/pushkin_a_s/text_0220.shtml</src-url>
+		<id>samlib5a364e9ed7b004.13695689</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Пушкин Александр Сергеевич</p>
+	<empty-line/>
+	<p>Погасло дневное светило...</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<p>          <strong>* * *</strong></p>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_05_pogaslo_dnevnoe_svetilo.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<p>Погасло дневное светило;</p>
+<p>На море синее вечерний пал туман.</p>
+<p>Шуми, шуми, послушное ветрило,</p>
+<p>Волнуйся подо мной, угрюмый океан.</p>
+<p>Я вижу берег отдаленный,</p>
+<p>Земли полуденной волшебные края;</p>
+<p>С волненьем и тоской туда стремлюся я,</p>
+<p>Воспоминаньем упоенный...</p>
+<p>И чувствую: в очах родились слезы вновь;</p>
+<p>Душа кипит и замирает;</p>
+<p>Мечта знакомая вокруг меня летает;</p>
+<p>Я вспомнил прежних лет безумную любовь,</p>
+<p>И все, чем я страдал, и все, что сердцу мило,</p>
+<p>Желаний и надежд томительный обман...</p>
+<p>Шуми, шуми, послушное ветрило,</p>
+<p>Волнуйся подо мной, угрюмый океан.</p>
+<p>Лети, корабль, неси меня к пределам дальным</p>
+<p>По грозной прихоти обманчивых морей,</p>
+<p>Но только не к брегам печальным</p>
+<p>Туманной родины моей,</p>
+<p>Страны, где пламенем страстей</p>
+<p>Впервые чувства разгорались,</p>
+<p>Где музы нежные мне тайно улыбались,</p>
+<p>Где рано в бурях отцвела</p>
+<p>Моя потерянная младость,</p>
+<p>Где легкокрылая мне изменила радость</p>
+<p>И сердце хладное страданью предала.</p>
+<p>Искатель новых впечатлений,</p>
+<p>Я вас бежал, отечески края;</p>
+<p>Я вас бежал, питомцы наслаждений,</p>
+<p>Минутной младости минутные друзья;</p>
+<p>И вы, наперсницы порочных заблуждений,</p>
+<p>Которым без любви я жертвовал собой,</p>
+<p>Покоем, славою, свободой и душой,</p>
+<p>И вы забыты мной, изменницы младые,</p>
+<p>Подруги тайные моей весны златыя,</p>
+<p>И вы забыты мной... Но прежних сердца ран,</p>
+<p>Глубоких ран любви, ничто не излечило...</p>
+<p>Шуми, шуми, послушное ветрило,</p>
+<p>Волнуйся подо мной, угрюмый океан...</p>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_05_pogaslo_dnevnoe_svetilo.shtml">аудио-файла</a>.</strong></p>
+<p>* <emphasis> "Погасло дневное светило..." (стр. 117). Элегия написана на корабле, когда Пушкин с семейством Раевских плыл из Керчи в Гурзуф.</emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

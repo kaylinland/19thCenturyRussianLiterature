@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Владимир</first-name>
+			<middle-name>Владимирович</middle-name>
+			<last-name>Маяковский</last-name>
+		</author>
+		<book-title>Смена убеждений</book-title>
+<annotation></annotation>		<date value="2009-05-15">15/05/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-12-27">2018-12-27 07:51:47</date>
+		<src-url>http://az.lib.ru/m/majakowskij_w_w/text_0970.shtml</src-url>
+		<id>samlib5c2484935e0102.99342219</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Маяковский Владимир Владимирович</p>
+	<empty-line/>
+	<p>Смена убеждений</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<p>             <strong>Владимир Маяковский</strong></p><strong></strong>
+<p><strong>         СМЕНА УБЕЖДЕНИЙ</strong></p>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_1929_smena_ubezhdeniy.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<p>Он шел,</p>
+<p>         держась</p>
+<p>                  за прутья перил,</p>
+<p>сбивался</p>
+<p>          впотьмах</p>
+<p>                  косоного.</p>
+<p>Он шел</p>
+<p>          и орал</p>
+<p>                  и материл</p>
+<p>и в душу,</p>
+<p>          и в звезды,</p>
+<p>                   и в бога.</p>
+<p>Вошел --</p>
+<p>         и в комнате</p>
+<p>                   водочный дух</p>
+<p>от пьяной</p>
+<p>         перенагрузки,</p>
+<p>назвал</p>
+<p>          мимоходом</p>
+<p>                   "жидами"</p>
+<p>                             двух</p>
+<p>самых</p>
+<p>          отъявленных русских.</p>
+<p>Прогромыхав</p>
+<p>          в ночной тишине,</p>
+<p>встряхнув</p>
+<p>         семейное ложе,</p>
+<p>миролюбивой</p>
+<p>           и тихой жене</p>
+<p>скулу</p>
+<p>         на скулу перемножил.</p>
+<p>В буфете</p>
+<p>         посуду</p>
+<p>                  успев истолочь</p>
+<p>(помериться</p>
+<p>         силами</p>
+<p>                   не с кем!),</p>
+<p>пошел</p>
+<p>         хлестать</p>
+<p>                  любимую дочь</p>
+<p>галстуком</p>
+<p>          пионерским.</p>
+<p>Свою</p>
+<p>          мебелишку</p>
+<p>                  затейливо спутав</p>
+<p>в колонну</p>
+<p>         из стульев</p>
+<p>                  и кресел,</p>
+<p>коптилку--</p>
+<p>         лампадку</p>
+<p>                  достав из-под спуда,</p>
+<p>под матерь,</p>
+<p>         под божью</p>
+<p>                   подвесил.</p>
+<p>Со всей</p>
+<p>          обстановкой</p>
+<p>                  в ударной вражде,</p>
+<p>со страстью</p>
+<p>                   льва холостого</p>
+<p>сорвал</p>
+<p>          со стены</p>
+<p>                  портреты вождей</p>
+<p>и кстати</p>
+<p>         портрет Толстого.</p>
+<p>Билет</p>
+<p>         профсоюзный</p>
+<p>                  изодран в клочки,</p>
+<p>ногою</p>
+<p>          бушующей</p>
+<p>                  попран,</p>
+<p>и в печку</p>
+<p>         с размаха</p>
+<p>                   летят значки</p>
+<p>Осавиахима</p>
+<p>          и МОПРа,</p>
+<p>Уселся,</p>
+<p>          смирив</p>
+<p>                   возбужденный дух, --</p>
+<p>небитой</p>
+<p>         не явится личности ли?</p>
+<p>Потом</p>
+<p>          свалился,</p>
+<p>                  вымолвив:</p>
+<p>                            "Ух,</p>
+<p>проклятые черти,</p>
+<p>                   вычистили!!!"</p>
+<empty-line/>
+<p><emphasis>[1929]</emphasis></p>
+<empty-line/>
+<p><strong>Переход на страницу <a xlink:href="http://az.lib.ru/n/nowikow_e_a/text_1929_smena_ubezhdeniy.shtml">аудио-файла</a>.</strong></p>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

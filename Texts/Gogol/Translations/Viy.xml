@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sf</genre>
+		<author>
+			<first-name>Николай</first-name>
+			<middle-name>Васильевич</middle-name>
+			<last-name>Гоголь</last-name>
+		</author>
+		<book-title>Viy</book-title>
+<annotation></annotation>		<date value="2004-07-23">23/07/2004</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-11-08">2018-11-08 08:18:20</date>
+		<src-url>http://az.lib.ru/g/gogolx_n_w/text_0051.shtml</src-url>
+		<id>samlib5be3f14cab4b14.28336628</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Гоголь Николай Васильевич</p>
+	<empty-line/>
+	<p>Viy</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Nikolay Gogol. Viy</p>
+<empty-line/>
+<p>Translated by Richard Pvear and Larissa Volokhonsky</p>
+<p>OCR: Bazelevs</p>
+<empty-line/>
+<empty-line/>
+<p>*Viy  is <emphasis>i</emphasis> colossal creation of folk imagination. This name  is applied</p>
+<p>by people in Utlle Russia to the chief of [he gnomes, whose eyelids teach to</p>
+<p>the ground. The whole story is a popular legend. 1 did not wish to change it</p>
+<p>in any way and tell it almost as simply <emphasis>is</emphasis> 1 heard it. (Author's note)</p>
+<empty-line/>
+<empty-line/>
+<p>As  soon  as the  booming seminary bell that hung by  the gates  of the</p>
+<p>Bratsky Monastery in Kiev rang out in  the morning, crowds of schoolboys and</p>
+<p>seminarians'   came   hurrying   from   all   over  the  city.  Grammarians,</p>
+<p>rhetoricians,  philosophers,  and theologians, notebooks under  their  arms,</p>
+<p>trudged to class. The grammarians were still very small; as they walked they</p>
+<p>pushed each other and quarreled  among themselves in the  thinnest  trebles;</p>
+<p>their  clothes  were  almost  all  torn or  dirty, and  their  pockets  were</p>
+<p>eternally fall  of various  sorts of  trash,  such as knucklebones, whistles</p>
+<p>made from feathers, unfinished pieces of pie, and occasionally even a little</p>
+<p>sparrow that, by chirping suddenly amidst  the extraordinary silence  of the</p>
+<p>classroom, would procure  for its patron a decent beating on both hands, and</p>
+<p>sometimes the cherrywood  rod. The rhetoricians  walked more sedately: their</p>
+<p>clothes were often  perfectly intact,  but  instead their faces  were almost</p>
+<p>always adorned with  some rhetorical trope: one  eye completely closed, or a</p>
+<p>big  bubble  instead of  a lip, or some other  mark; these  swore by God and</p>
+<p>talked  among themselves in tenors. The philosophers dropped  a whole octave</p>
+<p>lower:  there was  nothing  in their pockets  except strong, coarse tobacco.</p>
+<p>They kept nothing stashed away and ate whatever  came along on the spot; the</p>
+<p>smell of pipes and vodka sometimes spread so far around them that  a passing</p>
+<p>artisan would stand for a long time sniffing the air like a hound.</p>
+<p>The  marketplace at that time  was usually just  beginning to stir, and</p>
+<p>women with bagels, rolls, watermelon seeds, and poppyseed cakes tugged those</p>
+<p>who had them by their coattails of thin broadcloth or some sort of cotton.</p>
+<p>"Young sirs!  Young sirs! Here! Here!"  they said on all sides.  "There</p>
+<p>are  good  bagels, poppyseed cakes,  twists,  rolls! Fine ones, by God! with</p>
+<p>honey! homemade!"</p>
+<p>Another woman, holding up something long made of twisted dough, cried;</p>
+<p>"Here's an icicle, young sirs! Buy an icicle!"</p>
+<p>"Don't  buy anything from that one! Look  how  foul she is--her nose is</p>
+<p>awful and her hands are dirty . . ."</p>
+<p>But  they  were  afraid to  pester  the  philosophers and  theologians,</p>
+<p>because the  philosophers and theologians liked to sample things, and always</p>
+<p>by the handful.</p>
+<p>On  reaching the  seminary,  the  whole  crowd settled  by  classes  in</p>
+<p>low-ceilinged but raiher spacious rooms with small windows, wide doors,  and</p>
+<p>dirty desks. The classroom  would suddenly  be  filled with  the hum of many</p>
+<p>voices: the  monitors  listened  to  their charges, the ringing  treble of a</p>
+<p>grammarian  would  fall  in tune with the jingling of the windowpanes in the</p>
+<p>small windows, the glass echoing with almost the same sound; from the corner</p>
+<p>came the low  buzz of a rhetorician whose mouth and thick lips ought to have</p>
+<p>belonged to philosophy at the  least. He buzzed in <emphasis>3</emphasis> bass, and from afar all</p>
+<p>you heard was: boo, boo, boo,  boo .  .  .  The monitors, as they heard  the</p>
+<p>lessons,  looked with one eye  under the desk, where  a roll or dumpling  or</p>
+<p>pumpkin seeds stuck out of their subordinate's pocket.</p>
+<p>If all this learned crowd managed to  come a little earlier, or if they</p>
+<p>knew that  the  professors would be later  than usual, then,  with universal</p>
+<p>agreement,  a battle would be planned,  and in this battle  everyone  had to</p>
+<p>take  part, even the  censors, whose  duty  was to look  after the order and</p>
+<p>morals of all the student estate.  Usually two theologians decided  bow  the</p>
+<p>battle would go;  whether each  class should stand separately for itself, or</p>
+<p>they  should  divide  themselves  into  two  halves,  the  boarders and  the</p>
+<p>seminary. In any case, it was the grammarians who would begin  it first, but</p>
+<p>as  soon as the rhetoricians  mixed in, they would flee and stand on  higher</p>
+<p>ground  to watch the battle. Then philosophy with long black mustaches would</p>
+<p>step forth,  and  finally theology in terrible ballooning trousers  and with</p>
+<p>the thickest necks. The usual end was that theology would beat them all, and</p>
+<p>philosophy, rubbing its sides, would be hustled into class, where it settled</p>
+<p>down  to rest at  the desks. A professor  who had once taken  part  in  such</p>
+<p>battles himself, on entering  the  classroom, would  know  at  once from his</p>
+<p>students' flushed  faces that it had been a fine  battle,  and while he gave</p>
+<p>the rhetorics a knuckle-rapping, in another class another professor would be</p>
+<p>applying the wooden slats to the  hands of philosophy.  With the theologians</p>
+<p>it  was done in a totally different way: each was allotted, as the professor</p>
+<p>of theology put it, a measure of "big peas," dealt out  with a short leather</p>
+<p>whip.</p>
+<p>For  feast  days  and  solemnities,  the boarders and seminarians  went</p>
+<p>around  visiting  houses  with  miracle  plays. Sometimes  they performed  a</p>
+<p>comedy, and  on such occasions some theologian, nearly  as  tall as the Kiev</p>
+<p>belfry, would always distinguish himself playing Herodias or the wife of the</p>
+<p>Egyptian  courtier Fotiphar.2 As a reward they might get a length</p>
+<p>of linen, or a sack of millet, or half a boiled goose, or the like.</p>
+<p>All these  learned folk,  both seminary and boarders,  while living  in</p>
+<p>some sort of hereditary hostility among themselves, had extremely poor means</p>
+<p>of obtaining  food and were at  the  same time extraordinarily voracious; so</p>
+<p>that to  count  how many dumplings  each of  them gobbled up at supper would</p>
+<p>have  been a quite impossible task; and therefore the voluntary donations of</p>
+<p>wealthy citizens  were never enough. Then a senate comprised of philosophers</p>
+<p>and theologians would send  out  the grammarians and rhetoricians, under the</p>
+<p>leadership of one  philosopher--and would  sometimes join them itself--sacks</p>
+<p>over  their shoulders,  to  lay waste people's  kitchen gardens. And pumpkin</p>
+<p>gruel  would  appear in  the  school. The senators  ate so  much  melon  and</p>
+<p>watermelon that the monitors would hear two lessons instead of one from them</p>
+<p>the  next day: one proceeding  from the  mouth, the  other growling  in  the</p>
+<p>senatorial stomach. Boarders and seminary wore what looked like some sort of</p>
+<p>long frock  coats which  reached <emphasis>heretofore,</emphasis> a  technical term meaning below</p>
+<p>the heels.</p>
+<p>The most solemn event for the seminary was vacation, beginning with the</p>
+<p>month  of June, when the boarders  used to be sent home. Then the whole high</p>
+<p>road  would  be  covered with  grammarians,  philosophers,  and theologians.</p>
+<p>Whoever  did not  have his  own  refuge  would  go to  one of  his  friends.</p>
+<p>Philosophers and  theologians would  go  <emphasis>on conditions--</emphasis>that is, they  would</p>
+<p>undertake to teach or prepare the children of wealthy people for school, and</p>
+<p>would earn  a new pair of  boots by it  and occasionally enough for a  frock</p>
+<p>coat. This  whole crowd  would string along together like a Gypsy camp, cook</p>
+<p>kasha-1  for themselves, and sleep in the fields. Each dragged  a</p>
+<p>sack on his back with a shirt and a pair of foot-rags. The theologians  were</p>
+<p>especially thrifty and neat:  to avoid wearing out  their boots,  they would</p>
+<p>take them  off, hang  them on a  stick,  and carry them over their shoulder,</p>
+<p>especially  when  there-was mud.  Then, rolling  their trousers to the knee,</p>
+<p>they would  go  splashing fearlessly through the puddles. As  soon  as  they</p>
+<p>caught  sight  of  a farmstead,  they  would  turn off  the high  road  and,</p>
+<p>approaching a cottage that looked better kept than the others, would line up</p>
+<p>in front of the windows and begin a full-throated  hymn. The  cottager, some</p>
+<p>old Cossack peasant,  would listen to them for a long  time, leaning on both</p>
+<p>arms, then weep  very bitterly and  say,  turning to his  wife: "Wife!  what</p>
+<p>these students  are  singing must  be something very intelligent;  bring out</p>
+<p>some lard  for  them and  whatever else  we've  got!" And  a whole  bowi  of</p>
+<p>dumplings would be  poured into a sack. A  decent hunk of lard, a few  white</p>
+<p>loaves,  and sometimes even  a  trussed-up  chicken  would go  in  as  well.</p>
+<p>Fortified with these supplies,  the grammarians, rhetoricians, philosophers,</p>
+<p>and theologians would continue on their way. However, the further they went,</p>
+<p>the smaller the crowd became.  Almost all of them would have  reached  home,</p>
+<p>leaving only those whose parental nests were further away than the others.</p>
+<p>Once during such a journey three  students turned  off the high road in</p>
+<p>order  to  provide themselves  with  victuals  at the first  farmstead  they</p>
+<p>happened  upon,  because  their sack had long  been empty.  These  were: the</p>
+<p>theologian Khalyava, the philosopher Khoma Brut, and the rhetorician Tiberiy</p>
+<p>Gorobets.</p>
+<p>The  theologian was a tall,  broad-shouldered man, and  of an extremely</p>
+<p>strange  character:  whatever  lay near  him he was sure  to steal. On other</p>
+<p>occasions  his character was extremely glum,  and when he got drunk he would</p>
+<p>hide in the weeds, and it would cost the seminary  enormous efforts  to find</p>
+<p>him there.</p>
+<p>The philosopher Khoma Brut was of  a  merry disposition. He liked  very</p>
+<p>much to lie  about  and smoke his pipe. When he  drank,  he was sure to hire</p>
+<p>musicians and dance the trepak. He often got a taste of the  "big peas," but</p>
+<p>with perfectly philosophical indifference, saying what will be, will be.</p>
+<p>The rhetorician  Tiberiy Gorobets did not yet have the right to grow  a</p>
+<p>mustache,  drink vodka, and  smoke a  pipe. All he had was his topknot,  and</p>
+<p>therefore his character was not much developed  at that time; but judging by</p>
+<p>the big bumps on the forehead with  which he often came to class,  one could</p>
+<p>suppose  he would  make a  fine  warrior. The  theologian Khalyava  and  the</p>
+<p>philosopher  Khoma  often pulled  him  by the  topknot as a  sign  of  their</p>
+<p>patronage and employed him as their deputy.</p>
+<p>It was already evening when they turned off the  high road. The sun had</p>
+<p>just  gone  down  and the warmth  of the  day  was  still  in  the  air. The</p>
+<p>theologian  and the  philosopher walked along  silently smoking their pipes;</p>
+<p>the rhetorician Tiberiy Gorobets knocked the  heads off  burdocks growing on</p>
+<p>the  roadside with a  stick.  The road  went  among stands of oak and  hazel</p>
+<p>bushes that  dotted  the  meadows. The plain was  occasionally disrupted  by</p>
+<p>slopes  and small hills,  green  and round as cupolas.  A field of  ripening</p>
+<p>grain showed in two places,  making it known that  some  village  must  soon</p>
+<p>appear.  But it was more than an hour  since  they had  passed the strips of</p>
+<p>grain and no dwelling had come along yet. Twilight was already darkening the</p>
+<p>sky, and only in the west was there a pale remnant of vermilion radiance,</p>
+<p>"What the devil!" said the philosopher Khoma Brut. "It certainly looked</p>
+<p>as if there'd be a farmstead."</p>
+<p>The  theologian said nothing; he looked around,  then put his pipe back</p>
+<p>in his mouth, and they all went on their way.</p>
+<p>"By  God!" the  philosopher said, stopping again. "It's as dark  as the</p>
+<p>devil's fist."</p>
+<p>"Maybe there'll be some farm  further on," said the theologian, without</p>
+<p>releasing his pipe.</p>
+<p>Meanwhile, however, it was  already night, and a  rather dark night  at</p>
+<p>that, Clouds  made  it gloomier  still, and by all  tokens neither stars nor</p>
+<p>moon were to  be expected. The students noticed that they had lost their way</p>
+<p>and for a long while had not been walking on the road.</p>
+<p>The philosopher, after feeling in all directions with his feet, at last</p>
+<p>said abruptly:</p>
+<p>"But where's the road?"</p>
+<p>The theologian pondered silendy and observed:</p>
+<p>"Yes, it's a dark night."</p>
+<p>The rhetorician stepped to  one side  and tried to feel for the road on</p>
+<p>all fours, but his hands kept ending  up in fox  holes. Everywhere there was</p>
+<p>nothing but steppe where it seemed no one passed. The travelers made another</p>
+<p>effort to  move forward a bit, but everywhere was the  same  wilderness. The</p>
+<p>philosopher tried  shouting,  but his voice  was  completely  muffled on all</p>
+<p>sides and met no response. Only a  little later came  a faint  wailing  that</p>
+<p>resembled the howling of a wolf.</p>
+<p>"Well, what do we do now?" said the philosopher.</p>
+<p>"Why,  we stay and spend the night in the fields!" said the theologian,</p>
+<p>and he went to  his pocket to get his tinderbox and light up his pipe again.</p>
+<p>But the philosopher could not agree to that. He had always been in the habit</p>
+<p>of  packing  away  a  ten-pound  hunk of bread and some four  pounds of lard</p>
+<p>before going to bed and this time felt a  sort of unbearable solitude in his</p>
+<p>stomach.  Besides,  for  all  his  merry  disposition,  the philosopher  was</p>
+<p>somewhat afraid of wolves.</p>
+<p>"No, Khalyava, we can't," he said. "What, lie down and stretch out like</p>
+<p>some  dog without fortifying ourselves? Let's try again, maybe we'll  happen</p>
+<p>onto some  dwelling and  manage  to get at least a  glass  of vodka for  the</p>
+<p>night."</p>
+<p>At the word <emphasis>vodka</emphasis> the theologian spat to one side and observed:</p>
+<p>"Sure, there's no point staying in the fields."</p>
+<p>The students went on  and, to their greatest  joy, fancied they heard a</p>
+<p>distant barking. Figuring  out  the  direction,  they listened, set off more</p>
+<p>cheerfully and, after going a little further, saw a light.</p>
+<p>"A farmstead! By God, a farmstead!" said the philosopher.</p>
+<p>His anticipation did not disappoint  him; in a short while  they indeed</p>
+<p>saw a small farmstead that consisted of just  two cottages  sharing the same</p>
+<p>yard. There  was light  in the  windows. A dozen plum trees stuck up by  the</p>
+<p>paling. Peeking through cracks in the boards of the gates, the students  saw</p>
+<p>a yard filled with ox carts. Just then stars appeared here  and there in the</p>
+<p>sky.</p>
+<p>"Watch out, brothers, don't hang back! We must get a night's lodging at</p>
+<p>all costs!"</p>
+<p>The three learned men knocked at the gate with one accord and shouted:</p>
+<p>"Open up!"</p>
+<p>The door of  one cottage creaked,  and a minute later the students  saw</p>
+<p>before them an old woman in a sheepskin coat.</p>
+<p>"Who's there?" she cried with a muffled cough.</p>
+<p>"Let us in  for  the night, granny. We've lost our way. It's as bad out</p>
+<p>in the fields as it is in a hungry belly."</p>
+<p>"And what sort of folk are you?"</p>
+<p>"We're  harmless folk: the  theologian Khalyava, the philosopher  Brut,</p>
+<p>and the rhetorician Gorobets."</p>
+<p>"Can't do it," the old woman grumbled. "I've got a yard full of people,</p>
+<p>and every corner of the cottage is taken. Where will I put you? And such big</p>
+<p>and hefty folk at that! My cottage will fall apart if I take in the likes of</p>
+<p>you. I  know these  philosophers and  theologians. Once you start  taking in</p>
+<p>those drunkards, there soon won't be any house. Away! Away with you! There's</p>
+<p>no room for you here!"</p>
+<p>"Have mercy, granny! Can it be chat Christian souls must perish for  no</p>
+<p>reason at all? Put us up wherever you like. And if we  somehow  do something</p>
+<p>or other--let our arms wither, and whatever else God only knows. There!"</p>
+<p>The old woman seemed to soften a little.</p>
+<p>"Very well," she said,  as if considering, "I'll  let you in. Only I'll</p>
+<p>make you all sleep  in different places, for my heart  won't  be at peace if</p>
+<p>you lie together."</p>
+<p>"That's as you will, we won't object," replied the students.</p>
+<p>The gates creaked and they went into the yard.</p>
+<p>"Well, granny,"  said  the  philosopher, following  the old woman, "and</p>
+<p>what  if,  as they  say  ... by God, it's as  if  wheels  are turning  in my</p>
+<p>stomach. We haven't had a sliver in our mouths since morning"</p>
+<p>"See what he's after!" the old woman said. "I've got nothing,</p>
+<p>nothing like that, and I didn't start the stove all day."</p>
+<p>"And tomorrow," the philosopher went on, "we'll  pay for it  all,  well</p>
+<p>and good,  in cash. Yes," he went  on softly, "the  devil of a  cent  you'll</p>
+<p>get!"</p>
+<p>"Go on, go on! and be content  with what  you've got. Such tender young</p>
+<p>sirs the devil's brought us!"</p>
+<p>The  philosopher Khoma  became utterly despondent at these  words.  But</p>
+<p>suddenly his nose caught the scent of dried fish. He glanced at the trousers</p>
+<p>of the theologian walking beside him and saw an  enormous fish tail sticking</p>
+<p>out of his pocket: the theologian had already managed to snatch a whole carp</p>
+<p>off  a wagon. And since  he had done it not for  any profit  but simply from</p>
+<p>habit,  and,  having forgotten his carp  completely, was  looking around for</p>
+<p>something else to filch,  not intending to overlook even a broken wheel, the</p>
+<p>philosopher  Khoma put  his hand into his pocket as if it were  his very own</p>
+<p>and pulled out the carp.</p>
+<p>The  old woman got the  students installed: the rhetorician  was put in</p>
+<p>the cottage,  the theologian was shut up in an empty closet, the philosopher</p>
+<p>was assigned to the sheep pen, also empty.</p>
+<p>The philosopher, left  alone, ate the carp in one minute, examined  the</p>
+<p>wattled sides of the pen, shoved his foot into  the curious snout that a pig</p>
+<p>had  poked through  from the next pen, and rolled over on his  other side in</p>
+<p>order to fall into a  dead  sleep. Suddenly  the low door opened and the old</p>
+<p>woman, stooping down, came into the pen.</p>
+<p>"Well, granny, what do you want?" said the philosopher.</p>
+<p>But the old woman came toward him with outspread arms.</p>
+<p>"Oh-ho!" thought the philosopher. "Only  no,  dearie, you're obsolete!"</p>
+<p>He moved slightly  further off, but again the old woman unceremoniously came</p>
+<p>toward him.</p>
+<p>"Listen,  granny," said  the philosopher, "it's a fast period, and  I'm</p>
+<p>the sort of man who won't break his fast even for a thousand gold roubles."</p>
+<p>But  the old woman kept spreading her arms and grasping for him without</p>
+<p>saying a word.</p>
+<p>The philosopher  became frightened, especially when he noticed that her</p>
+<p>eyes flashed with some extraordinary light.</p>
+<p>"Granny! What is it? Go, go with God!" he cried.</p>
+<p>But the old woman did not say a word and kept grabbing for him with her</p>
+<p>arms.</p>
+<p>He jumped to his  feet,  intending to flee,  but the old woman stood in</p>
+<p>the doorway, fixing her flashing eyes on him, and again began to come toward</p>
+<p>him.</p>
+<p>The  philosopher wanted to push her away with his hands, but noticed to</p>
+<p>his astonishment that his arms would not rise, nor would his legs move; with</p>
+<p>horror he discovered  that the sound  of his voice  would not even come from</p>
+<p>his  mouth: the words stirred soundlessly on his lips. He heard only how his</p>
+<p>own heart  was  beating; he saw how the old woman came up to him, folded his</p>
+<p>arms, bent his neck, jumped with catlike quickness onto his back, struck him</p>
+<p>on the  side with a broom, and he, leaping like  a saddle horse, carried her</p>
+<p>on his  back. All  this  happened  so quickly  that the  philosopher  barely</p>
+<p>managed to recover his senses and seize both  his knees with his hands in an</p>
+<p>effort  to  stop  his legs;  but, to his great  amazement,  they kept moving</p>
+<p>against his will and performed leaps  quicker than a  Circassian racer. When</p>
+<p>they passed the farmstead, and  a smooth hollow opened  out before them, and</p>
+<p>the coal-black  forest  spread out  to one side,  only  then did  he say  to</p>
+<p>himself: "Oh-oh, this is a witch!"</p>
+<p>A reverse crescent  moon shone in the sky. The timid  midnight radiance</p>
+<p>lay lightly as a transparent  blanket and  steamed over  the earth.  Forest,</p>
+<p>meadows, sky,  valleys--all seemed  to be  sleeping  with  open eyes.  Not a</p>
+<p>flutter of  wind anywhere.  There was something damply warm  in the  night's</p>
+<p>freshness. The  shadows of trees  and  bushes,  like  comets, fell  in sharp</p>
+<p>wedges over the sloping plain. Such was the night when the philosopher Khoma</p>
+<p>Brut galloped  with an incomprehensible  rider  on his  back.  He felt  some</p>
+<p>languid,  unpleasant,  and at the  same time  sweet feeling  coming into his</p>
+<p>heart. He  lowered his head and saw that  the  grass, which was almost under</p>
+<p>his  feet, seemed to be growing  deep and distant and that over it was water</p>
+<p>as transparent as a  mountain spring, and the grass seemed to be at the deep</p>
+<p>bottom  of  some bright, transparent  sea; at least he  clearly  saw his own</p>
+<p>reflection in  it, together with the old woman sitting  on his back.  He saw</p>
+<p>some sun shining there  instead of  the moon;  he  heard  bluebells  tinkle,</p>
+<p>bending their heads. He  saw a  water nymph swim  from behind the sedge; her</p>
+<p>back and leg flashed, round, lithe, made all of a shining and quivering. She</p>
+<p>turned toward him, and her face, with its  light, sharp, shining  eyes, with</p>
+<p>its soul-invading  song, now approached him,  was already  at  the  surface,</p>
+<p>then, shaking with sparkling laughter, withdrew--and then she turned over on</p>
+<p>her back, and the sun  shone through her nebulous breasts, matte as unglazed</p>
+<p>porcelain, at the edges  of their  white,  tenderly elastic roundness. Water</p>
+<p>covered  them in tiny bubbles like beads. She trembles all over and laughs m</p>
+<p>the water . . .</p>
+<p>Is  he seeing it, or is he not?  Is  he awake or asleep? But  what now?</p>
+<p>Wind or music: ringing, ringing, and whirling, and approaching, and piercing</p>
+<p>the soul with some unbearable trill . . .</p>
+<p>"What is it?" thought the philosopher Khoma Brut, looking  down,  as he</p>
+<p>raced on at top speed.  Sweat streamed from him. He felt a demonically sweet</p>
+<p>feeling, he felt some piercing, some  languidly terrible pleasure.  It often</p>
+<p>seemed to him as if his  heart were no longer there  at all, and in fear  he</p>
+<p>would clutch at it with his hand. Exhausted, bewildered, he  began to recall</p>
+<p>all the  prayers he ever  knew.  He  ran through all  the exorcisms  against</p>
+<p>spirits--and suddenly felt some relief; he felt his step beginning to become</p>
+<p>lazier, the witch held somehow more weakly to liis back. Thick grass touched</p>
+<p>him, and he no longer saw anything extraordinary in  it. The bright crescent</p>
+<p>shone in the sky.</p>
+<p>"All  right, then!" thought the philosopher  Khoma, and he began saying</p>
+<p>exorcisms almost  aloud. Finally,  quick as lightning, he jumped  from under</p>
+<p>the old woman and in his turn leaped on her back. With her small, quick step</p>
+<p>the  old woman ran so fast that the rider could hardly catch his breath. The</p>
+<p>earth  just  flashed  beneath him.  Everything was  clear  in the moonlight,</p>
+<p>though  the  moon was not full. The  valleys were smooth, but  owing  to the</p>
+<p>speed everything flashed vaguely  and confusedly in his eyes. He snatched up</p>
+<p>a billet lying in the  road and started beating  the old woman as hard as he</p>
+<p>could  with  it.  She  let  out  wild  screams;  first they  were  angry and</p>
+<p>threatening, then  they  turned weaker,  more pleasant, pure, and then soft,</p>
+<p>barely  ringing,  like fine silver  bells, penetrating  his  soul. A thought</p>
+<p>flashed inadvertently in his head: Is this really an old woman? "Oh, I can't</p>
+<p>take any more!" she said in exhaustion and fell to the ground.</p>
+<p>He got to his feet and  looked into her eyes: dawn was breaking and the</p>
+<p>golden domes  of the Kievan churches shone in the distance. Before him lay a</p>
+<p>beauty  with  a  disheveled,  luxurious  braid  and long, pointy  eyelashes.</p>
+<p>Insensibly,  she  spread her bare white arms  and  moaned,  looking up  with</p>
+<p>tear-fdled eyes.</p>
+<p>Khoma trembled like a leaf  on a tree: pity and some strange excitement</p>
+<p>and timidity, incomprehensible to himself,  came over  him;  he broke into a</p>
+<p>headlong run. His heart beat uneasily on the way, and he was quite unable to</p>
+<p>explain to  himself  this strange new  feeling that had come over him. He no</p>
+<p>longer wanted to go around  to the  farmsteads and  hastened  back  to Kiev,</p>
+<p>pondering this incomprehensible incident as he went.</p>
+<p>There were almost no students  in the  city:  they  had all gone to the</p>
+<p>farmsteads, either on conditions, or simply without  any conditions, because</p>
+<p>on  Little  Russian farmsteads one can eat  dumplings, cheese,  sour  cream,</p>
+<p>fritters as big  as a  hat, without paying a penny. The big, sprawling house</p>
+<p>where  the  boarders  lodged  was decidedly  empty,  and  thoroughly as  the</p>
+<p>philosopher searched in all the corners, even feeling in  all the  holes and</p>
+<p>crannies under the roof, nowhere did he find a piece of bacon or at least an</p>
+<p>old knish-- things usually stashed away by the boarders.</p>
+<p>However, the  philosopher soon  found  a solution  to his troubles:  he</p>
+<p>strolled,  whistling, through the  marketplace three times  or so, exchanged</p>
+<p>winks at the  very end with  some  young  widow  in  a  yellow  cap who sold</p>
+<p>ribbons, lead shot,  and wheels--and that same  day was fed wheat dumplings,</p>
+<p>chicken ...  in  a word, there was no counting  what lay before him  on  the</p>
+<p>table, set in a small clay  house  amid cherry trees.  That same evening the</p>
+<p>philosopher  was  seen in  the tavern: he was lying on a bench  smoking  his</p>
+<p>pipe, as was his custom,  and in front of everybody tossed a gold  piece  to</p>
+<p>the Jew  tavern keeper. Before  him stood a  mug. He looked at people coming</p>
+<p>and  going with coolly contented eyes and no longer  gave any thought to his</p>
+<p>extraordinary incident.</p>
+<p>meanwhile, the rumor spread  everywhere that the daughter of one of the</p>
+<p>richest  Cossack chiefs,  whose farmstead  was  some  thirty-five miles from</p>
+<p>Kiev, had come home from a walk one day all beaten up, had barely managed to</p>
+<p>reach her father's house, was now lying  near  death, and  before her  dying</p>
+<p>hour had expressed the wish that the  prayers at  her deathbed and for three</p>
+<p>days after her death be read by  one of  the Kievan seminarians: Khoma Brut.</p>
+<p>The  philosopher  learned it  from  the  rector  himself,  who  summoned him</p>
+<p>specially to his  room and announced that he must hasten on his way  without</p>
+<p>delay, that the eminent chief had specially sent people and a cart for him.</p>
+<p>The philosopher gave a start  from some unaccountable  feeling which he</p>
+<p>could not  explain to himself. A dark foreboding told him that something bad</p>
+<p>lay in store for him. Not knowing why himself, he announced directly that he</p>
+<p>would not go.</p>
+<p>"Listen,  <emphasis>domine</emphasis>   Khoma!"6  said  the  rector  (on  certain</p>
+<p>occasions he spoke very courteously with  his  subordinates), "the  devil if</p>
+<p>anyone's asking  you whether  you want to  go or not.  I'm telling  you only</p>
+<p>this, that  if you keep standing on your mettle and being clever, I'll order</p>
+<p>you whipped with young birch rods on the back and  other parts--so well that</p>
+<p>you won't need to go to the steam-baths."</p>
+<p>The philosopher, scratching lightly  behind his ear, walked out without</p>
+<p>saying a word, intending to trust to his legs at the first opportunity. Deep</p>
+<p>in thought, he was going down the steep steps to the poplar-ringed courtyard</p>
+<p>when he stopped for a minute, hearing quite clearly the voice of  the rector</p>
+<p>giving orders to his housekeeper and someone else, probably one of those the</p>
+<p>chief had sent to fetch him.</p>
+<p>"Thank your master for the grain and eggs," the rector was saying, "and</p>
+<p>tell him that as soon as the books he wrote about are ready,  I'll send them</p>
+<p>at once.  I've already  given  them  to  the scribe for  copying. And  don't</p>
+<p>forget, dear heart, to tell the master that I know there are good fish to be</p>
+<p>had  on  his  farmstead,  especially sturgeon, which  he  can  send whenever</p>
+<p>there's a chance: at the markets here it's  expensive and no good.  And you,</p>
+<p>Yavtukh, give  the  lads  a  glass of vodka.  And  tie up  the  philosopher,</p>
+<p>otherwise he'll take off."</p>
+<p>"Why, that devil's son!" the philosopher  thought to himself, "he's got</p>
+<p>wind of it, the long-legged slicker!"</p>
+<p>He went down the steps and saw  a kibitka, which at first he took for a</p>
+<p>granary on wheels.  Indeed, it was  as deep  as a brick  kiln. This  was  an</p>
+<p>ordinary Krakow vehicle such as Jews hire, fifty  of them squeezing in along</p>
+<p>with their goods,  to  carry them  to every  town where their noses smell  a</p>
+<p>fair. He was awaited  by some six  stalwart and  sturdy  Cossacks, no longer</p>
+<p>young  men. Jackets of fine flannel with fringe showed that they belonged to</p>
+<p>a considerable and wealthy owner. Small scars bespoke their having once been</p>
+<p>to war, not without glory.</p>
+<p>"No  help  for  it! What will  be, will be!" the philosopher thought to</p>
+<p>himself and, addressing the Cossacks, said loudly:</p>
+<p>"Greetings, friends and comrades!"</p>
+<p>"Greetings to you, master philosopher!" some of the Cossacks replied.</p>
+<p>"So I'm  supposed to get  in there with you? A fine wagon!" he went on,</p>
+<p>climbing in. "Just hire some musicians and you could dance in it!"</p>
+<p>"Yes, a commensurate vehicle!" said one of  the Cossacks, getting up on</p>
+<p>the  box along  with  the  coachman, who had a  rag  wrapped around his head</p>
+<p>instead of his hat, which he had already left in the tavern. The other five,</p>
+<p>together  with the  philosopher,  climbed deep inside  and settled on  sacks</p>
+<p>filled with various purchases made in town.</p>
+<p>"I'd be curious to know," said the philosopher, "if this  wagon were to</p>
+<p>be loaded, for example, with certain goods--salt, say,  or  iron wedges--how</p>
+<p>many horses would it need?"</p>
+<p>"Yes," the Cossack on the box said after some silence, "it would need a</p>
+<p>sufficient number of horses."</p>
+<p>After which satisfactory  answer,  the Cossack  considered  he had  the</p>
+<p>right to keep silent the rest of the way.</p>
+<p>The philosopher had a  great desire to find out in more detail who this</p>
+<p>chief  was, what sort  of character he  had, what  this  rumor was about his</p>
+<p>daughter, who had come home  in  such  an extraordinary fashion  and was now</p>
+<p>dying, and whose story was now connected with his own, how it  was with them</p>
+<p>and what went on  in the  house? He  addressed them  with questions; but the</p>
+<p>Cossacks must  also  have  been philosophers, because  they said  nothing in</p>
+<p>reply, lay on the sacks and smoked  their pipes. Only orie of them addressed</p>
+<p>the coachman sitting  on  the  box with  a brief order;  "Keep an  eye  out,</p>
+<p>Overko,  you old  gawk.  When  you get  near  the  tavern,  the  one on  the</p>
+<p>Chukhrailovsky road, don't forget to stop, and wake me and the other lads up</p>
+<p>if  we  happen to  fall asleep." After that  he fell  rather loudly  asleep.</p>
+<p>However,  these admonitions were quite  superfluous, because as soon as  the</p>
+<p>gigantic  wagon approached  the tavern on the Chukhrailovsky road, everybody</p>
+<p>shouted with one  voice:  "Stop!" Besides, Overko's  horses were already  so</p>
+<p>used to it that  they themselves stopped  in front of  every tavern. Despite</p>
+<p>the hot July  day, everybody got  out  of  the wagon and went into  the low,</p>
+<p>dingy  room where the Jew  tavern keeper rushed with signs of joy to welcome</p>
+<p>his old acquaintances. Under his  coat skirts  the Jew brought several  pork</p>
+<p>sausages and, having placed them on the table, immediately turned away  from</p>
+<p>this Talmud-forbidden fruit.  They  all settled around the table. A clay mug</p>
+<p>appeared in front of each guest. The philosopher Khoma  had to  take part in</p>
+<p>the general feasting. And since people in Little Russia, once they get a bit</p>
+<p>merry, are sure to start kissing each other or weeping, the whole place  was</p>
+<p>soon filled with kissing: "Well, now,  Spirid, give us a smack!" "Come here,</p>
+<p>Dorosh, till I embrace you!"</p>
+<p>One Cossack who was a bit older than the others, with a gray  mustache,</p>
+<p>rested his cheek on his hand and began sobbing his heart out over his having</p>
+<p>no father or mother and being  left all alone  in  the world. Another  was a</p>
+<p>great  reasoner and kept comforting him, saying: "Don't  cry,  by God, don't</p>
+<p>cry! What's this now. . . God, He knows how and  what it is."  The one named</p>
+<p>Dorosh   became  extremely  inquisitive  and,  addressing   himself  to  the</p>
+<p>philosopher Khoma, kept asking him:</p>
+<p>"I'd like to know what they teach you at the seminary--the same as what</p>
+<p>the deacon reads in church, or something else?"</p>
+<p>"Don't ask!" drawled the reasoner. "Let  it all be as it has been. God,</p>
+<p>He knows how it should be; God knows everything."</p>
+<p>"No," Dorosh went  on,  "I  want to know what's written in those books.</p>
+<p>Maybe something completely different from the deacon's."</p>
+<p>"Oh, my God, my God!"  the esteemed mentor said to that. "What on earth</p>
+<p>are  you  talking about? God's will decided it so. It's all  as God gave it,</p>
+<p>they can't go changing it."</p>
+<p>"I want to  know all what's written  there. I'll go to the seminary, by</p>
+<p>God, I will! What  do  you think, that I can't learn? I'll learn all  of it,</p>
+<p>all of it!"</p>
+<p>"Oh, my God, my  goddy  God! . . ." the comforter said and  lowered his</p>
+<p>head  to  the table,  because  he  was  quite unable  to hold  it  up on his</p>
+<p>shoulders any longer.</p>
+<p>The  other Cossacks  talked about landowners and why the moon shines in</p>
+<p>the sky.</p>
+<p>The philosopher  Khoma, seeing such  a disposition of minds, decided to</p>
+<p>take  advantage of it and  slip  away.  First he  addressed the  gray-haired</p>
+<p>Cossack who was grieving over his father and mother:</p>
+<p>"What's there to cry about, uncle," he said, "I'm an orphan myself! Let</p>
+<p>me go free, lads! What do you need me for?"</p>
+<p>"Let's  set him free!" some replied. "He's an  orphan. Let him go where</p>
+<p>he likes."</p>
+<p>"Oh, my God, my goddy God!" the comforter said, raising his head. "Free</p>
+<p>him! Let him go!"</p>
+<p>And the Cossacks were going to take him to the open fields  themselves,</p>
+<p>but the one who showed his curiosity stopped them, saying:</p>
+<p>"Hands off! I want to talk to him about the seminary. I'm going to  the</p>
+<p>seminary myself. . ."</p>
+<p>Anyhow, this escape could  hardly have  been accomplished, because when</p>
+<p>the philosopher decided to get up from the table, his legs turned  as if  to</p>
+<p>wood, and he began to see so many doors in the room  that it was unlikely he</p>
+<p>could have found the real one.</p>
+<p>Only in the evening did this company all remember that they  had to  be</p>
+<p>on their way. Scrambling into the wagon, they drove off, urging their horses</p>
+<p>on and singing  a song, the  words and meaning of which could hardly be made</p>
+<p>out. After spending the better half of the  night rambling about, constantly</p>
+<p>losing  the way, which they knew by heart, they  finally  descended a  steep</p>
+<p>hill into a valley, and  the philosopher noticed  a palisade or wattle fence</p>
+<p>stretching  along the sides, low trees  and roofs peeking  from behind them.</p>
+<p>This  was the  big  settlement  belonging to the chief.  It  was  long  past</p>
+<p>midnight; the sky was dark and small stars flashed here and there. There was</p>
+<p>no light in any of the huts. Accompanied by the barking of a dog, they drove</p>
+<p>into the yard. On both sides thatch-roofed sheds and cottages could be seen.</p>
+<p>One  of them, in the middle,  direcdy facing the gates, was  bigger than the</p>
+<p>rest  and  seemed  to be  the owner's  dwelling.  The  wagon stopped  before</p>
+<p>something  like  a  small  shed,  and  our  travelers  went  to  sleep.  The</p>
+<p>philosopher, however, wanted to look the master's mansion over a little; but</p>
+<p>however  wide he opened his eyes, he  could see  nothing clearly: instead of</p>
+<p>the house, he saw  a bear; the chimney turned into a rector. The philosopher</p>
+<p>waved his hand and went to sleep.</p>
+<p>When  the  philosopher woke up,  the whole house  was astir: during the</p>
+<p>night the master's daughter  had died. Servants ran  to and fro in a flurry.</p>
+<p>Some old  woman  cried. A crowd of the curious looked through the fence into</p>
+<p>the master's yard, as if there was anything to be seen there.</p>
+<p>The philosopher  began  leisurely to  examine  the places he  had  been</p>
+<p>unable to  make out at  night. The masters house  was a small, low  building</p>
+<p>such  as  was commonly built  in  Little Russia  in  the old days. It had  a</p>
+<p>thatched roof.  The  sharp  and high  little  pediment, with a small  window</p>
+<p>resembling an  upturned  eye,  was  painted  ail over with  blue and  yellow</p>
+<p>flowers  and  red crescents. It  was  held  up by oak posts,  the upper half</p>
+<p>rounded and the lower hexagonal,  with fancy turning at the tops. Under this</p>
+<p>pediment  was a small porch with benches on both sides.  At  the <strong>ends</strong> of the</p>
+<p>house  were shed roofs on the same sort of posts,  some of  them twisted.  A</p>
+<p>tall pear tree with a pyramidal top and trembling leaves greened in front of</p>
+<p>the house. Several barns stood  in  two rows in the yard, forming a  sort of</p>
+<p>wide  street leading to the house. Beyond the barns, toward  the  gates, the</p>
+<p>triangles of two  cellars stood facing each other,  also roofed with thatch.</p>
+<p>The triangular wall of each was furnished with a door  and painted over with</p>
+<p>various images. On one  of them a Cossack was portrayed sitting on a barrel,</p>
+<p>holding  a mug over his  head with the  inscription: "I'll Drink It All." On</p>
+<p>the other,  a  flask, bottles, and around  them, for the  beauty  of  it, an</p>
+<p>upside-down  horse,  a  pipe, tambourines,  and the inscription: "Drink--the</p>
+<p>Cossack's Delight." From  the loft of one of the barns, through an  enormous</p>
+<p>dormer window, peeked a drum and some brass trumpets. By the gates stood two</p>
+<p>cannon. Everything showed that the  master of the house liked to make  merry</p>
+<p>and that  the yard  often resounded with the noise of feasting.  Outside the</p>
+<p>gates were two windmills.  Behind the house ran the gardens; and through the</p>
+<p>treetops one could  see only the dark caps of chimneys  hiding in the  green</p>
+<p>mass  of cottages.  The  entire settlement was situated on a wide  and level</p>
+<p>mountain  ledge.  To  the  north  everything  was  screened  off by  a steep</p>
+<p>mountain,  the  foot of which  came right down to the yard.  Looked  at from</p>
+<p>below,  it seemed steeper still, and on  its high top the irregular stems of</p>
+<p>skimpy  weeds stuck out here and there, black  against  the  bright sky. Its</p>
+<p>bare and clayey appearance evoked a certain despondency. It was all furrowed</p>
+<p>with gullies and grooves left by rain. In two places, cottages were stuck to</p>
+<p>its steep slope; over one of them an apple tree, propped by small stakes and</p>
+<p>a mound of dirt at its roots, spread its branches broadly. Windfallen apples</p>
+<p>rolled right down into the master's yard. From the top a road wound down all</p>
+<p>over the mountain and in its descent went past the yard into the settlement.</p>
+<p>When  the  philosopher measured its  terrible  steepness and remembered  the</p>
+<p>previous day's journey, he decided that either the master's horses were very</p>
+<p>smart  or the  Cossacks' heads were  very strong  to have managed,  even  in</p>
+<p>drunken fumes, not to tumble down head first along with  the boundless wagon</p>
+<p>and the baggage. The philosopher stood on the highest point of the yard, and</p>
+<p>when he turned and looked in the opposite direction, he was presented with a</p>
+<p>totally  different  sight.  The settlement, together with  the slope, rolled</p>
+<p>down onto a plain. Vast meadows opened out beyond  the reach of sight; their</p>
+<p>bright  greenery  became darker in the distance, and whole rows  of villages</p>
+<p>blued far  off, though they were more than a dozen miles away.  To the right</p>
+<p>of  these  meadows, mountains  stretched and the distant,  barely noticeable</p>
+<p>strip of the Dnieper burned and darkled.</p>
+<p>"Ah, a fine spot!" said  the philosopher. "To live here, to fish in the</p>
+<p>Dnieper and the ponds, to take a  net or a gun  and go hunting for snipe and</p>
+<p>curlew! Though I suppose there's also no lack of bustards in these  meadows.</p>
+<p>Quantities of fruit can be dried and sold in town or, even better, distilled</p>
+<p>into vodka--because no liquor can  touch vodka made from fruit. And it  also</p>
+<p>wouldn't hurt to consider how to slip away from here."</p>
+<p>He  noticed a small path beyond the wattle  fence, completely overgrown</p>
+<p>with  weeds.  He mechanically stepped onto  it,  thinking  at first only  of</p>
+<p>taking a stroll, and then of quietly  blowing out between the  cottages into</p>
+<p>the meadows, when he felt a rather strong hand on his shoulder.</p>
+<p>Behind  him  stood the same  old  Cossack  who had  grieved so bitterly</p>
+<p>yesterday over the death of his mother and father and his own loneliness.</p>
+<p>"You oughtn't to  be thinking, master  philosopher, about skipping from</p>
+<p>the farmstead!" he said. "It's not  set up  here so as you can run away; and</p>
+<p>the roads are bad for walking. Better go to  the  master: he's  been waiting</p>
+<p>for you a long time in his room."</p>
+<p>"Let's go!  Why not? . . . It's my pleasure," said the philosopher, and</p>
+<p>he followed after the Cossack.</p>
+<p>The chief, an elderly  man with a gray  mustache and  an expression  of</p>
+<p>gloomy sorrow, was sitting at a table in his room,  his head propped in both</p>
+<p>hands. He was about fifty years  old; but the  deep  despondency on his face</p>
+<p>and  a  sort  of wasted pallor showed  that his  soul had  been  crushed and</p>
+<p>destroyed all of a sudden, in a single moment, and all  the  old  gaiety and</p>
+<p>noisy life had disappeared forever. When Khoma came in together with the old</p>
+<p>Cossack, he took away one of his hands and nodded slighdy to their low bow.</p>
+<p>Khoma and the Cossack stopped respectfully by the door.</p>
+<p>"Who are you, and  where from, and of what estate, good man?" the chief</p>
+<p>said, neither kindly nor sternly.</p>
+<p>"I'm the philosopher Khoma Brut, a student."</p>
+<p>"And who was your father?"</p>
+<p>"I don't know, noble sir."</p>
+<p>"And your mother?"</p>
+<p>"I  don't know my  mother, either. Reasonably  considering, of  course,</p>
+<p>chere was a mother; but who she was, and where from,  and when she lived--by</p>
+<p>God, your honor, I don't know."</p>
+<p>The chiet paused and seemed to sit pondering for a moment.</p>
+<p>"And how did you become acquainted with my daughter?"</p>
+<p>"I  didn't become acquainted, noble sir,  by God, I didn't. I've  never</p>
+<p>had any dealings with young ladies in all my born days. Deuce take them, not</p>
+<p>to say something improper."</p>
+<p>"Then why was it  none other than you, precisely, that she appointed to</p>
+<p>read?"</p>
+<p>The philosopher shrugged his shoulders:</p>
+<p>"God  knows  how  to  explain  that. It's a  known  fact  that  masters</p>
+<p>sometimes want something that even the  most literate man can't figure  out.</p>
+<p>And as the saying goes: 'Hop faster, mind the master!'"</p>
+<p>"And you wouldn't happen to be lying, mister philosopher?"</p>
+<p>"May lightning strike me right here if I'm lying."</p>
+<p>"If you'd  lived  only one  litde minute longer," the chief said sadly,</p>
+<p>"I'd surely have learned everything. 'Don't let anybody read over me, daddy,</p>
+<p>but send to  the Kiev seminary at once and bring the student Khoma Brut. Let</p>
+<p>him pray three nights for my sinful soul. He knows . . .' But what he knows,</p>
+<p>I didn't  hear. She, dear soul,  could only say  that, and  then  she  died.</p>
+<p>Surely, good man, you</p>
+<p>must be known for your holy life and God-pleasing  deeds, and maybe she</p>
+<p>heard about you."</p>
+<p>"Who, me?" the  student said, stepping back  in  amazement, "Me, a holy</p>
+<p>life?" he  said, looking the chief straight  in the eye, "God help you, sir!</p>
+<p>Indecent  though it is to say,  I went calling on the baker's  wife on  Holy</p>
+<p>Thursday itself."</p>
+<p>"Well. .  . surely you were appointed for  some reason. You'll  have to</p>
+<p>start the business this same day."</p>
+<p>"To that, your  honor, I'd reply ... of course,  anybody versed in Holy</p>
+<p>Scripture could commensurably . . . only here it would call for a deacon, or</p>
+<p>at least a subdeacon. They're smart folk and know how it's done, while I ...</p>
+<p>And  I haven't got  die voice  for it,  and  myself  I'm--devi! knows  what.</p>
+<p>Nothing to look at."</p>
+<p>"That's all very well, only I'll do everything my little  dove  told me</p>
+<p>to  do, I won't leave anything out. And once you've prayed over her properly</p>
+<p>for  three nights, starting today,  I'll reward  you. Otherwise--I  wouldn't</p>
+<p>advise even (he devil himself to make me angry."</p>
+<p>The chief uttered these last words with such force that the philosopher</p>
+<p>fully understood their meaning.</p>
+<p>"Follow me!" said the chief.</p>
+<p>They  stepped  out to the front hall.  The chief  opened  the  door  to</p>
+<p>another room opposite  the first. The  philosopher stopped in the hall for a</p>
+<p>moment to blow his nose and then with  some  unaccountable  fear crossed the</p>
+<p>threshold. The whole floor was covered with red cotton cloth. In the corner,</p>
+<p>under the icons, on a high table, lay the body  of the dead girl, on a cover</p>
+<p>of blue velvet adorned with gold fringe and tassels. Tall wax candles twined</p>
+<p>with guelder rose stood at her head and feet, shedding their dim light, lost</p>
+<p>in the brightness of day. The face of the dead girl was screened from him by</p>
+<p>the  disconsolate  father, who sat  before her, his back to  the  door.  The</p>
+<p>philosopher was struck by the words he heard:</p>
+<p>"I'm not  sorry, my darling daughter, that you, to my sorrow and grief,</p>
+<p>have left the earth in the  flower of  your  youth,  without living out your</p>
+<p>allotted  term.  I'm sorry, my  little dove, that I do not know who it  was,</p>
+<p>what wicked  enemy of mine, that caused your <strong>death.</strong> And if <strong>I</strong>  knew of anyone</p>
+<p>who might only think of insulting you or just of saying something unpleasant</p>
+<p>about  you,  I  swear  to God he  would never see his children again,  if he</p>
+<p>happened to be as old as I am, or his father and mother, if  he was  still a</p>
+<p>young man;  and  his body  would be  thrown to  the birds and beasts of  the</p>
+<p>steppe. But  woe is me,  my wild marigold, my little  quail, my bright star,</p>
+<p>that I must live out the rest  of my life with no  delight, wiping the tears</p>
+<p>with  my coattails as they flow  from  my aged eyes, while my enemy rejoices</p>
+<p>and laughs secretly at the feeble old man . . ."</p>
+<p>He stopped, and  the reason for it was the rending  grief that resolved</p>
+<p>itself in a whole Hood of tears.</p>
+<p>The philosopher was moved by such inconsolable  sorrow. He coughed  and</p>
+<p>gave a muffled grunt, wishing thereby to clear his voice a little.</p>
+<p>The  chief  turned and  pointed to the place at the  dead girl's  head,</p>
+<p>before a small lectern on which some books lay.</p>
+<p>"I  can  do  the three nights' work somehow," thought  the philosopher,</p>
+<p>"and the master will fill both my pockets with gold coins for it."</p>
+<p>He approached and, clearing his throat once more, began to read, paying</p>
+<p>no  attention  to anything  around him and not daring to look into the  dead</p>
+<p>girl's face. A deep silence settled in. He noticed that the  chief had left.</p>
+<p>Slowly he turned his head to look at the dead girl, and . . .</p>
+<p>A shudder  ran through his veins: before him lay a beauty such as there</p>
+<p>had  never  been  on earth. It seemed that facial features had  never before</p>
+<p>been assembled  into such sharp  yet harmonious beauty. She lay as if alive.</p>
+<p>Her  brow, beautiful, tender, like snow, like silver, seemed thoughtful; her</p>
+<p>eyebrows--night  amid  a  sunny  day, thin, regular--rose  proudly over  her</p>
+<p>closed eyes, and her eyelashes,  falling  pointy  on her cheeks, burned with</p>
+<p>the heat of  hidden desires; her  mouth--rubies about to smile . .  . Yet in</p>
+<p>them,  in  these same features, he saw something terribly  piercing. He felt</p>
+<p>his soul begin to ache  somehow painfully, as if, in  the whirl of merriment</p>
+<p>and giddiness of a crowd, someone suddenly  struck up a song about oppressed</p>
+<p>people. The  rubies of  her mouth seemed to make  the blood scald his heart.</p>
+<p>Suddenly something terribly familiar showed in her face.</p>
+<p>"The witch!" he cried out  in  a voice not his own, looked away, turned</p>
+<p>pale, and began reading his prayers.</p>
+<p>It was the very witch he had killed.</p>
+<p>When the sun began to set, the dead girl was  taken to the church.  The</p>
+<p>philosopher supported the black-draped coffin with one shoulder, and on that</p>
+<p>shoulder he  felt something cold as ice. The chief himself walked  in front,</p>
+<p>bearing  the  right side of  the  dead  girl's cramped house. The  blackened</p>
+<p>wooden church, adorned with green moss and  topped by three conical cupolas,</p>
+<p>stood desolate almost at the edge of die village. One  could see it was long</p>
+<p>since any service had been  celebrated  in  it. Candles burned before almost</p>
+<p>every icon.  The  coffin  was placed in the middle, right  in front  of  the</p>
+<p>altar. The old chief kissed the dead girl once more, made a prostration, and</p>
+<p>walked out together with the bearers, ordering the philosopher to be given a</p>
+<p>good meal and taken to the church  after supper. Going into the kitcheu, all</p>
+<p>those who had  carried the  coffin  started  touching  the  stove, something</p>
+<p>people in Little Russia have the custom of doing after they see a dead body.</p>
+<p>The hunger that the philosopher began to feel just then made him forget</p>
+<p>all  about the deceased  for a few moments.  Soon all the household servants</p>
+<p>began gradually to gather in the kitchen. The  kitchen of the  chief's house</p>
+<p>was something  like  a  club, to which  everything that inhabited  the  yard</p>
+<p>flowed,  including  the dogs,  who came  right up  to the door wagging their</p>
+<p>tails for  bones  and  scraps.  Wherever anyone  might be sent, on  whatever</p>
+<p>errand, he would always stop at the kitchen  first, to rest on a bench for a</p>
+<p>moment and smoke a pipe. The  bachelors who lived in  the house and  paraded</p>
+<p>around in Cossack blouses all lay about here  for almost  the  whole day, on</p>
+<p>the benches, under the benches, on  the stove--in short, wherever they could</p>
+<p>find a  comfortable  place to he. Besides, everybody was forever  forgetting</p>
+<p>something in the kitchen--a hat, a  knout  for stray dogs, or the like.  But</p>
+<p>the most numerous gathering was at suppertime, when the horseherd came after</p>
+<p>rounding up all his horses, and the cowherd after bringing the cows home for</p>
+<p>milking, and all the rest who were not to be  seen in the course of the day.</p>
+<p>During  supper, loquacity  would  come  to the most taciturn  tongues.  Here</p>
+<p>everything  was  usually  talked about: someone who was having  new trousers</p>
+<p>made for himself. . . and what was inside the earth. . . and someone who had</p>
+<p>seen a wolf.  . . There  were numerous  <emphasis>bonmotists7</emphasis> here, of whom</p>
+<p>there is no lack among the people of Little Russia.</p>
+<p>The philosopher  sat  down  with the others in  a wide circle under the</p>
+<p>open sky in  front  of  the kitchen porch.  Soon a woman  in a red cap stuck</p>
+<p>herself out  the door holding a hot  pot  of dumplings with  both hands, and</p>
+<p>placed  it  in the midst of those ready to  eat. Each of them  took a wooden</p>
+<p>spoon from his <strong>pocket,</strong> or some, lacking a spoon, a splinter of wood. As soon</p>
+<p>as the mouths began  to move  a bit more slowly and  the wolfish appetite of</p>
+<p>the  whole  gathering  subsided  a little,  many  began  to  talk.  The talk</p>
+<p>naturally had to turn to the dead girl.</p>
+<p>"Is it true,"  said one young shepherd, who had  stuck  so many buttons</p>
+<p>and brass badges on  his  leather pipe strap that  he looked like a mercer's</p>
+<p>shop, "is it true that the young miss, not to speak ill of her, kept company</p>
+<p>with the unclean one?"</p>
+<p>"Who? The young miss?" said Dorosh, already known  to  our philosopher.</p>
+<p>"But she was a downright witch! I'll swear she was a witch!"</p>
+<p>"Enough, enough, Dorosh!"  said  another,  the one who had  shown  such</p>
+<p>readiness  to give comfort during the trip. "God help them, it's none of our</p>
+<p>business. No point in talking about it."</p>
+<p>But Dorosh was not at all disposed to be silent. He  had only just gone</p>
+<p>to the cellar with the steward on some necessary business and, after bending</p>
+<p>a couple of times to two or  three barrels, had come out  extremely cheerful</p>
+<p>and talking nonstop.</p>
+<p>"What do you want? For me to keep quiet?" he said. "But she rode on me,</p>
+<p>on me myself! By God, she did!"</p>
+<p>"And what, uncle," said the young shepherd with the buttons, "are there</p>
+<p>some tokens you can tell a witch by?"</p>
+<p>"No," answered Dorosh.  "There's no  way  to tell. Read through all the</p>
+<p>psalters, you still won't be able to tell."</p>
+<p>"You  can, too, Dorosh. Don't say that," said the same comforter.  "Not</p>
+<p>for nothing did God give everybody a special trait.  People who've  got some</p>
+<p>learning say witches have little tails."</p>
+<p>"When  a  woman's  old,  she's a  witch,"  the gray-haired Cossack said</p>
+<p>coolly.</p>
+<p>"Ah,  you're a good lot,  too!" picked up the woman,  who was just then</p>
+<p>pouring fresh dumplings into the emptied pot. "Real fat boars!"</p>
+<p>The old Cossack, whose  name  was Yavtukh but who was nicknamed Kovtun,</p>
+<p>showed a smile of pleasure on his lips, seeing that his words had struck the</p>
+<p>old  woman to the  quick; and the cowherd let out such dense  laughter as if</p>
+<p>two bulls, facing each other, had bellowed at once.</p>
+<p>The  beginning  conversation  awakened  an   irrepressible  desire  and</p>
+<p>curiosity  in  the  philosopher to  learn  more in detail about  the chief's</p>
+<p>deceased  daughter. And therefore,  wishing to bring him back  to the former</p>
+<p>matter, he addressed his neighbor with these words:</p>
+<p>"I wanted to ask, why is it that all the folk sitting  here over supper</p>
+<p>consider the young miss a witch? What, did she cause some evil or put a  hex</p>
+<p>on somebody or other?"</p>
+<p>"There were all kinds of things," replied one of the seated men, with a</p>
+<p>smooth face extremely like a shovei.</p>
+<p>"And who doesn't remember the huntsman Mikita, or that. . ."</p>
+<p>"And what about the huntsman Mikita?" said the philosopher.</p>
+<p>"Wait! I'll tell about the huntsman Mikita," said Dorosh.</p>
+<p>"I'll tell about Mikita," said the herdsman, "because he was my chum."</p>
+<p>"I'll tell about Mikita," said Spirid.</p>
+<p>"Let him! Let Spirid tell it!" shouted the crowd.</p>
+<p>Spirid began:</p>
+<p>"You, mister philosopher Khoma, didn't know Mikita, Ah, what a rare man</p>
+<p>he  was!  He knew every dog like  his  own  father, so  he did.  The present</p>
+<p>huntsman Mikola, who's sitting third down from me,  can't hold  a  candle to</p>
+<p>him. He also knows his business, but next to Mikita he's trash, slops."</p>
+<p>"You're  telling   it  good,   really   good!"  said   Dorosh,  nodding</p>
+<p>approvingly.</p>
+<p>Spirid went on:</p>
+<p>"He'd spot a rabbit quicker than you could take a pinch of snuff.</p>
+<p>He'd whistle:  'Here, Robber! Here, Racer!' and be off at full speed on</p>
+<p>his horse, and there'd be no telling whether he was ahead of the dog or  the</p>
+<p>dog ahead of him. He'd toss off  a pint of  rotgut as  if it had never  been</p>
+<p>there. A fine huntsman he was! Only  in more  recent days he started staring</p>
+<p>at the young miss all the time. Either he was really smitten, or she'd put a</p>
+<p>spell on him, only it was the end of the man, he  went all soft, turned into</p>
+<p>devil knows what-- pah! it's even indecent to say it."</p>
+<p>"Good," said Dorosh.</p>
+<p>"The  young miss  would  no sooner  glance  at him than  he'd drop  the</p>
+<p>bridle, call  Robber Grouchy, stumble all over, and  do God knows what. Once</p>
+<p>the young miss  tame to the stable where he was grooming a horse. 'Mikitka,'</p>
+<p>she  says, 'let  me lay my little leg on you.' And he, the tomfool, gets all</p>
+<p>happy 'Not only your little leg,' he says,  'you can  sit right  on me.' The</p>
+<p>young miss lifted up her leg, and when he saw her bare leg, white and plump,</p>
+<p>the charm, he says, just stunned him. He bent his back, the tomfool, grabbed</p>
+<p>her bare legs with both hands, and went  galloping like a horse all over the</p>
+<p>fields. And he couldn't tell  anything about where they  rode, only  he came</p>
+<p>back barely alive, and after  that he  got all wasted,  like a chip of wood.</p>
+<p>And once, when they came to the stable, instead of him there was just a heap</p>
+<p>of ashes and an empty bucket lying there: he burned up, burned up of his own</p>
+<p>self. And what a huntsman  he was, you won't  find another  like  him in the</p>
+<p>whole world."</p>
+<p>When  Spirid finished his story, talk  came  from  all sides  about the</p>
+<p>merits of the former huntsman.</p>
+<p>"And have you heard about Shepchikha?" said Dorosh, addressing Khoma.</p>
+<p>No.</p>
+<p>"Oh-ho! Then  it's clear they don't  teach you much sense there in your</p>
+<p>seminary. Well, listen! In our settlement there's a Cossack named Sheptun. A</p>
+<p>good  Cossack! He likes to stea! or  tell  a he sometimes without any  need,</p>
+<p>but... a  good  Cossack! His place isn't far from here. At this same time as</p>
+<p>we're  now having  supper,  Sheptun and his wife finished eating and went to</p>
+<p>bed, and since the weather  was fine, Shepchikha  slept  outside and Sheptun</p>
+<p>inside</p>
+<p>on a bench;  or, no, it was Shepchikha inside  on a  bench and Shep-Cun</p>
+<p>outside . . ."</p>
+<p>"And not on a bench, Shepchikha lay on the floor," the woman picked up,</p>
+<p>standing in the doorway, her cheek propped on her hand.</p>
+<p>Dorosh looked at her, then at the floor, then at her again, and after a</p>
+<p>pause said:</p>
+<p>"When 1 pull  your underwear off  in front of everybody, it won't be so</p>
+<p>nice."</p>
+<p>This  warning had its  effect. The  old woman  fell  silent and did not</p>
+<p>interrupt anymore.</p>
+<p>Dorosh went on.</p>
+<p>"And in  a  cradle  that  hung  in the  middle  of  the  hut  lay their</p>
+<p>one-year-old baby--1  don't know whether of male  or  female sex. Shepchikha</p>
+<p>lay there, and then she heard a dog scratching outside  the door and howling</p>
+<p>so loud you just wanted to flee the house. She got frightened--for women are</p>
+<p>such foolish folk that you  could stick your  tongue  out at  her behind the</p>
+<p>door at night and she'd have her heart in her mouth.  'Anyhow,'  she thinks,</p>
+<p>'why  don't I go and  hit  the cursed dog  in the  snout, maybe  it'll  stop</p>
+<p>howling.' And taking her poker, she went to open the door. As soon as it was</p>
+<p>slightly  open, the dog darted between her  legs  and  went straight for the</p>
+<p>baby's  cradle. Shepchikha saw that it  was no longer  a dog  but the  young</p>
+<p>miss. And  if it had been  the  young miss looking  the way she knew her, it</p>
+<p>would have been nothing; but there was this one thing and circumstance: that</p>
+<p>she was all blue and her eyes were burning like coals. She grabbed the baby,</p>
+<p>bit its  throat,  and  began drinking  its blood. Shepchikha only cried out,</p>
+<p>'Ah, evil thing!' and fled. But she  saw that the front  doors  were locked.</p>
+<p>She ran to the  attic. The foolish woman sat there  trembling, and then  she</p>
+<p>saw  that the young miss was coming to the  attic.  She fell on  the foolish</p>
+<p>woman and started biting her. It was morning before Sheptun got his wife out</p>
+<p>of there, blue and bitten all over. And the next day the foolish woman died.</p>
+<p>That's what  arrangements  and  temptations  can  happen!  Though  she's the</p>
+<p>master's progeny, all the same a witch is a witch,"</p>
+<p>After this story, Dorosli looked around smugly and poked his forefinger</p>
+<p>into his pipe, preparing to  fill it with tobacco.  The  material  about the</p>
+<p>witch became  inexhaustible.  Each in turn  hastened to tell  something. The</p>
+<p>witch drove  right  up  to the  door  of one  man's house in the  form  of a</p>
+<p>haystack;  she  stole  another's hat or pipe;  cut off"  the  braids of many</p>
+<p>village girls; drank several buckets of blood from others.</p>
+<p>At last the whole company came to their senses and  saw that  they  had</p>
+<p>been talking  too much, because it was already quite dark outside. They  all</p>
+<p>began trudging off to sleep, putting themselves either in the kitchen, or in</p>
+<p>the sheds, or in the middle of the yard.</p>
+<p>"Well,  now, Mr. Khoma, it's time we  went  to the deceased," said  the</p>
+<p>gray-haired Cossack,  turning  to the  philosopher,  and  the  four of them,</p>
+<p>Spirid and Dorosh included, went to the church, swinging their knouts at the</p>
+<p>dogs, of which  there were a  great  many  and  which angrily bit  at  their</p>
+<p>sticks.</p>
+<p>The  philosopher, though he had fortified  himself with  a  good mug of</p>
+<p>vodka,  secretly felt timorousness creeping over him as they drew  near  the</p>
+<p>lighted church. The talcs and strange stories he had  heard helped to affect</p>
+<p>his imagination still more. The darkness under the paling and trees began to</p>
+<p>thin; the  place was  becoming more  bare. They  finally  stepped  past  the</p>
+<p>decrepit church fence into the small yard, beyond  which there were no trees</p>
+<p>and  nothing  opened  out  but empty  fields and  meadows  swallowed  by the</p>
+<p>darkness of night. Together with Khoma, the three Cossacks climbed the steep</p>
+<p>steps of the porch and went into the church. Here they left the philosopher,</p>
+<p>having wished  him a successful performance of his duty, and locked the door</p>
+<p>on him as the master had ordered.</p>
+<p>The  philosopher  remained  alone.  First  he  yawned,  then  stretched</p>
+<p>himself, then  blew on both hands, and finally  looked around. In the middle</p>
+<p>stood  the  black coffin. Candles flickered before  dark icons. Their  light</p>
+<p>illumined only the  iconostasisa  and, faintly, the middle of the</p>
+<p>church. The far  corners of the vestibule  were  shrouded  in  darkness. The</p>
+<p>tall,  ancient  iconostasis  showed a profound  decrepitude;  its  openwork,</p>
+<p>covered in  gold, now gleamed only in sparks. The  gilding had fallen off in</p>
+<p>some places, and was</p>
+<p>quite  blackened  in  others;  the  faces  of  the  saints,  completely</p>
+<p>darkened, looked somehow gloomy. The philosopher glanced around once more.</p>
+<p>"Why," he said, "what's frightening about  it? No man can get in  here,</p>
+<p>and against the dead and visitors from the other world I've got such prayers</p>
+<p>that, once I've read them, they'll never lay a finger on me. Nothing to it,"</p>
+<p>he said with a wave of the hand, "let's read!"</p>
+<p>Going up to the choir, he saw several bundles of candles.</p>
+<p>"That's  good," thought  the  philosopher, "I must  light up the  whole</p>
+<p>church  so that  it's bright as  day. Ah, too bad  I can't smoke my pipe  in</p>
+<p>God's church!"</p>
+<p>And  he  began  sticking wax candles to  all the  ledges, lecterns, and</p>
+<p>icons, not stinting in the least, and soon the whole church was  filled with</p>
+<p>light. Only the darkness above seemed to become deeper, and the dark, images</p>
+<p>looked more gloomily from the old carved frames  on which gold gleamed  here</p>
+<p>and there. He went up to the  coffin, timidly looked  into  the  dead girl's</p>
+<p>face, and could not help shutting bis eyes with a slight start.</p>
+<p>Such terrible, dazzling beauty!</p>
+<p>He turned and wanted to step away; but with strange curiosity, with the</p>
+<p>strange, self-contradictory feeling  that will not leave a man especially in</p>
+<p>a time of  fear,  he could not refrain from  glancing at her as he went, and</p>
+<p>then, with the same feeling of  trepidation, glancing once more. Indeed, the</p>
+<p>deceased girl's  sharp beauty seemed frightful.  Perhaps she even  would not</p>
+<p>have struck him with  such panic terror if  she had  been slightly ugly. But</p>
+<p>there  was  in  her features nothing dull,  lusterless,  dead.  The face was</p>
+<p>alive, and it seemed to the philosopher that she was looking at  him through</p>
+<p>closed eyes. It  even  seemed to him that a tear rolled from under her right</p>
+<p>eyelash, and when it stopped on her cheek, he made out clearly that it was a</p>
+<p>drop of blood.</p>
+<p>He hastily  went over  to the  choir,  opened the  book  and, to  cheer</p>
+<p>himself up, began reading in his loudest  voice. His voice struck the wooden</p>
+<p>walls of the church, long silent and deaf. Solitary, without echo, it poured</p>
+<p>in a low bass into the utterly dead silence and seemed a little wild even to</p>
+<p>the reader himself.</p>
+<p>"What's there  to be  afraid of?" he thought to himself meanwhile. "She</p>
+<p>won't get up  from  her coffin, because she'll be afraid of God's  word. Let</p>
+<p>her lie there! And what  kind  of Cossack  am I if I'm scared? So I drank  a</p>
+<p>bit--that's  why it  seems  so frightening. If I could take some snuff---ah,</p>
+<p>fine tobacco! Nice tobacco! Good tobacco!"</p>
+<p>And  yet, as he  turned  each page,  he  kept glancing sidelong at  the</p>
+<p>coffin, and an  involuntary feeling seemed to whisper to him:  "Look,  look,</p>
+<p>she's going to get  up, she's going to rise, she's going to peek  out of the</p>
+<p>coffin!"</p>
+<p>But there  was  a deathly silence.  The  coffin  stood motionless.  The</p>
+<p>candles poured  out a  whole  flood of light. Terrible is a lit-up church at</p>
+<p>night, with a dead body and not a living soul!</p>
+<p>Raising his voice, he began singing in various voices, trying to stifle</p>
+<p>the remnants of his fear. Yet he turned his  eyes to the coffin  every other</p>
+<p>moment,  as if asking the inadvertent question:  "What if she rises, what if</p>
+<p>she gets up?"</p>
+<p>But  the coffin  did not stir.  If only there was a  sound, some living</p>
+<p>being, even the chirp of a cricket in the corner!  There was just the slight</p>
+<p>sizzle of  some remote  candle  and the faint spatter of wax dripping on the</p>
+<p>floor.</p>
+<p>"Well, what if she gets up? . . ."</p>
+<p>She raised her head . . .</p>
+<p>He gazed wildly and rubbed his eyes. But she was indeed no longer lying</p>
+<p>but  sitting  up in the coffin.  He turned his eyes away, then  again looked</p>
+<p>with horror  at the  coffin. She's standing up ... she's walking through the</p>
+<p>church with her eyes closed, constantly spreading  her arms as if wishing to</p>
+<p>catch someone.</p>
+<p>She was  walking straight toward him. In fear  he drew a circle  around</p>
+<p>himself.   With  an  effort  he  began  reading  prayers  and  reciting  the</p>
+<p>incantations that had  been taught him by one monk who had seen witches  and</p>
+<p>unclean spirits ail his life.</p>
+<p>She stood almost  on the line  itself;  but it was  clearly  beyond her</p>
+<p>power to cross it, and she turned all blue,  like  someone  dead for several</p>
+<p>days. Khoma did not have the courage to  look at her. She was frightful. She</p>
+<p>clacked her teeth and opened her dead eyes. But, seeing  nothing, she turned</p>
+<p>in the other direction with a fury that</p>
+<p>showed  in her twitching face  and, spreading her  arms, clutched  with</p>
+<p>them at every pillar and corner, trying to catch Khoma. Finally she stopped,</p>
+<p>shook her finger, and lay down in her coffin.</p>
+<p>The  philosopher still  could not come to his  senses and kept glancing</p>
+<p>fearfully at the witch's cramped dwelling. Finally the  coffin suddenly tore</p>
+<p>from  its place  and  with a whistle began  flying all  through  the church,</p>
+<p>crossing the air in every direction. The philosopher saw it almost over  his</p>
+<p>head, buc at the same time he saw that it could not enter the  circle he had</p>
+<p>drawn, so he stepped  up his incantations. The  coffin crashed down  in  the</p>
+<p>middle of the church and remained motionless. The corpse again rose  up from</p>
+<p>it,  blue, turning green.  But just then came the distant crowing of a cock.</p>
+<p>The corpse sank back into the coffin and the coffin lid slammed shut.</p>
+<p>The  philosopher's heart was pounding and sweat streamed from him; but,</p>
+<p>encouraged by the crowing of the cock, he quickly finished reading the pages</p>
+<p>he ought to have read earlier. At daybreak he was relieved by the beadle and</p>
+<p>gray-haired  Yavtukh, who on this occasion  performed the duties of a church</p>
+<p>warden.</p>
+<p>Having gone to lie down,  the philosopher was unable to fall asleep for</p>
+<p>a long time, but fatigue overcame him and he slept till dinner. When he woke</p>
+<p>up,  all the  events  of  the night seemed  to have happened in a  dream. To</p>
+<p>bolster his strength, he  was  given a pint  of vodka. At dinner he  quickly</p>
+<p>relaxed, contributed observations on  this and that, and ate a rather mature</p>
+<p>pig almost  by  himself.  However,  he  did  not  venture  to  speak of  his</p>
+<p>experiences in the church, from some feeling unaccountable to  himself, and,</p>
+<p>to  the questions  of  the curious, replied: "Yes, there  were  all sorts of</p>
+<p>wonders."  The  philosopher was one of those people in  whom, once they have</p>
+<p>been  fed, an extraordinary philanthropy  awakens. Pipe in his teeth, he lay</p>
+<p>looking at them all with extraordinarily sweet eyes and kept spitting <strong>to</strong> the</p>
+<p>side.</p>
+<p>After dinner the philosopher  was in the highest spirits. <strong>He</strong> managed to</p>
+<p>walk about  the whole village and make the acquaintance of nearly everybody;</p>
+<p>he was  even  chased out of two cottages; one  comely young wench gave him a</p>
+<p>decent whack on  the back with a shovel when he decided to feel and find out</p>
+<p>what kind of material</p>
+<p>her blouse and kirtle were made  of. But the closer it came <emphasis>to</emphasis> evening,</p>
+<p>the more pensive the philosopher grew. An hour before supper, almost all the</p>
+<p>household people would gather to play <emphasis>kasha</emphasis> or <emphasis>kragli--</emphasis>a variety of skittles</p>
+<p>in which long sticks are used instead of balls and the winner  has the <emphasis>right</emphasis></p><emphasis></emphasis>
+<p><emphasis>to ride on his partner's back.</emphasis> Then the game  would become  very interesting</p>
+<p>for  the spectator: often the cowherd, broad  as a  pancake, got astride the</p>
+<p>swineherd, puny, short, consisting of nothing but wrinkles. Another time the</p>
+<p>cowherd would bend his back  and Dorosh would  jump onto  it, always saying:</p>
+<p>"Hey, what  a hefty  bull!"  Those  who were  more  sober-minded  sat by the</p>
+<p>kitchen porch. They had an extremely serious air as they smoked their pipes,</p>
+<p>even when the  young  people laughed  heartily  over  some  witticism of the</p>
+<p>cowherd or Spirid. In vain did Khoma try to take part in this fun: some dark</p>
+<p>thought,  like a nail, was lodged in  his head. Over supper, hard  though he</p>
+<p>tried  to cheer himself up, fear kindled in  him as darkness spread over the</p>
+<p>sky.</p>
+<p>"Well,  our  time has come,  mister student!"  the familiar gray-haired</p>
+<p>Cossack said to him, getting up from his  place together with Dorosh. "Let's</p>
+<p>go to work."</p>
+<p>Khoma was again taken to the  church in the same way; again he was left</p>
+<p>alone, and the  door was locked on  him. No sooner  was  he left  alone than</p>
+<p>timorousness began once more to creep into his breast. Again he saw the dark</p>
+<p>icons,  the  gleaming frames,  and  the  familiar  black coffin  standing in</p>
+<p>menacing silence and immobility in the middle of the church.</p>
+<p>"Well,"  he said,  "this  marvel doesn't make me  marvel now. It's only</p>
+<p>frightening the  first time. Yes! it's only  a little frightening  the first</p>
+<p>time, and then it's not frightening anymore, not frightening at all."</p>
+<p>He  hastened to the choir,  drew a circle around himself, spoke several</p>
+<p>incantations, and began reading loudly, resolved not to  raise his eyes from</p>
+<p>the book or pay attention to anything. He had been reading for about an hour</p>
+<p>already, and had begun to weary and to cough a litde. He took a snuff bottle</p>
+<p>from his pocket  and,  before  taking a pinch, timorously turned his gaze to</p>
+<p>the coffin. His heart went cold.</p>
+<p>The corpse  was  already standing before him, right on the line, fixing</p>
+<p>her  dead  green  eyes on him. The student shuddered and felt  a  chill  run</p>
+<p>through all his veins. Dropping  his eyes to the book,  he began reading his</p>
+<p>prayers and exorcisms louder and heard the corpse clack her  teeth again and</p>
+<p>wave her arm, wishing to  seize  him. But,  looking out of the corner of one</p>
+<p>eye, he  saw that the corpse was trying to catch  him in the wrong place and</p>
+<p>evidently could not see him. She  was growling  hollowly, and began to utter</p>
+<p>dreadful words  with  her  dead  lips;  they spluttered hoarsely,  like  the</p>
+<p>gurgling  of boiling  pitch.  He  could  not have said  what they meant, but</p>
+<p>something dreadful was contained in them. The philosopher fearfully realized</p>
+<p>that she was reciting incantations.</p>
+<p>Wind swept through the church  at these words, and there was a noise as</p>
+<p>of a multitude of fluttering wings. He heard wings beating against the glass</p>
+<p>of  the church windows  and their iron frames,  heard claws  scratching iron</p>
+<p>with a rasping noise and countless  powers  banging on the  doors, trying to</p>
+<p>break  in. His heart pounded heavily  all  the while; shutting his  eyes, he</p>
+<p>kept reading incantations and prayers.  At last  something suddenly whistled</p>
+<p>far away. It  was the  distant crowing of a cock. The exhausted  philosopher</p>
+<p>stopped and rested his soul.</p>
+<p>Those who  came to relieve the  philosopher found him barely  alive. He</p>
+<p>was  leaning  back against the wall, goggle-eyed, and  stared fixedly at the</p>
+<p>Cossacks who where shaking him. They practically  carried him out and had to</p>
+<p>support him all the way. Coming to the master's yard, he  roused himself and</p>
+<p>asked to be given a pint of  vodka. After drinking it, he  smoothed the hair</p>
+<p>on his head and said:</p>
+<p>"There's all sorts  of trash  in  this world!  And  such horrors happen</p>
+<p>as--oh, well. . ." At that the philosopher waved his hand.</p>
+<p>The circle that  had gathered around  him  hung their heads on  hearing</p>
+<p>such  words.  Even  the  young boy  whom all  the servants  considered their</p>
+<p>rightful representative when it came to such matters as cleaning the stables</p>
+<p>or toting water, even this poor boy also stood gaping.</p>
+<p>Just  then a not entirely old wench passed by  in a tight-fitting apron</p>
+<p>that displayed her round and firm shape, the old cook's assis-</p>
+<p>tant, a terrible flirt, who always found something <emphasis>to</emphasis> pin to her cap--a</p>
+<p>bit of ribbon, or a carnation, or even a scrap of paper if there was nothing</p>
+<p>else.</p>
+<p>"Greetings,  Khoma!" she  said,  seeing  the  philosopher. "Ai-yai-yai!</p>
+<p>what's happened to you?" she cried out, clasping her hands.</p>
+<p>"What do you mean, foolish woman?"</p>
+<p>"Ah, my God! But you've gone all gray!"</p>
+<p>"Oh-oh! And it's the  truth she's telling!"  said  Spirid, studying him</p>
+<p>intently. "You've really gone all gray like our old Yavtukh."</p>
+<p>On hearing this,  the philosopher rushed headlong to the kitchen, where</p>
+<p>he had noticed a triangular piece of mirror glued to the wall and stained by</p>
+<p>flies, in front of which forget-me-nots, periwinkles, and even a  garland of</p>
+<p>marigolds were stuck, showing that it was intended for the  stylish  flirt's</p>
+<p>toilette. He saw with horror the truth of  their words: half of his hair had</p>
+<p>indeed turned white.</p>
+<p>Khoma Brut hung his head and gave himself over to reflection.</p>
+<p>"I'll  go  to the master,"  he said  finally, "tell him everything, and</p>
+<p>explain that 1 don't want to  read  anymore. Let  him send me  back  to Kiev</p>
+<p>right now."</p>
+<p>In such  thoughts,  he directed  his  steps  toward  the porch  of  the</p>
+<p>master's house.</p>
+<p>The chief was  sitting almost motionless in his room; the same hopeless</p>
+<p>sorrow  that  the philosopher had met  on his  face earlier  remained  there</p>
+<p>still. Only his  cheeks were much more sunken than before. It was clear that</p>
+<p>he had taken very little food, or perhaps not touched  anything  at all. His</p>
+<p>extraordinary pallor gave him a sort of stony immobility.</p>
+<p>"Greetings, poor lad," he said, seeing Khoma, who stood  hat in hand in</p>
+<p>the doorway. "Well, how is it with you? Everything fine?"</p>
+<p>"Fine,  fine indeed. Such devilish goings-on,  I'd like to just grab my</p>
+<p>hat and flee wherever my legs will take me."</p>
+<p>"How's that?"</p>
+<p>"It's your daughter, sir ...  Reasonably considering, of course,  she's</p>
+<p>of noble birth; nobody will maintain the contrary; only, not to anger you by</p>
+<p>saying so, God rest her soul. . ."</p>
+<p>"What about my daughter?"</p>
+<empty-line/>
+<p>"She's had  some  dealings with  Satan. Giving me  such  horrors [hat I</p>
+<p>can't read any scriptures."</p>
+<p>"Read, read!  It was  not for  nothing  that she called  you.  She  was</p>
+<p>worried about her soul, my little dove, and  wished to drive away all wicked</p>
+<p>thoughts by prayer."</p>
+<p>"Have it your way, sir--by God, it's too much for me!"</p>
+<p>"Read, read!" the chief went  on in the same admonitory voice.  "You've</p>
+<p>got one night left now. You'll do a Christian deed, and I'll reward you."</p>
+<p>"Rewards or no rewards... As  you  like, sir, only I won't read!" Khoma</p>
+<p>said resolutely.</p>
+<p>"Listen, philosopher!" said the chief,  and his voice  grew strong  and</p>
+<p>menacing, "I don't like these notions. You can do that in your seminary, but</p>
+<p>not  with me: I'll give  you such a thrashing as your rector never  gave. Do</p>
+<p>you know what a good leather whip is?"</p>
+<p>"How could I not!" said the philosopher, lowering his voice. "Everybody</p>
+<p>knows what a leather whip is: an insufferable thing in large quantities."</p>
+<p>"Yes. Only you still don't know  what a scotching my boys can deliver!"</p>
+<p>the chief  said menacingly,  getting to  his feet, and his face  acquired an</p>
+<p>imperious   and   ferocious  expression  that  revealed  all  his  unbridled</p>
+<p>character, only temporarily lulled by sorrow. "First they'll scotch you  for</p>
+<p>me, then douse you with vodka, then start over. Go, go! do your business! If</p>
+<p>you don't, you won't get up; if you do--a thousand pieces of gold!"</p>
+<p>"Oh-ho-ho!  Some  customer!"  the philosopher thought,  going  out. "No</p>
+<p>joking with this one. Just you wait, brother: I'll cut and run so  fast your</p>
+<p>dogs will never catch me."</p>
+<p>And Khoma resolved to escape without fail. He only waited till the time</p>
+<p>after dinner, when  the  household people all had the habit of getting  into</p>
+<p>the hay  under  the sheds and producing,  open-mouthed,  such  a snoring and</p>
+<p>piping  that the yard came  to  resemble  a factory. This time finally came.</p>
+<p>Even Yavtukh  stretched  out  in the  sun,  his eyes  closed.  In  fear  and</p>
+<p>trembling, the philosopher quietly went to the garden, from where  it seemed</p>
+<p>to him  it would be easier and less conspicuous to escape into  the  fields.</p>
+<p>This garden, as commonly happens, was terribly overgrown and thus highly</p>
+<p>conducive to any secret undertaking. Except for one path beaten down on</p>
+<p>household  necessity, the rest was hidden by thickly spreading cherry trees,</p>
+<p>elders, burdock that stuck  its tall stalks with  clingy  pink knobs way up.</p>
+<p>Hops covered the  top of  this whole  motley collection of trees and  bushes</p>
+<p>like a  net,  forming a roof above them that spread over to the wattle fence</p>
+<p>and hung down it in twining snakes along  with wild field  bluebells. Beyond</p>
+<p>the wattle fence that served  as a boundary to the  garden,  there spread  a</p>
+<p>whole forest of weeds which no one seemed to be interested in,  and a scythe</p>
+<p>would have broken  to pieces  if  it  had decided to put its  blade to their</p>
+<p>thick, woody stems.</p>
+<p>As  the  philosopher  went  to step over  the wattle fence,  his  teeth</p>
+<p>chattered and his heart pounded so hard that it frightened him. The skirt of</p>
+<p>his long chlamys  seemed stuck to  the ground, as if  someone had nailed  it</p>
+<p>down. As he was stepping over, it seemed  to him that some  voice rattled in</p>
+<p>his  ears with a  deafening whistle: "Where to, where to?"  The  philosopher</p>
+<p>flitted into the  weeds and broke into a  run, constantly stumbling over old</p>
+<p>roots and crushing moles underfoot. He  could  see that once he  got through</p>
+<p>the weeds,  all he had to do was  run across a field, beyond which darkled a</p>
+<p>thicket  of blackthorn,  where he  reckoned he would  be  safe,  and passing</p>
+<p>through which he supposed he would come to the road straight to Kiev. He ran</p>
+<p>across the  field at once and  wound up amid the  dense  blackthorns. He got</p>
+<p>through the blackthorns,  leaving pieces of  his  frock coat  on every sharp</p>
+<p>thorn in lieu of a toll, and found himself in a small hollow. A pussy willow</p>
+<p>spread its hanging branches almost to  the ground. A small spring shone pure</p>
+<p>as  silver.  The philosopher's first business was to  he  down and drink his</p>
+<p>fill, hecause he felt unbearably thirsty.</p>
+<p>"Good  water!"  he said, wiping  his mouth. "I could  rest here."  "No,</p>
+<p>better  keep  running. You might have somebody after you."  These words came</p>
+<p>from above his ears. He turned: before him stood Yavtukh.</p>
+<p>"Yavtukh, you devil!" the philosopher thought to himself. "I could just</p>
+<p>take you by the legs and  . . . and beat your vile mug in, and whatever else</p>
+<p>you've got, with an oak log."</p>
+<p>"You oughtn't to have made such a detour," Yavtukh went on.</p>
+<p>"Much  better to take the  path  I did:  straight past the stables. And</p>
+<p>it's too bad about the frock coat. Good broadcloth. How much did you pay per</p>
+<p>yard? Anyhow, we've had a nice walk, it's time for home,"</p>
+<p>The  philosopher,  scratching  himself,  trudged  after  Yavtukh.  "The</p>
+<p>accursed witch will give me a hot time now," he thought. "Though what's with</p>
+<p>me, really?  What am 1 afraid  of?  Am I  not  a Cossack? I did read for two</p>
+<p>nights, God  will help with the third.  The accursed witch must have done  a</p>
+<p>good deal of sinning for the unclean powers to stand by her like that."</p>
+<p>These reflections occupied him  as he entered the master's yard. Having</p>
+<p>encouraged  himself  with  such  observations,  he persuaded  liorosh,  who,</p>
+<p>through  his  connection with the  steward,  occasionally had access to  the</p>
+<p>master's  cellar,  to  fetch  a  jug of rotgut, and the two friends, sitting</p>
+<p>under the  shed,  supped  not much less  than  half  a  bucket, so  that the</p>
+<p>philosopher, suddenly getting to his feet, shouted: "Musicians! We must have</p>
+<p>musicians!"--and, without waiting for  the musicians, broke into a trepak in</p>
+<p>the cleared spot in the middle of the yard. He danced until it came time for</p>
+<p>the afternoon snack, when the household people, standing in a circle  around</p>
+<p>him, as is  usual in such cases, finally spat and  went away, saying,  "Look</p>
+<p>how  long  the  mans  been dancing!"  Finally the philosopher went  right to</p>
+<p>sleep, and only a good dousing with cold water could wake him up for supper.</p>
+<p>Over  supper he  talked  about  what a Cossack is  and  how he should not be</p>
+<p>afraid of anything in the world.</p>
+<p>"It's time," said Yavtukh, "let's go."</p>
+<p>"Bite on  a  nail,  you  accursed hog!"  thought  the philosopher,  and</p>
+<p>getting to his feet, said:</p>
+<p>"Let's go."</p>
+<p>On the  way, the  philosopher constantly glanced to  right and left and</p>
+<p>tried to talk a little with his guides. But Yavtukh kept mum; Dorosh himself</p>
+<p>was  untalkative.  The night was infernal. Far off  a whole pack  of  wolves</p>
+<p>howled. And even the dogs' barking was somehow frightening.</p>
+<p>"Seems  like it's something  else  howling--that's  not a  wolf,"  said</p>
+<p>Dorosh.</p>
+<p>Yavtukh kept mum. The philosopher found nothing to say.</p>
+<p>They approached  the church and stepped in under  its decrepit  vaults,</p>
+<p>which showed how little the owner of the  estate cared about God and his own</p>
+<p>soul. Yavtukh and Dorosh  withdrew  as before, and  the philosopher remained</p>
+<p>alone. Everything was the same. Everything had the same menacingly  familiar</p>
+<p>look. He paused for a  minute. In the  middle, as ever, stood the motionless</p>
+<p>coffin of the terrible witch. "I  won't  be  afraid,  by  God,  I  won't  be</p>
+<p>afraid!"  he  said, and,  again drawing  a  circle around himself,  he began</p>
+<p>recalling  all his  incantations. The  silence  was  dreadful;  the  candles</p>
+<p>flickered,  pouring light  all over  the church. The philosopher turned  one</p>
+<p>page, then another, and noticed that he was not reading what was in the book</p>
+<p>at  all.  In fear he crossed  himself  and  began to sing. This cheered  him</p>
+<p>somewhat: the reading went ahead, and  pages  flashed by one  after another.</p>
+<p>Suddenly . . . amidst the silence  . . . the  iron  lid of the coffin  burst</p>
+<p>with  a crack and  the dead body rose. It  was  still more horrible than the</p>
+<p>first time. Its teeth clacked  horribly,  row against row; its lips twitched</p>
+<p>convulsively and, with  wild  shrieks, incantations  came  rushing out. Wind</p>
+<p>whirled  through the  church,  icons fell to the floor, broken glass dropped</p>
+<p>from the windows. The doors tore from their hinges, and a numberless host of</p>
+<p>monsters flew into God's  church. A  terrible  noise of wings and scratching</p>
+<p>claws filled the whole church. Everything flew and rushed about, seeking the</p>
+<p>philosopher everywhere.</p>
+<p>Khoma's head cleared  of the  last trace of drunkenness.  He  just kept</p>
+<p>crossing himself and reading prayers  at random.  And at  the  same time  he</p>
+<p>heard  the unclean powers flitting about him,  all but brushing him with the</p>
+<p>tips of their wings and repulsive tails. He did not have the courage to look</p>
+<p>at them  closely; he only saw the  whole wall  occupied by  a  huge  monster</p>
+<p>standing amidst its own tangled hair as in a forest; through the web of hair</p>
+<p>two eyes stared horribly, the eyebrows raised slightly.  Above it in the air</p>
+<p>there  was  something like an immense  bubble,  with  a  thousand  tongs and</p>
+<p>scorpion stings reaching from its middle. Black earth hung on them in lumps.</p>
+<p>They all  looked at him,  searching,  unable  to see him, surrounded by  the</p>
+<p>mysterious circle.</p>
+<p>"Bring Viy! Go get Viy!" the words of the dead body rang out.</p>
+<p>And suddenly there was silence in the church; the wolves' howling could</p>
+<p>be heard far away, and soon heavy footsteps  rang out in  the church; with a</p>
+<p>sidelong glance he saw them  leading in some squat, hefty, splay-footed man.</p>
+<p>He was black earth  all over. His earth-covered legs and arms snick out like</p>
+<p>strong, sinewy roots.  Heavily  he  trod,  stumbling  all the time. His long</p>
+<p>eyelids were  lowered to the ground. With horror Khoma noticed that the face</p>
+<p>on him  was made of iron. He was brought  in under the arms and put right by</p>
+<p>the place where Khoma stood.</p>
+<p>"Lift my eyelids, I can't see!"  Viy said in a subterranean voice-- and</p>
+<p>the entire host rushed to lift his eyelids.</p>
+<p>"Don't look!" some inner voice  whispered to the philosopher. He  could</p>
+<p>not help himself and looked.</p>
+<p>"There he is!" Viy cried and fixed an iron finger on him.  And all that</p>
+<p>were there fell  upon the philosopher. Breathless, he crashed  to the ground</p>
+<p>and straightaway the spirit flew out of him in terror.</p>
+<p>A cockcrow rang out. This was already  the second  cockcrow; the gnomes</p>
+<p>had  mjssed  the  first. The  frightened spirits rushed  pell-mell  for  the</p>
+<p>windows and doors  in order to fly out quickly, but  nothing  doing: and  so</p>
+<p>they stayed there, stuck in the doors and windows. When the priest came  in,</p>
+<p>he stopped at the sight of such disgrace in God's sanctuary and did not dare</p>
+<p>serve a  panikhida9  in such a  place.  So  the  church  remained</p>
+<p>forever with monsters stuck in its doors and windows, overgrown with forest,</p>
+<p>roots, weeds, wild blackthorn; and no one now can find the path to it.</p>
+<p>when  rumors of  this  reached Kiev and the theologian Khalyava  heard,</p>
+<p>finally,  that such had  been  the lot of the philosopher  Khoma, he fell to</p>
+<p>thinking for a whole hour. In the meantime great  changes  had happened with</p>
+<p>him. Fortune had smiled on  him: upon  completing his studies,  he had  been</p>
+<p>made bell-ringer of the tallest belfry, and he almost always went about with</p>
+<p>a bloody nose, because the wooden stairs of the belfry had been put together</p>
+<p>every which way.</p>
+<p>"Have you heard what happened with Khonia?" Tiberiy Goro-</p>
+<p>bets, by then a philosopher and sporting a fresh mustache, said, coming</p>
+<p>up to him.</p>
+<p>"It's what God granted him," said the ringer Khalyava. "Let's go to the</p>
+<p>tavern and commemorate his soul!"</p>
+<p>The young philosopher, who had come into his rights with the passion of</p>
+<p>an enthusiast, so that his trousers and frock coat and even his hat gave off</p>
+<p>a whiff of spirits and coarse tobacco, instantly expressed his readiness.</p>
+<p>"Khoma  was a nice man!" said the ringer, as the lame tavern keeper set</p>
+<p>the third mug  down  in front  of him.  "A fine  man!  And he  perished  for</p>
+<p>nothing!"</p>
+<p>"No, I know why he perished: because he  got scared. If he hadn't  been</p>
+<p>scared, the witch couldn't have done anything to him. You just have to cross</p>
+<p>yourself  and  spit right on her tail, and  nothing will  happen. I know all</p>
+<p>about it.  Here  in  Kiev,  the  women sitting  in the  marketplace are  all</p>
+<p>witches."</p>
+<p>To this the ringer  nodded as a  sign of agreement.  But, noticing that</p>
+<p>his tongue was unable to articulate a single word,  he carefully got up from</p>
+<p>the table and, swaying  from  side to side, went off to hide himself  in the</p>
+<p>remotest part  of the weeds. Withal  not  forgetting, out  of long habit, to</p>
+<p>steal an old boot sole that was lying on a bench.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

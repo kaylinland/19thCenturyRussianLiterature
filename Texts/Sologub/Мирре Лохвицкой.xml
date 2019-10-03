@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Федор</first-name>
+			<last-name>Сологуб</last-name>
+		</author>
+		<book-title>Мирре Лохвицкой</book-title>
+<annotation></annotation>		<date value="2011-08-09">09/08/2011</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 08:08:04</date>
+		<src-url>http://az.lib.ru/s/sologub_f/text_0670-1.shtml</src-url>
+		<id>samlib58f4f674736447.53593132</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Сологуб Федор</p>
+	<empty-line/>
+	<p>Мирре Лохвицкой</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+<p>Ф. К. Сологуб / Публ. [вступ. ст.] Т. Л. Александровой // Российский Архив: История Отечества в свидетельствах и документах XVIII--XX вв.: Альманах. -- М.: Студия ТРИТЭ: Рос. Архив, 2005. -- [Т. XIV]. -- С. 581--582. -- Из содерж.: Сологуб Ф. К. Мирре Лохвицкой ("Сколь дивно мне, что с нами здесь..."). -- С. 582.</p>
+<p><a xlink:href="http://feb-web.ru/feb/rosarc/rae/rae-5812.htm">http://feb-web.ru/feb/rosarc/rae/rae-5812.htm</a></p>
+<empty-line/>
+<empty-line/>
+<p>Ф. К. СОЛОГУБ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Шуточное стихотворение Федора Кузьмича Сологуба (1863--1927), посвященное Лохвицкой, интересно для понимания личности самого поэта: оказывается, он был склонен не только к мрачной иронии, каковая ему приписывалась ("зло, без улыбки, остроумный", -- как пишет о нем Зинаида Гиппиус65), но и к шутке вполне дружеской и безобидной.</p>
+<empty-line/>
+<p>Стихотворение печатается по автографу РГАЛИ, ф. 482, оп. 1, No 257.</p>
+<empty-line/>
+<p>Мирре Лохвицкой</p>
+<empty-line/>
+<p>Сколь дивно мне, что с нами здесь,</p>
+<p>За сим столом вы, поэтесса!</p>
+<p>Отсель далече ваша весь,</p>
+<p>Там на Олимпе, у Зевеса.</p>
+<p>Нектара не один фиал</p>
+<p>И всех амброзий там помногу.</p>
+<p>И кто б все это променял</p>
+<p>На змеезрачную миногу!</p>
+<p>О алчность! Как она роднит</p>
+<p>Ничтожных смертных, нас с богами!</p>
+<p>К земной трапезе стол накрыт</p>
+<p>И небожительница с нами.</p>
+<p>И та, которой возжигать,</p>
+<p>Пред ней от страха полумертвы,</p>
+<p>Мы рады были б тучны жертвы,</p>
+<p>Сама готова с нами жрать.</p>
+<empty-line/>
+<p>9 февраля 1900 г.</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Михаил</first-name>
+			<middle-name>Евграфович</middle-name>
+			<last-name>Салтыков-Щедрин</last-name>
+		</author>
+		<book-title>Алфавитный указатель произведений</book-title>
+<annotation><p>Со ссылками на файлы имеющихся текстов.</p></annotation>		<date value="2007-09-02">02/09/2007</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 07:16:58</date>
+		<src-url>http://az.lib.ru/s/saltykow_m_e/text_0360.shtml</src-url>
+		<id>samlib58f4ea7a5d75a4.99265333</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Салтыков-Щедрин Михаил Евграфович</p>
+	<empty-line/>
+	<p>Алфавитный указатель произведений</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+ 
+ 
+
+
+</p>
+<empty-line/>
+<empty-line/>
+<p><strong>АЛФАВИТНЫЙ   УКАЗАТЕЛЬ</strong><strong>,</strong></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><strong>составленный на базе </strong><strong>собрания сочинений</strong><strong> </strong></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><strong>Н</strong><strong>. Щедрина  (М.  Е. Салтыкова)</strong><strong> в 10 томах. </strong></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><strong>Библиотека "Огонька"</strong></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><strong>Издательство "Правда"</strong></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><strong>Москва 1951</strong></p>
+<empty-line/>
+<empty-line/>
+<p> </p>
+<p>Баран-непомнящий                                         X    </p>
+<p>Бедный  волк                                                             X     </p>
+<p>Благонамеренные речи                                  VI     </p>
+<p>Богатырь                                                                   X    </p>
+<p>Больное место                                               VIII   </p>
+<p>                                                                       </p>
+<p><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0040.shtml"><strong>В больнице для умалишенных</strong></a> </p>
+<p><emphasis>Продолжение "Дневника провинциала в Петербурге"</emphasis><emphasis></emphasis></p>
+<p>В среде умеренности  и аккуратности                       VII     </p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0490.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0490.shtml"><strong>Верный  Трезор</strong><strong></strong></a><strong></strong>                                              X     </p>
+<p>Ворон-челобитчик                                                     X     </p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0310.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0310.shtml"><strong>Вяленая   вобла</strong><strong></strong></a><strong></strong>                                                         X     </p>
+<p>                                                                       </p>
+<p>Гиена                                                                         X    </p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0320-1.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0320-1.shtml"><strong>Годовщина</strong><strong></strong></a><strong></strong>                                                     III <emphasis> </emphasis></p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0015.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0015.shtml"><strong>Господа  Головлевы</strong><strong></strong></a><strong></strong>                                       VII         </p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0025.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0025.shtml"><strong>Господа  ташкентцы</strong><strong></strong></a><strong></strong>                                                  V        </p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0005.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0005.shtml"><strong>Губернские   очерки</strong><strong></strong></a><strong></strong>                                       I       </p>
+<p>                                                                       </p>
+<p>Дворянская  хандра                                        VIII    </p>
+<p>Деревенский пожар                                        X    </p>
+<p>Дети Москвы                                                 VIII    </p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0440.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0440.shtml"><strong>Дикий   помещик</strong><strong></strong></a><strong></strong>                                            X    </p>
+<p>Для  детей                                                      III</p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0030-1.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0030-1.shtml"><strong>Дневник провинциала в Петербурге</strong><strong></strong></a><strong></strong>                 V    </p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0330-1.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0330-1.shtml"><strong>Добрая душа</strong><strong></strong></a><strong></strong>                                                  III    </p>
+<p>Добродетели и пороки                                    X    </p>
+<p>Дурак                                                                         X    </p>
+<p> </p>
+<p>Запутанное дело                                             II  </p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0350-1.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0350-1.shtml"><strong>За рубежом </strong><strong></strong></a><strong></strong>                                                               IX</p>
+<p>Здравомыслящий заяц                                               X</p>
+<p> </p>
+<p>Игрушечного  дела<strong> </strong>людишки                         X</p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0340-1.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0340-1.shtml"><strong>Испорченные дети</strong><strong></strong></a><strong></strong>                                         III</p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0010.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0010.shtml"><strong>История   одного города</strong><strong></strong></a><strong></strong>                                IV</p>
+<p>Итоги                                                             III</p>
+<p> </p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0480.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0480.shtml"><strong>Карась-идеалист</strong><strong></strong></a><strong></strong>                                            X</p>
+<p>Кисель                                                           X</p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0350.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0350.shtml"><strong>Коняга</strong><strong></strong></a><strong></strong>                                                            X</p>
+<p>Круглый  год                                                  VIII </p>
+<p>Культурные  люди                                         VI   </p>
+<p> </p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0340.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0340.shtml"><strong>Либерал</strong><strong></strong></a><strong></strong>                                                         X                                                        </p>
+<p> </p>
+<p>Мелочи   жизни                                              X        </p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0460.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0460.shtml"><strong>Медведь   на   воеводстве</strong><strong></strong></a><strong></strong>                             X                                 </p>
+<p><strong> </strong></p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0016.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0016.shtml"><strong>Невинные   рассказы</strong><strong></strong></a><strong></strong>                                    II</p>
+<p>Недреманное   око                                         X</p>
+<p> </p>
+<p>Обманщик-газетчик и легковерный читатель            X </p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0470.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0470.shtml"><strong>Орел-меценат</strong><strong></strong></a><strong></strong>                                                X</p>
+<p> </p>
+<p>Письма  к  тетеньке                                       IX</p>
+<p>Письма  о   провинции                                    III</p>
+<p><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0300.shtml"><strong>По</strong><strong>весть о  том,  как один мужик  </strong><strong>двух  генералов прокорми</strong>л</a>                X     </p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0020.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0020.shtml"><strong>Помпадуры и помпадурши</strong><strong></strong></a><strong></strong>                             IV        </p>
+<p>Похороны                                                       VIII    </p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0100.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0100.shtml"><strong>Пошехонской  старина</strong><strong></strong></a><strong></strong>                                   XII        </p>
+<p>Пошехонские   рассказы                                XI        </p>
+<p>Праздный разговор                                        X    </p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0450.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0450.shtml"><strong>Премудрый </strong><strong>пи</strong><strong>скарь</strong><strong></strong></a><strong></strong>                                                 X    </p>
+<p>Признаки времени                                                      III</p>
+<p>Приключение с Крамольниковым                X    </p>
+<p>Пропала совесть                                                        X</p>
+<p>Путем-дорогою                                                         X    </p>
+<p> </p>
+<p>Рождественская сказка                                           X    </p>
+<p> </p>
+<p>Самоотверженный заяц                                X         </p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0017.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0017.shtml"><strong>Сатиры в прозе</strong><strong></strong></a><strong></strong>                                              II </p>
+<p>"Сборник"                                                      VIII                               </p>
+<p>Сказки                                                                       X</p>
+<p>Смерть  Пазухина                                          III</p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0060.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0060.shtml"><strong>Современная  идиллия</strong><strong></strong></a><strong></strong>                                   X</p>
+<p>Сон в летнюю ночь                                        VIII</p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0330.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0330.shtml"><strong>Соседи</strong><strong></strong></a><strong></strong>                                                                       X</p>
+<p>Старческое горе, или непредвиденные  последствия  заблуждений ума     VIII  </p>
+<p> </p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0092.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0092.shtml"><strong>Убежище Монрепо</strong><strong></strong></a><strong></strong>                                         VIII  </p>
+<p> </p>
+<p>Христова ночь                                              X</p>
+<p> </p>
+<p><strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0320.shtml"></a></strong><a xlink:href="http://az.lib.ru/s/saltykow_m_e/text_0320.shtml"><strong>Чижиково горе</strong><strong></strong></a><strong></strong>                                                         X</p>
+<p> </p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

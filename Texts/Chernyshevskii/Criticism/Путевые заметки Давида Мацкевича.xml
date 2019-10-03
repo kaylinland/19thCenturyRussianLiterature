@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Николай</first-name>
+			<middle-name>Гаврилович</middle-name>
+			<last-name>Чернышевский</last-name>
+		</author>
+		<book-title>Путевые заметки. Давида Мацкевича</book-title>
+<annotation></annotation>		<date value="2018-06-05">05/06/2018</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-06-05">2018-06-05 11:34:46</date>
+		<src-url>http://az.lib.ru/c/chernyshewskij_n_g/text_1856_putevye_zametki.shtml</src-url>
+		<id>samlib5b164b265429c6.94010753</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Чернышевский Николай Гаврилович</p>
+	<empty-line/>
+	<p>Путевые заметки. Давида Мацкевича</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<p> Н. Г. Чернышевский. Полное собрание сочинений в пятнадцати томах</p>
+<p> Том XVI (Дополнительный). Статьи, рецензии, письма и другие материалы (1843--1889)</p>
+<p> ГИХЛ, "Москва", 1953</p>
+<p> </p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Путевые заметки</strong>. <emphasis>Давида Мацкевича. </emphasis>Киев. 1856</p>
+<empty-line/>
+</title>
+<empty-line/>
+<p> Г-н Мацкевич в 1846 году был в Ревеле, в 1848 г. в Дерпте, в 1851 г. приехал из Петербурга в Киев. О каждом из этих городов и о нескольких других, встречавшихся по дороге, он тогда же набрасывал на бумагу по нескольку страниц и тотчас печатал эти заметки в газетах, а теперь перепечатал их в отдельной книжке и без всяких изменений.</p>
+<p> Любопытнейшая страница в книжке -- страница между заглавным листом и предисловием. На этой странице мы читаем: "Марье Ивановне Карповой, рассказ о странствиях, приведших под сень благодатной, тихой пристани, посвящает автор".</p>
+<p> Это в "Заметках" единственный эпизод, из которого читатель может узнать что-нибудь новое. Все остальные заметки далеко уже не имеют такого интереса.</p>
+<p> </p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>ПРИМЕЧАНИЯ</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p> Первоначально опубликовано в "Современнике", 1856, No 10, стр. 79. В полное собрание сочинений Чернышевского 1906 г. не вошло. В списках его сочинений отсутствует. Рукопись и корректура не найдены. Об авторстве Чернышевского см. комментарии к Кёр-Оглу. Печатается по тексту "Современника".</p>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

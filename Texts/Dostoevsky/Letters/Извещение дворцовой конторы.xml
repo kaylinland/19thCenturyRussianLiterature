@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>children</genre>
+		<author>
+			<first-name>Федор</first-name>
+			<middle-name>Михайлович</middle-name>
+			<last-name>Достоевский</last-name>
+		</author>
+		<book-title>Извещение дворцовой конторы...</book-title>
+<annotation></annotation>		<date value="2017-06-06">06/06/2017</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-06-06">2017-06-06 12:20:48</date>
+		<src-url>http://az.lib.ru/d/dostoewskij_f_m/text_1870_izveschenie.shtml</src-url>
+		<id>samlib593673f0b840a0.02215560</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Достоевский Федор Михайлович</p>
+	<empty-line/>
+	<p>Извещение дворцовой конторы...</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<p> </p>
+<p> Гроссман, Леонид. Достоевский-реакционер.</p>
+<p> М.: Common place, 2015</p>
+<p> </p>
+<p> Извещение дворцовой конторыа</p>
+<p> Двора</p>
+<p> Его Императорского Высочества</p>
+<p> Государя</p>
+<p> Наследника Цесаревича</p>
+<p> по ведению гофмаршала</p>
+<p> Контора</p>
+<p> </p>
+<p> 19 Ноября 1876 года</p>
+<p> No 1570</p>
+<p> С.-Петербург</p>
+<empty-line/>
+<p>Г. Издателю ежемесячного</p>
+<p>издания "Дневник Писателя"</p>
+<p>Федору Достоевскому.</p>
+<empty-line/>
+<empty-line/>
+<p> По повелению Государя Наследника Цесаревича, в ответ на поданное Вам на имя Его Императорского Высочество письмо, от 16 текущего Ноября, имею честь уведомить Вас, Милостивый Государь, что его Высочество соблаговолил изъявить милостивое Свое согласие на получение периодического издания Вашего под заглавием "Дневник Писателя".</p>
+<empty-line/>
+<p><emphasis>Гофмаршал Зиновьев</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p> И. Д. Управляющего Конторою адъютант Его Высочества Полковник (подпись).</p>
+<p> </p>
+<p> а Получив совет Победоносцева поднести наследнику "Дневник писателя", Достоевский через два-три дня, 16 ноября, обращается с письмом на имя вел. князя, прося о разрешении представить ему выпуски своего издания (Ф.М. Достоевский. "Письма" под ред. А.С. Долинина, М.-Л., 1934, III, 251). На письмо это контора "Двора его императорского высочества" ответила через три дня -- 19 ноября -- приведенным отношением.</p>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

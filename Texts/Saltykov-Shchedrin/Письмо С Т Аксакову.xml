@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>children</genre>
+		<author>
+			<first-name>Михаил</first-name>
+			<middle-name>Евграфович</middle-name>
+			<last-name>Салтыков-Щедрин</last-name>
+		</author>
+		<book-title>Письмо С. Т. Аксакову</book-title>
+<annotation></annotation>		<date value="2018-08-20">20/08/2018</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-08-20">2018-08-20 06:53:15</date>
+		<src-url>http://az.lib.ru/s/saltykow_m_e/text_1860_pismo_aksakovy_oldorfo.shtml</src-url>
+		<id>samlib5b7a655b69bd62.37148257</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Салтыков-Щедрин Михаил Евграфович</p>
+	<empty-line/>
+	<p>Письмо С. Т. Аксакову</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Письмо М. Е. Салтыкова -- С. Т. Аксакову.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<empty-line/>
+<p>Милостивый Государь</p>
+<p>Сергѣй Тимофеевичъ!</p>
+<empty-line/>
+<empty-line/>
+<p> Я замедлилъ нѣсколько отвѣтомъ на почтеннѣйшее письмо Ваше, потому что оно очень долго пролежало въ министерствѣ и только вчера дошло до меня. Въ бытность Ивана Сергѣевича въ Петербургѣ я дѣйствительно изъявлялъ ему готовность мою принять дѣятельное участіе въ журналѣ, который онъ предполагалъ издавать, <emphasis>какъ полный хозяинъ,</emphasis> но такъ какъ это предположеніе не состоялось, и какъ объ участіи въ "Русской Бесѣдѣ" не было между нами говорено ни слова, то я уже распорядился тѣми вещами, которыя были у меня готовы, отославъ ихъ частью въ Русскій Вѣстникъ", частью въ "Атеней". Да и ихъ печатаніемъ я буду вынужденъ, вѣроятно, пріостановиться на время, потому что вскорѣ послѣ отъѣзда Ивана Сергѣевича получилъ обязательное предостереженіе быть осторожнымъ. Поэтому, хотя я и не отказываюсь отъ участія въ "Р. Бесѣдѣ", но едва-ли буду имѣть возможность прислать что-нибудь въ скоромъ времени, тѣмъ болѣе, что я началъ большой романъ, который также уже обѣщанъ мною, р. Вѣстнику". Вели эта работа дастъ мнѣ достаточно свободнаго времени, то я, конечно, воспользуюсь имъ, чтобы исполнить желаніе ваше и А. И. Кошелева.</p>
+<p> Не знаю, дозволятъ ли мнѣ служебныя мои обязательства быть въ Москвѣ, какъ я предполагалъ, но если это сбудется, то я сочту зіервымъ долгомъ воспользоваться вашимъ приглашеніемъ, чтобы лично засвидѣтельствовать вамъ мое совершенное и искреннее уваженіе.</p>
+<p> Съ глубочайшимъ почтеніемъ и преданностью имѣю честь "быть Вашимъ,</p>
+<empty-line/>
+<p>Милостивый Государь,</p>
+<p>покорнѣйшимъ слугою</p>
+<p><emphasis>Михаилъ Салтыковъ.</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p> На конвертѣ:</p>
+<empty-line/>
+<p>Его Высокоблагородію</p>
+<empty-line/>
+<empty-line/>
+<p> Сергѣю Тимофеевичу Аксакову. Въ Москвѣ, на Тверскомъ "бульварѣ, въ домѣ кн. Юсупова.</p>
+<empty-line/>
+<p><emphasis>"Современникъ". Кн. </emphasis><emphasis>II</emphasis><emphasis>, 1913</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p> </p>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

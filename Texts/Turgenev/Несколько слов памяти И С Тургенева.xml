@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Иван</first-name>
+			<middle-name>Сергеевич</middle-name>
+			<last-name>Тургенев</last-name>
+		</author>
+		<book-title>Несколько слов памяти И. С. Тургенева</book-title>
+<annotation></annotation>		<date value="2017-08-07">07/08/2017</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-08-07">2017-08-07 11:01:11</date>
+		<src-url>http://az.lib.ru/t/turgenew_i_s/text_1883_neskolko_slov_oldorfo.shtml</src-url>
+		<id>samlib59881e47487c03.22223626</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Тургенев Иван Сергеевич</p>
+	<empty-line/>
+	<p>Несколько слов памяти И. С. Тургенева</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<p> </p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Нѣсколько словъ памяти И. С. Тургенева.</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p> Оканчиваемъ настоящее наше обозрѣніе выраженіемъ глубокой скорби по поводу потери, понесенной русскимъ обществомъ и русской литературой. Только всеобщее чествованіе памяти покойнаго Ивана Сергѣевича Тургенева можетъ отчасти служить намъ утѣшеніемъ въ этой потерѣ. Въ самомъ дѣлѣ, все разумное и преданное интересамъ роднаго края общество съ замѣчательнымъ единодушіемъ стремится почтить память покойнаго. Передъ его могилою преклонились даже тѣ, которые не отдавали ему должной справедливости при жизни. Не означаетъ ли это того, что русское общество прониклось въ настоящую минуту тѣмъ настроеніемъ, которое замѣчается во всѣхъ произведеніяхъ покойнаго, а именно той тихой, безотрадной грустью, съ которой онъ всегда смотрѣлъ на русскую жизнь? Миръ праху твоему, честный человѣкъ!</p>
+<empty-line/>
+<p><emphasis>"Русская Мысль", No 10, 1883</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p> <emphasis></emphasis></p>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

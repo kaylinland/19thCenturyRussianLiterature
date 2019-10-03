@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Николаевич</middle-name>
+			<last-name>Островский</last-name>
+		</author>
+		<book-title>Речь на ужине, организованном артистами в честь А. Н. Островского</book-title>
+<annotation></annotation>		<date value="2018-06-14">14/06/2018</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-06-14">2018-06-14 12:45:38</date>
+		<src-url>http://az.lib.ru/o/ostrowskij_a_n/text_1872_rech_na_uzhine.shtml</src-url>
+		<id>samlib5b2239425d5388.03193553</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Островский Александр Николаевич</p>
+	<empty-line/>
+	<p>Речь на ужине, организованном артистами в честь А. Н. Островского</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<p> </p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>А. Н. Островский</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Речь на ужине, организованном артистами в честь А. Н. Островского</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p> Речи 1859-1886</p>
+<p> ГИХЛ, М., 1952</p>
+<p> Составитель тома Г. И. Владыкин</p>
+<p> Подготовка текста и комментарии К. Д. Муратовой</p>
+<p> </p>
+<p> Господа артисты! Я очень высоко ценю и очень глубоко чувствую честь, которую вы мне делаете. В самой ранней молодости, когда я еще ничего не писал для сцены, любовь к драматическому искусству и еще неясно сознаваемое призвание сблизили меня с артистами, и с тех пор я провел с ними двадцать лет в приятном и непрерывном собеседничестве. Общие успехи нашего дела более и более роднили нас. Не посторонним, холодным зрителем, а с сочувствием близкого, родного глядел я на успехи возникающих талантов наших, и в то время, как для публики являлась новая театральная знаменитость, я приобретал большею частью нового друга. Господа, я горжусь тем, что на сцене я имею и имел самых лучших, самых преданных друзей; одних я уже проводил в могилу, другие до сих пор украшают наши театры.</p>
+<p> Настоящее выражение вашего сочувствия ко мне, господа, дорого для меня как взаимность, как ответ на мою любовь к артистам. Я радушно и доверчиво открываю объятия артисту, -- вы так же радушно открываете мне свои. Одного остается мне желать, -- чтобы и вперед, до конца наших дней, мы, как и до сих пор, так же вместе, так же дружно и любовно делали наше общее дело, соединяя свои труды и способности для процветания родной сцены.</p>
+<p> </p>
+<p> <emphasis>[1872]</emphasis></p>
+<p> </p>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>КОММЕНТАРИИ</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<p> Печатается по тексту журнала "Артист", 1892, No 19, стр. 18.</p>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

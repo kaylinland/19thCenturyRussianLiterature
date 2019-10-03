@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Афанасий</first-name>
+			<middle-name>Афанасьевич</middle-name>
+			<last-name>Фет</last-name>
+		</author>
+		<book-title>Сонет</book-title>
+<annotation><p>(Офелии)</p></annotation>		<date value="2006-11-18">18/11/2006</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-05-12">2017-05-12 01:28:35</date>
+		<src-url>http://az.lib.ru/f/fet_a_a/text_0230.shtml</src-url>
+		<id>samlib59158e53a4fd76.56868942</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Фет Афанасий Афанасьевич</p>
+	<empty-line/>
+	<p>Сонет</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>А. А. Фет</p>
+<empty-line/>
+<p>Сонет</p>
+<p>(Офелии)</p>
+<empty-line/>
+<p>----------------------------------------------------------------------------</p>
+<p>Уильям  Шекспир.  Библиографический  указатель  переводов и критической</p>
+<p>литературы на русском языке. 1976-1987. М., 1989</p>
+<p>----------------------------------------------------------------------------</p>
+<empty-line/>
+<p>С тех пор, как бог в тебе осуществил</p>
+<p>Передо мной создание поэта,</p>
+<p>Не знаю сам, за что я полюбил</p>
+<p>Игривое созвучие сонета.</p>
+<empty-line/>
+<p>Не знаю сам, зачем он сердцу мил:</p>
+<p>Быть может, звук знакомого привета</p>
+<p>Он тех же рифм чредой изобразил -</p>
+<p>И ложною мечтой душа согрета.</p>
+<empty-line/>
+<p>А может быть, он схож с тобою в том,</p>
+<p>Что изо всех стихов его стихом,</p>
+<p>Как и тобой, владеть всего труднее,</p>
+<empty-line/>
+<p>Иль, наконец, причудливый, как ты,</p>
+<p>Смиряясь, он для чувства красоты,</p>
+<p>Чем затруднял, становится милее.</p>
+<p>1842</p>
+</section>
+
+</body>
+</FictionBook>

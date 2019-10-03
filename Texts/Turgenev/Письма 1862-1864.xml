@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>children</genre>
+		<author>
+			<first-name>Иван</first-name>
+			<middle-name>Сергеевич</middle-name>
+			<last-name>Тургенев</last-name>
+		</author>
+		<book-title>Письма 1862-1864</book-title>
+<annotation></annotation>		<date value="2009-05-16">16/05/2009</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 09:03:35</date>
+		<src-url>http://az.lib.ru/t/turgenew_i_s/text_0900.shtml</src-url>
+		<id>samlib58f50377d76c46.29836235</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Тургенев Иван Сергеевич</p>
+	<empty-line/>
+	<p>Письма 1862-1864</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

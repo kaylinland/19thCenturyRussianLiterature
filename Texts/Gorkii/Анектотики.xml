@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sf</genre>
+		<author>
+			<first-name>Максим</first-name>
+			<last-name>Горький</last-name>
+		</author>
+		<book-title>Анектотики</book-title>
+<annotation></annotation>		<date value="2007-05-17">17/05/2007</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-12-14">2018-12-14 07:55:22</date>
+		<src-url>http://az.lib.ru/g/gorxkij_m/text_1919_anektotiki.shtml</src-url>
+		<id>samlib5c1361eaae9748.49803315</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Горький Максим</p>
+	<empty-line/>
+	<p>Анектотики</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+ 
+ 
+
+
+</p>
+<empty-line/>
+<empty-line/>
+<p>М. Горький</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Анектотики</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Автограф в альманахе "Чукоккала"</p>
+<p>"Наше наследие", 1989, No 4</p>
+<p><a xlink:href="mailto:bmn@lib.ru">OCR Бычков М. Н.</a></p>
+<empty-line/>
+<p>Осенью, мокрым вечером, в Москве около Сухаревки в одном из гнилых переулков остановил меня золоторотец - опухший, рваный, грязный, как ему и надлежало быть. Господин! Третьи сутки не пимши, не емши... подайте страдальцу!</p>
+<p>На, страдай на полтинник!</p>
+<p>Пок-корнеше благодарю! Вот - сразу видать понимающего человека... а другие, обыкновенно, дадут копейку и думают, что я за эту чифру в самделе страдать буду...</p>
+<p>Не глупый был парень, хотя и русский.</p>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Приехал я из Нижнего впервые в странный, чужой мне Петербург, иду ночью по Аничкову мосту - ночная барышня толкнула меня игриво локотком, говорит:</p>
+<p>Провинциальный, дай папироску!</p>
+<p>Почему вы узнали, что я провинциал?</p>
+<p>Стыдливо глядите...</p>
+<empty-line/>
+<empty-line/>
+<p>* * *</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>&lt;М. Горький&gt;</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>&lt;1919&gt;</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

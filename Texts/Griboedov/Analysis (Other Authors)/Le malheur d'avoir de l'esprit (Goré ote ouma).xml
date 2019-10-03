@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>nonf_publicism</genre>
+		<author>
+			<first-name>Александр</first-name>
+			<middle-name>Сергеевич</middle-name>
+			<last-name>Грибоедов</last-name>
+		</author>
+		<book-title>Le malheur d&#039;avoir de l&#039;esprit (Gor&#233; ote ouma)...</book-title>
+<annotation></annotation>		<date value="2018-04-16">16/04/2018</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-04-16">2018-04-16 11:07:37</date>
+		<src-url>http://az.lib.ru/g/griboedow_a_s/text_1885_le_malheur_oldorfo.shtml</src-url>
+		<id>samlib5ad459c9b555b9.08301141</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Грибоедов Александр Сергеевич</p>
+	<empty-line/>
+	<p>Le malheur d&#039;avoir de l&#039;esprit (Gor&#233; ote ouma)...</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<p> <emphasis>Le malheur d'avoir de l'esprit</emphasis> <emphasis>(Goré ote ouma). Comedi en quatre actes et en vers</emphasis>, <emphasis>par А. S. Grïboièdove, traduite pour la première fois en franèais et précédée d'une notice, par А. Legrélle. Moscou</emphasis>, <emphasis>1885. </emphasis>(<emphasis>Gand. imprimerie F.-L. Huilé-Plus).</emphasis> Появленіе въ первой разъ <emphasis>Горя отъ ума</emphasis> на французскомъ языкѣ нельзя назвать удачнымъ. Переводъ сдѣланъ прозою, но не въ этомъ бѣда. Она, главнымъ образомъ, въ томъ, что переводъ даетъ вообще очень слабое, а мѣстами и совсѣмъ ложное понятіе о подлинникѣ. Г. Легрелль, переводчикъ, не достаточно знакомъ съ русскимъ языкомъ, а русской жизни совсѣмъ не знаетъ, отчего и впадаетъ часто въ довольно забавныя ошибки, какъ, наприм.: въ 3 явл. ІI дѣйствія слова Фамусова:</p>
+<p> </p>
+<p> Нѣтъ! Я передъ родней, гдѣ встрѣтится, ползкомъ,</p>
+<p> Сыщу ее на днѣ морскомъ!</p>
+<p> При мнѣ служащіе чужіе очень рѣдки:</p>
+<p> Все больше сестрины, свояченицы дѣтки...</p>
+<p> </p>
+<p> переведены такъ: "Non, moi, devant des parents, partout où je peux en rencontrer, je me mets à quatre pattes. J'en chercherais jesqu'au fond de la mer. Les domestiques qui me servent son très rarement des étrangers. Presque toujors ce sont les enfants d'une soeur au d'une belle-soeur". Переводчикъ, очевидно, не понимаетъ, что дѣло идетъ о служащихъ въ канцеляріи Фамусова, а не о домашней прислугѣ. <emphasis>Фамилія Скалозубъ значитъ: показывающій зубы</emphasis>,-- пишетъ г. Легрелль въ примѣчаніи: <emphasis>Skalo</emphasis><emphasis>soube signifie: qui montre ses dents.</emphasis> Или Скалозубовское:</p>
+<p> </p>
+<p> За третье августа; засѣли мы въ траншею,</p>
+<p> Ему данъ съ бантомъ, мнѣ на шею</p>
+<p> </p>
+<p> переведено: "C'est pour le 3 août. Nous étions dans la tranchée. On la lin а donnée avec le ruban -- et moi, au cou". Вышло ни на что не похоже. Фамусовъ говоритъ Чацкому:</p>
+<p> </p>
+<p> Ахъ, батюшка, нашелъ загадку!</p>
+<p> Невеселъ я!... Въ мои лѣта</p>
+<p> Не можно же пускаться мнѣ въ присядку!</p>
+<p> </p>
+<p> Г. Легрелль переводитъ: "Ah! mon cher, tu as deviné l'énigme! le ne suis pas gai!... А mon âge, jene suis certainement plus en état de danser la rédova!" Насчетъ загадки вышелъ совсѣмъ обратный смыслъ; а зачѣмъ тутъ очутилась <emphasis>редова,</emphasis> въ двадцатыхъ-то годахъ,-- неизвѣстно. Лучше было бы безъ нея обойтись и закончить словомъ <emphasis>danser.</emphasis> Забавно примѣчаніе, сдѣланное переводчикомъ по поводу стиха: "И завиральныя идеи эти брось"... Г. Легрелль пишетъ: "Грибоѣдовъ съ умысломъ употребилъ слово <emphasis>завиральныя,</emphasis> потому что оно похоже на <emphasis>либеральныя</emphasis>!" Догадливъ г. Легрелль!</p>
+<p> </p>
+<p> А судьи кто?... За древностію лѣтъ</p>
+<p> Вражда ихъ къ намъ непримирима...</p>
+<p> </p>
+<p> Въ переводѣ передано: "Mais ces juges, qui sont-ils? En raison de leur vieillesse, ils ont pour la vie libre une haine implacable!" T.-e.: за старостью ихъ вражда къ <emphasis>свободной жизни</emphasis> непримирима.</p>
+<p> На этомъ мы прекратимъ наши выписки; онѣ, кажется, въ достаточной мѣрѣ доказываютъ, что г. Легрелль взялся не за свое дѣло. Да и вообще мы думаемъ, что съ переводами Грибоѣдова, Гоголя, Пушкина никогда не справиться французу безъ сотрудничества русскаго, хорошо знающаго французскій языкъ. Всего же лучше было бы взяться за это самимъ русскимъ.</p>
+<empty-line/>
+<p><emphasis>"Русская Мысль", кн. </emphasis><emphasis>III</emphasis><emphasis>, 1885</emphasis></p>
+<empty-line/>
+<empty-line/>
+<p> </p>
+<p> 
+
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

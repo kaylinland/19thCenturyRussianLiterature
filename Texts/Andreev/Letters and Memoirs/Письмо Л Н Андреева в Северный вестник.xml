@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>children</genre>
+		<author>
+			<first-name>Леонид</first-name>
+			<middle-name>Николаевич</middle-name>
+			<last-name>Андреев</last-name>
+		</author>
+		<book-title>Письмо Л. Н. Андреева в &quot;Северный вестник&quot;</book-title>
+<annotation></annotation>		<date value="2008-04-21">21/04/2008</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 01:02:43</date>
+		<src-url>http://az.lib.ru/a/andreew_l_n/text_1220.shtml</src-url>
+		<id>samlib58f492c342bb39.79903526</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Андреев Леонид Николаевич</p>
+	<empty-line/>
+	<p>Письмо Л. Н. Андреева в &quot;Северный вестник&quot;</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+ 
+ 
+
+
+</p>
+<empty-line/>
+<empty-line/>
+<p>Письмо Л. Н. Андреева в "Северный вестник" 12 марта 1896 г.</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Ежегодник Рукописного отдела Пушкинского дома на 1976 год.</p>
+<p>Л., "Наука", 1978</p>
+<p>OCR Бычков М. Н.</p>
+<empty-line/>
+<empty-line/>
+<p>Милостивый государь господин Редактор!</p>
+<empty-line/>
+<empty-line/>
+<p>Посылая при этом письме рассказ <emphasis>"Скриптор", </emphasis>покорнейше прошу поместить его в Вашем уважаемом журнале. Гонорар я желаю получить в размере 25 рублей с печатного листа. В том случае, если рассказ окажется неподходящим, будьте любезны известить меня по адресу: Москва, Спиридоньевская улица, д. Черникова, кв. No 2, Леониду Николаевичу Андрееву. Остаюсь с истинным почтением, окончивший курс Москов&lt;ского&gt; университета Л. Андреев</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>prose_contemporary</genre>
+		<author>
+			<first-name>Алексей</first-name>
+			<middle-name>Николаевич</middle-name>
+			<last-name>Плещеев</last-name>
+		</author>
+		<book-title>Переводы с французского</book-title>
+<annotation><p>Анри Блаз, Марк Монье и Луи Ратисбонн.</p></annotation>		<date value="2007-01-07">07/01/2007</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2018-07-04">2018-07-04 11:06:19</date>
+		<src-url>http://az.lib.ru/p/plesheew_a_n/text_0050.shtml</src-url>
+		<id>samlib5b3caa2b773d90.33530914</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Плещеев Алексей Николаевич</p>
+	<empty-line/>
+	<p>Переводы с французского</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><strong>Алексей Плещеев</strong></p>
+<empty-line/>
+</section>
+<section><title>
+<empty-line/>
+<p><strong>Переводы с французского</strong></p>
+<empty-line/>
+</title>
+<empty-line/>
+<empty-line/>
+<p><emphasis></emphasis></p>
+<p><strong>Анри Блаз</strong></p>
+<empty-line/>
+<p><strong>* * *</strong></p>
+<empty-line/>
+<p>На небо взглянул я, и тучи</p>
+<p>Увидел я черные там.</p>
+<p>На землю взглянул я - катились</p>
+<p>Поблеклые листья к ногам.</p>
+<empty-line/>
+<p>И в душу к себе заглянул я:</p>
+<p>Как на небе, мрачно и в ней,</p>
+<p>И луч упованья не светит</p>
+<p>Душе охладелой моей.</p>
+<empty-line/>
+<p>(1845)</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><strong>Марк Монье</strong></p>
+<empty-line/>
+<p><strong>*  *  *</strong></p>
+<empty-line/>
+<p>В церкви стоял я и слушал,</p>
+<p>Как пред набожной толпой</p>
+<p>Говорил входящий в славу</p>
+<p>Проповедник молодой;</p>
+<empty-line/>
+<p>Так земля ему казалась</p>
+<p>Безотрадна и мрачна,</p>
+<p>Что лишь страх и отвращенье</p>
+<p>Поселяла в нем она.</p>
+<empty-line/>
+<p>Слушал я его и думал</p>
+<p>О прекрасных вешних днях,</p>
+<p>О пестреющих цветами,</p>
+<p>Солнцем залитых полях!</p>
+<empty-line/>
+<p>Говорил он, что в пороках</p>
+<p>Грешный сын земли погряз,</p>
+<p>Что любви мы к братьям чужды;</p>
+<p>Нет сил на подвиги у нас.</p>
+<empty-line/>
+<p>Слушал я его и думал</p>
+<p>О друзьях, что на краю</p>
+<p>Бездны страшной мне простерли</p>
+<p>Руку верную свою.</p>
+<empty-line/>
+<p>Он об огненной геенне</p>
+<p>В исступлении вещал;</p>
+<p>Вопли, плач, зубовный скрежет</p>
+<p>За грехи нам обещал.</p>
+<empty-line/>
+<p>А меня в обетованный</p>
+<p>Край несла мечта моя,</p>
+<p>В ту страну, где будут люди</p>
+<p>Жить как дружная семья!</p>
+<empty-line/>
+<p>Где вражды потухнет пламя,</p>
+<p>Перестанет литься кровь</p>
+<p>И в сердцах людских зажжется</p>
+<p>Бесконечная любовь.</p>
+<empty-line/>
+<p>Смолк аббат. Из церкви вышел</p>
+<p>Я, краснея за него:</p>
+<p>За хулу, что произносит</p>
+<p>Он на бога своего!</p>
+<empty-line/>
+<p><emphasis>(1872)</emphasis><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><strong>Луи Ратисбонн</strong></p>
+<empty-line/>
+<p><strong>Цветок</strong></p>
+<p>Весело цветики в поле пестреют;</p>
+<p>Их по ночам освежает роса;</p>
+<p>Днем их лучи благодатные греют,</p>
+<p>Ласково смотрят на них небеса.</p>
+<empty-line/>
+<p>С бабочкой пестрой, с гудящей пчелою,</p>
+<p>С ветром им любо вести разговор;</p>
+<p>Весело цветикам в поле весною,</p>
+<p>Мил им родимого поля простор!</p>
+<empty-line/>
+<p>Вот они видят: в окне, за решеткой,</p>
+<p>Тихо качается бледный цветок...</p>
+<p>Солнца не зная, печальный и кроткий,</p>
+<p>Вырос он в мрачных стенах - одинок.</p>
+<empty-line/>
+<p>Цветикам жаль его, бедного, стало,</p>
+<p>Хором они к себе брата зовут:</p>
+<p>"Солнце тебя никогда не ласкало,</p>
+<p>Брось эти стены, зачахнешь ты тут".</p>
+<empty-line/>
+<p>- "Нет! - отвечал он. - Хоть весело в поле</p>
+<p>И наряжает вас ярко весна,</p>
+<p>Но не завидую вашей я доле</p>
+<p>И не покину сырого окна.</p>
+<empty-line/>
+<p>Пышно цветите! Своей красотою</p>
+<p>Радуйте, братья, счастливых людей;</p>
+<p>Я буду цвесть для того, кто судьбою</p>
+<p>Солнца лишен и полей.</p>
+<empty-line/>
+<p>Я буду цвесть для того, кто страдает.</p>
+<p>Узника я утешаю один.</p>
+<p>Пусть он, взглянув на меня, вспоминает</p>
+<p>Зелень родимых долин! "</p>
+<empty-line/>
+<p>(1872)</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p><strong>Неизвестный поэт</strong></p>
+<empty-line/>
+<empty-line/>
+<p><strong>Вопрос</strong></p>
+<empty-line/>
+<p>Ужели смерть есть цель? Зачем же путь земной</p>
+<p>Усеян яркими, прекрасными цветами;</p>
+<p>Зачем печальною осеннюю порой</p>
+<p>Мы покидаем их с невольными слезами?</p>
+<empty-line/>
+<p>Но если жизнь есть цель, зачем же мы порой</p>
+<p>Встречаем тернии меж яркими цветами;</p>
+<p>Зачем должны кремнистый путь земной</p>
+<p>И кровью запятнать, и оросить слезами?</p>
+<empty-line/>
+<p><emphasis>(1856)</emphasis><emphasis></emphasis></p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+</section>
+
+</body>
+</FictionBook>

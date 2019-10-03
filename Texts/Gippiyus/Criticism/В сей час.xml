@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>sci_linguistic</genre>
+		<author>
+			<first-name>Зинаида</first-name>
+			<middle-name>Николаевна</middle-name>
+			<last-name>Гиппиус</last-name>
+		</author>
+		<book-title>В сей час</book-title>
+<annotation></annotation>		<date value="2012-10-30">30/10/2012</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 03:33:33</date>
+		<src-url>http://az.lib.ru/g/gippius_z_n/text_1933_v_sey_chas.shtml</src-url>
+		<id>samlib58f4b61de06935.56320375</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Гиппиус Зинаида Николаевна</p>
+	<empty-line/>
+	<p>В сей час</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+<p>З. Н. Гиппиус</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>В сей час</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>З. Н. Гиппиус. Арифметика любви (1931-1939)</p>
+<p>СПб., ООО "Издательство "Росток"", 2003</p>
+<empty-line/>
+<p>Нужно ли еще и еще говорить о всеобщей, согласной радости, которую возбудила в сердцах зарубежья полученная Буниным премия?</p>
+<p>Слишком эта радость понятна, слишком понятны истоки ее и многосложные причины. А то, что именно Бунин, несравнимый художник слова, оказался центром события, особенно увеличивает его значительность.</p>
+<p>В дни, когда мы все, кажется, потеряли, не остается ли у нас последняя драгоценность -- наш русский язык? Некогда Тургенев завещал "хранить великий русский язык"; но лишь теперь, пройдя долгие испытания, мы начинаем понимать, что это за сокровище.</p>
+<p>Кто же сейчас, если не Бунин, с волшебной своей изобразительностью, с глубокой властью над словом, заставляет нас чувствовать величие родного языка?</p>
+<p>Достойный его хранитель, Бунин является, для зарубежья, как бы <strong>олицетв</strong><strong>о</strong><strong>рением</strong> той последней, ценнейшей части России, которую отнять у нас уже нельзя. Вот потому-то победа Бунина и с этой стороны -- так близка сердцу русской эмиграции, и так единодушно ее сорадование.</p>
+<empty-line/>
+<empty-line/>
+<p>КОММЕНТАРИИ</p>
+<empty-line/>
+<empty-line/>
+<empty-line/>
+<p>Впервые: Последние Новости. Париж, 1933. 16 ноября. No 4261. С. 3 на полосе "Приветствия И. А. Бунину в связи с присуждением ему Нобелевской премии по литературе".</p>
+<p><emphasis>...Тургенев завещал "хранить великий русский язык"... </emphasis>-- см. "Русский язык" (1882) И. С. Тургенева в его "Стихотворениях в прозе".</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>

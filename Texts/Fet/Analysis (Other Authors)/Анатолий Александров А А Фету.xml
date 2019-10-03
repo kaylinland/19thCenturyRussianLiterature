@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.1" xmlns:genre="http://www.gribuser.ru/xml/fictionbook/2.1/genres" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<description>
+	<title-info>
+		<genre>detective</genre>
+		<author>
+			<first-name>Афанасий</first-name>
+			<middle-name>Афанасьевич</middle-name>
+			<last-name>Фет</last-name>
+		</author>
+		<book-title>Анатолий Александров. А. А. Фету</book-title>
+<annotation></annotation>		<date value="2010-10-03">03/10/2010</date>
+		<lang>ru</lang>
+	</title-info>
+	<document-info>
+		<author>
+			<nickname>samlib.ru</nickname>
+			<home-page>http://samlib.ru/</home-page>
+		</author>
+		<program-used>samlib.ru</program-used>
+		<date value="2017-04-17">2017-04-17 03:13:23</date>
+		<src-url>http://az.lib.ru/f/fet_a_a/text_0310oldorfo.shtml</src-url>
+		<id>samlib58f4b1636605c8.55341274</id>
+		<version>1.0</version>
+	</document-info>
+</description>
+<body>
+<title>
+	<p>Фет Афанасий Афанасьевич</p>
+	<empty-line/>
+	<p>Анатолий Александров. А. А. Фету</p>
+</title>
+
+<section><empty-line/>
+<empty-line/>
+<p>
+
+</p>
+<empty-line/>
+<empty-line/>
+<p>                    А. А. ФЕТУ.</p>
+<empty-line/>
+<p>                    "Русскій Вѣстникъ", No 4, 1887</p>
+<empty-line/>
+<p>          Я помню минуты: средь жизненной прозы,</p>
+<p>          Измученъ суровой житейской борьбой,</p>
+<p>          Читалъ я твои вдохновенныя грезы</p>
+<p>                    И вновь умилялся душой.</p>
+<p>          Слетали ко мнѣ золотыя видѣнья...</p>
+<p>                         Волшебное пѣнье</p>
+<p>                         Ласкало мой слухъ,</p>
+<p>                         Какъ будто жемчугъ</p>
+<p>                    Лилися созвучья, сверкая...</p>
+<p>                    И дивныя слышались сказки,</p>
+<p>                         И райскія краски</p>
+<p>                         Сіяли, играя...</p>
+<p>                    Душистыя сыпались розы,</p>
+<p>          Звучали лобзанья, и искрились слезы,</p>
+<p>                    И слышался шопотъ березы.</p>
+<p>                    И нѣжныя чудились пени...</p>
+<p>                         Какъ легкія тѣни</p>
+<p>                    Отвсюду слеталися грезы</p>
+<p>                         Толпа за толпой...</p>
+<p>                         Отъ жизненной прозы</p>
+<p>                    Какъ грудь наболѣвшая ныла,</p>
+<p>                    Средь нихъ позабыться душой</p>
+<p>                         Отрадно мнѣ было</p>
+<p>                    Въ суровой житейской борьбѣ.</p>
+<p>          За эти минуты спасибо тебѣ!</p>
+<p>                                        АНАТОЛІЙ АЛЕКСАНДРОВЪ.</p>
+<p>
+
+
+
+
+
+
+
+
+</p>
+</section>
+
+</body>
+</FictionBook>
